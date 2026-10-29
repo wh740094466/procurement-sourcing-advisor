@@ -173,6 +173,68 @@ def _price_for(variant: dict[str, Any]) -> tuple[float | None, str]:
     return None, "unknown"
 
 
+_OFFICIAL_FORBIDDEN_KEYS = {
+    "price",
+    "价格",
+    "售价",
+    "促销价",
+    "stock",
+    "库存",
+    "stock_status",
+}
+
+
+def _select_official(capture: dict[str, Any], variant: dict[str, Any]) -> dict[str, Any] | None:
+    """Variant-level official page wins over the listing-level fallback."""
+
+    for source in (variant.get("official"), capture.get("official")):
+        if isinstance(source, dict) and source:
+            return source
+    return None
+
+
+def _official_attributes(official: dict[str, Any]) -> dict[str, Any]:
+    raw_specs = official.get("specs")
+    if not isinstance(raw_specs, dict):
+        return {}
+    cleaned = {
+        key: value
+        for key, value in raw_specs.items()
+        if normalize_text(key).lower() not in _OFFICIAL_FORBIDDEN_KEYS and not is_missing(value)
+    }
+    # Reuse the free-form parser so official labels go through _SPEC_KEY_MAP
+    # (e.g. 重量 -> weight/weight_kg) just like listing spec tables.
+    return parse_specs(_specs_text(cleaned)) if cleaned else {}
+
+
+def _official_evidence(official: dict[str, Any], capture: dict[str, Any]) -> list[dict[str, Any]]:
+    url = normalize_text(official.get("url")) or normalize_text(capture.get("url"))
+    captured_at = normalize_text(official.get("captured_at")) or normalize_text(capture.get("captured_at"))
+    items: list[dict[str, Any]] = []
+    for raw in official.get("evidence") or []:
+        if not isinstance(raw, dict):
+            continue
+        field = normalize_text(raw.get("field")) or "official.specs"
+        if field.lower() in {"price", "stock", "stock_status"} or field.lower().startswith("price."):
+            continue
+        snippet = normalize_text(raw.get("snippet"))
+        source_url = normalize_text(raw.get("source_url")) or url
+        if not snippet or not source_url:
+            continue
+        items.append(
+            {
+                "field": field,
+                "value": raw.get("value"),
+                "snippet": snippet,
+                "source_url": source_url,
+                "captured_at": normalize_text(raw.get("captured_at")) or captured_at,
+                "confidence": raw.get("confidence", 0.85),
+                "source": "official",
+            }
+        )
+    return items
+
+
 def _warranty_from_text(text: str) -> str:
     """Pull an explicit warranty term out of an after-sales paragraph."""
 
@@ -227,6 +289,56 @@ def _candidate(
     if "recording" not in attributes and ("CMR" in title_text or "垂直" in title_text):
         attributes["recording"] = "CMR" if "CMR" in title_text else "垂直式"
 
+    platform_warranty = normalize_text(attributes.get("warranty")) or normalize_text(variant.get("warranty"))
+    official_source = _select_official(capture, variant)
+    official_detail: dict[str, Any] | None = None
+    official_evidence: list[dict[str, Any]] = []
+    if isinstance(official_source, dict):
+        official_status = normalize_text(official_source.get("match_status")) or "not_found"
+        official_attributes = _official_attributes(official_source)
+        official_evidence = _official_evidence(official_source, capture)
+        filled: list[str] = []
+        conflicts: list[dict[str, Any]] = []
+        if official_status == "exact":
+            for key, value in official_attributes.items():
+                if key not in attributes or is_missing(attributes.get(key)):
+                    attributes[key] = value
+                    filled.append(key)
+                elif normalize_text(attributes.get(key)) != normalize_text(value):
+                    conflicts.append(
+                        {
+                            "field": key,
+                            "platform": attributes.get(key),
+                            "official": value,
+                        }
+                    )
+        official_detail = {
+            "manufacturer": normalize_text(official_source.get("manufacturer")),
+            "model": normalize_text(official_source.get("model")),
+            "region": normalize_text(official_source.get("region")),
+            "url": normalize_text(official_source.get("url")),
+            "captured_at": normalize_text(official_source.get("captured_at")),
+            "match_status": official_status,
+            "matched_text": normalize_text(official_source.get("matched_text")),
+            "specs": official_attributes,
+            "filled_attributes": filled,
+            "conflicts": conflicts,
+            "notes": [normalize_text(note) for note in (official_source.get("notes") or []) if normalize_text(note)],
+            "evidence": official_evidence,
+        }
+        if official_status == "exact":
+            if filled:
+                warnings.append(
+                    f"{platform}:{variant_id} 官网 exact 匹配补全 {len(filled)} 个规格字段"
+                    f"（{official_detail['model']}）"
+                )
+        else:
+            warnings.append(f"{platform}:{variant_id} 官网 match_status={official_status}，未采用官网参数")
+        if conflicts:
+            warnings.append(
+                f"{platform}:{variant_id} 官网参数与商品页冲突 {len(conflicts)} 项，保留商品页值"
+            )
+
     price, price_status = _price_for(variant)
     if price_status == "visible" and price is None:
         price_status = "unknown"
@@ -240,11 +352,25 @@ def _candidate(
         "stock_status": normalize_text(variant.get("stock_status")) or normalize_text(attributes.get("stock_status")) or UNKNOWN,
         "after_sales": normalize_text(sections.get("after_sales")),
         "usage_notes": normalize_text(sections.get("usage")),
+        "warranty_source": "",
     }
     for field in ("warranty", "invoice", "stock_status"):
         explicit = normalize_text(variant.get(field))
         if explicit and detail[field] == UNKNOWN:
             detail[field] = explicit
+    if detail["warranty"] != UNKNOWN:
+        detail["warranty_source"] = "platform"
+        if (
+            official_detail
+            and official_detail.get("match_status") == "exact"
+            and "warranty" in (official_detail.get("filled_attributes") or [])
+            and not platform_warranty
+        ):
+            detail["warranty_source"] = "official"
+            warnings.append(
+                f"{platform}:{variant_id} 保修年限来自官网 {official_detail.get('model')}，"
+                "下单前需确认销售渠道的承保主体"
+            )
 
     list_price, _ = parse_price(variant.get("list_price"), key_present="list_price" in variant)
 
@@ -286,13 +412,30 @@ def _candidate(
         "confidence": 0.0,
         "price_note": "",
         "flags": {"ad": bool(capture.get("ad", False))},
-        "evidence": _evidence(variant, capture),
+        "evidence": _evidence(variant, capture) + official_evidence,
         "browser_evidence": [],
         "price_observations": [],
-        "sources": [{"type": "playwright", "captured_at": fetched_at, "url": normalize_text(capture.get("url"))}],
+        "sources": [{"type": "playwright", "captured_at": fetched_at, "url": normalize_text(capture.get("url"))}]
+        + (
+            [
+                {
+                    "type": "official",
+                    "captured_at": official_detail.get("captured_at") or fetched_at,
+                    "url": official_detail.get("url"),
+                    "model": official_detail.get("model"),
+                    "match_status": official_detail.get("match_status"),
+                }
+            ]
+            if official_detail
+            else []
+        ),
         "manual_scores": {},
-        "needs_review": price is None or not candidate_has_price_evidence(variant),
+        "needs_review": price is None
+        or not candidate_has_price_evidence(variant)
+        or bool((official_detail or {}).get("conflicts")),
     }
+    if official_detail:
+        candidate["official"] = official_detail
 
     if any(
         normalize_text(item.get("field")) == "price" and normalize_text(item.get("snippet"))
@@ -381,6 +524,11 @@ def normalize_capture(payload: dict[str, Any], *, fetched_at: str | None = None)
             for platform in ("taobao", "jd")
         },
         "with_reviews": sum(1 for item in candidates if item["reviews"]["status"] == "ok"),
+        "with_official_specs": sum(
+            1
+            for item in candidates
+            if (item.get("official") or {}).get("match_status") == "exact"
+        ),
         "hidden_price": sum(1 for item in candidates if item["price_status"] != "visible"),
     }
     return {

@@ -103,6 +103,51 @@
 - `after_sales` 只作上下文，**不会**自动变成保修承诺；保修年限必须来自明确的保修字段或参数表
 - `recommendations` 只做参考，**不会**变成候选
 
+## 官网参数（official，可选）
+
+当商品有明确型号/认证型号/MPN 时，可以打开厂商官网核对参数。官网块放在 `capture.official`（整条 listing 共用型号）或 `variant.official`（每个配置型号不同）。**`variant.official` 优先于 `capture.official`。**
+
+```json
+"official": {
+  "manufacturer": "Lenovo",
+  "model": "ThinkPad T14 Gen 5 21ML",
+  "region": "CN",
+  "url": "https://www.lenovo.com.cn/...",
+  "captured_at": "2026-10-30T10:00:00+08:00",
+  "match_status": "exact",
+  "matched_text": "ThinkPad T14 Gen 5 (21ML) ...",
+  "specs": {
+    "CPU": "Intel Core Ultra 5 125U",
+    "接口": "Thunderbolt 4 ×2 / USB-A ×2 / HDMI 2.1",
+    "重量": "1.31kg",
+    "保修": "3年"
+  },
+  "notes": ["国行页面；保修主体以下单渠道为准"],
+  "evidence": [
+    {
+      "field": "official.specs",
+      "snippet": "Thunderbolt 4 ×2 / USB-A ×2 / HDMI 2.1",
+      "source_url": "https://www.lenovo.com.cn/...",
+      "captured_at": "2026-10-30T10:00:00+08:00",
+      "confidence": 0.85
+    }
+  ]
+}
+```
+
+规则：
+
+| 字段/状态 | 要求 |
+|---|---|
+| `match_status=exact` | 页面标题或规格表必须能对上**完整型号**；必须有 `matched_text`、非空 `specs`、至少一条带 `snippet + source_url` 的证据 |
+| `match_status=family` | 只对上系列名，参数仅作记录，**不进入评分** |
+| `match_status=not_found` | 官网未找到同型号；只记录尝试，不写参数 |
+| `url` | 必须是厂商官方域名，不能是京东/淘宝/天猫页面 |
+| `specs` | 只能放技术参数，**不得**出现价格、售价、库存、促销字段 |
+| `evidence` | 只能用于规格；禁止 `price` / `stock_status` 等字段 |
+
+归一化时，官网参数只补商品页缺失的字段；商品页已有值时保留商品页值，冲突写入 `official.conflicts` 并给出 warning。官网价格、库存、促销永远不会进入候选价格、价格锚点或排序。
+
 ## 早停（aborted）
 
 命中简报排除项时，不删除已采集内容，而是标记：
@@ -156,7 +201,7 @@
 {"platform": "jd", "listing_id": "100001", "stage": "variants", "message": "captcha", "url": "..."}
 ```
 
-`stage`：`search` / `listing` / `variants` / `reviews` / `navigation`。
+`stage`：`search` / `listing` / `variants` / `reviews` / `official` / `navigation`。
 
 ## 校验会拒绝什么
 
@@ -166,3 +211,6 @@
 - `page_state` 不是 `ok`
 - 同一 listing 重复出现（应合并为一条 capture）
 - 有评价样本但 `reviews.evidence` 为空
+- 官网 `match_status=exact` 但缺 `matched_text` / `specs` / 证据
+- 官网参数或证据里出现价格/库存字段
+- 官网 URL 指向京东/淘宝/天猫

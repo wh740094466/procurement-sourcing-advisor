@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://local.procurement/schemas/raw_capture.schema.json",
-  "title": "Raw Browser Capture (listing + variants + reviews)",
-  "description": "Output of the AI + playwright-mcp collection stage. A listing is only a container; every variant (SKU/configuration) is a separate candidate downstream. Every price and every review theme must carry a verbatim snippet.",
+  "title": "Raw Browser Capture (listing + variants + reviews + official specs)",
+  "description": "Output of the AI + playwright-mcp collection stage. A listing is only a container; every variant (SKU/configuration) is a separate candidate downstream. Every price and every review theme must carry a verbatim snippet. Optional manufacturer-page blocks supply technical specs only, never prices.",
   "type": "object",
   "required": ["captures"],
   "additionalProperties": true,
@@ -20,7 +20,7 @@
         "properties": {
           "platform": {"enum": ["taobao", "jd"]},
           "listing_id": {"type": ["string", "null"]},
-          "stage": {"enum": ["search", "listing", "variants", "reviews", "navigation"]},
+          "stage": {"enum": ["search", "listing", "variants", "reviews", "official", "navigation"]},
           "message": {"type": "string"},
           "url": {"type": "string"}
         },
@@ -50,6 +50,7 @@
           "items": {"$ref": "#/$defs/variant"}
         },
         "sections": {"$ref": "#/$defs/sections"},
+        "official": {"$ref": "#/$defs/official_source"},
         "aborted": {"type": "boolean", "description": "True when collection stopped early because the listing hit a brief exclusion."},
         "abort_reason": {"type": "string"},
         "reviews": {"$ref": "#/$defs/reviews"},
@@ -78,6 +79,10 @@
         "specs": {
           "type": "object",
           "additionalProperties": {"type": ["string", "number", "null"]}
+        },
+        "official": {
+          "$ref": "#/$defs/official_source",
+          "description": "Variant-specific manufacturer page. Takes precedence over capture.official when both exist."
         },
         "evidence": {
           "type": "array",
@@ -136,6 +141,46 @@
           "items": {"$ref": "#/$defs/evidence"}
         }
       }
+    },
+    "official_source": {
+      "type": "object",
+      "description": "Manufacturer official product/spec page. Supplies technical specifications only; never price, stock, or promotion.",
+      "required": ["manufacturer", "model", "url", "captured_at", "match_status"],
+      "additionalProperties": true,
+      "properties": {
+        "manufacturer": {"type": "string", "minLength": 1},
+        "model": {"type": "string", "minLength": 1},
+        "region": {"type": "string", "description": "Region/edition of the official page, e.g. CN or global. Exact specs may differ by region."},
+        "url": {"type": "string", "minLength": 1},
+        "captured_at": {"type": "string", "minLength": 10},
+        "match_status": {"enum": ["exact", "family", "not_found"]},
+        "matched_text": {"type": "string", "description": "Verbatim official-page text that contains the exact model/part number."},
+        "specs": {
+          "type": "object",
+          "additionalProperties": {"type": ["string", "number", "null"]}
+        },
+        "notes": {"type": "array", "items": {"type": "string"}},
+        "evidence": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/evidence"}
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"match_status": {"const": "exact"}},
+            "required": ["match_status"]
+          },
+          "then": {
+            "required": ["matched_text", "specs", "evidence"],
+            "properties": {
+              "matched_text": {"type": "string", "minLength": 1},
+              "specs": {"type": "object", "minProperties": 1},
+              "evidence": {"type": "array", "minItems": 1}
+            }
+          }
+        }
+      ]
     },
     "theme": {
       "type": "object",

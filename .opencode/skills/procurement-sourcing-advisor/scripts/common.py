@@ -355,6 +355,8 @@ def confidence_for_candidate(candidate: dict[str, Any]) -> float:
         score += 0.05
     if get_path(candidate, "evidence") or get_path(candidate, "browser_evidence"):
         score += 0.05
+    if get_path(candidate, "official.match_status") == "exact":
+        score += 0.05
     return round(min(0.95, score), 2)
 
 

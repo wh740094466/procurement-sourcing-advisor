@@ -50,9 +50,13 @@ FIELD_LABELS = {
     "screen_inch": "屏幕尺寸",
     "resolution": "分辨率",
     "panel": "面板",
+    "ram": "内存",
     "ram_gb": "内存",
+    "storage": "硬盘",
     "storage_gb": "硬盘",
     "cpu": "CPU",
+    "screen": "屏幕尺寸",
+    "weight": "重量",
     "weight_kg": "重量",
     "brand": "品牌",
     "drive_type": "硬盘类型",
@@ -102,6 +106,22 @@ def _candidate_brief(candidate: dict[str, Any] | None) -> dict[str, Any] | None:
         "negative_rate": reviews.get("negative_rate"),
         "missing_fields": candidate.get("missing_fields", []),
         "needs_review": candidate.get("needs_review", False),
+        "official": _official_brief(candidate.get("official")),
+    }
+
+
+def _official_brief(official: Any) -> dict[str, Any] | None:
+    if not isinstance(official, dict) or not official:
+        return None
+    return {
+        "manufacturer": official.get("manufacturer"),
+        "model": official.get("model"),
+        "region": official.get("region"),
+        "url": official.get("url"),
+        "captured_at": official.get("captured_at"),
+        "match_status": official.get("match_status"),
+        "filled_attributes": official.get("filled_attributes") or [],
+        "conflicts": official.get("conflicts") or [],
     }
 
 
@@ -284,8 +304,8 @@ def build_report(
         "scope": {
             "platforms": ["taobao", "jd"],
             "excluded_platforms": ["pdd"],
-            "price_note": "价格来自淘宝/京东检索、详情或浏览器补证；未含账号券、运费、税费时不能视为最终到手价。拼多多不在覆盖范围。",
-            "browser_capture": "由 AI 通过 playwright-mcp 打开页面并按配置采集；遇到登录墙/验证码/内容未返回时停止。",
+            "price_note": "价格仅来自淘宝/京东检索、详情或浏览器补证；厂商官网只补参数，不提供价格。未含账号券、运费、税费时不能视为最终到手价。拼多多不在覆盖范围。",
+            "browser_capture": "由 AI 通过 playwright-mcp 打开页面并按配置采集；有明确型号时到厂商官网核对参数；遇到登录墙/验证码/内容未返回时停止。",
         },
         "summary": summary,
         "scorecard": scorecard,
@@ -368,6 +388,12 @@ def render_markdown(report: dict[str, Any]) -> str:
             )
         lines.append(f"- **页面价**：{_money(primary.get('price'))}；到手价状态：{primary.get('landed_status') or 'UNKNOWN'}")
         lines.append(f"- **链接**：{primary.get('url') or 'UNKNOWN'}")
+        official = primary.get("official") or {}
+        if official.get("match_status") == "exact":
+            lines.append(
+                f"- **官网核对**：{_cell(official.get('manufacturer'))} {_cell(official.get('model'))}"
+                f"（{official.get('url')}）；仅补参数，不参与价格比较"
+            )
         lines.append(f"- **数量**：{summary.get('quantity', 1)}")
         if summary.get("budget_per_unit_cny") is not None:
             lines.append(f"- **单件预算**：{_money(summary.get('budget_per_unit_cny'))}")
@@ -655,6 +681,54 @@ def render_markdown(report: dict[str, Any]) -> str:
             lines.append("| " + " | ".join(cells) + " |")
         lines.append("")
 
+    official_candidates = [
+        item
+        for item in candidates
+        if isinstance(item.get("official"), dict)
+        and item["official"].get("match_status") in {"exact", "family", "not_found"}
+    ]
+    official_candidates.sort(key=lambda item: int(item.get("rank") or 10**9))
+    if official_candidates:
+        lines.append("### 3.6 官网参数核对")
+        lines.append("")
+        lines.append(
+            "仅对存在明确型号的候选核对厂商官网。官网只补技术参数，不采集价格/库存，"
+            "也不进入价格锚点；仅精确匹配的参数会补入评分字段。"
+        )
+        lines.append("")
+        lines.append("| 候选 | 官网型号 | 匹配 | 补齐字段 | 冲突 | 来源 |")
+        lines.append("|---|---|---|---|---|---|")
+        status_labels = {"exact": "精确", "family": "仅系列", "not_found": "未找到"}
+        for item in official_candidates[:8]:
+            official = item.get("official") or {}
+            filled_labels: list[str] = []
+            for key in official.get("filled_attributes") or []:
+                label = FIELD_LABELS.get(key, key)
+                if label not in filled_labels:
+                    filled_labels.append(label)
+            filled = "、".join(filled_labels) or "—"
+            conflicts = "；".join(
+                "{field}: 平台 {platform} / 官网 {official}".format(
+                    field=FIELD_LABELS.get(conflict.get("field"), conflict.get("field")),
+                    platform=_cell(conflict.get("platform")),
+                    official=_cell(conflict.get("official")),
+                )
+                for conflict in official.get("conflicts") or []
+            ) or "—"
+            lines.append(
+                "| {name} | {model} | {status} | {filled} | {conflicts} | {url} |".format(
+                    name=_cell(item.get("variant_label") or item.get("product_id")),
+                    model=_cell(official.get("model")),
+                    status=status_labels.get(official.get("match_status"), official.get("match_status") or "UNKNOWN"),
+                    filled=_cell(filled),
+                    conflicts=_cell(conflicts),
+                    url=official.get("url") or "UNKNOWN",
+                )
+            )
+        lines.append("")
+        lines.append("“仅系列”或“未找到”只作为核对记录，不进入评分；冲突时保留商品页值。")
+        lines.append("")
+
     lines.append("## 4. 推荐方案")
     lines.append("")
     if primary:
@@ -789,6 +863,8 @@ def render_markdown(report: dict[str, Any]) -> str:
     lines.append("## 9. 方法与范围")
     lines.append("")
     lines.append("- 采集：AI 通过 playwright-mcp 打开淘宝/京东页面，逐 listing 展开配置，逐配置读价。")
+    lines.append("- 价格仅来自淘宝/京东；厂商官网只补参数，不提供价格。")
+    lines.append("- 官网：仅对存在明确型号的候选核对厂商官网参数；官网价格、库存、促销不参与比价与锚点。")
     lines.append("- 粒度：一个链接 ≠ 一个商品；每个配置（SKU）是独立候选，价格与参数按当前选中配置记录。")
     lines.append("- 评价：仅记录评价区可见的评分、评价数与首屏样本；样本量写入报告，不做统计推断。")
     lines.append("- 归一化：保留 `UNKNOWN`；价格隐藏/为空不得当作 0。")
@@ -805,6 +881,19 @@ def render_markdown(report: dict[str, Any]) -> str:
         lines.append(f"- URL：{item.get('url') or 'UNKNOWN'}")
         lines.append(f"- 配置：{_cell(item.get('variant_label'))}；选项链：{_cell(' > '.join(item.get('option_path', []) or []))}")
         lines.append(f"- 价格状态：{item.get('price_status')}；价格说明：{item.get('price_note')}")
+        official = item.get("official") or {}
+        if official:
+            lines.append(
+                f"- 官网核对：{_cell(official.get('manufacturer'))} {_cell(official.get('model'))}"
+                f"（{official.get('match_status')}）— {official.get('url') or 'UNKNOWN'}"
+            )
+            if official.get("matched_text"):
+                lines.append(f"- 型号匹配原话：\"{_cell(official.get('matched_text'))}\"")
+            for evidence in (official.get("evidence") or [])[:2]:
+                lines.append(
+                    f"- 官网证据（{evidence.get('field')}）：\"{_cell(evidence.get('snippet'))}\""
+                    f" — {evidence.get('source_url')}"
+                )
         lines.append(f"- 店铺：{item.get('shop_name')}；销量：{item.get('sales')}")
         lines.append(f"- 缺失字段：{_cell('、'.join(item.get('missing_fields', [])) or '无')}")
         detail = item.get("detail") or {}
@@ -868,6 +957,9 @@ CSV_COLUMNS = [    "rank",
     "shop_name",
     "sales",
     "key_specs",
+    "official_model",
+    "official_match",
+    "official_url",
     "rating",
     "rating_count",
     "review_sample_size",
@@ -923,6 +1015,9 @@ def write_csv(report: dict[str, Any], path: str | Path) -> None:
                         for key, value in (item.get("attributes") or {}).items()
                         if value not in (None, "")
                     ),
+                    "official_model": (item.get("official") or {}).get("model") or "",
+                    "official_match": (item.get("official") or {}).get("match_status") or "",
+                    "official_url": (item.get("official") or {}).get("url") or "",
                     "rating": reviews.get("rating") if reviews.get("rating") is not None else "",
                     "rating_count": reviews.get("rating_count") if reviews.get("rating_count") is not None else "",
                     "review_sample_size": reviews.get("sample_size") if reviews.get("sample_size") else "",

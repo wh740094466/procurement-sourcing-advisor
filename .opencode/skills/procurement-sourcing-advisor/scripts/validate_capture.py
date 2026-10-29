@@ -9,9 +9,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlparse
 
 try:
     from .common import is_missing, load_json, normalize_text
@@ -47,6 +49,71 @@ def _has_snippet(evidence: list[Any], field: str) -> bool:
     return False
 
 
+_OFFICIAL_FORBIDDEN_KEYS = {
+    "price",
+    "价格",
+    "售价",
+    "促销价",
+    "stock",
+    "库存",
+    "stock_status",
+}
+_ECOMMERCE_DOMAINS = ("jd.com", "jd.hk", "taobao.com", "tmall.com")
+
+
+def _compact(value: Any) -> str:
+    return re.sub(r"[^0-9a-z\u4e00-\u9fff]+", "", normalize_text(value).lower())
+
+
+def _check_official(label: str, official: Any, errors: list[str], warnings: list[str]) -> None:
+    """Validate the optional manufacturer-page block.
+
+    The official page is a spec source, never a price source.  Exact matching is
+    the only status that may feed scoring; family/not_found records are kept for
+    audit but must not pretend to be the same product.
+    """
+
+    if not isinstance(official, dict):
+        return
+    status = normalize_text(official.get("match_status"))
+    url = normalize_text(official.get("url"))
+    if url:
+        host = urlparse(url).netloc.lower()
+        if any(host == domain or host.endswith("." + domain) for domain in _ECOMMERCE_DOMAINS):
+            errors.append(f"{label}: 官网来源 URL 不能是电商平台域名（{url}）")
+
+    specs = official.get("specs")
+    if isinstance(specs, dict):
+        forbidden = [normalize_text(key) for key in specs if normalize_text(key).lower() in _OFFICIAL_FORBIDDEN_KEYS]
+        if forbidden:
+            errors.append(f"{label}: 官网参数块不得包含价格/库存字段：{', '.join(forbidden)}")
+
+    evidence = [item for item in (official.get("evidence") or []) if isinstance(item, dict)]
+    for item in evidence:
+        field = normalize_text(item.get("field")).lower()
+        if field in {"price", "stock", "stock_status"} or field.startswith("price."):
+            errors.append(f"{label}: 官网证据只能用于规格，不能用于价格/库存字段（{field}）")
+
+    if status == "exact":
+        if not normalize_text(official.get("matched_text")):
+            errors.append(f"{label}: 官网 exact 匹配缺少 matched_text")
+        if not isinstance(specs, dict) or not specs:
+            errors.append(f"{label}: 官网 exact 匹配缺少 specs")
+        if not evidence:
+            errors.append(f"{label}: 官网 exact 匹配缺少 evidence")
+        elif not any(
+            normalize_text(item.get("snippet")) and normalize_text(item.get("source_url"))
+            for item in evidence
+        ):
+            errors.append(f"{label}: 官网 exact 匹配缺少带 snippet/source_url 的证据")
+        model = _compact(official.get("model"))
+        matched = _compact(official.get("matched_text"))
+        if model and matched and model not in matched:
+            warnings.append(f"{label}: 官网 matched_text 未直接包含型号 {official.get('model')}，请复核是否同型号")
+    elif status in {"family", "not_found"} and specs:
+        warnings.append(f"{label}: 官网 match_status={status}，specs 不会进入评分")
+
+
 def validate_capture(payload: dict[str, Any]) -> dict[str, Any]:
     errors = list(_schema_errors(payload)) if isinstance(payload, dict) else ["capture 必须是 JSON 对象"]
     warnings: list[str] = []
@@ -69,10 +136,13 @@ def validate_capture(payload: dict[str, Any]) -> dict[str, Any]:
             errors.append(f"{label}: page_state={capture.get('page_state')}，不能作为数据来源")
             continue
 
+        _check_official(label, capture.get("official"), errors, warnings)
+
         seen_variants: set[str] = set()
         for variant in capture.get("variants") or []:
             name = normalize_text(variant.get("label")) or "<unnamed>"
             vlabel = f"{label}/{name}"
+            _check_official(vlabel, variant.get("official"), errors, warnings)
             variant_id = normalize_text(variant.get("variant_id")) or name
             if variant_id in seen_variants:
                 errors.append(f"{vlabel}: 同一 listing 内 variant_id 重复（{variant_id}）")

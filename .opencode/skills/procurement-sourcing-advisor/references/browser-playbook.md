@@ -34,6 +34,7 @@
 | 京东 | 使用说明 | `sections.usage` |
 | 京东 | 店铺 | `sections.shop` |
 | 京东/淘宝 | 推荐、搭配购、相似商品 | `sections.recommendations`，只记录，**不作候选** |
+| 厂商官网 | 产品规格/数据手册 | `official.specs`，只补参数，**不取价** |
 
 页面是懒加载的：先滚动到目标区块，等 1–2 秒再抽取。可以逐段滚动（参数 → 评价 → 售后），不要一次抓 `body.innerText` 就当完整。
 
@@ -74,6 +75,83 @@ browser_wait_for({ time: 1.5 })
 - 若选中后价格没变，检查是否真的切换成功（选中态 class / aria-selected）
 
 **不要**用相邻配置的价格代替售罄配置；售罄就记 `stock_status=无货`，价格留空。
+
+## 官网规格补全（有具体型号时）
+
+只有当商品页能读到**明确型号/认证型号/MPN**（如 `T14 Gen 5 21ML`、`WD201KFGX`、`Dell R760`）时，才去厂商官网核对参数。没有具体型号的品类（例如"27 英寸 2K 显示器"）不要凭系列名猜官网页面。
+
+### 适用与不适用
+
+- 适用：笔记本、服务器、硬盘、内存、显示器、打印机等有唯一型号或料号的产品
+- 不适用：型号只写到系列名、页面没有型号字段、官网只有营销页没有规格表
+- 只对**可能进入前 5** 的候选做官网核对，单型号最多打开 1 个官网页面，控制时间与上下文
+
+### 入口与匹配
+
+1. 从商品页参数区读取 `型号`、`认证型号`、`MPN`、`Part Number`
+2. 优先使用厂商官网的站内搜索或已知产品页，例如：
+   - 联想：`https://www.lenovo.com.cn/`
+   - 戴尔：`https://www.dell.com.cn/`
+   - 华硕：`https://www.asus.com.cn/`
+   - 希捷：`https://www.seagate.com/cn/zh/`
+   - 西部数据：`https://www.westerndigital.com/zh-cn/`
+   - 群晖：`https://www.synology.cn/`
+3. 打开产品页/规格页/数据手册，确认页面标题或规格表包含**完整型号**，把原话记入 `matched_text`
+4. 只对上系列名时记 `match_status=family`；官网没有该型号记 `not_found`。这两种情况都不进入评分
+5. 国行商品优先国行官网；只有全球页时在 `region` 标注，并在 `notes` 说明可能与国行配置不同
+
+### 抽取范围
+
+用 `browser_evaluate` 窄范围读取规格表，只取与决策相关的键：
+
+- CPU/GPU、内存、硬盘、接口、尺寸、重量、功耗
+- 面板、分辨率、刷新率、色域
+- 盘片/记录技术、缓存、转速、工作负载、MTBF
+- 保修年限、兼容列表、工作温度/海拔
+
+滚动到规格区，等 1–2 秒再抽取；不要只取首屏，也不要复制整页 `body.innerText`。
+
+### 写入官网块
+
+```json
+"official": {
+  "manufacturer": "Lenovo",
+  "model": "ThinkPad T14 Gen 5 21ML",
+  "region": "CN",
+  "url": "https://www.lenovo.com.cn/...",
+  "captured_at": "2026-10-30T10:00:00+08:00",
+  "match_status": "exact",
+  "matched_text": "ThinkPad T14 Gen 5 (21ML) ...",
+  "specs": {"CPU": "Intel Core Ultra 5 125U", "接口": "Thunderbolt 4 ×2 / USB-A ×2"},
+  "evidence": [
+    {"field": "official.specs", "snippet": "Thunderbolt 4 ×2 / USB-A ×2", "source_url": "https://www.lenovo.com.cn/..."}
+  ]
+}
+```
+
+- `capture.official` 用于整条 listing 共用一个型号；各配置型号不同则写到 `variant.official`
+- `variant.official` 优先于 `capture.official`
+- 官网块只放规格，**禁止**写价格、库存、促销、到手价
+- 证据必须带 `source_url` + `snippet`；没有原话就不写
+
+### 官网拦截
+
+官网同样可能遇到登录墙、验证码、403、地区限制：
+
+| 现象 | 处理 |
+|---|---|
+| 登录/注册墙 | 停止，不注册、不代填账号；记录 `errors` |
+| 验证码/滑块 | 停止，不自动点击；记录 `errors` |
+| 403/地区限制 | 停止，记录 URL 与时间 |
+| 只有营销页、没有规格表 | 记 `not_found` 或跳过，不猜参数 |
+
+失败时写：
+
+```json
+{"platform": "jd", "listing_id": "100001", "stage": "official", "message": "官网 403", "url": "..."}
+```
+
+官网失败不影响已有平台数据的评分，只是少一项参数证据。
 
 ## 评价采集
 
