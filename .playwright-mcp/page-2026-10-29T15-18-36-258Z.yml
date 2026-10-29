@@ -1,0 +1,1165 @@
+- generic [active] [ref=f41e1]:
+  - generic [ref=f41e5]:
+    - generic [ref=f41e8]:
+      - link [ref=f41e10] [cursor=pointer]:
+        - /url: https://www.jd.com/
+      - generic [ref=f41e11]:
+        - generic [ref=f41e12]:
+          - textbox "搜索" [ref=f41e13]: 希捷 Exos X24 20TB 企业级
+          - generic [ref=f41e14]:
+            - generic [ref=f41e15]: 搜索
+            - switch [ref=f41e16] [cursor=pointer]
+          - generic [ref=f41e21] [cursor=pointer]
+          - button "搜索" [ref=f41e23] [cursor=pointer]
+        - generic [ref=f41e24]:
+          - generic [ref=f41e25] [cursor=pointer]: 小米显示器27寸
+          - generic [ref=f41e26] [cursor=pointer]: 27寸2k显示器
+          - generic [ref=f41e27] [cursor=pointer]: 希捷20t硬盘
+          - generic [ref=f41e28] [cursor=pointer]: 红米a27q
+          - generic [ref=f41e29] [cursor=pointer]: 机械硬盘
+          - generic [ref=f41e30] [cursor=pointer]: 显示器27英寸
+          - generic [ref=f41e31] [cursor=pointer]: 西数机械硬盘
+          - generic [ref=f41e32] [cursor=pointer]: 4k显示器27英寸
+          - generic [ref=f41e33] [cursor=pointer]: 电脑显示屏
+          - generic [ref=f41e34] [cursor=pointer]: type-c扩展坞
+    - generic [ref=f41e38]:
+      - generic [ref=f41e39]:
+        - generic [ref=f41e40]:
+          - generic [ref=f41e42] [cursor=pointer]:
+            - generic [ref=f41e43]: 全部商品
+            - generic [ref=f41e45]: 新品
+            - generic [ref=f41e46]: 店铺
+            - generic "企业购精选商品，企业热销、超低折扣、对公支付、开票无忧" [ref=f41e47]: 企业采购
+            - generic [ref=f41e48]: 工业品
+          - generic [ref=f41e49]:
+            - generic [ref=f41e50] [cursor=pointer]: 配送至
+            - generic [ref=f41e52]:
+              - generic [ref=f41e53] [cursor=pointer]: 传统模式
+              - generic [ref=f41e54] [cursor=pointer]: 简洁模式
+        - generic [ref=f41e57]:
+          - generic [ref=f41e59]:
+            - generic [ref=f41e60]:
+              - generic [ref=f41e61]: 品牌
+              - generic [ref=f41e64]:
+                - generic [ref=f41e65] [cursor=pointer]: 希捷（SEAGATE）
+                - generic [ref=f41e67] [cursor=pointer]: 西部数据（WD）
+                - generic [ref=f41e69] [cursor=pointer]: 海康威视（HIKVISION）
+                - generic [ref=f41e71] [cursor=pointer]: 希捷银河
+                - generic [ref=f41e73] [cursor=pointer]: 群晖（Synology）
+                - generic [ref=f41e75] [cursor=pointer]: RUSMR
+                - generic [ref=f41e77] [cursor=pointer]: Sivir
+                - generic [ref=f41e79] [cursor=pointer]: 希捷
+            - generic [ref=f41e81] [cursor=pointer]: 更多
+          - generic [ref=f41e85]: 展开筛选
+        - generic [ref=f41e94]:
+          - generic [ref=f41e95]:
+            - generic [ref=f41e96]:
+              - generic [ref=f41e97]:
+                - generic [ref=f41e98]: 综合
+                - generic [ref=f41e104] [cursor=pointer]: 销量
+                - generic [ref=f41e108] [cursor=pointer]: 价格
+              - generic [ref=f41e112]: 价格区间
+            - generic [ref=f41e122]:
+              - generic [ref=f41e123]: 京东物流
+              - generic [ref=f41e126]: 自营/旗舰
+              - generic [ref=f41e134]: 品牌
+              - generic [ref=f41e142]: 京东国际
+              - generic [ref=f41e146] [cursor=pointer]
+              - generic [ref=f41e149]: 货到付款
+              - generic [ref=f41e152]: 仅显示有货
+              - generic [ref=f41e155]: 211限时达
+              - generic [ref=f41e158]: 可配送全球
+          - generic [ref=f41e161]:
+            - generic [ref=f41e162]:
+              - generic [ref=f41e163] [cursor=pointer]
+              - generic [ref=f41e165]: "1"
+              - generic [ref=f41e166]: /
+              - generic [ref=f41e167]: "1"
+              - generic [ref=f41e168] [cursor=pointer]
+            - generic [ref=f41e172] [cursor=pointer]: 更多
+      - generic [ref=f41e177]:
+        - generic [ref=f41e179] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 16TB 512MB 7200转 CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘 ST16000NM002H" [ref=f41e182]: 广告
+          - generic [ref=f41e201]:
+            - generic [ref=f41e202]:
+              - img "自营" [ref=f41e205]
+              - generic "希捷（SEAGATE）企业级硬盘 16TB 512MB 7200转 CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘 ST16000NM002H" [ref=f41e206]
+            - generic [ref=f41e208]:
+              - generic [ref=f41e209]: 500+人收藏
+              - generic [ref=f41e210]: "|1万+店铺粉丝浏览"
+              - generic [ref=f41e211]: "|1万+人加购"
+            - generic [ref=f41e212]:
+              - generic [ref=f41e213]:
+                - generic [ref=f41e214]: ¥
+                - generic [ref=f41e215]: "7954"
+                - generic [ref=f41e216]: .
+                - generic [ref=f41e217]: "01"
+              - generic [ref=f41e218]: PLUS到手价
+              - generic [ref=f41e220]: ¥7999
+              - button [ref=f41e221]
+            - generic [ref=f41e224]:
+              - img "明日达" [ref=f41e226]
+              - generic [ref=f41e227]: PLUS立减39.99元
+              - generic [ref=f41e229]: 正品行货带票
+            - generic "已售300万+" [ref=f41e233]
+            - generic [ref=f41e234]:
+              - generic [ref=f41e235]: 希捷Seagate京东自营旗舰店
+              - link [ref=f41e237]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=100201554267&score=0&commentNum=200%25E4%25B8%2587%252B&seller=%25E5%25B8%258C%25E6%258D%25B7Seagate%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F536294%252F2%252F12715%252F173451%252F6ae1affbFd39fa51f%252F00833203201eb9a7.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252016TB%2520512MB%25207200%25E8%25BD%25AC%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3Exos%2520X24%25E7%25B3%25BB%25E5%2588%2597%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598%2520ST16000NM002H
+            - generic [ref=f41e240]:
+              - generic [ref=f41e241]: 搜同款
+              - generic [ref=f41e243]: 对比
+        - generic [ref=f41e248] [cursor=pointer]:
+          - generic "希捷企业级硬盘 20TB CMR垂直" [ref=f41e252]
+          - generic [ref=f41e262]:
+            - generic [ref=f41e263]:
+              - img "自营" [ref=f41e266]
+              - text: 希捷企业级硬盘 20TB CMR垂直
+            - generic [ref=f41e268]:
+              - generic [ref=f41e269]: SATA接口
+              - generic [ref=f41e270]: "|7200rpm"
+              - generic [ref=f41e271]: "|企业级20TB"
+              - generic [ref=f41e272]: "|EXOS系列"
+            - generic [ref=f41e273]:
+              - generic [ref=f41e274]:
+                - generic [ref=f41e275]: ¥
+                - generic [ref=f41e276]: "8949"
+                - generic [ref=f41e277]: .
+                - generic [ref=f41e278]: "01"
+              - generic [ref=f41e279]: PLUS到手价
+              - generic [ref=f41e281]: ¥8999
+              - button [ref=f41e282]
+            - generic [ref=f41e285]:
+              - generic [ref=f41e286]: PLUS立减44.99元
+              - generic [ref=f41e288]: 正品行货带票
+            - generic [ref=f41e291]:
+              - generic "已售300万+" [ref=f41e292]
+              - generic "30天加购飙升5倍" [ref=f41e293]
+            - generic [ref=f41e294]:
+              - generic [ref=f41e295]: 希捷Seagate京东自营旗舰店
+              - link [ref=f41e297]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=100219097359&score=5&evaluationRate=99&commentNum=200%25E4%25B8%2587%252B&seller=%25E5%25B8%258C%25E6%258D%25B7Seagate%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F562664%252F15%252F954%252F166182%252F6ae1affcF0813a74e%252F0083320320326a63.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252020TB%2520CMR%25E5%259E%2582%25E7%259B%25B4
+        - generic [ref=f41e299] [cursor=pointer]:
+          - generic "企业级硬盘CMR垂直SATA企业存储" [ref=f41e302]
+          - generic [ref=f41e314]:
+            - generic [ref=f41e315]:
+              - img "自营" [ref=f41e318]
+              - text: 企业级硬盘CMR垂直SATA企业存储
+            - generic [ref=f41e320]:
+              - generic [ref=f41e321]: 7200rpm
+              - generic [ref=f41e322]: "|512MB"
+              - generic [ref=f41e323]: "|3.5英寸"
+            - generic [ref=f41e324]:
+              - generic [ref=f41e325]:
+                - generic [ref=f41e326]: ¥
+                - generic [ref=f41e327]: "8954"
+                - generic [ref=f41e328]: .
+                - generic [ref=f41e329]: "01"
+              - generic [ref=f41e330]: PLUS到手价
+              - generic [ref=f41e332]: ¥8999
+              - button [ref=f41e333]
+            - generic [ref=f41e336]:
+              - img "厂商配送" [ref=f41e338]
+              - generic [ref=f41e339]: PLUS立减44.99元
+              - generic [ref=f41e341]: 只换不修
+            - generic [ref=f41e344]:
+              - generic "2人看过" [ref=f41e345]
+              - generic "100%好评" [ref=f41e346]
+            - generic [ref=f41e347]:
+              - generic [ref=f41e348]: 惠普（HP）京东自营专区
+              - link [ref=f41e350]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=100433157678&score=5&evaluationRate=100&commentNum=0&seller=%25E6%2583%25A0%25E6%2599%25AE%25EF%25BC%2588HP%25EF%25BC%2589%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E4%25B8%2593%25E5%258C%25BA&imgUrl=jfs%252Ft1%252F356900%252F40%252F5290%252F86804%252F690d5e7cF25adfa64%252F7e5a195225b20d4e.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598CMR%25E5%259E%2582%25E7%259B%25B4SATA%25E4%25BC%2581%25E4%25B8%259A%25E5%25AD%2598%25E5%2582%25A8
+        - generic [ref=f41e352] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）16T硬碟全新16T机械硬碟MG08ACA16TE企业级监控硬碟SATA 16TB 08TB MG08ACA16TE原装b 16TB" [ref=f41e355]
+          - generic [ref=f41e361]:
+            - generic [ref=f41e362]:
+              - img "全球购" [ref=f41e365]
+              - generic "东芝（TOSHIBA）16T硬碟全新16T机械硬碟MG08ACA16TE企业级监控硬碟SATA 16TB 08TB MG08ACA16TE原装b 16TB" [ref=f41e366]
+            - generic [ref=f41e368]:
+              - generic [ref=f41e369]:
+                - generic [ref=f41e370]: ¥
+                - generic [ref=f41e371]: "3602"
+                - generic [ref=f41e372]: .
+                - generic [ref=f41e373]: "61"
+              - generic [ref=f41e374]: 到手价
+              - generic [ref=f41e376]: ¥3639
+              - button [ref=f41e377]
+            - generic [ref=f41e380]: 1件9.9折
+            - generic [ref=f41e383]:
+              - generic "17人看过" [ref=f41e385]
+              - generic [ref=f41e386]: 广告
+            - generic [ref=f41e387]:
+              - generic [ref=f41e388]: ZP海外专营店
+              - link [ref=f41e390]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10234243597041&score=0&commentNum=0&seller=ZP%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F476102%252F14%252F13252%252F555630%252F6a54b122Ffe0e458f%252F0083830aec80831d.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%258916T%25E7%25A1%25AC%25E7%25A2%259F%25E5%2585%25A8%25E6%2596%25B016T%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%25A2%259FMG08ACA16TE%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%259B%2591%25E6%258E%25A7%25E7%25A1%25AC%25E7%25A2%259FSATA%252016TB%252008TB%2520MG08ACA16TE%25E5%258E%259F%25E8%25A3%2585b%2520%252016TB
+        - generic [ref=f41e392] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 20TB 512MB 7200RPM CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘ST20000NM002H" [ref=f41e395]
+          - generic [ref=f41e407]:
+            - generic [ref=f41e408]:
+              - img "自营" [ref=f41e411]
+              - text: 希捷（SEAGATE）企业级硬盘 20TB 512MB 7200RPM CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘ST20000NM002H
+            - generic [ref=f41e413]:
+              - generic [ref=f41e414]: 7200rpm
+              - generic [ref=f41e415]: "|512MB"
+              - generic [ref=f41e416]: "|3.5英寸"
+            - generic [ref=f41e418]:
+              - generic [ref=f41e419]: ¥
+              - generic [ref=f41e420]: "110000"
+            - generic [ref=f41e421]:
+              - img "厂商配送" [ref=f41e423]
+              - generic [ref=f41e424]: PLUS立减550元
+              - img "企业专属" [ref=f41e427]
+            - generic [ref=f41e429]:
+              - generic "4人看过" [ref=f41e430]
+              - generic "100%好评" [ref=f41e431]
+            - link [ref=f41e433]:
+              - /url: //chat.jd.com/index.action?entry=jd_search&pid=100415987920&score=5&evaluationRate=100&commentNum=0&seller=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589&imgUrl=jfs%252Ft1%252F423978%252F35%252F18340%252F63733%252F6a156f1aF00df9903%252F00833203201ed993.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252020TB%2520512MB%25207200RPM%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3Exos%2520X24%25E7%25B3%25BB%25E5%2588%2597%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598ST20000NM002H
+        - generic [ref=f41e435] [cursor=pointer]:
+          - generic "希捷（SEAGATE）20TB 企业级硬盘 7200转 512MB 2.5英寸 CMR垂直 SATA 银河Exos X24系列 服务器硬盘ST20000NM002H" [ref=f41e438]
+          - generic [ref=f41e450]:
+            - generic [ref=f41e451]:
+              - img "自营" [ref=f41e454]
+              - text: 希捷（SEAGATE）20TB 企业级硬盘 7200转 512MB 2.5英寸 CMR垂直 SATA 银河Exos X24系列 服务器硬盘ST20000NM002H
+            - generic [ref=f41e456]:
+              - generic [ref=f41e457]: 7200rpm
+              - generic [ref=f41e458]: "|512MB"
+              - generic [ref=f41e459]: "|3.5英寸"
+            - generic [ref=f41e460]:
+              - generic [ref=f41e461]:
+                - generic [ref=f41e462]: ¥
+                - generic [ref=f41e463]: "7561"
+                - generic [ref=f41e464]: .
+                - generic [ref=f41e465]: "01"
+              - generic [ref=f41e466]: PLUS到手价
+              - generic [ref=f41e468]: ¥7599
+              - button [ref=f41e469]
+            - generic [ref=f41e472]:
+              - img "厂商配送" [ref=f41e474]
+              - generic [ref=f41e475]: PLUS立减37.99元
+              - generic [ref=f41e477]: 只换不修
+            - generic "100%好评" [ref=f41e481]
+            - link [ref=f41e483]:
+              - /url: //chat.jd.com/index.action?entry=jd_search&pid=100392464794&score=5&evaluationRate=100&commentNum=1&seller=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589&imgUrl=jfs%252Ft1%252F423978%252F35%252F18340%252F63733%252F6a156f1aF00df9903%252F00833203201ed993.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%258920TB%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%25207200%25E8%25BD%25AC%2520512MB%25202.5%25E8%258B%25B1%25E5%25AF%25B8%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E9%2593%25B6%25E6%25B2%25B3Exos%2520X24%25E7%25B3%25BB%25E5%2588%2597%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598ST20000NM002H
+        - generic [ref=f41e485] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）24t 20t 16t 8t 4t东芝硬盘 桌面移动硬盘 cmr大容量机械外接组装 已组装已分区(直接使用)-炽热橙 4TB 套餐一 桌面式移动硬盘套装 5400叠瓦" [ref=f41e488]
+          - generic [ref=f41e496]:
+            - generic [ref=f41e497]:
+              - img "全球购" [ref=f41e500]
+              - generic "东芝（TOSHIBA）24t 20t 16t 8t 4t东芝硬盘 桌面移动硬盘 cmr大容量机械外接组装 已组装已分区(直接使用)-炽热橙 4TB 套餐一 桌面式移动硬盘套装 5400叠瓦" [ref=f41e501]
+            - generic [ref=f41e502]: 200+人浏览
+            - generic [ref=f41e505]:
+              - generic [ref=f41e506]:
+                - generic [ref=f41e507]: ¥
+                - generic [ref=f41e508]: "2131"
+                - generic [ref=f41e509]: .
+                - generic [ref=f41e510]: "92"
+              - generic [ref=f41e511]: 到手价
+              - generic [ref=f41e513]: ¥2508.14
+              - button [ref=f41e514]
+            - generic [ref=f41e517]: 立享8.5折
+            - generic [ref=f41e520]:
+              - generic "3人看过" [ref=f41e522]
+              - generic [ref=f41e523]: 广告
+            - generic [ref=f41e524]:
+              - generic [ref=f41e525]: AURORA电器海外专营店
+              - link [ref=f41e527]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10214553900440&score=0&commentNum=0&seller=AURORA%25E7%2594%25B5%25E5%2599%25A8%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F409426%252F17%252F1906%252F55223%252F69c2597fF599b1072%252F0083320320ea3e2b.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%258924t%252020t%252016t%25208t%25204t%25E4%25B8%259C%25E8%258A%259D%25E7%25A1%25AC%25E7%259B%2598%2520%25E6%25A1%258C%25E9%259D%25A2%25E7%25A7%25BB%25E5%258A%25A8%25E7%25A1%25AC%25E7%259B%2598%2520cmr%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%25E6%259C%25BA%25E6%25A2%25B0%25E5%25A4%2596%25E6%258E%25A5%25E7%25BB%2584%25E8%25A3%2585%2520%25E5%25B7%25B2%25E7%25BB%2584%25E8%25A3%2585%25E5%25B7%25B2%25E5%2588%2586%25E5%258C%25BA(%25E7%259B%25B4%25E6%258E%25A5%25E4%25BD%25BF%25E7%2594%25A8)-%25E7%2582%25BD%25E7%2583%25AD%25E6%25A9%2599%25204TB%2520%25E5%25A5%2597%25E9%25A4%2590%25E4%25B8%2580%2520%25E6%25A1%258C%25E9%259D%25A2%25E5%25BC%258F%25E7%25A7%25BB%25E5%258A%25A8%25E7%25A1%25AC%25E7%259B%2598%25E5%25A5%2597%25E8%25A3%2585%25205400%25E5%258F%25A0%25E7%2593%25A6
+        - generic [ref=f41e529] [cursor=pointer]:
+          - generic "新款EXOS银河监控机械硬盘NAS" [ref=f41e532]
+          - generic [ref=f41e540]:
+            - generic [ref=f41e541]: 新款EXOS银河监控机械硬盘NAS
+            - generic [ref=f41e543]:
+              - generic [ref=f41e544]: 高容量存储
+              - generic [ref=f41e545]: "|7x24运行"
+              - generic [ref=f41e546]: "|7200高速转"
+              - generic [ref=f41e547]: "|大容量阵列"
+            - generic [ref=f41e548]:
+              - generic [ref=f41e549]:
+                - generic [ref=f41e550]: ¥
+                - generic [ref=f41e551]: "5100"
+              - button [ref=f41e552]
+            - generic [ref=f41e555]:
+              - generic [ref=f41e556]: 只换不修
+              - generic [ref=f41e558]: 包邮
+            - generic [ref=f41e561]:
+              - generic "已售70+" [ref=f41e562]
+              - generic "100%好评" [ref=f41e563]
+            - generic [ref=f41e564]:
+              - generic [ref=f41e565]: 荣晟基硬件供应链店
+              - link [ref=f41e567]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10229097816791&score=5&evaluationRate=100&commentNum=74&seller=%25E8%258D%25A3%25E6%2599%259F%25E5%259F%25BA%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BE%259B%25E5%25BA%2594%25E9%2593%25BE%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F419777%252F34%252F4898%252F124825%252F69dde9afF36b9f6c0%252F0083320320d5ee17.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E6%2596%25B0%25E6%25AC%25BEEXOS%25E9%2593%25B6%25E6%25B2%25B3%25E7%259B%2591%25E6%258E%25A7%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598NAS
+      - generic [ref=f41e571]:
+        - heading "相关商品较少" [level=5] [ref=f41e572]
+        - generic [ref=f41e573]: 为你推荐以下商品
+      - generic [ref=f41e574]: 猜你喜欢
+      - generic [ref=f41e577]:
+        - generic [ref=f41e579] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 16TB 512MB 7200转 CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘 ST16000NM002H" [ref=f41e582]: 广告
+          - generic [ref=f41e593]:
+            - generic [ref=f41e594]:
+              - img "自营" [ref=f41e597]
+              - generic "希捷（SEAGATE）企业级硬盘 16TB 512MB 7200转 CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘 ST16000NM002H" [ref=f41e598]
+            - generic [ref=f41e600]:
+              - generic [ref=f41e601]: 500+人收藏
+              - generic [ref=f41e602]: "|1万+店铺粉丝浏览"
+              - generic [ref=f41e603]: "|1万+人加购"
+            - generic [ref=f41e604]:
+              - generic [ref=f41e605]:
+                - generic [ref=f41e606]: ¥
+                - generic [ref=f41e607]: "7954"
+                - generic [ref=f41e608]: .
+                - generic [ref=f41e609]: "01"
+              - generic [ref=f41e610]: PLUS到手价
+              - generic [ref=f41e612]: ¥7999
+              - button [ref=f41e613]
+            - generic [ref=f41e616]:
+              - img "明日达" [ref=f41e618]
+              - generic [ref=f41e619]: PLUS立减39.99元
+              - generic [ref=f41e621]: 正品行货带票
+            - generic "已售300万+" [ref=f41e625]
+            - generic [ref=f41e626]:
+              - generic [ref=f41e627]: 希捷Seagate京东自营旗舰店
+              - link [ref=f41e629]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=100201554267&score=0&commentNum=200%25E4%25B8%2587%252B&seller=%25E5%25B8%258C%25E6%258D%25B7Seagate%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F536294%252F2%252F12715%252F173451%252F6ae1affbFd39fa51f%252F00833203201eb9a7.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252016TB%2520512MB%25207200%25E8%25BD%25AC%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3Exos%2520X24%25E7%25B3%25BB%25E5%2588%2597%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598%2520ST16000NM002H
+        - generic [ref=f41e631] [cursor=pointer]:
+          - generic "希捷企业级硬盘16TB CMR垂直 SATA 银河ExosX24系列服务器硬盘 16TB 【ST16000NM002H】 国行全新五年保【13%专票】" [ref=f41e634]
+          - generic [ref=f41e644]:
+            - generic [ref=f41e645]: 希捷企业级硬盘16TB CMR垂直 SATA 银河ExosX24系列服务器硬盘 16TB 【ST16000NM002H】 国行全新五年保【13%专票】
+            - generic [ref=f41e647]:
+              - generic [ref=f41e648]: 7200rpm
+              - generic [ref=f41e649]: "|512MB"
+              - generic [ref=f41e650]: "|3.5英寸"
+            - generic [ref=f41e651]:
+              - generic [ref=f41e652]:
+                - generic [ref=f41e653]: ¥
+                - generic [ref=f41e654]: "6299"
+              - button [ref=f41e655]
+            - generic [ref=f41e658]: 包邮
+            - generic [ref=f41e662]:
+              - generic "1人看过" [ref=f41e663]
+              - generic "100%好评" [ref=f41e664]
+            - generic [ref=f41e665]:
+              - generic [ref=f41e666]: 数据方舟NAS硬盘经营部
+              - link [ref=f41e668]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10194714052325&score=5&evaluationRate=100&commentNum=0&seller=%25E6%2595%25B0%25E6%258D%25AE%25E6%2596%25B9%25E8%2588%259FNAS%25E7%25A1%25AC%25E7%259B%2598%25E7%25BB%258F%25E8%2590%25A5%25E9%2583%25A8&imgUrl=jfs%252Ft1%252F350266%252F25%252F17381%252F100766%252F69002c25F6e17b71d%252F371f2c4efde1dcc8.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%259816TB%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E9%2593%25B6%25E6%25B2%25B3ExosX24%25E7%25B3%25BB%25E5%2588%2597%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598%252016TB%2520%25E3%2580%2590ST16000NM002H%25E3%2580%2591%2520%25E5%259B%25BD%25E8%25A1%258C%25E5%2585%25A8%25E6%2596%25B0%25E4%25BA%2594%25E5%25B9%25B4%25E4%25BF%259D%25E3%2580%259013%2525%25E4%25B8%2593%25E7%25A5%25A8%25E3%2580%2591
+        - generic [ref=f41e670] [cursor=pointer]:
+          - generic "希捷24TB希捷银河氦气 ST24000NM000H Exos X24企业级硬盘 CMR垂直 7200转 24TB ST24000NM000H店保一年" [ref=f41e673]
+          - generic [ref=f41e675]:
+            - generic [ref=f41e676]: 希捷24TB希捷银河氦气 ST24000NM000H Exos X24企业级硬盘 CMR垂直 7200转 24TB ST24000NM000H店保一年
+            - generic [ref=f41e678]:
+              - generic [ref=f41e679]: 24TB大容量
+              - generic [ref=f41e680]: "|企业级可靠"
+              - generic [ref=f41e681]: "|Exos系列"
+              - generic [ref=f41e682]: "|氦气充填技术"
+            - generic [ref=f41e683]:
+              - generic [ref=f41e684]:
+                - generic [ref=f41e685]: ¥
+                - generic [ref=f41e686]: "4750"
+              - button [ref=f41e687]
+            - generic [ref=f41e690]: 包邮
+            - generic [ref=f41e694]:
+              - generic "50人看过" [ref=f41e695]
+              - generic "100%好评" [ref=f41e696]
+            - generic [ref=f41e697]:
+              - generic [ref=f41e698]: 柴器的小店
+              - link [ref=f41e700]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10217382325346&score=5&evaluationRate=100&commentNum=2&seller=%25E6%259F%25B4%25E5%2599%25A8%25E7%259A%2584%25E5%25B0%258F%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F451109%252F19%252F16486%252F137198%252F6a36b41dF1c079b06%252F008344244224ffdc.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B724TB%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3%25E6%25B0%25A6%25E6%25B0%2594%2520ST24000NM000H%2520Exos%2520X24%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520CMR%25E5%259E%2582%25E7%259B%25B4%25207200%25E8%25BD%25AC%252024TB%2520ST24000NM000H%25E5%25BA%2597%25E4%25BF%259D%25E4%25B8%2580%25E5%25B9%25B4
+        - generic [ref=f41e702] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）随身硬盘4TB小黑A5高速外置大容量苹果手机兼容2TB1TB机械非固态 A5 标准款 磨砂面黑色(新款) 1TB标配" [ref=f41e705]
+          - generic [ref=f41e714]:
+            - generic [ref=f41e715]:
+              - img "全球购" [ref=f41e718]
+              - generic "东芝（TOSHIBA）随身硬盘4TB小黑A5高速外置大容量苹果手机兼容2TB1TB机械非固态 A5 标准款 磨砂面黑色(新款) 1TB标配" [ref=f41e719]
+            - generic [ref=f41e721]:
+              - generic [ref=f41e722]: 4TB大容量
+              - generic [ref=f41e723]: "|东芝随身硬盘"
+              - generic [ref=f41e724]: "|苹果兼容"
+            - generic [ref=f41e725]:
+              - generic [ref=f41e726]:
+                - generic [ref=f41e727]: ¥
+                - generic [ref=f41e728]: "1281"
+                - generic [ref=f41e729]: .
+                - generic [ref=f41e730]: "93"
+              - generic [ref=f41e731]: 到手价
+              - generic [ref=f41e733]: ¥1625.8
+              - button [ref=f41e734]
+            - generic [ref=f41e737]:
+              - generic [ref=f41e738]: 立享8.5折
+              - generic [ref=f41e740]: 券满3000减150
+            - generic [ref=f41e742]:
+              - generic "4人看过" [ref=f41e744]
+              - generic [ref=f41e745]: 广告
+            - generic [ref=f41e746]:
+              - generic [ref=f41e747]: AURORA电器海外专营店
+              - link [ref=f41e749]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10230517671112&score=0&commentNum=0&seller=AURORA%25E7%2594%25B5%25E5%2599%25A8%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F489550%252F19%252F2654%252F117182%252F6a6458f5F20a552d6%252F008332032091a80f.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%2589%25E9%259A%258F%25E8%25BA%25AB%25E7%25A1%25AC%25E7%259B%25984TB%25E5%25B0%258F%25E9%25BB%2591A5%25E9%25AB%2598%25E9%2580%259F%25E5%25A4%2596%25E7%25BD%25AE%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%25E8%258B%25B9%25E6%259E%259C%25E6%2589%258B%25E6%259C%25BA%25E5%2585%25BC%25E5%25AE%25B92TB1TB%25E6%259C%25BA%25E6%25A2%25B0%25E9%259D%259E%25E5%259B%25BA%25E6%2580%2581%2520A5%2520%25E6%25A0%2587%25E5%2587%2586%25E6%25AC%25BE%2520%25E7%25A3%25A8%25E7%25A0%2582%25E9%259D%25A2%25E9%25BB%2591%25E8%2589%25B2(%25E6%2596%25B0%25E6%25AC%25BE)%25201TB%25E6%25A0%2587%25E9%2585%258D
+        - generic [ref=f41e751] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 20TB 【ST20000NM002H】X24" [ref=f41e754]
+          - generic [ref=f41e765]:
+            - generic [ref=f41e766]:
+              - img "京东物流" [ref=f41e769]
+              - text: 希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 20TB 【ST20000NM002H】X24
+            - generic [ref=f41e771]:
+              - generic [ref=f41e772]: 3.5英寸盘
+              - generic [ref=f41e773]: "|20TB大容量"
+              - generic [ref=f41e774]: "|7200转高速"
+              - generic [ref=f41e775]: "|EXOS系列"
+            - generic [ref=f41e776]:
+              - generic [ref=f41e777]:
+                - generic [ref=f41e778]: ¥
+                - generic [ref=f41e779]: "7999"
+              - button [ref=f41e780]
+            - generic [ref=f41e783]:
+              - img "送货上门" [ref=f41e785]
+              - generic [ref=f41e786]: 包邮
+            - generic [ref=f41e789]:
+              - generic "已售4万+" [ref=f41e790]
+              - generic "1600+人种草" [ref=f41e791]
+            - generic [ref=f41e792]:
+              - generic [ref=f41e793]: Seagate希捷旗舰店
+              - link [ref=f41e795]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10196549274570&score=5&evaluationRate=98&commentNum=1%25E4%25B8%2587%252B&seller=Seagate%25E5%25B8%258C%25E6%258D%25B7%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F554969%252F38%252F5162%252F100080%252F6ae22a16Fa9c4402c%252F0083320320f2a853.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E5%259E%2582%25E7%259B%25B4%25E7%25A1%25AC%25E7%259B%2598%2520PMR%2520CMR%2520SATA%2520%25E9%2593%25B6%25E6%25B2%25B3%25E7%25B3%25BB%25E5%2588%25977200%25E8%25BD%25AC%25E4%25BC%2581%25E4%25B8%259A%25E7%25A1%25AC%25E7%259B%25983.5%25E8%258B%25B1%25E5%25AF%25B8%252020TB%2520%25E3%2580%2590ST20000NM002H%25E3%2580%2591X24
+        - generic [ref=f41e797] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 16TB 512MB 7200转 CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘 16TB-ST16000NM002H 全新国行 5年质保" [ref=f41e800]
+          - generic [ref=f41e810]:
+            - generic [ref=f41e811]: 希捷（SEAGATE）企业级硬盘 16TB 512MB 7200转 CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘 16TB-ST16000NM002H 全新国行 5年质保
+            - generic [ref=f41e813]:
+              - generic [ref=f41e814]: 高速传输
+              - generic [ref=f41e815]: "|稳定耐用"
+              - generic [ref=f41e816]: "|正品行货带票"
+            - generic [ref=f41e817]:
+              - generic [ref=f41e818]:
+                - generic [ref=f41e819]: ¥
+                - generic [ref=f41e820]: "6199"
+              - button [ref=f41e821]
+            - generic [ref=f41e824]: 包邮
+            - generic [ref=f41e828]:
+              - generic "31人看过" [ref=f41e829]
+              - generic "100%好评" [ref=f41e830]
+            - generic [ref=f41e831]:
+              - generic [ref=f41e832]: 硬盘固态NAS存储拼购店
+              - link [ref=f41e834]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10237566790178&score=5&evaluationRate=100&commentNum=0&seller=%25E7%25A1%25AC%25E7%259B%2598%25E5%259B%25BA%25E6%2580%2581NAS%25E5%25AD%2598%25E5%2582%25A8%25E6%258B%25BC%25E8%25B4%25AD%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F537615%252F27%252F14311%252F112883%252F6ad093a5F9d4430dc%252F00833203203c28b9.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252016TB%2520512MB%25207200%25E8%25BD%25AC%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3Exos%2520X24%25E7%25B3%25BB%25E5%2588%2597%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598%252016TB-ST16000NM002H%2520%25E5%2585%25A8%25E6%2596%25B0%25E5%259B%25BD%25E8%25A1%258C%25205%25E5%25B9%25B4%25E8%25B4%25A8%25E4%25BF%259D
+        - generic [ref=f41e836] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）2TB高速加密金属随身硬盘手机电脑通用外置机械硬盘 黑色 1TB标配" [ref=f41e839]
+          - generic [ref=f41e848]:
+            - generic [ref=f41e849]:
+              - img "全球购" [ref=f41e852]
+              - text: 东芝（TOSHIBA）2TB高速加密金属随身硬盘手机电脑通用外置机械硬盘 黑色 1TB标配
+            - generic [ref=f41e854]:
+              - generic [ref=f41e855]:
+                - generic [ref=f41e856]: ¥
+                - generic [ref=f41e857]: "1419"
+                - generic [ref=f41e858]: .
+                - generic [ref=f41e859]: "33"
+              - generic [ref=f41e860]: 到手价
+              - generic [ref=f41e862]: ¥1669.8
+              - button [ref=f41e863]
+            - generic [ref=f41e866]: 立享8.5折
+            - generic [ref=f41e869]:
+              - generic "1人看过" [ref=f41e871]
+              - generic [ref=f41e872]: 广告
+            - generic [ref=f41e873]:
+              - generic [ref=f41e874]: AURORA电器海外专营店
+              - link [ref=f41e876]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10230517805036&score=0&commentNum=0&seller=AURORA%25E7%2594%25B5%25E5%2599%25A8%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F490828%252F21%252F1569%252F55864%252F6a6458f1Fc077e9e3%252F0083320320992de3.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%25892TB%25E9%25AB%2598%25E9%2580%259F%25E5%258A%25A0%25E5%25AF%2586%25E9%2587%2591%25E5%25B1%259E%25E9%259A%258F%25E8%25BA%25AB%25E7%25A1%25AC%25E7%259B%2598%25E6%2589%258B%25E6%259C%25BA%25E7%2594%25B5%25E8%2584%2591%25E9%2580%259A%25E7%2594%25A8%25E5%25A4%2596%25E7%25BD%25AE%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E9%25BB%2591%25E8%2589%25B2%25201TB%25E6%25A0%2587%25E9%2585%258D
+        - generic [ref=f41e878] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 12TB 512MB 7200RPM CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘ST12000NM002H" [ref=f41e881]
+          - generic [ref=f41e891]:
+            - generic [ref=f41e892]:
+              - img "自营" [ref=f41e895]
+              - text: 希捷（SEAGATE）企业级硬盘 12TB 512MB 7200RPM CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘ST12000NM002H
+            - generic [ref=f41e897]:
+              - generic [ref=f41e898]: 稳定耐用
+              - generic [ref=f41e899]: "|5年质保"
+              - generic [ref=f41e900]: "|512MB大缓存"
+              - generic [ref=f41e901]: "|平均故障间隔"
+            - generic [ref=f41e902]:
+              - generic [ref=f41e903]:
+                - generic [ref=f41e904]: ¥
+                - generic [ref=f41e905]: "6267"
+                - generic [ref=f41e906]: .
+                - generic [ref=f41e907]: "51"
+              - generic [ref=f41e908]: PLUS到手价
+              - generic [ref=f41e910]: ¥6299
+              - button [ref=f41e911]
+            - generic [ref=f41e914]:
+              - img "明日达" [ref=f41e916]
+              - generic [ref=f41e917]: PLUS立减31.49元
+              - generic [ref=f41e919]: 正品行货带票
+            - generic [ref=f41e922]:
+              - generic "已售300万+" [ref=f41e923]
+              - generic "3200+人种草" [ref=f41e924]
+            - generic [ref=f41e925]:
+              - generic [ref=f41e926]: 希捷Seagate京东自营旗舰店
+              - link [ref=f41e928]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=100345022460&score=5&evaluationRate=99&commentNum=200%25E4%25B8%2587%252B&seller=%25E5%25B8%258C%25E6%258D%25B7Seagate%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F545451%252F39%252F1563%252F173265%252F6acb73eeFd88c7190%252F008332032097ef30.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252012TB%2520512MB%25207200RPM%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3Exos%2520X24%25E7%25B3%25BB%25E5%2588%2597%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598ST12000NM002H
+        - generic [ref=f41e930] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 12TB 【ST12000NM002H 】X24" [ref=f41e933]
+          - generic [ref=f41e943]:
+            - generic [ref=f41e944]:
+              - img "京东物流" [ref=f41e947]
+              - text: 希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 12TB 【ST12000NM002H 】X24
+            - generic [ref=f41e949]:
+              - generic [ref=f41e950]: 企业级可靠
+              - generic [ref=f41e951]: "|7200转高速"
+              - generic [ref=f41e952]: "|12TB大容量"
+              - generic [ref=f41e953]: "|3.5英寸规格"
+            - generic [ref=f41e954]:
+              - generic [ref=f41e955]:
+                - generic [ref=f41e956]: ¥
+                - generic [ref=f41e957]: "5499"
+              - button [ref=f41e958]
+            - generic [ref=f41e961]:
+              - img "送货上门" [ref=f41e963]
+              - generic [ref=f41e964]: 包邮
+            - generic [ref=f41e967]:
+              - generic "已售4万+" [ref=f41e968]
+              - generic "1100+人种草" [ref=f41e969]
+            - generic [ref=f41e970]:
+              - generic [ref=f41e971]: Seagate希捷旗舰店
+              - link [ref=f41e973]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10217537144958&score=5&evaluationRate=98&commentNum=1%25E4%25B8%2587%252B&seller=Seagate%25E5%25B8%258C%25E6%258D%25B7%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F552457%252F3%252F6439%252F113043%252F6ae22a15Fb15e7d08%252F0083320320bc89c1.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E5%259E%2582%25E7%259B%25B4%25E7%25A1%25AC%25E7%259B%2598%2520PMR%2520CMR%2520SATA%2520%25E9%2593%25B6%25E6%25B2%25B3%25E7%25B3%25BB%25E5%2588%25977200%25E8%25BD%25AC%25E4%25BC%2581%25E4%25B8%259A%25E7%25A1%25AC%25E7%259B%25983.5%25E8%258B%25B1%25E5%25AF%25B8%252012TB%2520%25E3%2580%2590ST12000NM002H%2520%25E3%2580%2591X24
+        - generic [ref=f41e975] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）16T硬碟全新16T机械硬碟MG08ACA16TE企业级监控硬碟SATA 16TB 08TB MG08ACA16TE原装b 16TB" [ref=f41e978]
+          - generic [ref=f41e984]:
+            - generic [ref=f41e985]:
+              - img "全球购" [ref=f41e988]
+              - text: 东芝（TOSHIBA）16T硬碟全新16T机械硬碟MG08ACA16TE企业级监控硬碟SATA 16TB 08TB MG08ACA16TE原装b 16TB
+            - generic [ref=f41e990]:
+              - generic [ref=f41e991]:
+                - generic [ref=f41e992]: ¥
+                - generic [ref=f41e993]: "3602"
+                - generic [ref=f41e994]: .
+                - generic [ref=f41e995]: "61"
+              - generic [ref=f41e996]: 到手价
+              - generic [ref=f41e998]: ¥3639
+              - button [ref=f41e999]
+            - generic [ref=f41e1002]: 1件9.9折
+            - generic [ref=f41e1005]:
+              - generic "17人看过" [ref=f41e1007]
+              - generic [ref=f41e1008]: 广告
+            - generic [ref=f41e1009]:
+              - generic [ref=f41e1010]: ZP海外专营店
+              - link [ref=f41e1012]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10234243597041&score=0&commentNum=0&seller=ZP%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F476102%252F14%252F13252%252F555630%252F6a54b122Ffe0e458f%252F0083830aec80831d.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%258916T%25E7%25A1%25AC%25E7%25A2%259F%25E5%2585%25A8%25E6%2596%25B016T%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%25A2%259FMG08ACA16TE%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%259B%2591%25E6%258E%25A7%25E7%25A1%25AC%25E7%25A2%259FSATA%252016TB%252008TB%2520MG08ACA16TE%25E5%258E%259F%25E8%25A3%2585b%2520%252016TB
+        - generic [ref=f41e1014] [cursor=pointer]:
+          - generic "希捷24TB希捷银河氦气 ST24000NM000H Exos X24企业级硬盘 CMR垂直 7200转 24TB 需要线和螺丝请备注" [ref=f41e1017]
+          - generic [ref=f41e1019]:
+            - generic [ref=f41e1020]: 希捷24TB希捷银河氦气 ST24000NM000H Exos X24企业级硬盘 CMR垂直 7200转 24TB 需要线和螺丝请备注
+            - generic [ref=f41e1022]:
+              - generic [ref=f41e1023]: 3.5英寸
+              - generic [ref=f41e1024]: "|SATA接口"
+            - generic [ref=f41e1025]:
+              - generic [ref=f41e1026]:
+                - generic [ref=f41e1027]: ¥
+                - generic [ref=f41e1028]: "5000"
+              - button [ref=f41e1029]
+            - generic [ref=f41e1032]: 包邮
+            - generic [ref=f41e1036]:
+              - generic "1人看过" [ref=f41e1037]
+              - generic "100%好评" [ref=f41e1038]
+            - generic [ref=f41e1039]:
+              - generic [ref=f41e1040]: 柴器的小店
+              - link [ref=f41e1042]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10233505782720&score=5&evaluationRate=100&commentNum=2&seller=%25E6%259F%25B4%25E5%2599%25A8%25E7%259A%2584%25E5%25B0%258F%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F451109%252F19%252F16486%252F137198%252F6a36b41dF1c079b06%252F008344244224ffdc.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B724TB%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3%25E6%25B0%25A6%25E6%25B0%2594%2520ST24000NM000H%2520Exos%2520X24%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520CMR%25E5%259E%2582%25E7%259B%25B4%25207200%25E8%25BD%25AC%252024TB%2520%25E9%259C%2580%25E8%25A6%2581%25E7%25BA%25BF%25E5%2592%258C%25E8%259E%25BA%25E4%25B8%259D%25E8%25AF%25B7%25E5%25A4%2587%25E6%25B3%25A8
+        - generic [ref=f41e1044] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 希捷银河Exos SAS 7E10/X18系列 256MB 7200RPM CMR垂直 服务器硬盘 SAS接口 16TB 【ST16000NM007H】X24系列" [ref=f41e1047]
+          - generic [ref=f41e1059]:
+            - generic [ref=f41e1060]: 希捷（SEAGATE）企业级硬盘 希捷银河Exos SAS 7E10/X18系列 256MB 7200RPM CMR垂直 服务器硬盘 SAS接口 16TB 【ST16000NM007H】X24系列
+            - generic [ref=f41e1062]:
+              - generic [ref=f41e1063]: 16TB大容量
+              - generic [ref=f41e1064]: "|服务器专用"
+              - generic [ref=f41e1065]: "|7200转高速"
+              - generic [ref=f41e1066]: "|SAS接口"
+            - generic [ref=f41e1067]:
+              - generic [ref=f41e1068]:
+                - generic [ref=f41e1069]: ¥
+                - generic [ref=f41e1070]: "7299"
+              - button [ref=f41e1071]
+            - generic [ref=f41e1074]: 包邮
+            - generic [ref=f41e1078]:
+              - generic "已售300+" [ref=f41e1079]
+              - generic "98%好评" [ref=f41e1080]
+            - generic [ref=f41e1081]:
+              - generic [ref=f41e1082]: Seagate希捷旗舰店
+              - link [ref=f41e1084]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10222748526147&score=5&evaluationRate=98&commentNum=1%25E4%25B8%2587%252B&seller=Seagate%25E5%25B8%258C%25E6%258D%25B7%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F547787%252F27%252F10210%252F97616%252F6ae22a17Fb5e742ef%252F0083320320fec197.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3Exos%2520SAS%25207E10%252FX18%25E7%25B3%25BB%25E5%2588%2597%2520256MB%25207200RPM%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598%2520SAS%25E6%258E%25A5%25E5%258F%25A3%252016TB%2520%25E3%2580%2590ST16000NM007H%25E3%2580%2591X24%25E7%25B3%25BB%25E5%2588%2597
+        - generic [ref=f41e1086] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）小黑A5随身硬盘1T2T4T高速苹果手机外接机械硬盘 A5 标准款 磨砂面黑色(新款) 1TB标配" [ref=f41e1089]
+          - generic [ref=f41e1098]:
+            - generic [ref=f41e1099]:
+              - img "全球购" [ref=f41e1102]
+              - generic "东芝（TOSHIBA）小黑A5随身硬盘1T2T4T高速苹果手机外接机械硬盘 A5 标准款 磨砂面黑色(新款) 1TB标配" [ref=f41e1103]
+            - generic [ref=f41e1105]:
+              - generic [ref=f41e1106]: 苹果兼容
+              - generic [ref=f41e1107]: "|东芝小黑"
+              - generic [ref=f41e1108]: "|1T2T4T"
+            - generic [ref=f41e1109]:
+              - generic [ref=f41e1110]:
+                - generic [ref=f41e1111]: ¥
+                - generic [ref=f41e1112]: "1450"
+                - generic [ref=f41e1113]: .
+                - generic [ref=f41e1114]: "23"
+              - generic [ref=f41e1115]: 到手价
+              - generic [ref=f41e1117]: ¥1823.8
+              - button [ref=f41e1118]
+            - generic [ref=f41e1121]:
+              - generic [ref=f41e1122]: 立享8.5折
+              - generic [ref=f41e1124]: 券满3000减150
+            - generic [ref=f41e1126]:
+              - generic "2人看过" [ref=f41e1128]
+              - generic [ref=f41e1129]: 广告
+            - generic [ref=f41e1130]:
+              - generic [ref=f41e1131]: AURORA电器海外专营店
+              - link [ref=f41e1133]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10230517623955&score=0&commentNum=0&seller=AURORA%25E7%2594%25B5%25E5%2599%25A8%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F489550%252F19%252F2654%252F117182%252F6a6458f5F20a552d6%252F008332032091a80f.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%2589%25E5%25B0%258F%25E9%25BB%2591A5%25E9%259A%258F%25E8%25BA%25AB%25E7%25A1%25AC%25E7%259B%25981T2T4T%25E9%25AB%2598%25E9%2580%259F%25E8%258B%25B9%25E6%259E%259C%25E6%2589%258B%25E6%259C%25BA%25E5%25A4%2596%25E6%258E%25A5%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520A5%2520%25E6%25A0%2587%25E5%2587%2586%25E6%25AC%25BE%2520%25E7%25A3%25A8%25E7%25A0%2582%25E9%259D%25A2%25E9%25BB%2591%25E8%2589%25B2(%25E6%2596%25B0%25E6%25AC%25BE)%25201TB%25E6%25A0%2587%25E9%2585%258D
+        - generic [ref=f41e1135] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 16TB 【ST16000NM002H 】X24" [ref=f41e1138]
+          - generic [ref=f41e1150]:
+            - generic [ref=f41e1151]:
+              - img "京东物流" [ref=f41e1154]
+              - text: 希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 16TB 【ST16000NM002H 】X24
+            - generic [ref=f41e1156]:
+              - generic [ref=f41e1157]: 服务器级
+              - generic [ref=f41e1158]: "|16TB大容量"
+              - generic [ref=f41e1159]: "|SATA接口"
+              - generic [ref=f41e1160]: "|银河系列"
+            - generic [ref=f41e1161]:
+              - generic [ref=f41e1162]:
+                - generic [ref=f41e1163]: ¥
+                - generic [ref=f41e1164]: "6569"
+                - generic [ref=f41e1165]: .
+                - generic [ref=f41e1166]: "1"
+              - generic [ref=f41e1167]: 到手价
+              - generic [ref=f41e1169]: ¥7299
+              - button [ref=f41e1170]
+            - generic [ref=f41e1173]:
+              - img "送货上门" [ref=f41e1175]
+              - generic [ref=f41e1176]: 券满3000享9折
+              - generic [ref=f41e1178]: 包邮
+            - generic [ref=f41e1181]:
+              - generic "已售4万+" [ref=f41e1182]
+              - generic "4000+人种草" [ref=f41e1183]
+            - generic [ref=f41e1184]:
+              - generic [ref=f41e1185]: Seagate希捷旗舰店
+              - link [ref=f41e1187]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10174071442880&score=5&evaluationRate=98&commentNum=1%25E4%25B8%2587%252B&seller=Seagate%25E5%25B8%258C%25E6%258D%25B7%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F561444%252F31%252F2640%252F113048%252F6ae22a14Ff9a3b38b%252F00833203200a3012.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E5%259E%2582%25E7%259B%25B4%25E7%25A1%25AC%25E7%259B%2598%2520PMR%2520CMR%2520SATA%2520%25E9%2593%25B6%25E6%25B2%25B3%25E7%25B3%25BB%25E5%2588%25977200%25E8%25BD%25AC%25E4%25BC%2581%25E4%25B8%259A%25E7%25A1%25AC%25E7%259B%25983.5%25E8%258B%25B1%25E5%25AF%25B8%252016TB%2520%25E3%2580%2590ST16000NM002H%2520%25E3%2580%2591X24
+        - generic [ref=f41e1189] [cursor=pointer]:
+          - generic "希捷（SEAGATE）ST24000NM002HNM001K 24TB机械硬盘银河X24 ExosM企业级硬盘 24TB ST24000NM000H（全新原封 三年店保）白" [ref=f41e1192]
+          - generic [ref=f41e1200]:
+            - generic [ref=f41e1201]: 希捷（SEAGATE）ST24000NM002HNM001K 24TB机械硬盘银河X24 ExosM企业级硬盘 24TB ST24000NM000H（全新原封 三年店保）白
+            - generic [ref=f41e1203]:
+              - generic [ref=f41e1204]: 3.5英寸
+              - generic [ref=f41e1205]: "|企业级硬盘"
+              - generic [ref=f41e1206]: "|SATA接口"
+            - generic [ref=f41e1207]:
+              - generic [ref=f41e1208]:
+                - generic [ref=f41e1209]: ¥
+                - generic [ref=f41e1210]: "8160"
+              - button [ref=f41e1211]
+            - generic [ref=f41e1214]:
+              - generic [ref=f41e1215]: 只换不修
+              - generic [ref=f41e1217]: 包邮
+            - generic "100%好评" [ref=f41e1221]
+            - generic [ref=f41e1222]:
+              - generic [ref=f41e1223]: 瑞京康海安防产品店
+              - link [ref=f41e1225]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10226222666160&score=5&evaluationRate=100&commentNum=0&seller=%25E7%2591%259E%25E4%25BA%25AC%25E5%25BA%25B7%25E6%25B5%25B7%25E5%25AE%2589%25E9%2598%25B2%25E4%25BA%25A7%25E5%2593%2581%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F455086%252F13%252F9584%252F126657%252F6a30bc4fFb30e534d%252F00833203207b2013.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589ST24000NM002HNM001K%252024TB%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E9%2593%25B6%25E6%25B2%25B3X24%2520ExosM%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252024TB%2520ST24000NM000H%25EF%25BC%2588%25E5%2585%25A8%25E6%2596%25B0%25E5%258E%259F%25E5%25B0%2581%2520%25E4%25B8%2589%25E5%25B9%25B4%25E5%25BA%2597%25E4%25BF%259D%25EF%25BC%2589%25E7%2599%25BD
+        - generic [ref=f41e1227] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）全新18TB企业级硬碟氦气盘监控安防cmr 垂直NAS储存3.5寸SATA 09TB MG09/12T/全新未b" [ref=f41e1230]
+          - generic [ref=f41e1238]:
+            - generic [ref=f41e1239]:
+              - img "全球购" [ref=f41e1242]
+              - text: 东芝（TOSHIBA）全新18TB企业级硬碟氦气盘监控安防cmr 垂直NAS储存3.5寸SATA 09TB MG09/12T/全新未b
+            - generic [ref=f41e1244]:
+              - generic [ref=f41e1245]: 接口:M.2接口
+              - generic [ref=f41e1246]: "|系列:1"
+              - generic [ref=f41e1247]: "|型号:1"
+            - generic [ref=f41e1248]:
+              - generic [ref=f41e1249]:
+                - generic [ref=f41e1250]: ¥
+                - generic [ref=f41e1251]: "3603"
+                - generic [ref=f41e1252]: .
+                - generic [ref=f41e1253]: "6"
+              - generic [ref=f41e1254]: 到手价
+              - generic [ref=f41e1256]: ¥3640
+              - button [ref=f41e1257]
+            - generic [ref=f41e1260]: 1件9.9折
+            - generic [ref=f41e1263]:
+              - generic "3人看过" [ref=f41e1265]
+              - generic [ref=f41e1266]: 广告
+            - generic [ref=f41e1267]:
+              - generic [ref=f41e1268]: ZP海外专营店
+              - link [ref=f41e1270]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10234246066309&score=0&commentNum=0&seller=ZP%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F518565%252F23%252F1608%252F196133%252F6a968359Ff3a62ffe%252F00834b664830c1cd.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%2589%25E5%2585%25A8%25E6%2596%25B018TB%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%25A2%259F%25E6%25B0%25A6%25E6%25B0%2594%25E7%259B%2598%25E7%259B%2591%25E6%258E%25A7%25E5%25AE%2589%25E9%2598%25B2cmr%2520%25E5%259E%2582%25E7%259B%25B4NAS%25E5%2582%25A8%25E5%25AD%25983.5%25E5%25AF%25B8SATA%252009TB%2520MG09%252F12T%252F%25E5%2585%25A8%25E6%2596%25B0%25E6%259C%25AAb
+        - generic [ref=f41e1272] [cursor=pointer]:
+          - generic "希捷（SEAGATE）企业级硬盘 12TB 512MB 7200RPM CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘ST12000NM002H" [ref=f41e1275]
+          - generic [ref=f41e1287]:
+            - generic [ref=f41e1288]:
+              - img "自营" [ref=f41e1291]
+              - text: 希捷（SEAGATE）企业级硬盘 12TB 512MB 7200RPM CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘ST12000NM002H
+            - generic [ref=f41e1293]:
+              - generic [ref=f41e1294]: 7200rpm
+              - generic [ref=f41e1295]: "|512MB"
+              - generic [ref=f41e1296]: "|3.5英寸"
+            - generic [ref=f41e1297]:
+              - generic [ref=f41e1298]:
+                - generic [ref=f41e1299]: ¥
+                - generic [ref=f41e1300]: "6267"
+                - generic [ref=f41e1301]: .
+                - generic [ref=f41e1302]: "51"
+              - generic [ref=f41e1303]: PLUS到手价
+              - generic [ref=f41e1305]: ¥6299
+              - button [ref=f41e1306]
+            - generic [ref=f41e1309]:
+              - img "厂商配送" [ref=f41e1311]
+              - generic [ref=f41e1312]: PLUS立减31.49元
+              - generic [ref=f41e1314]: 只换不修
+            - generic [ref=f41e1317]:
+              - generic "1人看过" [ref=f41e1318]
+              - generic "100%好评" [ref=f41e1319]
+            - generic [ref=f41e1320]:
+              - generic [ref=f41e1321]: 惠普（HP）京东自营专区
+              - link [ref=f41e1323]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=100433154146&score=5&evaluationRate=100&commentNum=0&seller=%25E6%2583%25A0%25E6%2599%25AE%25EF%25BC%2588HP%25EF%25BC%2589%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E4%25B8%2593%25E5%258C%25BA&imgUrl=jfs%252Ft1%252F424304%252F21%252F2239%252F99635%252F69e74e4dF1480637e%252F008332032068f61c.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252012TB%2520512MB%25207200RPM%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3Exos%2520X24%25E7%25B3%25BB%25E5%2588%2597%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598ST12000NM002H
+        - generic [ref=f41e1325] [cursor=pointer]:
+          - generic "希捷机械硬盘企业级服务器24TB" [ref=f41e1328]
+          - generic [ref=f41e1338]:
+            - generic [ref=f41e1339]:
+              - img "京东物流" [ref=f41e1342]
+              - text: 希捷机械硬盘企业级服务器24TB
+            - generic [ref=f41e1344]:
+              - generic [ref=f41e1345]: 快速稳定
+              - generic [ref=f41e1346]: "|高效存储"
+              - generic [ref=f41e1347]: "|7200转高速"
+              - generic [ref=f41e1348]: "|企业级质量"
+            - generic [ref=f41e1349]:
+              - generic [ref=f41e1350]:
+                - generic [ref=f41e1351]: ¥
+                - generic [ref=f41e1352]: "11899"
+              - button [ref=f41e1353]
+            - generic [ref=f41e1356]:
+              - img "送货上门" [ref=f41e1358]
+              - generic [ref=f41e1359]: 包邮
+            - generic [ref=f41e1362]:
+              - generic "已售4万+" [ref=f41e1363]
+              - generic "900+人种草" [ref=f41e1364]
+            - generic [ref=f41e1365]:
+              - generic [ref=f41e1366]: Seagate希捷旗舰店
+              - link [ref=f41e1368]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10100189086561&score=5&evaluationRate=98&commentNum=1%25E4%25B8%2587%252B&seller=Seagate%25E5%25B8%258C%25E6%258D%25B7%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F546864%252F37%252F11884%252F113434%252F6ae22a16Fd5540782%252F008332032083cf84.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A824TB
+        - generic [ref=f41e1370] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）随身硬盘2T小黑A5高速大容量手机外接4T苹果兼容1T机械 A5 标准款 磨砂面黑色(新款) 1TB标配" [ref=f41e1373]
+          - generic [ref=f41e1382]:
+            - generic [ref=f41e1383]:
+              - img "全球购" [ref=f41e1386]
+              - generic "东芝（TOSHIBA）随身硬盘2T小黑A5高速大容量手机外接4T苹果兼容1T机械 A5 标准款 磨砂面黑色(新款) 1TB标配" [ref=f41e1387]
+            - generic [ref=f41e1389]:
+              - generic [ref=f41e1390]:
+                - generic [ref=f41e1391]: ¥
+                - generic [ref=f41e1392]: "1494"
+                - generic [ref=f41e1393]: .
+                - generic [ref=f41e1394]: "13"
+              - generic [ref=f41e1395]: 到手价
+              - generic [ref=f41e1397]: ¥1757.8
+              - button [ref=f41e1398]
+            - generic [ref=f41e1401]: 立享8.5折
+            - generic [ref=f41e1404]:
+              - generic "3人看过" [ref=f41e1406]
+              - generic [ref=f41e1407]: 广告
+            - generic [ref=f41e1408]:
+              - generic [ref=f41e1409]: AURORA电器海外专营店
+              - link [ref=f41e1411]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10230517603131&score=0&commentNum=0&seller=AURORA%25E7%2594%25B5%25E5%2599%25A8%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F489550%252F19%252F2654%252F117182%252F6a6458f5F20a552d6%252F008332032091a80f.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%2589%25E9%259A%258F%25E8%25BA%25AB%25E7%25A1%25AC%25E7%259B%25982T%25E5%25B0%258F%25E9%25BB%2591A5%25E9%25AB%2598%25E9%2580%259F%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%25E6%2589%258B%25E6%259C%25BA%25E5%25A4%2596%25E6%258E%25A54T%25E8%258B%25B9%25E6%259E%259C%25E5%2585%25BC%25E5%25AE%25B91T%25E6%259C%25BA%25E6%25A2%25B0%2520A5%2520%25E6%25A0%2587%25E5%2587%2586%25E6%25AC%25BE%2520%25E7%25A3%25A8%25E7%25A0%2582%25E9%259D%25A2%25E9%25BB%2591%25E8%2589%25B2(%25E6%2596%25B0%25E6%25AC%25BE)%25201TB%25E6%25A0%2587%25E9%2585%258D
+        - generic [ref=f41e1413] [cursor=pointer]:
+          - generic "希捷（SEAGATE）ST24000NM002HNM001K 24TB机械硬盘银河X24 ExosM企业级硬盘 24TB ST24000NM002H（全新原封 三年质保）2" [ref=f41e1416]
+          - generic [ref=f41e1424]:
+            - generic [ref=f41e1425]: 希捷（SEAGATE）ST24000NM002HNM001K 24TB机械硬盘银河X24 ExosM企业级硬盘 24TB ST24000NM002H（全新原封 三年质保）2
+            - generic [ref=f41e1427]:
+              - generic [ref=f41e1428]: 3.5英寸
+              - generic [ref=f41e1429]: "|企业级硬盘"
+              - generic [ref=f41e1430]: "|SATA接口"
+            - generic [ref=f41e1431]:
+              - generic [ref=f41e1432]:
+                - generic [ref=f41e1433]: ¥
+                - generic [ref=f41e1434]: "7896"
+              - button [ref=f41e1435]
+            - generic [ref=f41e1438]:
+              - generic [ref=f41e1439]: 只换不修
+              - generic [ref=f41e1441]: 包邮
+            - generic [ref=f41e1444]:
+              - generic "2人看过" [ref=f41e1445]
+              - generic "100%好评" [ref=f41e1446]
+            - generic [ref=f41e1447]:
+              - generic [ref=f41e1448]: 瑞京康海安防产品店
+              - link [ref=f41e1450]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10226222666162&score=5&evaluationRate=100&commentNum=0&seller=%25E7%2591%259E%25E4%25BA%25AC%25E5%25BA%25B7%25E6%25B5%25B7%25E5%25AE%2589%25E9%2598%25B2%25E4%25BA%25A7%25E5%2593%2581%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F455086%252F13%252F9584%252F126657%252F6a30bc4fFb30e534d%252F00833203207b2013.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589ST24000NM002HNM001K%252024TB%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E9%2593%25B6%25E6%25B2%25B3X24%2520ExosM%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252024TB%2520ST24000NM002H%25EF%25BC%2588%25E5%2585%25A8%25E6%2596%25B0%25E5%258E%259F%25E5%25B0%2581%2520%25E4%25B8%2589%25E5%25B9%25B4%25E8%25B4%25A8%25E4%25BF%259D%25EF%25BC%25892
+        - generic [ref=f41e1452] [cursor=pointer]:
+          - generic "希捷16T硬盘酷鱼16T机械硬盘ST16000DM001全新银河ST16000NM002H企业级16T X24系eXOS SATA接口服务器 16TB 全新ST16000DM001酷鱼16T" [ref=f41e1455]
+          - generic [ref=f41e1465]:
+            - generic [ref=f41e1466]: 希捷16T硬盘酷鱼16T机械硬盘ST16000DM001全新银河ST16000NM002H企业级16T X24系eXOS SATA接口服务器 16TB 全新ST16000DM001酷鱼16T
+            - generic [ref=f41e1468]:
+              - generic [ref=f41e1469]: 7200rpm
+              - generic [ref=f41e1470]: "|512MB"
+              - generic [ref=f41e1471]: "|3.5英寸"
+            - generic [ref=f41e1472]:
+              - generic [ref=f41e1473]:
+                - generic [ref=f41e1474]: ¥
+                - generic [ref=f41e1475]: "3780"
+              - button [ref=f41e1476]
+            - generic [ref=f41e1479]:
+              - generic [ref=f41e1480]: 只换不修
+              - generic [ref=f41e1482]: 包邮
+            - generic [ref=f41e1485]:
+              - generic "13人看过" [ref=f41e1486]
+              - generic "100%好评" [ref=f41e1487]
+            - generic [ref=f41e1488]:
+              - generic [ref=f41e1489]: 成都新伟电子店
+              - link [ref=f41e1491]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10217269448403&score=5&evaluationRate=100&commentNum=0&seller=%25E6%2588%2590%25E9%2583%25BD%25E6%2596%25B0%25E4%25BC%259F%25E7%2594%25B5%25E5%25AD%2590%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F412671%252F15%252F18020%252F347217%252F69db6aedF27b0c1f2%252F00835dc5dc0101b0.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B716T%25E7%25A1%25AC%25E7%259B%2598%25E9%2585%25B7%25E9%25B1%25BC16T%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598ST16000DM001%25E5%2585%25A8%25E6%2596%25B0%25E9%2593%25B6%25E6%25B2%25B3ST16000NM002H%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A716T%2520X24%25E7%25B3%25BBeXOS%2520SATA%25E6%258E%25A5%25E5%258F%25A3%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%252016TB%2520%25E5%2585%25A8%25E6%2596%25B0ST16000DM001%25E9%2585%25B7%25E9%25B1%25BC16T
+        - generic [ref=f41e1493] [cursor=pointer]:
+          - generic "东芝（TOSHIBA）商务加密随身硬盘1TB苹果电脑兼容机械硬盘 B3商务款 双饰面黑 1TB 套餐七" [ref=f41e1496]
+          - generic [ref=f41e1505]:
+            - generic [ref=f41e1506]:
+              - img "全球购" [ref=f41e1509]
+              - text: 东芝（TOSHIBA）商务加密随身硬盘1TB苹果电脑兼容机械硬盘 B3商务款 双饰面黑 1TB 套餐七
+            - generic [ref=f41e1511]:
+              - generic [ref=f41e1512]:
+                - generic [ref=f41e1513]: ¥
+                - generic [ref=f41e1514]: "1587"
+                - generic [ref=f41e1515]: .
+                - generic [ref=f41e1516]: "63"
+              - generic [ref=f41e1517]: 到手价
+              - generic [ref=f41e1519]: ¥1867.8
+              - button [ref=f41e1520]
+            - generic [ref=f41e1523]: 立享8.5折
+            - generic [ref=f41e1526]: 广告
+            - generic [ref=f41e1528]:
+              - generic [ref=f41e1529]: AURORA电器海外专营店
+              - link [ref=f41e1531]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10230525318133&score=0&commentNum=0&seller=AURORA%25E7%2594%25B5%25E5%2599%25A8%25E6%25B5%25B7%25E5%25A4%2596%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F482860%252F33%252F8816%252F28953%252F6a646c16F33af6ad0%252F008332032005e5ac.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%2589%25E5%2595%2586%25E5%258A%25A1%25E5%258A%25A0%25E5%25AF%2586%25E9%259A%258F%25E8%25BA%25AB%25E7%25A1%25AC%25E7%259B%25981TB%25E8%258B%25B9%25E6%259E%259C%25E7%2594%25B5%25E8%2584%2591%25E5%2585%25BC%25E5%25AE%25B9%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520B3%25E5%2595%2586%25E5%258A%25A1%25E6%25AC%25BE%2520%25E5%258F%258C%25E9%25A5%25B0%25E9%259D%25A2%25E9%25BB%2591%25201TB%2520%25E5%25A5%2597%25E9%25A4%2590%25E4%25B8%2583
+        - generic [ref=f41e1533] [cursor=pointer]:
+          - generic "希捷（SEAGATE）银河ST16000NM000H 企业级服务器氦气机械硬盘16tb大容量 NAS存储 16TB 原厂原标 企业级X24系列 ST16000NM000H-全新官换-店保3年" [ref=f41e1536]
+          - generic [ref=f41e1546]:
+            - generic [ref=f41e1547]: 希捷（SEAGATE）银河ST16000NM000H 企业级服务器氦气机械硬盘16tb大容量 NAS存储 16TB 原厂原标 企业级X24系列 ST16000NM000H-全新官换-店保3年
+            - generic [ref=f41e1549]:
+              - generic [ref=f41e1550]: 7200rpm
+              - generic [ref=f41e1551]: "|512MB"
+              - generic [ref=f41e1552]: "|3.5英寸"
+            - generic [ref=f41e1553]:
+              - generic [ref=f41e1554]:
+                - generic [ref=f41e1555]: ¥
+                - generic [ref=f41e1556]: "3338"
+              - button [ref=f41e1557]
+            - generic [ref=f41e1560]:
+              - generic [ref=f41e1561]: 只换不修
+              - generic [ref=f41e1563]: 包邮
+            - generic [ref=f41e1566]:
+              - generic "3人看过" [ref=f41e1567]
+              - generic "100%好评" [ref=f41e1568]
+            - generic [ref=f41e1569]:
+              - generic [ref=f41e1570]: 慕扬科技存储店
+              - link [ref=f41e1572]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10201512345966&score=5&evaluationRate=100&commentNum=1&seller=%25E6%2585%2595%25E6%2589%25AC%25E7%25A7%2591%25E6%258A%2580%25E5%25AD%2598%25E5%2582%25A8%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F526875%252F38%252F11716%252F107819%252F6ab5168fF290fe88e%252F0083320320844779.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E9%2593%25B6%25E6%25B2%25B3ST16000NM000H%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E6%25B0%25A6%25E6%25B0%2594%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%259816tb%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%2520NAS%25E5%25AD%2598%25E5%2582%25A8%252016TB%2520%25E5%258E%259F%25E5%258E%2582%25E5%258E%259F%25E6%25A0%2587%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7X24%25E7%25B3%25BB%25E5%2588%2597%2520ST16000NM000H-%25E5%2585%25A8%25E6%2596%25B0%25E5%25AE%2598%25E6%258D%25A2-%25E5%25BA%2597%25E4%25BF%259D3%25E5%25B9%25B4
+        - generic [ref=f41e1574] [cursor=pointer]:
+          - generic "希捷（SEAGATE）ST24000NM002HNM001K 24TB机械硬盘银河X24 ExosM企业级硬盘 24TB ST24000NM000H（全新原封 三年店保_2" [ref=f41e1577]
+          - generic [ref=f41e1585]:
+            - generic [ref=f41e1586]: 希捷（SEAGATE）ST24000NM002HNM001K 24TB机械硬盘银河X24 ExosM企业级硬盘 24TB ST24000NM000H（全新原封 三年店保_2
+            - generic [ref=f41e1588]:
+              - generic [ref=f41e1589]: 3.5英寸
+              - generic [ref=f41e1590]: "|企业级硬盘"
+              - generic [ref=f41e1591]: "|SATA接口"
+            - generic [ref=f41e1592]:
+              - generic [ref=f41e1593]:
+                - generic [ref=f41e1594]: ¥
+                - generic [ref=f41e1595]: "8580"
+              - button [ref=f41e1596]
+            - generic [ref=f41e1599]:
+              - generic [ref=f41e1600]: 只换不修
+              - generic [ref=f41e1602]: 包邮
+            - generic [ref=f41e1605]:
+              - generic "1人看过" [ref=f41e1606]
+              - generic "100%好评" [ref=f41e1607]
+            - generic [ref=f41e1608]:
+              - generic [ref=f41e1609]: 瑞京康海安防产品店
+              - link [ref=f41e1611]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10226222666161&score=5&evaluationRate=100&commentNum=0&seller=%25E7%2591%259E%25E4%25BA%25AC%25E5%25BA%25B7%25E6%25B5%25B7%25E5%25AE%2589%25E9%2598%25B2%25E4%25BA%25A7%25E5%2593%2581%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F455086%252F13%252F9584%252F126657%252F6a30bc4fFb30e534d%252F00833203207b2013.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589ST24000NM002HNM001K%252024TB%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E9%2593%25B6%25E6%25B2%25B3X24%2520ExosM%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252024TB%2520ST24000NM000H%25EF%25BC%2588%25E5%2585%25A8%25E6%2596%25B0%25E5%258E%259F%25E5%25B0%2581%2520%25E4%25B8%2589%25E5%25B9%25B4%25E5%25BA%2597%25E4%25BF%259D_2
+        - generic [ref=f41e1613] [cursor=pointer]:
+          - generic "希捷（SEAGATE）ST12000NM002H/000J 12TB机械硬盘银河X24企业级氦气监控台式 12TB X24 ST12000NM002H（全新原封 三年" [ref=f41e1616]
+          - generic [ref=f41e1624]:
+            - generic [ref=f41e1625]: 希捷（SEAGATE）ST12000NM002H/000J 12TB机械硬盘银河X24企业级氦气监控台式 12TB X24 ST12000NM002H（全新原封 三年
+            - generic [ref=f41e1627]:
+              - generic [ref=f41e1628]: 7200rpm
+              - generic [ref=f41e1629]: "|32MB"
+              - generic [ref=f41e1630]: "|3.5英寸"
+            - generic [ref=f41e1631]:
+              - generic [ref=f41e1632]:
+                - generic [ref=f41e1633]: ¥
+                - generic [ref=f41e1634]: "4579"
+              - button [ref=f41e1635]
+            - generic [ref=f41e1638]:
+              - generic [ref=f41e1639]: 只换不修
+              - generic [ref=f41e1641]: 包邮
+            - generic [ref=f41e1644]:
+              - generic "1人看过" [ref=f41e1645]
+              - generic "100%好评" [ref=f41e1646]
+            - generic [ref=f41e1647]:
+              - generic [ref=f41e1648]: 瑞京康海安防产品店
+              - link [ref=f41e1650]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=10232800170578&score=5&evaluationRate=100&commentNum=0&seller=%25E7%2591%259E%25E4%25BA%25AC%25E5%25BA%25B7%25E6%25B5%25B7%25E5%25AE%2589%25E9%2598%25B2%25E4%25BA%25A7%25E5%2593%2581%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F499185%252F9%252F10059%252F117459%252F6a82b452F8847d1a5%252F0083320320936173.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589ST12000NM002H%252F000J%252012TB%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E9%2593%25B6%25E6%25B2%25B3X24%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%25B0%25A6%25E6%25B0%2594%25E7%259B%2591%25E6%258E%25A7%25E5%258F%25B0%25E5%25BC%258F%252012TB%2520X24%2520ST12000NM002H%25EF%25BC%2588%25E5%2585%25A8%25E6%2596%25B0%25E5%258E%259F%25E5%25B0%2581%2520%25E4%25B8%2589%25E5%25B9%25B4
+        - generic [ref=f41e1652] [cursor=pointer]:
+          - generic "企业级硬盘7200转CMR希捷银河" [ref=f41e1655]
+          - generic [ref=f41e1667]:
+            - generic [ref=f41e1668]:
+              - img "自营" [ref=f41e1671]
+              - text: 企业级硬盘7200转CMR希捷银河
+            - generic [ref=f41e1673]:
+              - generic [ref=f41e1674]: 7200rpm
+              - generic [ref=f41e1675]: "|512MB"
+              - generic [ref=f41e1676]: "|3.5英寸"
+            - generic [ref=f41e1677]:
+              - generic [ref=f41e1678]:
+                - generic [ref=f41e1679]: ¥
+                - generic [ref=f41e1680]: "7959"
+                - generic [ref=f41e1681]: .
+                - generic [ref=f41e1682]: "01"
+              - generic [ref=f41e1683]: PLUS到手价
+              - generic [ref=f41e1685]: ¥7999
+              - button [ref=f41e1686]
+            - generic [ref=f41e1689]:
+              - img "厂商配送" [ref=f41e1691]
+              - generic [ref=f41e1692]: PLUS立减39.99元
+              - generic [ref=f41e1694]: 只换不修
+            - generic [ref=f41e1697]:
+              - generic "2人看过" [ref=f41e1698]
+              - generic "100%好评" [ref=f41e1699]
+            - generic [ref=f41e1700]:
+              - generic [ref=f41e1701]: 惠普（HP）京东自营专区
+              - link [ref=f41e1703]:
+                - /url: //chat.jd.com/index.action?entry=jd_search&pid=100330351093&score=5&evaluationRate=100&commentNum=0&seller=%25E6%2583%25A0%25E6%2599%25AE%25EF%25BC%2588HP%25EF%25BC%2589%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E4%25B8%2593%25E5%258C%25BA&imgUrl=jfs%252Ft1%252F477181%252F35%252F5913%252F84275%252F6a505975F763c3845%252F0083320320a7c767.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%25987200%25E8%25BD%25ACCMR%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3
+  - generic [ref=f41e1705]:
+    - list [ref=f41e1708]:
+      - listitem [ref=f41e1709]:
+        - generic [ref=f41e1710]:
+          - heading "多" [level=5] [ref=f41e1711]
+          - paragraph [ref=f41e1712]: 品类齐全，轻松购物
+      - listitem [ref=f41e1713]:
+        - generic [ref=f41e1714]:
+          - heading "快" [level=5] [ref=f41e1715]
+          - paragraph [ref=f41e1716]: 多仓直发，极速配送
+      - listitem [ref=f41e1717]:
+        - generic [ref=f41e1718]:
+          - heading "好" [level=5] [ref=f41e1719]
+          - paragraph [ref=f41e1720]: 正品行货，精致服务
+      - listitem [ref=f41e1721]:
+        - generic [ref=f41e1722]:
+          - heading "省" [level=5] [ref=f41e1723]
+          - paragraph [ref=f41e1724]: 天天低价，畅选无忧
+    - generic [ref=f41e1727]:
+      - generic [ref=f41e1728]:
+        - heading "购物指南" [level=5] [ref=f41e1729]
+        - list [ref=f41e1730]:
+          - listitem [ref=f41e1731]:
+            - link "购物流程" [ref=f41e1732] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-29.html
+          - listitem [ref=f41e1733]:
+            - link "会员介绍" [ref=f41e1734] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-151.html
+          - listitem [ref=f41e1735]:
+            - link "生活旅行" [ref=f41e1736] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-297.html
+          - listitem [ref=f41e1737]:
+            - link "常见问题" [ref=f41e1738] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue.html
+          - listitem [ref=f41e1739]:
+            - link "大家电" [ref=f41e1740] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-136.html
+          - listitem [ref=f41e1741]:
+            - link "联系客服" [ref=f41e1742] [cursor=pointer]:
+              - /url: //help.jd.com/user/custom.html
+      - generic [ref=f41e1743]:
+        - heading "配送方式" [level=5] [ref=f41e1744]
+        - list [ref=f41e1745]:
+          - listitem [ref=f41e1746]:
+            - link "上门自提" [ref=f41e1747] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81-100.html
+          - listitem [ref=f41e1748]:
+            - link "211限时达" [ref=f41e1749] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81.html
+          - listitem [ref=f41e1750]:
+            - link "配送服务查询" [ref=f41e1751] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-82.html
+          - listitem [ref=f41e1752]:
+            - link "配送费收取标准" [ref=f41e1753] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/109-188.html
+      - generic [ref=f41e1754]:
+        - heading "支付方式" [level=5] [ref=f41e1755]
+        - list [ref=f41e1756]:
+          - listitem [ref=f41e1757]:
+            - link "货到付款" [ref=f41e1758] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-172.html
+          - listitem [ref=f41e1759]:
+            - link "在线支付" [ref=f41e1760] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-173.html
+          - listitem [ref=f41e1761]:
+            - link "分期付款" [ref=f41e1762] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-176.html
+          - listitem [ref=f41e1763]:
+            - link "公司转账" [ref=f41e1764] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-175.html
+      - generic [ref=f41e1765]:
+        - heading "售后服务" [level=5] [ref=f41e1766]
+        - list [ref=f41e1767]:
+          - listitem [ref=f41e1768]:
+            - link "售后政策" [ref=f41e1769] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-112.html
+          - listitem [ref=f41e1770]:
+            - link "价格保护" [ref=f41e1771] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-132.html
+          - listitem [ref=f41e1772]:
+            - link "退款说明" [ref=f41e1773] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/130-978.html
+          - listitem [ref=f41e1774]:
+            - link "返修/退换货" [ref=f41e1775] [cursor=pointer]:
+              - /url: //myjd.jd.com/repair/repairs.action
+          - listitem [ref=f41e1776]:
+            - link "取消订单" [ref=f41e1777] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-50.html
+      - generic [ref=f41e1778]:
+        - heading "特色服务" [level=5] [ref=f41e1779]
+        - list [ref=f41e1780]:
+          - listitem [ref=f41e1781]:
+            - link "夺宝岛" [ref=f41e1782] [cursor=pointer]:
+              - /url: //paipai.jd.com/auction-list/
+          - listitem [ref=f41e1783]:
+            - link "DIY装机" [ref=f41e1784] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-134.html
+          - listitem [ref=f41e1785]:
+            - link "延保服务" [ref=f41e1786] [cursor=pointer]:
+              - /url: //fuwu.jd.com/
+          - listitem [ref=f41e1787]:
+            - link "京东E卡" [ref=f41e1788] [cursor=pointer]:
+              - /url: //o.jd.com/market/index.action
+          - listitem [ref=f41e1789]:
+            - link "京东通信" [ref=f41e1790] [cursor=pointer]:
+              - /url: //mobile.jd.com/
+          - listitem [ref=f41e1791]:
+            - link "京鱼座智能" [ref=f41e1792] [cursor=pointer]:
+              - /url: //smart.jd.com/
+    - generic [ref=f41e1793]:
+      - generic [ref=f41e1794]:
+        - paragraph [ref=f41e1795]:
+          - link "关于我们" [ref=f41e1796] [cursor=pointer]:
+            - /url: //about.jd.com
+          - generic [ref=f41e1797]: "|"
+          - link "联系我们" [ref=f41e1798] [cursor=pointer]:
+            - /url: //about.jd.com/contact
+          - generic [ref=f41e1799]: "|"
+          - link "联系客服" [ref=f41e1800] [cursor=pointer]:
+            - /url: //help.jd.com/user/custom.html
+          - generic [ref=f41e1801]: "|"
+          - link "合作招商" [ref=f41e1802] [cursor=pointer]:
+            - /url: //lai.jd.com
+          - generic [ref=f41e1803]: "|"
+          - link "商家帮助" [ref=f41e1804] [cursor=pointer]:
+            - /url: //helpcenter.jd.com/venderportal/index.html
+          - generic [ref=f41e1805]: "|"
+          - link "营销中心" [ref=f41e1806] [cursor=pointer]:
+            - /url: //jzt.jd.com
+          - generic [ref=f41e1807]: "|"
+          - link "手机京东" [ref=f41e1808] [cursor=pointer]:
+            - /url: //app.jd.com/
+          - generic [ref=f41e1809]: "|"
+          - link "友情链接" [ref=f41e1810] [cursor=pointer]:
+            - /url: //club.jd.com/links.aspx
+          - generic [ref=f41e1811]: "|"
+          - link "销售联盟" [ref=f41e1812] [cursor=pointer]:
+            - /url: //union.jd.com/index
+          - generic [ref=f41e1813]: "|"
+          - link "京东社区" [ref=f41e1814] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html
+          - generic [ref=f41e1815]: "|"
+          - link "风险监测" [ref=f41e1816] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html
+          - generic [ref=f41e1817]: "|"
+          - link "质量公告" [ref=f41e1818] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/2udA8Qxf3A54dVVseY5CdUMSgQPs/index.html
+          - generic [ref=f41e1819]: "|"
+          - link "隐私政策" [ref=f41e1820] [cursor=pointer]:
+            - /url: //about.jd.com/privacy/
+          - generic [ref=f41e1821]: "|"
+          - link "京东公益" [ref=f41e1822] [cursor=pointer]:
+            - /url: //gongyi.jd.com
+          - generic [ref=f41e1823]: "|"
+          - link "Media&IR" [ref=f41e1824] [cursor=pointer]:
+            - /url: //corporate.jd.com
+        - generic [ref=f41e1825]:
+          - generic [ref=f41e1826]:
+            - paragraph [ref=f41e1827]:
+              - link "京公网安备 11000002000088号" [ref=f41e1828] [cursor=pointer]:
+                - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088
+              - generic [ref=f41e1829]: "|"
+              - link "京ICP备11041704号" [ref=f41e1830] [cursor=pointer]:
+                - /url: http://beian.miit.gov.cn
+              - generic [ref=f41e1831]: "|"
+              - link "ICP" [ref=f41e1832] [cursor=pointer]:
+                - /url: //h5.m.jd.com/pc/dev/3T3No18XR8k8rpLGLGhgbJ1StAFq/index.html
+              - generic [ref=f41e1833]: "|"
+              - link "药品医疗器械网络信息服务备案" [ref=f41e1834] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/2zRnBcZVhdAcWBMvBnoRcUdi3HBt/index.html
+              - generic [ref=f41e1835]: "|"
+              - link "自营医疗器械经营资质" [ref=f41e1836] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/MZXpsnbHS3omkFAk4R4jYwXTb4c/index.html
+              - generic [ref=f41e1837]: "|"
+              - link "药品网络交易第三方平台备案凭证" [ref=f41e1838] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/2pwvdCM94gBdWruSu82PkqzKyi3U/index.html
+              - generic [ref=f41e1839]: "|"
+              - text: 新出发京零 字第大120007号
+            - paragraph [ref=f41e1840]:
+              - text: 互联网出版许可证编号新出网证(京)字150号
+              - generic [ref=f41e1841]: "|"
+              - link "出版物经营许可证" [ref=f41e1842] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html
+              - generic [ref=f41e1843]: "|"
+              - text: 违法和不良信息举报电话：4006561155
+              - generic [ref=f41e1844]: "|"
+              - text: Copyright © 2004 - 2026 京东JINGDONG 版权所有
+            - paragraph [ref=f41e1845]:
+              - link "经营证照" [ref=f41e1846] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/38PitHBfR7ZopNHRSHnuuWR5AMDL/index.html
+              - generic [ref=f41e1847]: "|"
+              - link "医疗器械第三方平台备案凭证（京）网械平台备字（2023）第00013号" [ref=f41e1848] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/36mqawDTyFwQpodmiJGf6bvPA8hs/index.html
+              - generic [ref=f41e1849]: "|"
+              - link "营业执照" [ref=f41e1850] [cursor=pointer]:
+                - /url: //h5.m.jd.com/babelDiy/Zeus/ARcYnJ8coUdUecn6UQAN6TDaVmH/index.html
+              - generic [ref=f41e1851]: "|"
+              - link "增值电信业务经营许可证" [ref=f41e1852] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/3pNwSArkXgfvVYvejSxj44cRgPvQ/index.html
+          - paragraph [ref=f41e1854]:
+            - text: 京东旗下网站：
+            - link "京东钱包" [ref=f41e1855] [cursor=pointer]:
+              - /url: https://www.jdpay.com/
+            - generic [ref=f41e1856]: "|"
+            - link "京东云" [ref=f41e1857] [cursor=pointer]:
+              - /url: http://www.jdcloud.com
+            - generic [ref=f41e1858]: "|"
+            - text: 网络内容从业人员违法违规行为举报电话：4006561155-3
+      - paragraph [ref=f41e1859]:
+        - link "可信网站信用评估" [ref=f41e1860] [cursor=pointer]:
+          - /url: https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ampct=df&amppa=294005
+        - link "网络警察提醒你" [ref=f41e1861] [cursor=pointer]:
+          - /url: http://cyberpolice.mps.gov.cn/
+        - link "诚信网站" [ref=f41e1862] [cursor=pointer]:
+          - /url: https://search.szfw.org/cert/l/CX20120111001803001836
+        - link "中国互联网举报中心" [ref=f41e1863] [cursor=pointer]:
+          - /url: http://www.12377.cn/
+        - link "网络举报APP下载" [ref=f41e1864] [cursor=pointer]:
+          - /url: http://www.12377.cn/node_548446.htm
+        - link "扫黄打非网举报专区" [ref=f41e1865] [cursor=pointer]:
+          - /url: https://www.shdf.gov.cn/
+        - link "适老化无障碍服务" [ref=f41e1866] [cursor=pointer]:
+          - /url: "#none"
+        - link "国家知识产权公共服务网" [ref=f41e1867] [cursor=pointer]:
+          - /url: https://ggfw.cnipa.gov.cn/home

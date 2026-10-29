@@ -1,0 +1,87 @@
+{
+  "id": "laptop-office-2026",
+  "name": "办公轻薄本评分卡",
+  "category": "轻薄本",
+  "version": "2.0",
+  "rationale": "先看是否满足内存/硬盘/发票等硬需求，再在同价位里比较性能；渠道与评价作为风险提示，不参与主排序。",
+  "stages": {"fit_threshold": 0.8},
+  "enrichment_targets": ["price", "detail.warranty", "detail.invoice", "attributes.cpu", "reviews"],
+  "hard_filters": [
+    {
+      "id": "budget",
+      "label": "单件预算",
+      "field": "landed_price.floor",
+      "op": "lte",
+      "value_from": "budget_per_unit_cny",
+      "missing": "review",
+      "reason": "到手价下限不得超过单件预算"
+    },
+    {
+      "id": "used_or_refurb",
+      "label": "排除二手/翻新",
+      "field": "title",
+      "op": "not_contains_any",
+      "value": ["二手", "翻新", "9成新"],
+      "missing": "pass",
+      "reason": "采购要求全新品"
+    },
+    {
+      "id": "ad",
+      "label": "排除广告位",
+      "field": "flags.ad",
+      "op": "eq",
+      "value": false,
+      "missing": "pass",
+      "reason": "广告位不作为采购候选"
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "performance",
+      "label": "性能",
+      "group": "value",
+      "weight": 1.0,
+      "method": "keyword",
+      "field": "attributes.cpu",
+      "rules": [
+        {"any": ["Ultra 7", "i7", "Ryzen 7"], "score": 5, "label": "高性能档"},
+        {"any": ["Ultra 5", "i5", "Ryzen 5"], "score": 3, "label": "主流档"},
+        {"any": ["赛扬", "N100", "Atom"], "score": 1, "label": "低性能档"}
+      ],
+      "default": 2,
+      "missing": "worst"
+    },
+    {
+      "id": "seller",
+      "label": "渠道",
+      "group": "risk",
+      "weight": 0.5,
+      "method": "keyword",
+      "field": "shop_name",
+      "rules": [
+        {"any": ["自营", "官方旗舰店"], "score": 5, "label": "自营/官方旗舰店"},
+        {"any": ["旗舰店"], "score": 4, "label": "旗舰店"},
+        {"any": ["专营", "专卖"], "score": 3, "label": "专营/专卖店"}
+      ],
+      "default": 2,
+      "missing": "worst"
+    },
+    {
+      "id": "reviews",
+      "label": "评价",
+      "group": "risk",
+      "weight": 0.5,
+      "method": "reviews",
+      "field": "reviews.rating",
+      "negative_rate_penalty": 2.5,
+      "missing": "worst"
+    }
+  ],
+  "confidence": {"weight_coverage_min": 0.7, "penalize_missing": true},
+  "confirmed": {
+    "by_user": true,
+    "at": "2026-10-29T08:00:00+08:00",
+    "revision": 1,
+    "changes": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "category": "轻薄本",
+  "item_description": "团队用 14 英寸轻薄本",
+  "quantity": 2,
+  "budget_cny": 12000,
+  "budget_per_unit_cny": 6000,
+  "must_have": ["16GB 内存", "1TB 硬盘", "至少 2 年保修"],
+  "nice_to_have": ["高色域屏", "轻于 1.5kg"],
+  "exclusions": ["二手", "翻新"],
+  "allow_split": true,
+  "allow_alternative_models": true,
+  "invoice_required": true,
+  "min_warranty_months": 24,
+  "usage_context": "日常办公、差旅",
+  "requirements": [
+    {"id": "ram", "type": "must", "label": "16GB 内存", "field": "attributes.ram_gb", "op": "gte", "value": 16, "missing": "review"},
+    {"id": "storage", "type": "must", "label": "1TB 硬盘", "field": "attributes.storage_gb", "op": "gte", "value": 1000, "missing": "review"},
+    {"id": "invoice", "type": "must", "label": "可开发票", "field": "detail.invoice", "op": "contains_any", "value": ["发票"], "missing": "review"},
+    {"id": "warranty", "type": "should", "label": "3 年保修", "weight": 0.5, "field": "detail.warranty", "op": "contains_any", "value": ["3年", "三年"], "missing": "worst"},
+    {"id": "seller", "type": "should", "label": "自营/官方渠道", "weight": 0.3, "field": "shop_name", "op": "contains_any", "value": ["自营", "官方旗舰"], "missing": "worst"},
+    {"id": "performance", "type": "should", "label": "主流以上 CPU", "weight": 0.2, "field": "attributes.cpu", "op": "contains_any", "value": ["Ultra 5", "Ultra 7", "i5", "i7"], "missing": "worst"}
+  ],
+  "confirmed": {
+    "by_user": true,
+    "at": "2026-10-29T08:00:00+08:00",
+    "revision": 1,
+    "changes": []
+  },
+  "assumptions": ["预算按单件 6000 元理解"]
+}

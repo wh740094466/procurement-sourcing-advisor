@@ -1,0 +1,1319 @@
+- generic [active] [ref=f32e1]:
+  - navigation "顶部导航" [ref=f32e4]:
+    - list [ref=f32e5]:
+      - listitem [ref=f32e6]:
+        - generic "京东首页" [ref=f32e10] [cursor=pointer]
+      - listitem [ref=f32e11]
+      - listitem [ref=f32e12]:
+        - generic [ref=f32e13]:
+          - link "jd_o84d14k2a..." [ref=f32e15] [cursor=pointer]:
+            - /url: //home.jd.com/
+          - generic [ref=f32e16]: 
+      - listitem [ref=f32e17]
+      - listitem [ref=f32e18]:
+        - link "切换企业版" [ref=f32e20] [cursor=pointer]:
+          - /url: //b.jd.com/?entry=newuser&bjdSourceChannel=cjdqiehuanbjd
+      - generic [ref=f32e21]:
+        - listitem [ref=f32e22]
+        - listitem [ref=f32e23]:
+          - generic [ref=f32e24]: 同款搜低价
+      - generic [ref=f32e26]:
+        - listitem [ref=f32e27]
+        - listitem [ref=f32e28]:
+          - generic [ref=f32e29]: 桌面版
+    - list [ref=f32e31]:
+      - listitem [ref=f32e32]:
+        - link "购物车 7" [ref=f32e36] [cursor=pointer]:
+          - /url: //cart.jd.com/cart.action
+      - listitem [ref=f32e37]
+      - listitem [ref=f32e38]:
+        - link "我的订单" [ref=f32e40] [cursor=pointer]:
+          - /url: //order.jd.com/center/list.action
+      - listitem [ref=f32e41]
+      - listitem [ref=f32e42]:
+        - generic [ref=f32e43]:
+          - link "我的京东" [ref=f32e44] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - generic [ref=f32e45]: 
+      - listitem [ref=f32e46]
+      - listitem [ref=f32e47]:
+        - generic [ref=f32e48]:
+          - link "企业采购" [ref=f32e49] [cursor=pointer]:
+            - /url: //b.jd.com/?bjdSourceChannel=cjdqiehuanqiyeban
+          - generic [ref=f32e50]: 
+      - listitem [ref=f32e51]
+      - listitem [ref=f32e52]:
+        - button "网站导航" [ref=f32e53]:
+          - text: 网站导航
+          - generic [ref=f32e54]: 
+      - listitem [ref=f32e55]
+      - listitem [ref=f32e56]
+  - generic [ref=f32e59]:
+    - generic [ref=f32e62]:
+      - link [ref=f32e64] [cursor=pointer]:
+        - /url: https://www.jd.com/
+      - generic [ref=f32e65]:
+        - generic [ref=f32e66]:
+          - textbox "搜索" [ref=f32e67]: 27英寸 2K 办公显示器
+          - generic [ref=f32e68]:
+            - generic [ref=f32e69]: 搜索
+            - switch [ref=f32e70] [cursor=pointer]
+          - generic [ref=f32e75] [cursor=pointer]
+          - button "搜索" [ref=f32e77] [cursor=pointer]
+        - generic [ref=f32e78]:
+          - generic [ref=f32e79] [cursor=pointer]: 卓威显示器
+          - generic [ref=f32e80] [cursor=pointer]: 显示器4k电竞
+          - generic [ref=f32e81] [cursor=pointer]: 显示器1k
+          - generic [ref=f32e82] [cursor=pointer]: 显示器2k办公
+          - generic [ref=f32e83] [cursor=pointer]: 便携显示器
+          - generic [ref=f32e84] [cursor=pointer]: 显示器27英寸
+          - generic [ref=f32e85] [cursor=pointer]: 显示器oled
+          - generic [ref=f32e86] [cursor=pointer]: 4k显示器
+          - generic [ref=f32e87] [cursor=pointer]: 显示器lg
+          - generic [ref=f32e88] [cursor=pointer]: 小米显示器
+    - generic [ref=f32e92]:
+      - generic [ref=f32e93]:
+        - generic [ref=f32e95]:
+          - img "ai-icon" [ref=f32e96]
+          - generic [ref=f32e97]: 购物灵感
+          - generic [ref=f32e2125]: 结合全网消费趋势，为你总结出以下热卖的27英寸+2K+办公显示器类型
+        - generic [ref=f32e2127]:
+          - generic [ref=f32e2128] [cursor=pointer]: 戴尔
+          - generic [ref=f32e2130] [cursor=pointer]: 小米
+          - generic [ref=f32e2132] [cursor=pointer]: AOC
+          - generic [ref=f32e2134] [cursor=pointer]: 华为
+          - generic [ref=f32e2136] [cursor=pointer]: 苹果
+          - generic [ref=f32e2138] [cursor=pointer]: 三星
+          - generic [ref=f32e2140] [cursor=pointer]: 微星
+          - generic [ref=f32e2142] [cursor=pointer]: 技嘉
+          - generic [ref=f32e2144] [cursor=pointer]: 标准刷新
+          - generic [ref=f32e2146] [cursor=pointer]: 高刷新
+          - generic [ref=f32e2148] [cursor=pointer]: 专业高刷
+          - generic [ref=f32e2150] [cursor=pointer]: 旗舰高刷
+      - generic [ref=f32e100]:
+        - generic [ref=f32e101]:
+          - generic [ref=f32e103] [cursor=pointer]:
+            - generic [ref=f32e104]: 全部商品
+            - generic [ref=f32e106]: 新品
+            - generic [ref=f32e107]: 店铺
+            - generic "企业购精选商品，企业热销、超低折扣、对公支付、开票无忧" [ref=f32e108]: 企业采购
+            - generic [ref=f32e109]: 工业品
+          - generic [ref=f32e110]:
+            - generic [ref=f32e111] [cursor=pointer]:
+              - generic [ref=f32e112]: 配送至
+              - generic [ref=f32e113]: 江苏南京市江宁区秣陵街道
+            - generic [ref=f32e118]:
+              - generic [ref=f32e119] [cursor=pointer]: 传统模式
+              - generic [ref=f32e120] [cursor=pointer]: 简洁模式
+        - generic [ref=f32e123]:
+          - generic [ref=f32e125]:
+            - generic [ref=f32e126]:
+              - generic [ref=f32e127]: 品牌
+              - generic [ref=f32e130]:
+                - generic [ref=f32e131] [cursor=pointer]: AOC
+                - generic [ref=f32e133] [cursor=pointer]: HKC
+                - generic [ref=f32e135] [cursor=pointer]: KTC
+                - generic [ref=f32e137] [cursor=pointer]: 小米（MI）
+                - generic [ref=f32e139] [cursor=pointer]: SANC
+                - generic [ref=f32e141] [cursor=pointer]: 华硕（ASUS）
+                - generic [ref=f32e143] [cursor=pointer]: 泰坦军团（TITAN ARMY）
+                - generic [ref=f32e145] [cursor=pointer]: 卓威ZOWIE
+                - generic [ref=f32e147] [cursor=pointer]: 雕塑家（sculptor）
+                - generic [ref=f32e149] [cursor=pointer]: 长虹
+            - generic [ref=f32e151] [cursor=pointer]: 更多
+          - generic [ref=f32e155]: 展开筛选
+        - generic [ref=f32e164]:
+          - generic [ref=f32e165]:
+            - generic [ref=f32e166]:
+              - generic [ref=f32e167]:
+                - generic [ref=f32e168]: 综合
+                - generic [ref=f32e174] [cursor=pointer]: 销量
+                - generic [ref=f32e178] [cursor=pointer]: 价格
+              - generic [ref=f32e182]: 价格区间
+            - generic [ref=f32e192]:
+              - generic [ref=f32e193]: 京东物流
+              - generic [ref=f32e197] [cursor=pointer]
+              - generic [ref=f32e201] [cursor=pointer]
+              - generic [ref=f32e204]: 自营/旗舰
+              - generic [ref=f32e212]: PLUS95折
+              - generic [ref=f32e215]: 品牌
+              - generic [ref=f32e223]: 京东国际
+              - generic [ref=f32e227] [cursor=pointer]
+              - generic [ref=f32e230]: 货到付款
+              - generic [ref=f32e233]: 仅显示有货
+              - generic [ref=f32e236]: 211限时达
+              - generic [ref=f32e239]: 可配送全球
+          - generic [ref=f32e242]:
+            - generic [ref=f32e243]:
+              - generic [ref=f32e244] [cursor=pointer]
+              - generic [ref=f32e246]: "1"
+              - generic [ref=f32e247]: /
+              - generic [ref=f32e248]: "16"
+              - generic [ref=f32e249] [cursor=pointer]
+            - generic [ref=f32e253] [cursor=pointer]: 更多
+      - generic [ref=f32e256]:
+        - generic [ref=f32e258]:
+          - generic [ref=f32e260] [cursor=pointer]:
+            - generic "微星（MSI）流光X32 MAG 271QPX32 27英寸2K原生320Hz 三星第四代OLED电脑显示器 电竞显示屏" [ref=f32e263]: 广告
+            - generic [ref=f32e276]:
+              - generic [ref=f32e277]:
+                - img "自营" [ref=f32e280]
+                - generic "微星（MSI）流光X32 MAG 271QPX32 27英寸2K原生320Hz 三星第四代OLED电脑显示器 电竞显示屏" [ref=f32e281]
+              - generic [ref=f32e283]:
+                - generic [ref=f32e284]: 1千+人收藏
+                - generic [ref=f32e285]: "|近30日热销商品"
+              - generic [ref=f32e286]:
+                - generic [ref=f32e287]:
+                  - generic [ref=f32e288]: ¥
+                  - generic [ref=f32e289]: "2883"
+                  - generic [ref=f32e290]: .
+                  - generic [ref=f32e291]: "56"
+                - generic [ref=f32e292]: PLUS到手价
+                - generic [ref=f32e294]: ¥3089
+                - button [ref=f32e295]
+              - generic [ref=f32e298]:
+                - img "明日达" [ref=f32e300]
+                - generic [ref=f32e301]: 券满1500减190
+                - generic [ref=f32e303]: 券满4000减560
+                - generic [ref=f32e305]: 只换不修
+              - generic "已售2万+" [ref=f32e309]
+              - generic [ref=f32e310]:
+                - generic [ref=f32e311]: 微星京东自营旗舰店
+                - link [ref=f32e313]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100314073459&score=0&commentNum=1%25E4%25B8%2587%252B&seller=%25E5%25BE%25AE%25E6%2598%259F%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft20271028%252F548909%252F22%252F8782%252F180068%252F6ae1cc56F60c17495%252F0944320320d379fc.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25BE%25AE%25E6%2598%259F%25EF%25BC%2588MSI%25EF%25BC%2589%25E6%25B5%2581%25E5%2585%2589X32%2520MAG%2520271QPX32%252027%25E8%258B%25B1%25E5%25AF%25B82K%25E5%258E%259F%25E7%2594%259F320Hz%2520%25E4%25B8%2589%25E6%2598%259F%25E7%25AC%25AC%25E5%259B%259B%25E4%25BB%25A3OLED%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520%25E7%2594%25B5%25E7%25AB%259E%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F
+          - generic [ref=f32e315] [cursor=pointer]:
+            - generic "戴尔（DELL）27英寸 2K 办公显示器 IPS 硬件级防蓝光 100Hz 内置音箱 旋转升降 商务办公 电脑显示屏 E2726DS" [ref=f32e319]
+            - generic [ref=f32e331]:
+              - generic [ref=f32e332]:
+                - img "自营" [ref=f32e335]
+                - text: 戴尔（DELL）27英寸 2K 办公显示器 IPS 硬件级防蓝光 100Hz 内置音箱 旋转升降 商务办公 电脑显示屏 E2726DS
+              - generic [ref=f32e337]:
+                - generic [ref=f32e338]: 硬件级防蓝光
+                - generic [ref=f32e339]: "|升降旋转"
+                - generic [ref=f32e340]: "|内置音箱"
+                - generic [ref=f32e341]: "|内置音箱设计"
+              - generic [ref=f32e342]:
+                - generic [ref=f32e343]:
+                  - generic [ref=f32e344]: ¥
+                  - generic [ref=f32e345]: "1019"
+                - button [ref=f32e346]
+              - generic [ref=f32e349]: 只换不修
+              - generic [ref=f32e353]:
+                - generic "已售6万+" [ref=f32e354]
+                - generic "2500+人种草" [ref=f32e355]
+              - generic [ref=f32e356]:
+                - generic [ref=f32e357]: 戴尔商用京东自营旗舰店
+                - link [ref=f32e359]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100233693759&score=5&evaluationRate=99&commentNum=2%25E4%25B8%2587%252B&seller=%25E6%2588%25B4%25E5%25B0%2594%25E5%2595%2586%25E7%2594%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F532414%252F2%252F11750%252F85776%252F6acc9f65Fb8a724c3%252F00833203204f7935.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E6%2588%25B4%25E5%25B0%2594%25EF%25BC%2588DELL%25EF%25BC%258927%25E8%258B%25B1%25E5%25AF%25B8%25202K%2520%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520IPS%2520%25E7%25A1%25AC%25E4%25BB%25B6%25E7%25BA%25A7%25E9%2598%25B2%25E8%2593%259D%25E5%2585%2589%2520100Hz%2520%25E5%2586%2585%25E7%25BD%25AE%25E9%259F%25B3%25E7%25AE%25B1%2520%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%2520%25E5%2595%2586%25E5%258A%25A1%25E5%258A%259E%25E5%2585%25AC%2520%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%2520E2726DS%2520
+          - generic [ref=f32e361] [cursor=pointer]:
+            - generic "小米（MI）REDMI 27英寸2K显示器 120Hz IPS技术 广色域电脑办公显示器 A27Q多功能支架2026款" [ref=f32e364]
+            - generic [ref=f32e376]:
+              - generic [ref=f32e377]:
+                - img "自营" [ref=f32e380]
+                - text: 小米（MI）REDMI 27英寸2K显示器 120Hz IPS技术 广色域电脑办公显示器 A27Q多功能支架2026款
+              - generic [ref=f32e383]:
+                - generic "莱茵认证显示器榜·第2名" [ref=f32e385]
+                - generic [ref=f32e388]:
+                  - generic [ref=f32e389]: ΔE< 1色准
+                  - generic [ref=f32e390]: "|120Hz高刷"
+                  - generic [ref=f32e391]: "|2K高清分辨率"
+                  - generic [ref=f32e392]: "|高效办公之选"
+                - generic "莱茵认证显示器榜·第2名" [ref=f32e394]
+              - generic [ref=f32e397]:
+                - generic [ref=f32e398]:
+                  - generic [ref=f32e399]: ¥
+                  - generic [ref=f32e400]: "749"
+                - button [ref=f32e401]
+              - generic [ref=f32e404]:
+                - img "明日达" [ref=f32e406]
+                - generic [ref=f32e407]: 只换不修
+              - generic [ref=f32e410]:
+                - generic "已售100万+" [ref=f32e411]
+                - generic "30天加购飙升5倍" [ref=f32e412]
+              - generic [ref=f32e413]:
+                - generic [ref=f32e414]: 小米京东自营旗舰店
+                - link [ref=f32e416]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100207738135&score=5&evaluationRate=98&commentNum=50%25E4%25B8%2587%252B&seller=%25E5%25B0%258F%25E7%25B1%25B3%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F548080%252F10%252F104%252F109975%252F6acefda2Fa7da554f%252F00833203206ca298.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B0%258F%25E7%25B1%25B3%25EF%25BC%2588MI%25EF%25BC%2589REDMI%252027%25E8%258B%25B1%25E5%25AF%25B82K%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520120Hz%2520IPS%25E6%258A%2580%25E6%259C%25AF%2520%25E5%25B9%25BF%25E8%2589%25B2%25E5%259F%259F%25E7%2594%25B5%25E8%2584%2591%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520A27Q%25E5%25A4%259A%25E5%258A%259F%25E8%2583%25BD%25E6%2594%25AF%25E6%259E%25B62026%25E6%25AC%25BE
+          - generic [ref=f32e418] [cursor=pointer]:
+            - generic "小米REDMI 27英寸2K 320Hz电竞显示器 Fast IPS HDR400 1msGTG 10Bit G27Q 320Hz" [ref=f32e421]: 广告
+            - generic [ref=f32e434]:
+              - generic [ref=f32e435]:
+                - img "自营" [ref=f32e438]
+                - generic "小米REDMI 27英寸2K 320Hz电竞显示器 Fast IPS HDR400 1msGTG 10Bit G27Q 320Hz" [ref=f32e439]
+              - generic [ref=f32e442]:
+                - generic [ref=f32e443]:
+                  - generic [ref=f32e444]: 近30日热销商品
+                  - generic [ref=f32e445]: "|1千+人收藏"
+                - generic "领政府补贴减￥94.9" [ref=f32e447]
+                - generic [ref=f32e448]:
+                  - generic [ref=f32e449]: 近30日热销商品
+                  - generic [ref=f32e450]: "|1千+人收藏"
+              - generic [ref=f32e451]:
+                - generic [ref=f32e452]:
+                  - generic [ref=f32e453]: ¥
+                  - generic [ref=f32e454]: "854"
+                  - generic [ref=f32e455]: .
+                  - generic [ref=f32e456]: "1"
+                - generic [ref=f32e457]: 补贴领后价
+                - generic [ref=f32e459]: ¥949
+                - button [ref=f32e460]
+              - generic [ref=f32e463]:
+                - img "明日达" [ref=f32e465]
+                - img "政府补贴" [ref=f32e467]
+                - generic [ref=f32e468]: 只换不修
+              - generic "已售20万+" [ref=f32e472]
+              - generic [ref=f32e473]:
+                - generic [ref=f32e474]: 小米京东自营旗舰店
+                - link [ref=f32e476]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100336354134&score=0&commentNum=10%25E4%25B8%2587%252B&seller=%25E5%25B0%258F%25E7%25B1%25B3%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F538284%252F4%252F3639%252F162309%252F6ad1ec6fF3d0ff157%252F0083320320faa542.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B0%258F%25E7%25B1%25B3REDMI%252027%25E8%258B%25B1%25E5%25AF%25B82K%2520320Hz%25E7%2594%25B5%25E7%25AB%259E%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520Fast%2520IPS%2520HDR400%25201msGTG%252010Bit%2520G27Q%2520320Hz
+          - generic [ref=f32e478] [cursor=pointer]:
+            - generic "戴尔（DELL）27英寸 2K 144Hz IPS硬件防蓝光 FreeSync 99%sRGB 办公家用显示器 游戏电竞电脑显示屏 SE2726D" [ref=f32e481]
+            - generic [ref=f32e493]:
+              - generic [ref=f32e494]:
+                - img "自营" [ref=f32e497]
+                - text: 戴尔（DELL）27英寸 2K 144Hz IPS硬件防蓝光 FreeSync 99%sRGB 办公家用显示器 游戏电竞电脑显示屏 SE2726D
+              - generic [ref=f32e499]:
+                - generic [ref=f32e500]: 144Hz刷新
+                - generic [ref=f32e501]: "|硬件防蓝光"
+                - generic [ref=f32e502]: "|IPS面板"
+                - generic [ref=f32e503]: "|99%高色域"
+              - generic [ref=f32e504]:
+                - generic [ref=f32e505]:
+                  - generic [ref=f32e506]: ¥
+                  - generic [ref=f32e507]: "799"
+                - button [ref=f32e508]
+              - generic [ref=f32e511]:
+                - img "明日达" [ref=f32e513]
+                - generic [ref=f32e514]: 券满1500减150
+                - generic [ref=f32e516]: 只换不修
+              - generic [ref=f32e519]:
+                - generic "已售5万+" [ref=f32e520]
+                - generic "30天加购飙升5倍" [ref=f32e521]
+              - generic [ref=f32e522]:
+                - generic [ref=f32e523]: 戴尔显示器京东自营旗舰店
+                - link [ref=f32e525]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100239772755&score=5&evaluationRate=99&commentNum=2%25E4%25B8%2587%252B&seller=%25E6%2588%25B4%25E5%25B0%2594%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F543848%252F22%252F11311%252F116131%252F6ad9c599Fd0241f9a%252F0083320320b99f33.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E6%2588%25B4%25E5%25B0%2594%25EF%25BC%2588DELL%25EF%25BC%258927%25E8%258B%25B1%25E5%25AF%25B8%25202K%2520144Hz%2520IPS%25E7%25A1%25AC%25E4%25BB%25B6%25E9%2598%25B2%25E8%2593%259D%25E5%2585%2589%2520FreeSync%2520%252099%2525sRGB%2520%2520%25E5%258A%259E%25E5%2585%25AC%25E5%25AE%25B6%25E7%2594%25A8%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520%25E6%25B8%25B8%25E6%2588%258F%25E7%2594%25B5%25E7%25AB%259E%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%2520SE2726D
+          - generic [ref=f32e527] [cursor=pointer]:
+            - generic "AOC显示器2K 27英寸 IPS电脑显示屏幕 升降旋转 办公学习护眼低蓝光 台式拓展笔记本外接扩展屏Q27P10" [ref=f32e530]
+            - generic [ref=f32e542]:
+              - generic [ref=f32e543]:
+                - img "自营" [ref=f32e546]
+                - text: AOC显示器2K 27英寸 IPS电脑显示屏幕 升降旋转 办公学习护眼低蓝光 台式拓展笔记本外接扩展屏Q27P10
+              - generic [ref=f32e548]:
+                - generic [ref=f32e549]: 办公设计
+                - generic [ref=f32e550]: "|低蓝光爱眼"
+                - generic [ref=f32e551]: "|升降旋转"
+                - generic [ref=f32e552]: "|流畅办公娱乐"
+              - generic [ref=f32e553]:
+                - generic [ref=f32e554]:
+                  - generic [ref=f32e555]: ¥
+                  - generic [ref=f32e556]: "999"
+                - button [ref=f32e557]
+              - generic [ref=f32e560]: 只换不修
+              - generic [ref=f32e564]:
+                - generic "已售10万+" [ref=f32e565]
+                - generic "30天加购飙升5倍" [ref=f32e566]
+              - generic [ref=f32e567]:
+                - generic [ref=f32e568]: AOC商用京东自营旗舰店
+                - link [ref=f32e570]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100021739768&score=5&evaluationRate=97&commentNum=5%25E4%25B8%2587%252B&seller=AOC%25E5%2595%2586%25E7%2594%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F496081%252F35%252F4192%252F85894%252F6a713daaFfa70b54d%252F0083320320b2be33.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=AOC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A82K%252027%25E8%258B%25B1%25E5%25AF%25B8%2520IPS%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%25E5%25B9%2595%2520%25E5%258D%2587%25E9%2599%258D%25E6%2597%258B%25E8%25BD%25AC%2520%25E5%258A%259E%25E5%2585%25AC%25E5%25AD%25A6%25E4%25B9%25A0%25E6%258A%25A4%25E7%259C%25BC%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520%25E5%258F%25B0%25E5%25BC%258F%25E6%258B%2593%25E5%25B1%2595%25E7%25AC%2594%25E8%25AE%25B0%25E6%259C%25AC%25E5%25A4%2596%25E6%258E%25A5%25E6%2589%25A9%25E5%25B1%2595%25E5%25B1%258FQ27P10
+          - generic [ref=f32e572] [cursor=pointer]:
+            - generic "技嘉（GIGABYTE）27英寸 QHD 2K 全新黑曜保护膜 QD-OLED屏 显示器320Hz/0.03ms/1300尼特 GO27Q32" [ref=f32e575]: 广告
+            - generic [ref=f32e588]:
+              - generic [ref=f32e589]:
+                - img "自营" [ref=f32e592]
+                - generic "技嘉（GIGABYTE）27英寸 QHD 2K 全新黑曜保护膜 QD-OLED屏 显示器320Hz/0.03ms/1300尼特 GO27Q32" [ref=f32e593]
+              - generic [ref=f32e595]:
+                - generic [ref=f32e596]: 27英寸
+                - generic [ref=f32e597]: "|本店显示器热销第2名"
+                - generic [ref=f32e598]: "|320Hz"
+                - generic [ref=f32e599]: "|2K OLDE"
+              - generic [ref=f32e600]:
+                - generic [ref=f32e601]:
+                  - generic [ref=f32e602]: ¥
+                  - generic [ref=f32e603]: "2785"
+                  - generic [ref=f32e604]: .
+                  - generic [ref=f32e605]: "01"
+                - generic [ref=f32e606]: PLUS到手价
+                - generic [ref=f32e608]: ¥2799
+                - button [ref=f32e609]
+              - generic [ref=f32e612]:
+                - generic [ref=f32e613]: PLUS立减13.99元
+                - generic [ref=f32e615]: 券满3000减300
+                - generic [ref=f32e617]: 只换不修
+              - generic "已售8000+" [ref=f32e621]
+              - generic [ref=f32e622]:
+                - generic [ref=f32e623]: 技嘉京东自营旗舰店
+                - link [ref=f32e625]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100410410926&score=0&commentNum=5000%252B&seller=%25E6%258A%2580%25E5%2598%2589%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F553551%252F40%252F2889%252F253511%252F6add8532F6edff537%252F008332032046b91b.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E6%258A%2580%25E5%2598%2589%25EF%25BC%2588GIGABYTE%25EF%25BC%258927%25E8%258B%25B1%25E5%25AF%25B8%2520QHD%25202K%2520%25E5%2585%25A8%25E6%2596%25B0%25E9%25BB%2591%25E6%259B%259C%25E4%25BF%259D%25E6%258A%25A4%25E8%2586%259C%2520QD-OLED%25E5%25B1%258F%2520%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8320Hz%252F0.03ms%252F1300%25E5%25B0%25BC%25E7%2589%25B9%2520GO27Q32
+          - generic [ref=f32e627] [cursor=pointer]:
+            - generic "小米（MI）REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q Type-C版 2026" [ref=f32e630]
+            - generic [ref=f32e642]:
+              - generic [ref=f32e643]:
+                - img "自营" [ref=f32e646]
+                - text: 小米（MI）REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q Type-C版 2026
+              - generic [ref=f32e648]:
+                - generic [ref=f32e649]: 120Hz高刷新
+                - generic [ref=f32e650]: "|2K高清分辨率"
+                - generic [ref=f32e651]: "|IPS技术"
+                - generic [ref=f32e652]: "|120Hz高刷"
+              - generic [ref=f32e653]:
+                - generic [ref=f32e654]:
+                  - generic [ref=f32e655]: ¥
+                  - generic [ref=f32e656]: "889"
+                - button [ref=f32e657]
+              - generic [ref=f32e660]:
+                - img "明日达" [ref=f32e662]
+                - generic [ref=f32e663]: 只换不修
+              - generic [ref=f32e666]:
+                - generic "已售100万+" [ref=f32e667]
+                - generic "600+人好评" [ref=f32e668]
+              - generic [ref=f32e669]:
+                - generic [ref=f32e670]: 小米京东自营旗舰店
+                - link [ref=f32e672]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100216280201&score=5&evaluationRate=98&commentNum=50%25E4%25B8%2587%252B&seller=%25E5%25B0%258F%25E7%25B1%25B3%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F545865%252F26%252F4541%252F124390%252F6ad1ed0fFfb763967%252F0083320320666740.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B0%258F%25E7%25B1%25B3%25EF%25BC%2588MI%25EF%25BC%2589REDMI%252027%25E8%258B%25B1%25E5%25AF%25B82K%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520120Hz%25E9%25AB%2598%25E5%2588%25B7%25E6%2596%25B0%25E7%258E%2587%2520IPS%25E6%258A%2580%25E6%259C%25AF%2520%25E5%258F%258C%25E9%2587%258D%25E5%25B9%25BF%25E8%2589%25B2%25E5%259F%259F%25E7%2594%25B5%25E8%2584%2591%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520A27Q%2520Type-C%25E7%2589%2588%25202026
+          - generic [ref=f32e674] [cursor=pointer]:
+            - generic "AOC 27英寸2K 180Hz 0.5ms TUV硬件低蓝光 不闪屏护眼 HDR 升降旋转 节能认证 电竞办公显示器Q27V6X" [ref=f32e677]
+            - generic [ref=f32e689]:
+              - generic [ref=f32e690]:
+                - img "自营" [ref=f32e693]
+                - text: AOC 27英寸2K 180Hz 0.5ms TUV硬件低蓝光 不闪屏护眼 HDR 升降旋转 节能认证 电竞办公显示器Q27V6X
+              - generic [ref=f32e696]:
+                - generic "TUV爱眼认证显示器榜·第5名" [ref=f32e698]
+                - generic [ref=f32e701]:
+                  - generic [ref=f32e702]: 180Hz刷新率
+                  - generic [ref=f32e703]: "|节能认证"
+                  - generic [ref=f32e704]: "|HDR显示"
+                  - generic [ref=f32e705]: "|0.5ms响应"
+                - generic "TUV爱眼认证显示器榜·第5名" [ref=f32e707]
+              - generic [ref=f32e710]:
+                - generic [ref=f32e711]:
+                  - generic [ref=f32e712]: ¥
+                  - generic [ref=f32e713]: "949"
+                - button [ref=f32e714]
+              - generic [ref=f32e717]:
+                - img "明日达" [ref=f32e719]
+                - img "新品" [ref=f32e721]
+                - generic [ref=f32e722]: 只换不修
+              - generic [ref=f32e725]:
+                - generic "已售200万+" [ref=f32e726]
+                - generic "2万+人种草" [ref=f32e727]
+              - generic [ref=f32e728]:
+                - generic [ref=f32e729]: AOC京东自营旗舰店
+                - link [ref=f32e731]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100420518330&score=5&evaluationRate=98&commentNum=100%25E4%25B8%2587%252B&seller=AOC%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F537830%252F40%252F1383%252F124706%252F6ab9d281Facccaddc%252F008343843818800e.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=AOC%252027%25E8%258B%25B1%25E5%25AF%25B82K%2520180Hz%25200.5ms%2520TUV%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520%25E4%25B8%258D%25E9%2597%25AA%25E5%25B1%258F%25E6%258A%25A4%25E7%259C%25BC%2520HDR%2520%25E5%258D%2587%25E9%2599%258D%25E6%2597%258B%25E8%25BD%25AC%2520%25E8%258A%2582%25E8%2583%25BD%25E8%25AE%25A4%25E8%25AF%2581%2520%25E7%2594%25B5%25E7%25AB%259E%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8Q27V6X
+          - generic [ref=f32e733] [cursor=pointer]:
+            - generic "华为MateView GT 27英寸显示器 2K/200Hz/DP/HDMI/P3广色域/旋转升降壁挂/硬件低蓝光 星空黑 新品" [ref=f32e736]
+            - generic [ref=f32e748]:
+              - generic [ref=f32e749]:
+                - img "自营" [ref=f32e752]
+                - text: 华为MateView GT 27英寸显示器 2K/200Hz/DP/HDMI/P3广色域/旋转升降壁挂/硬件低蓝光 星空黑 新品
+              - generic [ref=f32e755]:
+                - generic "中国质造显示器榜·第7名" [ref=f32e757]
+                - generic [ref=f32e760]:
+                  - generic [ref=f32e761]: 旋转升降支架
+                  - generic [ref=f32e762]: "|27 寸全面屏"
+                  - generic [ref=f32e763]: "|2K200Hz"
+                  - generic [ref=f32e764]: "|支持壁挂"
+                - generic "领政府补贴减￥89.87" [ref=f32e766]
+                - generic "中国质造显示器榜·第7名" [ref=f32e768]
+              - generic [ref=f32e771]:
+                - generic [ref=f32e772]:
+                  - generic [ref=f32e773]: ¥
+                  - generic [ref=f32e774]: "808"
+                  - generic [ref=f32e775]: .
+                  - generic [ref=f32e776]: "83"
+                - generic [ref=f32e777]: 补贴领后价
+                - generic [ref=f32e779]: ¥946
+                - button [ref=f32e780]
+              - generic [ref=f32e783]:
+                - img "明日达" [ref=f32e785]
+                - img "政府补贴" [ref=f32e787]
+                - generic [ref=f32e788]: 只换不修
+              - generic [ref=f32e791]:
+                - generic "已售4万+" [ref=f32e792]
+                - generic "30天加购飙升5倍" [ref=f32e793]
+              - generic [ref=f32e794]:
+                - generic [ref=f32e795]: 华为京东自营旗舰店
+                - link [ref=f32e797]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100245869767&score=5&evaluationRate=98&commentNum=2%25E4%25B8%2587%252B&seller=%25E5%258D%258E%25E4%25B8%25BA%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F540122%252F39%252F4642%252F116961%252F6ac85e84F3229511d%252F00835a05a05f91b6.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%258D%258E%25E4%25B8%25BAMateView%2520GT%252027%25E8%258B%25B1%25E5%25AF%25B8%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25202K%252F200Hz%252FDP%252FHDMI%252FP3%25E5%25B9%25BF%25E8%2589%25B2%25E5%259F%259F%252F%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%25E5%25A3%2581%25E6%258C%2582%252F%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520%25E6%2598%259F%25E7%25A9%25BA%25E9%25BB%2591%2520%25E6%2596%25B0%25E5%2593%2581
+          - generic [ref=f32e799] [cursor=pointer]:
+            - generic "小米REDMI 27英寸2K 240Hz电竞显示器 Fast IPS HDR400 1msGTG G27Q 240Hz 2026" [ref=f32e802]: 广告
+            - generic [ref=f32e815]:
+              - generic [ref=f32e816]:
+                - img "自营" [ref=f32e819]
+                - generic "小米REDMI 27英寸2K 240Hz电竞显示器 Fast IPS HDR400 1msGTG G27Q 240Hz 2026" [ref=f32e820]
+              - generic [ref=f32e823]:
+                - generic [ref=f32e824]:
+                  - generic [ref=f32e825]: HDR400
+                  - generic [ref=f32e826]: "|近7日热销商品"
+                  - generic [ref=f32e827]: "|1万+人已买"
+                - generic "领政府补贴减￥86.9" [ref=f32e829]
+                - generic [ref=f32e830]:
+                  - generic [ref=f32e831]: HDR400
+                  - generic [ref=f32e832]: "|近7日热销商品"
+                  - generic [ref=f32e833]: "|1万+人已买"
+              - generic [ref=f32e834]:
+                - generic [ref=f32e835]:
+                  - generic [ref=f32e836]: ¥
+                  - generic [ref=f32e837]: "782"
+                  - generic [ref=f32e838]: .
+                  - generic [ref=f32e839]: "1"
+                - generic [ref=f32e840]: 补贴领后价
+                - generic [ref=f32e842]: ¥869
+                - button [ref=f32e843]
+              - generic [ref=f32e846]:
+                - img "明日达" [ref=f32e848]
+                - img "政府补贴" [ref=f32e850]
+                - generic [ref=f32e851]: 只换不修
+              - generic "已售20万+" [ref=f32e855]
+              - generic [ref=f32e856]:
+                - generic [ref=f32e857]: 小米京东自营旗舰店
+                - link [ref=f32e859]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100336351322&score=0&commentNum=10%25E4%25B8%2587%252B&seller=%25E5%25B0%258F%25E7%25B1%25B3%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F544154%252F21%252F10102%252F149841%252F6ad81c44F923555f0%252F0083320320f67662.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B0%258F%25E7%25B1%25B3REDMI%252027%25E8%258B%25B1%25E5%25AF%25B82K%2520240Hz%25E7%2594%25B5%25E7%25AB%259E%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520Fast%2520IPS%2520HDR400%25201msGTG%2520G27Q%2520240Hz%25202026
+          - generic [ref=f32e861] [cursor=pointer]:
+            - generic "小米（MI）REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q 2026款" [ref=f32e864]
+            - generic [ref=f32e876]:
+              - generic [ref=f32e877]:
+                - img "自营" [ref=f32e880]
+                - text: 小米（MI）REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q 2026款
+              - generic [ref=f32e883]:
+                - generic "显示器榜·第3名" [ref=f32e885]
+                - generic [ref=f32e888]:
+                  - generic [ref=f32e889]: ΔE< 1色准
+                  - generic [ref=f32e890]: "|120Hz高刷"
+                  - generic [ref=f32e891]: "|2K高清分辨率"
+                  - generic [ref=f32e892]: "|专业级色准"
+                - generic "显示器榜·第3名" [ref=f32e894]
+              - generic [ref=f32e897]:
+                - generic [ref=f32e898]:
+                  - generic [ref=f32e899]: ¥
+                  - generic [ref=f32e900]: "629"
+                - button [ref=f32e901]
+              - generic [ref=f32e904]:
+                - img "明日达" [ref=f32e906]
+                - generic [ref=f32e907]: 只换不修
+              - generic [ref=f32e910]:
+                - generic "已售100万+" [ref=f32e911]
+                - generic "30天加购飙升5倍" [ref=f32e912]
+              - generic [ref=f32e913]:
+                - generic [ref=f32e914]: 小米京东自营旗舰店
+                - link [ref=f32e916]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100275929320&score=5&evaluationRate=98&commentNum=50%25E4%25B8%2587%252B&seller=%25E5%25B0%258F%25E7%25B1%25B3%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F538450%252F17%252F11919%252F105585%252F6acefd9aF6a20c23d%252F0083320320d911df.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B0%258F%25E7%25B1%25B3%25EF%25BC%2588MI%25EF%25BC%2589REDMI%252027%25E8%258B%25B1%25E5%25AF%25B82K%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520120Hz%25E9%25AB%2598%25E5%2588%25B7%25E6%2596%25B0%25E7%258E%2587%2520IPS%25E6%258A%2580%25E6%259C%25AF%2520%25E5%258F%258C%25E9%2587%258D%25E5%25B9%25BF%25E8%2589%25B2%25E5%259F%259F%25E7%2594%25B5%25E8%2584%2591%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520A27Q%25202026%25E6%25AC%25BE
+          - generic [ref=f32e918] [cursor=pointer]:
+            - generic "戴尔（DELL）27英寸2K显示器IPS屏 硬件级防蓝光 144Hz 99%sRGB 双音响 旋转升降 电竞游戏电脑显示屏 S2725DSM" [ref=f32e921]
+            - generic [ref=f32e933]:
+              - generic [ref=f32e934]:
+                - img "自营" [ref=f32e937]
+                - text: 戴尔（DELL）27英寸2K显示器IPS屏 硬件级防蓝光 144Hz 99%sRGB 双音响 旋转升降 电竞游戏电脑显示屏 S2725DSM
+              - generic [ref=f32e939]:
+                - generic [ref=f32e940]: 硬件级防蓝光
+                - generic [ref=f32e941]: "|144Hz刷新"
+                - generic [ref=f32e942]: "|2K超窄边框"
+                - generic [ref=f32e943]: "|支持旋转升降"
+              - generic [ref=f32e944]:
+                - generic [ref=f32e945]:
+                  - generic [ref=f32e946]: ¥
+                  - generic [ref=f32e947]: "1399"
+                - button [ref=f32e948]
+              - generic [ref=f32e951]: 只换不修
+              - generic [ref=f32e955]:
+                - generic "已售6万+" [ref=f32e956]
+                - generic "30天加购飙升5倍" [ref=f32e957]
+              - generic [ref=f32e958]:
+                - generic [ref=f32e959]: 戴尔显示器京东自营旗舰店
+                - link [ref=f32e961]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100208137153&score=5&evaluationRate=98&commentNum=2%25E4%25B8%2587%252B&seller=%25E6%2588%25B4%25E5%25B0%2594%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F535626%252F32%252F9168%252F90536%252F6ad9ce4bF0a08ba1c%252F0083320320a63823.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E6%2588%25B4%25E5%25B0%2594%25EF%25BC%2588DELL%25EF%25BC%258927%25E8%258B%25B1%25E5%25AF%25B82K%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8IPS%25E5%25B1%258F%2520%25E7%25A1%25AC%25E4%25BB%25B6%25E7%25BA%25A7%25E9%2598%25B2%25E8%2593%259D%25E5%2585%2589%2520144Hz%252099%2525sRGB%2520%25E5%258F%258C%25E9%259F%25B3%25E5%2593%258D%2520%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%2520%25E7%2594%25B5%25E7%25AB%259E%25E6%25B8%25B8%25E6%2588%258F%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%2520S2725DSM
+          - generic [ref=f32e963] [cursor=pointer]:
+            - generic "华为MateView GT 27英寸显示器 2K/320Hz/DP/HDMI/P3广色域/旋转升降壁挂/硬件低蓝光 星空黑 新品" [ref=f32e966]
+            - generic [ref=f32e978]:
+              - generic [ref=f32e979]:
+                - img "自营" [ref=f32e982]
+                - text: 华为MateView GT 27英寸显示器 2K/320Hz/DP/HDMI/P3广色域/旋转升降壁挂/硬件低蓝光 星空黑 新品
+              - generic [ref=f32e985]:
+                - generic [ref=f32e986]:
+                  - generic [ref=f32e987]: 华为悦彰音效
+                  - generic [ref=f32e988]: "|2K320Hz"
+                  - generic [ref=f32e989]: "|27 寸全面屏"
+                  - generic [ref=f32e990]: "|27英寸全面屏"
+                - generic "领政府补贴减￥119.89" [ref=f32e992]
+                - generic [ref=f32e993]:
+                  - generic [ref=f32e994]: 华为悦彰音效
+                  - generic [ref=f32e995]: "|2K320Hz"
+                  - generic [ref=f32e996]: "|27 寸全面屏"
+                  - generic [ref=f32e997]: "|27英寸全面屏"
+              - generic [ref=f32e998]:
+                - generic [ref=f32e999]:
+                  - generic [ref=f32e1000]: ¥
+                  - generic [ref=f32e1001]: "1079"
+                  - generic [ref=f32e1002]: .
+                  - generic [ref=f32e1003]: "01"
+                - generic [ref=f32e1004]: 补贴领后价
+                - generic [ref=f32e1006]: ¥1262
+                - button [ref=f32e1007]
+              - generic [ref=f32e1010]:
+                - img "明日达" [ref=f32e1012]
+                - img "政府补贴" [ref=f32e1014]
+                - generic [ref=f32e1015]: 只换不修
+              - generic [ref=f32e1018]:
+                - generic "已售4万+" [ref=f32e1019]
+                - generic "2万+人种草" [ref=f32e1020]
+              - generic [ref=f32e1021]:
+                - generic [ref=f32e1022]: 华为京东自营旗舰店
+                - link [ref=f32e1024]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100356414868&score=5&evaluationRate=98&commentNum=2%25E4%25B8%2587%252B&seller=%25E5%258D%258E%25E4%25B8%25BA%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F562043%252F10%252F1035%252F382757%252F6ae18f98F1b02124f%252F0083320320768946.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%258D%258E%25E4%25B8%25BAMateView%2520GT%252027%25E8%258B%25B1%25E5%25AF%25B8%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25202K%252F320Hz%252FDP%252FHDMI%252FP3%25E5%25B9%25BF%25E8%2589%25B2%25E5%259F%259F%252F%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%25E5%25A3%2581%25E6%258C%2582%252F%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520%25E6%2598%259F%25E7%25A9%25BA%25E9%25BB%2591%2520%25E6%2596%25B0%25E5%2593%2581
+          - generic [ref=f32e1026] [cursor=pointer]:
+            - generic "飞利浦（PHILIPS）27英寸 2K高清 办公显示器 100Hz高刷 HDR TUV低蓝光护眼 旋转升降 设计网课 电脑显示屏 275S9LRB" [ref=f32e1029]
+            - generic [ref=f32e1041]:
+              - generic [ref=f32e1042]:
+                - img "自营" [ref=f32e1045]
+                - text: 飞利浦（PHILIPS）27英寸 2K高清 办公显示器 100Hz高刷 HDR TUV低蓝光护眼 旋转升降 设计网课 电脑显示屏 275S9LRB
+              - generic [ref=f32e1047]:
+                - generic [ref=f32e1048]: 升降旋转底座
+                - generic [ref=f32e1049]: "|100Hz高刷"
+                - generic [ref=f32e1050]: "|护眼低蓝光"
+                - generic [ref=f32e1051]: "|4ms响应速度"
+              - generic [ref=f32e1052]:
+                - generic [ref=f32e1053]:
+                  - generic [ref=f32e1054]: ¥
+                  - generic [ref=f32e1055]: "869"
+                - button [ref=f32e1056]
+              - generic [ref=f32e1059]:
+                - img "明日达" [ref=f32e1061]
+                - generic [ref=f32e1062]: 只换不修
+              - generic [ref=f32e1065]:
+                - generic "已售5万+" [ref=f32e1066]
+                - generic "30天加购飙升5倍" [ref=f32e1067]
+              - generic [ref=f32e1068]:
+                - generic [ref=f32e1069]: 飞利浦商用显示器京东自营旗舰店
+                - link [ref=f32e1071]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100052005272&score=5&evaluationRate=97&commentNum=2%25E4%25B8%2587%252B&seller=%25E9%25A3%259E%25E5%2588%25A9%25E6%25B5%25A6%25E5%2595%2586%25E7%2594%25A8%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F547460%252F20%252F5952%252F87711%252F6ad86642F30f157a1%252F00833203206a55c2.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E9%25A3%259E%25E5%2588%25A9%25E6%25B5%25A6%25EF%25BC%2588PHILIPS%25EF%25BC%258927%25E8%258B%25B1%25E5%25AF%25B8%25202K%25E9%25AB%2598%25E6%25B8%2585%2520%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520100Hz%25E9%25AB%2598%25E5%2588%25B7%2520HDR%2520TUV%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%25E6%258A%25A4%25E7%259C%25BC%2520%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%2520%25E8%25AE%25BE%25E8%25AE%25A1%25E7%25BD%2591%25E8%25AF%25BE%2520%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%2520275S9LRB
+          - generic [ref=f32e1073] [cursor=pointer]:
+            - generic "华为MateView SE 27英寸显示器" [ref=f32e1076]
+            - generic [ref=f32e1088]:
+              - generic [ref=f32e1089]:
+                - img "自营" [ref=f32e1092]
+                - text: 华为MateView SE 27英寸显示器
+              - generic [ref=f32e1095]:
+                - generic "莱茵认证显示器榜·第4名" [ref=f32e1097]
+                - generic [ref=f32e1100]:
+                  - generic [ref=f32e1101]: 95%P3色域
+                  - generic [ref=f32e1102]: "|2K全面屏"
+                  - generic [ref=f32e1103]: "|300nit"
+                  - generic [ref=f32e1104]: "|沉浸视觉"
+                - generic "领政府补贴减￥69.9" [ref=f32e1106]
+                - generic "莱茵认证显示器榜·第4名" [ref=f32e1108]
+              - generic [ref=f32e1111]:
+                - generic [ref=f32e1112]:
+                  - generic [ref=f32e1113]: ¥
+                  - generic [ref=f32e1114]: "629"
+                  - generic [ref=f32e1115]: .
+                  - generic [ref=f32e1116]: "1"
+                - generic [ref=f32e1117]: 补贴领后价
+                - generic [ref=f32e1119]: ¥699
+                - button [ref=f32e1120]
+              - generic [ref=f32e1123]:
+                - img "明日达" [ref=f32e1125]
+                - img "政府补贴" [ref=f32e1127]
+                - generic [ref=f32e1128]: 只换不修
+              - generic [ref=f32e1131]:
+                - generic "已售50万+" [ref=f32e1132]
+                - generic "30天加购飙升5倍" [ref=f32e1133]
+              - generic [ref=f32e1134]:
+                - generic [ref=f32e1135]: 华为京东自营旗舰店
+                - link [ref=f32e1137]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100150942740&score=5&evaluationRate=98&commentNum=20%25E4%25B8%2587%252B&seller=%25E5%258D%258E%25E4%25B8%25BA%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F540698%252F6%252F5464%252F67148%252F6ac994c7F94810768%252F00835a05a0d9f752.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%258D%258E%25E4%25B8%25BAMateView%2520SE%252027%25E8%258B%25B1%25E5%25AF%25B8%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8
+          - generic [ref=f32e1139] [cursor=pointer]:
+            - generic "Lenovo联想来酷27英寸2K320Hz高刷广色域硬件低蓝光娱乐办公游戏电竞旋转升降显示器" [ref=f32e1142]: 广告
+            - generic [ref=f32e1155]:
+              - generic [ref=f32e1156]:
+                - img "自营" [ref=f32e1159]
+                - generic "Lenovo联想来酷27英寸2K320Hz高刷广色域硬件低蓝光娱乐办公游戏电竞旋转升降显示器" [ref=f32e1160]
+              - generic [ref=f32e1163]:
+                - generic [ref=f32e1164]:
+                  - generic [ref=f32e1165]: 2万+人浏览
+                  - generic [ref=f32e1166]: "|2K320Hz"
+                  - generic [ref=f32e1167]: "|旋转升降支架"
+                - generic "领政府补贴减￥119.9" [ref=f32e1169]
+                - generic [ref=f32e1170]:
+                  - generic [ref=f32e1171]: 2万+人浏览
+                  - generic [ref=f32e1172]: "|2K320Hz"
+                  - generic [ref=f32e1173]: "|旋转升降支架"
+              - generic [ref=f32e1174]:
+                - generic [ref=f32e1175]:
+                  - generic [ref=f32e1176]: ¥
+                  - generic [ref=f32e1177]: "1079"
+                  - generic [ref=f32e1178]: .
+                  - generic [ref=f32e1179]: "1"
+                - generic [ref=f32e1180]: 补贴领后价
+                - generic [ref=f32e1182]: ¥1199
+                - button [ref=f32e1183]
+              - generic [ref=f32e1186]:
+                - img "政府补贴" [ref=f32e1188]
+                - generic [ref=f32e1189]: 只换不修
+              - generic "已售10万+" [ref=f32e1193]
+              - generic [ref=f32e1194]:
+                - generic [ref=f32e1195]: 联想京东自营旗舰店
+                - link [ref=f32e1197]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100291115440&score=0&commentNum=5%25E4%25B8%2587%252B&seller=%25E8%2581%2594%25E6%2583%25B3%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F545661%252F40%252F245%252F158623%252F6ac9ec1cFa27c5b32%252F00833203204c8184.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=Lenovo%25E8%2581%2594%25E6%2583%25B3%25E6%259D%25A5%25E9%2585%25B727%25E8%258B%25B1%25E5%25AF%25B82K320Hz%25E9%25AB%2598%25E5%2588%25B7%25E5%25B9%25BF%25E8%2589%25B2%25E5%259F%259F%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%25E5%25A8%25B1%25E4%25B9%2590%25E5%258A%259E%25E5%2585%25AC%25E6%25B8%25B8%25E6%2588%258F%25E7%2594%25B5%25E7%25AB%259E%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8
+          - generic [ref=f32e1199] [cursor=pointer]:
+            - generic "飞利浦（PHILIPS）27英寸显示器2K IPS 144Hz 舒适蓝圆偏光硬件低蓝光 音箱 旋转升降 商用办公电脑显示屏27B2N3500G" [ref=f32e1202]
+            - generic [ref=f32e1214]:
+              - generic [ref=f32e1215]:
+                - img "自营" [ref=f32e1218]
+                - text: 飞利浦（PHILIPS）27英寸显示器2K IPS 144Hz 舒适蓝圆偏光硬件低蓝光 音箱 旋转升降 商用办公电脑显示屏27B2N3500G
+              - generic [ref=f32e1221]:
+                - generic "飞利浦商用显示器榜·第2名" [ref=f32e1223]
+                - generic [ref=f32e1226]:
+                  - generic [ref=f32e1227]: 2KIPS可旋转
+                  - generic [ref=f32e1228]: "|硬件圆偏光护眼"
+                  - generic [ref=f32e1229]: "|144Hz 音箱"
+                  - generic [ref=f32e1230]: "|144Hz高刷"
+                - generic "飞利浦商用显示器榜·第2名" [ref=f32e1232]
+              - generic [ref=f32e1235]:
+                - generic [ref=f32e1236]:
+                  - generic [ref=f32e1237]: ¥
+                  - generic [ref=f32e1238]: "1173"
+                  - generic [ref=f32e1239]: .
+                  - generic [ref=f32e1240]: "9"
+                - generic [ref=f32e1241]: 到手价
+                - generic [ref=f32e1243]: ¥1198.9
+                - button [ref=f32e1244]
+              - generic [ref=f32e1247]:
+                - img "明日达" [ref=f32e1249]
+                - img "百亿补贴" [ref=f32e1251]
+                - generic [ref=f32e1252]: 只换不修
+                - generic [ref=f32e1254]: 包邮
+              - generic [ref=f32e1257]:
+                - generic "已售5万+" [ref=f32e1258]
+                - generic "30天加购飙升5倍" [ref=f32e1259]
+              - generic [ref=f32e1260]:
+                - generic [ref=f32e1261]: 飞利浦商用显示器京东自营旗舰店
+                - link [ref=f32e1263]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100249538861&score=5&evaluationRate=97&commentNum=2%25E4%25B8%2587%252B&seller=%25E9%25A3%259E%25E5%2588%25A9%25E6%25B5%25A6%25E5%2595%2586%25E7%2594%25A8%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F531897%252F39%252F8787%252F118923%252F6ad8663cF8fbdedc8%252F0083320320b29d2a.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E9%25A3%259E%25E5%2588%25A9%25E6%25B5%25A6%25EF%25BC%2588PHILIPS%25EF%25BC%258927%25E8%258B%25B1%25E5%25AF%25B8%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A82K%2520IPS%2520144Hz%2520%25E8%2588%2592%25E9%2580%2582%25E8%2593%259D%25E5%259C%2586%25E5%2581%258F%25E5%2585%2589%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520%25E9%259F%25B3%25E7%25AE%25B1%2520%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%2520%25E5%2595%2586%25E7%2594%25A8%25E5%258A%259E%25E5%2585%25AC%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F27B2N3500G
+          - generic [ref=f32e1265] [cursor=pointer]:
+            - generic "AOC 27英寸 2K120Hz 护眼低蓝光" [ref=f32e1268]
+            - generic [ref=f32e1278]:
+              - generic [ref=f32e1279]:
+                - img "自营" [ref=f32e1282]
+                - text: AOC 27英寸 2K120Hz 护眼低蓝光
+              - generic [ref=f32e1284]:
+                - generic [ref=f32e1285]: 2K高清解析
+                - generic [ref=f32e1286]: "|硬件低蓝光"
+                - generic [ref=f32e1287]: "|商用可靠耐用"
+                - generic [ref=f32e1288]: "|三面微边框"
+              - generic [ref=f32e1289]:
+                - generic [ref=f32e1290]:
+                  - generic [ref=f32e1291]: ¥
+                  - generic [ref=f32e1292]: "869"
+                - button [ref=f32e1293]
+              - generic [ref=f32e1296]: 只换不修
+              - generic [ref=f32e1300]:
+                - generic "已售10万+" [ref=f32e1301]
+                - generic "3100+人种草" [ref=f32e1302]
+              - generic [ref=f32e1303]:
+                - generic [ref=f32e1304]: AOC商用京东自营旗舰店
+                - link [ref=f32e1306]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100386629584&score=5&evaluationRate=97&commentNum=5%25E4%25B8%2587%252B&seller=AOC%25E5%2595%2586%25E7%2594%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F540679%252F7%252F14946%252F89270%252F6ad74f40Fef94ea7a%252F0083320320c6b576.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=AOC%252027%25E8%258B%25B1%25E5%25AF%25B8%25202K120Hz%2520%25E6%258A%25A4%25E7%259C%25BC%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589
+          - generic [ref=f32e1308] [cursor=pointer]:
+            - generic "AOC 27英寸 2K高清 IPS广色域 100Hz HDRMode TUV低蓝光 双向旋转升降 节能办公电脑显示器 Q27N3S2" [ref=f32e1311]
+            - generic [ref=f32e1323]:
+              - generic [ref=f32e1324]:
+                - img "自营" [ref=f32e1327]
+                - text: AOC 27英寸 2K高清 IPS广色域 100Hz HDRMode TUV低蓝光 双向旋转升降 节能办公电脑显示器 Q27N3S2
+              - generic [ref=f32e1329]:
+                - generic [ref=f32e1330]: 逐台出厂校准
+                - generic [ref=f32e1331]: "|低蓝光不闪屏"
+                - generic [ref=f32e1332]: "|人体工学支架"
+                - generic [ref=f32e1333]: "|IPS广视角"
+              - generic [ref=f32e1334]:
+                - generic [ref=f32e1335]:
+                  - generic [ref=f32e1336]: ¥
+                  - generic [ref=f32e1337]: "999"
+                - button [ref=f32e1338]
+              - generic [ref=f32e1341]:
+                - img "明日达" [ref=f32e1343]
+                - generic [ref=f32e1344]: 只换不修
+              - generic [ref=f32e1347]:
+                - generic "已售200万+" [ref=f32e1348]
+                - generic "30天种草飙升5倍" [ref=f32e1349]
+              - generic [ref=f32e1350]:
+                - generic [ref=f32e1351]: AOC京东自营旗舰店
+                - link [ref=f32e1353]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100067417533&score=5&evaluationRate=98&commentNum=100%25E4%25B8%2587%252B&seller=AOC%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F543107%252F25%252F7422%252F131803%252F6acefcb8Fcad3297f%252F008332032032bf0b.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=AOC%252027%25E8%258B%25B1%25E5%25AF%25B8%25202K%25E9%25AB%2598%25E6%25B8%2585%2520IPS%25E5%25B9%25BF%25E8%2589%25B2%25E5%259F%259F%2520100Hz%2520HDRMode%2520TUV%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520%25E5%258F%258C%25E5%2590%2591%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%2520%25E8%258A%2582%25E8%2583%25BD%25E5%258A%259E%25E5%2585%25AC%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520Q27N3S2
+          - generic [ref=f32e1355] [cursor=pointer]:
+            - generic "联想（Lenovo）拯救者27英寸2K320Hz 1ms99%sRGB硬件低蓝光 旋转升降 拯救者电竞本配套电竞显示器 Legion27Q-20" [ref=f32e1358]
+            - generic [ref=f32e1370]:
+              - generic [ref=f32e1371]:
+                - img "自营" [ref=f32e1374]
+                - text: 联想（Lenovo）拯救者27英寸2K320Hz 1ms99%sRGB硬件低蓝光 旋转升降 拯救者电竞本配套电竞显示器 Legion27Q-20
+              - generic [ref=f32e1377]:
+                - generic "直面屏显示器榜·第5名" [ref=f32e1379]
+                - generic [ref=f32e1382]:
+                  - generic [ref=f32e1383]: 无拖影帧帧清晰
+                  - generic [ref=f32e1384]: "|2k320Hz"
+                  - generic [ref=f32e1385]: "|满血输出画质"
+                  - generic [ref=f32e1386]: "|旋转升降支架"
+                - generic "领政府补贴减￥109.9" [ref=f32e1388]
+                - generic "直面屏显示器榜·第5名" [ref=f32e1390]
+              - generic [ref=f32e1393]:
+                - generic [ref=f32e1394]:
+                  - generic [ref=f32e1395]: ¥
+                  - generic [ref=f32e1396]: "989"
+                  - generic [ref=f32e1397]: .
+                  - generic [ref=f32e1398]: "1"
+                - generic [ref=f32e1399]: 补贴领后价
+                - generic [ref=f32e1401]: ¥1149
+                - button [ref=f32e1402]
+              - generic [ref=f32e1405]:
+                - img "明日达" [ref=f32e1407]
+                - img "重磅新品" [ref=f32e1409]
+                - img "政府补贴" [ref=f32e1411]
+                - generic [ref=f32e1412]: 券满100减50
+                - generic [ref=f32e1414]: 只换不修
+              - generic [ref=f32e1417]:
+                - generic "已售10万+" [ref=f32e1418]
+                - generic "8万+人种草" [ref=f32e1419]
+              - generic [ref=f32e1420]:
+                - generic [ref=f32e1421]: 联想京东自营旗舰店
+                - link [ref=f32e1423]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100323697515&score=5&evaluationRate=96&commentNum=10%25E4%25B8%2587%252B&seller=%25E8%2581%2594%25E6%2583%25B3%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F558384%252F20%252F1191%252F100924%252F6ae04e0bF330bc164%252F0083320320faf910.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E8%2581%2594%25E6%2583%25B3%25EF%25BC%2588Lenovo%25EF%25BC%2589%25E6%258B%25AF%25E6%2595%2591%25E8%2580%258527%25E8%258B%25B1%25E5%25AF%25B82K320Hz%25201ms99%2525sRGB%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%2520%25E6%258B%25AF%25E6%2595%2591%25E8%2580%2585%25E7%2594%25B5%25E7%25AB%259E%25E6%259C%25AC%25E9%2585%258D%25E5%25A5%2597%25E7%2594%25B5%25E7%25AB%259E%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520Legion27Q-20
+          - generic [ref=f32e1425] [cursor=pointer]:
+            - generic "飞利浦27英寸 2K 144Hz IPS 硬件低蓝光 TypeC65W HDR 类全面屏 1500：1对比 升降 办公显示器27E2G5600W" [ref=f32e1428]
+            - generic [ref=f32e1440]:
+              - generic [ref=f32e1441]:
+                - img "自营" [ref=f32e1444]
+                - text: 飞利浦27英寸 2K 144Hz IPS 硬件低蓝光 TypeC65W HDR 类全面屏 1500：1对比 升降 办公显示器27E2G5600W
+              - generic [ref=f32e1447]:
+                - generic [ref=f32e1448]:
+                  - generic [ref=f32e1449]: 节能认证
+                  - generic [ref=f32e1450]: "|硬件低蓝光"
+                  - generic [ref=f32e1451]: "|2K高刷"
+                  - generic [ref=f32e1452]: "|144Hz刷新率"
+                - generic "焕新|京东支付已预减￥49.85" [ref=f32e1454]
+                - generic [ref=f32e1455]:
+                  - generic [ref=f32e1456]: 节能认证
+                  - generic [ref=f32e1457]: "|硬件低蓝光"
+                  - generic [ref=f32e1458]: "|2K高刷"
+                  - generic [ref=f32e1459]: "|144Hz刷新率"
+              - generic [ref=f32e1460]:
+                - generic [ref=f32e1461]:
+                  - generic [ref=f32e1462]: ¥
+                  - generic [ref=f32e1463]: "947"
+                  - generic [ref=f32e1464]: .
+                  - generic [ref=f32e1465]: "15"
+                - generic [ref=f32e1466]: 已补67.54元
+                - button [ref=f32e1467]
+              - generic [ref=f32e1470]:
+                - img "明日达" [ref=f32e1472]
+                - img "百亿补贴" [ref=f32e1474]
+                - img "焕新补贴" [ref=f32e1476]
+                - generic [ref=f32e1477]: 只换不修
+                - generic [ref=f32e1479]: 包邮
+              - generic [ref=f32e1482]:
+                - generic "已售10万+" [ref=f32e1483]
+                - generic "200+人好评" [ref=f32e1484]
+              - generic [ref=f32e1485]:
+                - generic [ref=f32e1486]: 飞利浦显示器京东自营旗舰店
+                - link [ref=f32e1488]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100285032594&score=5&evaluationRate=97&commentNum=10%25E4%25B8%2587%252B&seller=%25E9%25A3%259E%25E5%2588%25A9%25E6%25B5%25A6%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F541911%252F2%252F3381%252F161382%252F6ac768beFf2742e4b%252F00835a05a02a6b6d.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E9%25A3%259E%25E5%2588%25A9%25E6%25B5%25A627%25E8%258B%25B1%25E5%25AF%25B8%25202K%2520144Hz%2520IPS%2520%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520TypeC65W%2520HDR%2520%25E7%25B1%25BB%25E5%2585%25A8%25E9%259D%25A2%25E5%25B1%258F%25201500%25EF%25BC%259A1%25E5%25AF%25B9%25E6%25AF%2594%2520%25E5%258D%2587%25E9%2599%258D%2520%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A827E2G5600W
+          - generic [ref=f32e1490] [cursor=pointer]:
+            - generic "联想（Lenovo）拯救者27英寸 2K240Hz高刷 1msGTG 高色域护眼 升降旋转底座拯救者游戏本配套显示器 27Q-1p高亮版" [ref=f32e1493]
+            - generic [ref=f32e1505]:
+              - generic [ref=f32e1506]:
+                - img "自营" [ref=f32e1509]
+                - text: 联想（Lenovo）拯救者27英寸 2K240Hz高刷 1msGTG 高色域护眼 升降旋转底座拯救者游戏本配套显示器 27Q-1p高亮版
+              - generic [ref=f32e1512]:
+                - generic "显示器榜·第2名" [ref=f32e1514]
+                - generic [ref=f32e1517]:
+                  - generic [ref=f32e1518]: 2K超清带护眼
+                  - generic [ref=f32e1519]: "|原生高刷无拖影"
+                  - generic [ref=f32e1520]: "|升降旋转底座"
+                  - generic [ref=f32e1521]: "|护眼技术"
+                - generic "领政府补贴减￥89.9" [ref=f32e1523]
+                - generic "显示器榜·第2名" [ref=f32e1525]
+              - generic [ref=f32e1528]:
+                - generic [ref=f32e1529]:
+                  - generic [ref=f32e1530]: ¥
+                  - generic [ref=f32e1531]: "809"
+                  - generic [ref=f32e1532]: .
+                  - generic [ref=f32e1533]: "1"
+                - generic [ref=f32e1534]: 已补163.49元
+                - button [ref=f32e1535]
+              - generic [ref=f32e1538]:
+                - img "明日达" [ref=f32e1540]
+                - img "百亿补贴" [ref=f32e1542]
+                - img "政府补贴" [ref=f32e1544]
+                - generic [ref=f32e1545]: 只换不修
+                - generic [ref=f32e1547]: 包邮
+              - generic [ref=f32e1550]:
+                - generic "已售10万+" [ref=f32e1551]
+                - generic "30天加购飙升5倍" [ref=f32e1552]
+              - generic [ref=f32e1553]:
+                - generic [ref=f32e1554]: 联想京东自营旗舰店
+                - link [ref=f32e1556]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100290277860&score=5&evaluationRate=96&commentNum=10%25E4%25B8%2587%252B&seller=%25E8%2581%2594%25E6%2583%25B3%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F550468%252F24%252F9158%252F99147%252F6ae061e5F43dcbb75%252F00833203201b475d.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E8%2581%2594%25E6%2583%25B3%25EF%25BC%2588Lenovo%25EF%25BC%2589%25E6%258B%25AF%25E6%2595%2591%25E8%2580%258527%25E8%258B%25B1%25E5%25AF%25B8%25202K240Hz%25E9%25AB%2598%25E5%2588%25B7%25201msGTG%2520%25E9%25AB%2598%25E8%2589%25B2%25E5%259F%259F%25E6%258A%25A4%25E7%259C%25BC%2520%25E5%258D%2587%25E9%2599%258D%25E6%2597%258B%25E8%25BD%25AC%25E5%25BA%2595%25E5%25BA%25A7%25E6%258B%25AF%25E6%2595%2591%25E8%2580%2585%25E6%25B8%25B8%25E6%2588%258F%25E6%259C%25AC%25E9%2585%258D%25E5%25A5%2597%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%252027Q-1p%25E9%25AB%2598%25E4%25BA%25AE%25E7%2589%2588
+          - generic [ref=f32e1558] [cursor=pointer]:
+            - generic "戴尔（DELL）27英寸 2K 办公显示器 IPS 硬件级防蓝光 100Hz 内置音箱 旋转升降 商务办公 电脑显示屏 E2726DS" [ref=f32e1561]
+            - generic [ref=f32e1573]:
+              - generic [ref=f32e1574]: 戴尔（DELL）27英寸 2K 办公显示器 IPS 硬件级防蓝光 100Hz 内置音箱 旋转升降 商务办公 电脑显示屏 E2726DS
+              - generic [ref=f32e1576]:
+                - generic [ref=f32e1577]: 旋转升降支架
+                - generic [ref=f32e1578]: "|100Hz刷新"
+                - generic [ref=f32e1579]: "|内置音箱"
+                - generic [ref=f32e1580]: "|硬件级防蓝光"
+              - generic [ref=f32e1581]:
+                - generic [ref=f32e1582]:
+                  - generic [ref=f32e1583]: ¥
+                  - generic [ref=f32e1584]: "1019"
+                - button [ref=f32e1585]
+              - generic [ref=f32e1588]:
+                - img "送货上门" [ref=f32e1590]
+                - generic [ref=f32e1591]: 包邮
+              - generic [ref=f32e1594]:
+                - generic "已售70+" [ref=f32e1595]
+                - generic "300+人种草" [ref=f32e1596]
+              - generic [ref=f32e1597]:
+                - generic [ref=f32e1598]: 品牌超级店
+                - generic [ref=f32e1599]: 戴尔外设产品旗舰店
+                - link [ref=f32e1601]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10204519704018&score=5&evaluationRate=100&commentNum=37&seller=%25E6%2588%25B4%25E5%25B0%2594%25E5%25A4%2596%25E8%25AE%25BE%25E4%25BA%25A7%25E5%2593%2581%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft20280831%252F509312%252F25%252F12244%252F83180%252F6a965975F341962df%252F0a0232032083b444.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E6%2588%25B4%25E5%25B0%2594%25EF%25BC%2588DELL%25EF%25BC%258927%25E8%258B%25B1%25E5%25AF%25B8%25202K%2520%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520IPS%2520%25E7%25A1%25AC%25E4%25BB%25B6%25E7%25BA%25A7%25E9%2598%25B2%25E8%2593%259D%25E5%2585%2589%2520100Hz%2520%25E5%2586%2585%25E7%25BD%25AE%25E9%259F%25B3%25E7%25AE%25B1%2520%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%2520%25E5%2595%2586%25E5%258A%25A1%25E5%258A%259E%25E5%2585%25AC%2520%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%2520E2726DS
+          - generic [ref=f32e1603] [cursor=pointer]:
+            - generic "戴尔2K办公显示器" [ref=f32e1606]
+            - generic [ref=f32e1618]:
+              - generic [ref=f32e1619]:
+                - img "自营" [ref=f32e1622]
+                - text: 戴尔2K办公显示器
+              - generic [ref=f32e1624]:
+                - generic [ref=f32e1625]: 升降旋转
+                - generic [ref=f32e1626]: "|Type-C接口"
+                - generic [ref=f32e1627]: "|硬件级防蓝光"
+                - generic [ref=f32e1628]: "|27英寸大屏"
+              - generic [ref=f32e1629]:
+                - generic [ref=f32e1630]:
+                  - generic [ref=f32e1631]: ¥
+                  - generic [ref=f32e1632]: "1766"
+                - button [ref=f32e1633]
+              - generic [ref=f32e1636]: 只换不修
+              - generic [ref=f32e1640]:
+                - generic "已售6万+" [ref=f32e1641]
+                - generic "1600+人种草" [ref=f32e1642]
+              - generic [ref=f32e1643]:
+                - generic [ref=f32e1644]: 戴尔商用京东自营旗舰店
+                - link [ref=f32e1646]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100233693757&score=5&evaluationRate=99&commentNum=2%25E4%25B8%2587%252B&seller=%25E6%2588%25B4%25E5%25B0%2594%25E5%2595%2586%25E7%2594%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F537507%252F20%252F12614%252F84046%252F6acc9f65F7f91cb57%252F008332032055df3a.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E6%2588%25B4%25E5%25B0%25942K%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8
+          - generic [ref=f32e1648] [cursor=pointer]:
+            - generic "AOC 27英寸 2K 办公显示器Type-C" [ref=f32e1651]
+            - generic [ref=f32e1661]:
+              - generic [ref=f32e1662]:
+                - img "自营" [ref=f32e1665]
+                - text: AOC 27英寸 2K 办公显示器Type-C
+              - generic [ref=f32e1667]:
+                - generic [ref=f32e1668]: 3年以换代修
+                - generic [ref=f32e1669]: "|2K高清"
+                - generic [ref=f32e1670]: "|Type-C"
+                - generic [ref=f32e1671]: "|快速响应"
+              - generic [ref=f32e1672]:
+                - generic [ref=f32e1673]:
+                  - generic [ref=f32e1674]: ¥
+                  - generic [ref=f32e1675]: "969"
+                - button [ref=f32e1676]
+              - generic [ref=f32e1679]: 只换不修
+              - generic [ref=f32e1683]:
+                - generic "已售10万+" [ref=f32e1684]
+                - generic "30天种草飙升5倍" [ref=f32e1685]
+              - generic [ref=f32e1686]:
+                - generic [ref=f32e1687]: AOC商用京东自营旗舰店
+                - link [ref=f32e1689]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100079379588&score=5&evaluationRate=97&commentNum=5%25E4%25B8%2587%252B&seller=AOC%25E5%2595%2586%25E7%2594%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F540630%252F9%252F11374%252F126699%252F6ad74f3bF6b74be50%252F0083320320f3e60b.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=AOC%252027%25E8%258B%25B1%25E5%25AF%25B8%25202K%2520%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8Type-C
+          - generic [ref=f32e1691] [cursor=pointer]:
+            - generic "戴尔（DELL）27英寸 办公显示器 2K 100Hz IPS硬件级防蓝光 旋转升降支架 微边框 设计修图 电脑显示屏 P2725D" [ref=f32e1694]
+            - generic [ref=f32e1706]:
+              - generic [ref=f32e1707]:
+                - img "自营" [ref=f32e1710]
+                - text: 戴尔（DELL）27英寸 办公显示器 2K 100Hz IPS硬件级防蓝光 旋转升降支架 微边框 设计修图 电脑显示屏 P2725D
+              - generic [ref=f32e1712]:
+                - generic [ref=f32e1713]: 100Hz刷新率
+                - generic [ref=f32e1714]: "|旋转升降支架"
+                - generic [ref=f32e1715]: "|低蓝光不闪屏"
+                - generic [ref=f32e1716]: "|27英寸大屏"
+              - generic [ref=f32e1717]:
+                - generic [ref=f32e1718]:
+                  - generic [ref=f32e1719]: ¥
+                  - generic [ref=f32e1720]: "1499"
+                - button [ref=f32e1721]
+              - generic [ref=f32e1724]:
+                - img "明日达" [ref=f32e1726]
+                - generic [ref=f32e1727]: 只换不修
+              - generic [ref=f32e1730]:
+                - generic "已售6万+" [ref=f32e1731]
+                - generic "4500+人种草" [ref=f32e1732]
+              - generic [ref=f32e1733]:
+                - generic [ref=f32e1734]: 戴尔商用京东自营旗舰店
+                - link [ref=f32e1736]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100276419350&score=5&evaluationRate=99&commentNum=2%25E4%25B8%2587%252B&seller=%25E6%2588%25B4%25E5%25B0%2594%25E5%2595%2586%25E7%2594%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F541795%252F3%252F7932%252F107963%252F6acc9f66Fbe726da4%252F00833203208561c5.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E6%2588%25B4%25E5%25B0%2594%25EF%25BC%2588DELL%25EF%25BC%258927%25E8%258B%25B1%25E5%25AF%25B8%2520%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25202K%2520100Hz%2520IPS%25E7%25A1%25AC%25E4%25BB%25B6%25E7%25BA%25A7%25E9%2598%25B2%25E8%2593%259D%25E5%2585%2589%2520%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%25E6%2594%25AF%25E6%259E%25B6%2520%25E5%25BE%25AE%25E8%25BE%25B9%25E6%25A1%2586%2520%25E8%25AE%25BE%25E8%25AE%25A1%25E4%25BF%25AE%25E5%259B%25BE%2520%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%2520P2725D
+          - generic [ref=f32e1738] [cursor=pointer]:
+            - generic "华为MateView GT 27英寸显示器 2K/200Hz/扬声器/USB-C/DP/HDMI/旋转升降壁挂/硬件低蓝光 星空黑 新品" [ref=f32e1741]
+            - generic [ref=f32e1753]:
+              - generic [ref=f32e1754]:
+                - img "自营" [ref=f32e1757]
+                - text: 华为MateView GT 27英寸显示器 2K/200Hz/扬声器/USB-C/DP/HDMI/旋转升降壁挂/硬件低蓝光 星空黑 新品
+              - generic [ref=f32e1760]:
+                - generic [ref=f32e1761]:
+                  - generic [ref=f32e1762]: 华为悦彰五扬声器
+                  - generic [ref=f32e1763]: "|2K 200Hz"
+                  - generic [ref=f32e1764]: "|27 英寸全面屏"
+                  - generic [ref=f32e1765]: "|27英寸全面屏"
+                - generic "领政府补贴减￥129.87" [ref=f32e1767]
+                - generic [ref=f32e1768]:
+                  - generic [ref=f32e1769]: 华为悦彰五扬声器
+                  - generic [ref=f32e1770]: "|2K 200Hz"
+                  - generic [ref=f32e1771]: "|27 英寸全面屏"
+                  - generic [ref=f32e1772]: "|27英寸全面屏"
+              - generic [ref=f32e1773]:
+                - generic [ref=f32e1774]:
+                  - generic [ref=f32e1775]: ¥
+                  - generic [ref=f32e1776]: "1168"
+                  - generic [ref=f32e1777]: .
+                  - generic [ref=f32e1778]: "78"
+                - generic [ref=f32e1779]: 补贴领后价
+                - generic [ref=f32e1781]: ¥1367
+                - button [ref=f32e1782]
+              - generic [ref=f32e1785]:
+                - img "明日达" [ref=f32e1787]
+                - img "政府补贴" [ref=f32e1789]
+                - generic [ref=f32e1790]: 只换不修
+              - generic [ref=f32e1793]:
+                - generic "已售4万+" [ref=f32e1794]
+                - generic "300+人好评" [ref=f32e1795]
+              - generic [ref=f32e1796]:
+                - generic [ref=f32e1797]: 华为京东自营旗舰店
+                - link [ref=f32e1799]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100328085586&score=5&evaluationRate=98&commentNum=2%25E4%25B8%2587%252B&seller=%25E5%258D%258E%25E4%25B8%25BA%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F530176%252F36%252F15200%252F118829%252F6ac85e8eFb53fd7b2%252F00835a05a028515c.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%258D%258E%25E4%25B8%25BAMateView%2520GT%252027%25E8%258B%25B1%25E5%25AF%25B8%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%25202K%252F200Hz%252F%25E6%2589%25AC%25E5%25A3%25B0%25E5%2599%25A8%252FUSB-C%252FDP%252FHDMI%252F%25E6%2597%258B%25E8%25BD%25AC%25E5%258D%2587%25E9%2599%258D%25E5%25A3%2581%25E6%258C%2582%252F%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%2520%25E6%2598%259F%25E7%25A9%25BA%25E9%25BB%2591%2520%25E6%2596%25B0%25E5%2593%2581
+          - generic [ref=f32e1801] [cursor=pointer]:
+            - generic "三星（SAMSUNG） 玄龙骑士G5 27英寸 2K超清 快速1ms响应 电竞游戏屏幕 电脑显示器 可壁挂 新款2K 180HZ 平面IPS 升降旋转" [ref=f32e1804]
+            - generic [ref=f32e1816]:
+              - generic [ref=f32e1817]:
+                - img "京东物流" [ref=f32e1820]
+                - text: 三星（SAMSUNG） 玄龙骑士G5 27英寸 2K超清 快速1ms响应 电竞游戏屏幕 电脑显示器 可壁挂 新款2K 180HZ 平面IPS 升降旋转
+              - generic [ref=f32e1822]:
+                - generic [ref=f32e1823]: 180Hz高刷
+                - generic [ref=f32e1824]: "|27英寸2K"
+                - generic [ref=f32e1825]: "|升降旋转支架"
+                - generic [ref=f32e1826]: "|2560x1440"
+              - generic [ref=f32e1827]:
+                - generic [ref=f32e1828]:
+                  - generic [ref=f32e1829]: ¥
+                  - generic [ref=f32e1830]: "1199"
+                - generic [ref=f32e1831]: 新人价
+                - generic [ref=f32e1833]: ¥1499
+                - button [ref=f32e1834]
+              - generic [ref=f32e1837]:
+                - img "明日达" [ref=f32e1839]
+                - img "送货上门" [ref=f32e1841]
+                - generic [ref=f32e1842]: 首购礼金300元
+                - generic [ref=f32e1844]: 包邮
+              - generic [ref=f32e1847]:
+                - generic "已售900+" [ref=f32e1848]
+                - generic "6500+人种草" [ref=f32e1849]
+              - generic [ref=f32e1850]:
+                - generic [ref=f32e1851]: 三星办公设备旗舰店
+                - link [ref=f32e1853]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10203902851805&score=5&evaluationRate=97&commentNum=500%252B&seller=%25E4%25B8%2589%25E6%2598%259F%25E5%258A%259E%25E5%2585%25AC%25E8%25AE%25BE%25E5%25A4%2587%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F534678%252F15%252F4849%252F193907%252F6aba3b11Ffdda41af%252F00833203201960ea.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%2589%25E6%2598%259F%25EF%25BC%2588SAMSUNG%25EF%25BC%2589%2520%25E7%258E%2584%25E9%25BE%2599%25E9%25AA%2591%25E5%25A3%25ABG5%252027%25E8%258B%25B1%25E5%25AF%25B8%25202K%25E8%25B6%2585%25E6%25B8%2585%2520%25E5%25BF%25AB%25E9%2580%259F1ms%25E5%2593%258D%25E5%25BA%2594%2520%25E7%2594%25B5%25E7%25AB%259E%25E6%25B8%25B8%25E6%2588%258F%25E5%25B1%258F%25E5%25B9%2595%2520%25E7%2594%25B5%25E8%2584%2591%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8%2520%25E5%258F%25AF%25E5%25A3%2581%25E6%258C%2582%2520%25E6%2596%25B0%25E6%25AC%25BE2K%2520180HZ%2520%25E5%25B9%25B3%25E9%259D%25A2IPS%2520%25E5%258D%2587%25E9%2599%258D%25E6%2597%258B%25E8%25BD%25AC
+          - generic [ref=f32e1855] [cursor=pointer]:
+            - generic "AOC 27英寸2K 144Hz 爱瞳圆偏光+TUV硬件低蓝光不闪护眼 HDR典雅白 节能认证电竞办公显示器Q27V6L/WW" [ref=f32e1858]
+            - generic [ref=f32e1870]:
+              - generic [ref=f32e1871]:
+                - img "自营" [ref=f32e1874]
+                - text: AOC 27英寸2K 144Hz 爱瞳圆偏光+TUV硬件低蓝光不闪护眼 HDR典雅白 节能认证电竞办公显示器Q27V6L/WW
+              - generic [ref=f32e1876]:
+                - generic [ref=f32e1877]: 节能办公屏
+                - generic [ref=f32e1878]: "|2K 144Hz"
+                - generic [ref=f32e1879]: "|圆偏光护眼"
+                - generic [ref=f32e1880]: "|典雅白设计"
+              - generic [ref=f32e1881]:
+                - generic [ref=f32e1882]:
+                  - generic [ref=f32e1883]: ¥
+                  - generic [ref=f32e1884]: "919"
+                - button [ref=f32e1885]
+              - generic [ref=f32e1888]:
+                - img "明日达" [ref=f32e1890]
+                - generic [ref=f32e1891]: 只换不修
+              - generic [ref=f32e1894]:
+                - generic "已售8万+" [ref=f32e1895]
+                - generic "30天加购飙升5倍" [ref=f32e1896]
+              - generic [ref=f32e1897]:
+                - generic [ref=f32e1898]: AOC京东自营旗舰店
+                - link [ref=f32e1900]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100270623983&score=5&evaluationRate=98&commentNum=5%25E4%25B8%2587%252B&seller=AOC%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F448672%252F3%252F5216%252F48047%252F6a228776F2bb6ea79%252F0083438438055dd8.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=AOC%252027%25E8%258B%25B1%25E5%25AF%25B82K%2520144Hz%2520%25E7%2588%25B1%25E7%259E%25B3%25E5%259C%2586%25E5%2581%258F%25E5%2585%2589%252BTUV%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BD%258E%25E8%2593%259D%25E5%2585%2589%25E4%25B8%258D%25E9%2597%25AA%25E6%258A%25A4%25E7%259C%25BC%2520HDR%25E5%2585%25B8%25E9%259B%2585%25E7%2599%25BD%2520%25E8%258A%2582%25E8%2583%25BD%25E8%25AE%25A4%25E8%25AF%2581%25E7%2594%25B5%25E7%25AB%259E%25E5%258A%259E%25E5%2585%25AC%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8Q27V6L%252FWW
+        - generic [ref=f32e1902]:
+          - generic [ref=f32e1903]: 上一页
+          - generic [ref=f32e1904] [cursor=pointer]: "1"
+          - generic [ref=f32e1905] [cursor=pointer]: "2"
+          - generic [ref=f32e1906] [cursor=pointer]: "3"
+          - generic [ref=f32e1907] [cursor=pointer]: "4"
+          - generic [ref=f32e1908] [cursor=pointer]: "5"
+          - generic [ref=f32e1909] [cursor=pointer]: "6"
+          - generic [ref=f32e1910] [cursor=pointer]: "7"
+          - generic [ref=f32e1911]: ...
+          - generic [ref=f32e1913] [cursor=pointer]: 下一页
+          - generic [ref=f32e1914]: 共16页
+          - generic [ref=f32e1915]:
+            - generic [ref=f32e1916]: 到第
+            - textbox [ref=f32e1917]
+            - generic [ref=f32e1918]: 页
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - link:
+            - /url: "#"
+  - generic [ref=f32e1920]:
+    - list [ref=f32e1923]:
+      - listitem [ref=f32e1924]:
+        - generic [ref=f32e1925]:
+          - heading "多" [level=5] [ref=f32e1926]
+          - paragraph [ref=f32e1927]: 品类齐全，轻松购物
+      - listitem [ref=f32e1928]:
+        - generic [ref=f32e1929]:
+          - heading "快" [level=5] [ref=f32e1930]
+          - paragraph [ref=f32e1931]: 多仓直发，极速配送
+      - listitem [ref=f32e1932]:
+        - generic [ref=f32e1933]:
+          - heading "好" [level=5] [ref=f32e1934]
+          - paragraph [ref=f32e1935]: 正品行货，精致服务
+      - listitem [ref=f32e1936]:
+        - generic [ref=f32e1937]:
+          - heading "省" [level=5] [ref=f32e1938]
+          - paragraph [ref=f32e1939]: 天天低价，畅选无忧
+    - generic [ref=f32e1942]:
+      - generic [ref=f32e1943]:
+        - heading "购物指南" [level=5] [ref=f32e1944]
+        - list [ref=f32e1945]:
+          - listitem [ref=f32e1946]:
+            - link "购物流程" [ref=f32e1947] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-29.html
+          - listitem [ref=f32e1948]:
+            - link "会员介绍" [ref=f32e1949] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-151.html
+          - listitem [ref=f32e1950]:
+            - link "生活旅行" [ref=f32e1951] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-297.html
+          - listitem [ref=f32e1952]:
+            - link "常见问题" [ref=f32e1953] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue.html
+          - listitem [ref=f32e1954]:
+            - link "大家电" [ref=f32e1955] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-136.html
+          - listitem [ref=f32e1956]:
+            - link "联系客服" [ref=f32e1957] [cursor=pointer]:
+              - /url: //help.jd.com/user/custom.html
+      - generic [ref=f32e1958]:
+        - heading "配送方式" [level=5] [ref=f32e1959]
+        - list [ref=f32e1960]:
+          - listitem [ref=f32e1961]:
+            - link "上门自提" [ref=f32e1962] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81-100.html
+          - listitem [ref=f32e1963]:
+            - link "211限时达" [ref=f32e1964] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81.html
+          - listitem [ref=f32e1965]:
+            - link "配送服务查询" [ref=f32e1966] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-82.html
+          - listitem [ref=f32e1967]:
+            - link "配送费收取标准" [ref=f32e1968] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/109-188.html
+      - generic [ref=f32e1969]:
+        - heading "支付方式" [level=5] [ref=f32e1970]
+        - list [ref=f32e1971]:
+          - listitem [ref=f32e1972]:
+            - link "货到付款" [ref=f32e1973] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-172.html
+          - listitem [ref=f32e1974]:
+            - link "在线支付" [ref=f32e1975] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-173.html
+          - listitem [ref=f32e1976]:
+            - link "分期付款" [ref=f32e1977] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-176.html
+          - listitem [ref=f32e1978]:
+            - link "公司转账" [ref=f32e1979] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-175.html
+      - generic [ref=f32e1980]:
+        - heading "售后服务" [level=5] [ref=f32e1981]
+        - list [ref=f32e1982]:
+          - listitem [ref=f32e1983]:
+            - link "售后政策" [ref=f32e1984] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-112.html
+          - listitem [ref=f32e1985]:
+            - link "价格保护" [ref=f32e1986] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-132.html
+          - listitem [ref=f32e1987]:
+            - link "退款说明" [ref=f32e1988] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/130-978.html
+          - listitem [ref=f32e1989]:
+            - link "返修/退换货" [ref=f32e1990] [cursor=pointer]:
+              - /url: //myjd.jd.com/repair/repairs.action
+          - listitem [ref=f32e1991]:
+            - link "取消订单" [ref=f32e1992] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-50.html
+      - generic [ref=f32e1993]:
+        - heading "特色服务" [level=5] [ref=f32e1994]
+        - list [ref=f32e1995]:
+          - listitem [ref=f32e1996]:
+            - link "夺宝岛" [ref=f32e1997] [cursor=pointer]:
+              - /url: //paipai.jd.com/auction-list/
+          - listitem [ref=f32e1998]:
+            - link "DIY装机" [ref=f32e1999] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-134.html
+          - listitem [ref=f32e2000]:
+            - link "延保服务" [ref=f32e2001] [cursor=pointer]:
+              - /url: //fuwu.jd.com/
+          - listitem [ref=f32e2002]:
+            - link "京东E卡" [ref=f32e2003] [cursor=pointer]:
+              - /url: //o.jd.com/market/index.action
+          - listitem [ref=f32e2004]:
+            - link "京东通信" [ref=f32e2005] [cursor=pointer]:
+              - /url: //mobile.jd.com/
+          - listitem [ref=f32e2006]:
+            - link "京鱼座智能" [ref=f32e2007] [cursor=pointer]:
+              - /url: //smart.jd.com/
+    - generic [ref=f32e2008]:
+      - generic [ref=f32e2009]:
+        - paragraph [ref=f32e2010]:
+          - link "关于我们" [ref=f32e2011] [cursor=pointer]:
+            - /url: //about.jd.com
+          - generic [ref=f32e2012]: "|"
+          - link "联系我们" [ref=f32e2013] [cursor=pointer]:
+            - /url: //about.jd.com/contact
+          - generic [ref=f32e2014]: "|"
+          - link "联系客服" [ref=f32e2015] [cursor=pointer]:
+            - /url: //help.jd.com/user/custom.html
+          - generic [ref=f32e2016]: "|"
+          - link "合作招商" [ref=f32e2017] [cursor=pointer]:
+            - /url: //lai.jd.com
+          - generic [ref=f32e2018]: "|"
+          - link "商家帮助" [ref=f32e2019] [cursor=pointer]:
+            - /url: //helpcenter.jd.com/venderportal/index.html
+          - generic [ref=f32e2020]: "|"
+          - link "营销中心" [ref=f32e2021] [cursor=pointer]:
+            - /url: //jzt.jd.com
+          - generic [ref=f32e2022]: "|"
+          - link "手机京东" [ref=f32e2023] [cursor=pointer]:
+            - /url: //app.jd.com/
+          - generic [ref=f32e2024]: "|"
+          - link "友情链接" [ref=f32e2025] [cursor=pointer]:
+            - /url: //club.jd.com/links.aspx
+          - generic [ref=f32e2026]: "|"
+          - link "销售联盟" [ref=f32e2027] [cursor=pointer]:
+            - /url: //union.jd.com/index
+          - generic [ref=f32e2028]: "|"
+          - link "京东社区" [ref=f32e2029] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html
+          - generic [ref=f32e2030]: "|"
+          - link "风险监测" [ref=f32e2031] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html
+          - generic [ref=f32e2032]: "|"
+          - link "质量公告" [ref=f32e2033] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/2udA8Qxf3A54dVVseY5CdUMSgQPs/index.html
+          - generic [ref=f32e2034]: "|"
+          - link "隐私政策" [ref=f32e2035] [cursor=pointer]:
+            - /url: //about.jd.com/privacy/
+          - generic [ref=f32e2036]: "|"
+          - link "京东公益" [ref=f32e2037] [cursor=pointer]:
+            - /url: //gongyi.jd.com
+          - generic [ref=f32e2038]: "|"
+          - link "Media&IR" [ref=f32e2039] [cursor=pointer]:
+            - /url: //corporate.jd.com
+        - generic [ref=f32e2040]:
+          - generic [ref=f32e2041]:
+            - paragraph [ref=f32e2042]:
+              - link "京公网安备 11000002000088号" [ref=f32e2043] [cursor=pointer]:
+                - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088
+              - generic [ref=f32e2044]: "|"
+              - link "京ICP备11041704号" [ref=f32e2045] [cursor=pointer]:
+                - /url: http://beian.miit.gov.cn
+              - generic [ref=f32e2046]: "|"
+              - link "ICP" [ref=f32e2047] [cursor=pointer]:
+                - /url: //h5.m.jd.com/pc/dev/3T3No18XR8k8rpLGLGhgbJ1StAFq/index.html
+              - generic [ref=f32e2048]: "|"
+              - link "药品医疗器械网络信息服务备案" [ref=f32e2049] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/2zRnBcZVhdAcWBMvBnoRcUdi3HBt/index.html
+              - generic [ref=f32e2050]: "|"
+              - link "自营医疗器械经营资质" [ref=f32e2051] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/MZXpsnbHS3omkFAk4R4jYwXTb4c/index.html
+              - generic [ref=f32e2052]: "|"
+              - link "药品网络交易第三方平台备案凭证" [ref=f32e2053] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/2pwvdCM94gBdWruSu82PkqzKyi3U/index.html
+              - generic [ref=f32e2054]: "|"
+              - text: 新出发京零 字第大120007号
+            - paragraph [ref=f32e2055]:
+              - text: 互联网出版许可证编号新出网证(京)字150号
+              - generic [ref=f32e2056]: "|"
+              - link "出版物经营许可证" [ref=f32e2057] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html
+              - generic [ref=f32e2058]: "|"
+              - text: 违法和不良信息举报电话：4006561155
+              - generic [ref=f32e2059]: "|"
+              - text: Copyright © 2004 - 2026 京东JINGDONG 版权所有
+            - paragraph [ref=f32e2060]:
+              - link "经营证照" [ref=f32e2061] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/38PitHBfR7ZopNHRSHnuuWR5AMDL/index.html
+              - generic [ref=f32e2062]: "|"
+              - link "医疗器械第三方平台备案凭证（京）网械平台备字（2023）第00013号" [ref=f32e2063] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/36mqawDTyFwQpodmiJGf6bvPA8hs/index.html
+              - generic [ref=f32e2064]: "|"
+              - link "营业执照" [ref=f32e2065] [cursor=pointer]:
+                - /url: //h5.m.jd.com/babelDiy/Zeus/ARcYnJ8coUdUecn6UQAN6TDaVmH/index.html
+              - generic [ref=f32e2066]: "|"
+              - link "增值电信业务经营许可证" [ref=f32e2067] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/3pNwSArkXgfvVYvejSxj44cRgPvQ/index.html
+          - paragraph [ref=f32e2069]:
+            - text: 京东旗下网站：
+            - link "京东钱包" [ref=f32e2070] [cursor=pointer]:
+              - /url: https://www.jdpay.com/
+            - generic [ref=f32e2071]: "|"
+            - link "京东云" [ref=f32e2072] [cursor=pointer]:
+              - /url: http://www.jdcloud.com
+            - generic [ref=f32e2073]: "|"
+            - text: 网络内容从业人员违法违规行为举报电话：4006561155-3
+      - paragraph [ref=f32e2074]:
+        - link "可信网站信用评估" [ref=f32e2075] [cursor=pointer]:
+          - /url: https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ampct=df&amppa=294005
+        - link "网络警察提醒你" [ref=f32e2076] [cursor=pointer]:
+          - /url: http://cyberpolice.mps.gov.cn/
+        - link "诚信网站" [ref=f32e2077] [cursor=pointer]:
+          - /url: https://search.szfw.org/cert/l/CX20120111001803001836
+        - link "中国互联网举报中心" [ref=f32e2078] [cursor=pointer]:
+          - /url: http://www.12377.cn/
+        - link "网络举报APP下载" [ref=f32e2079] [cursor=pointer]:
+          - /url: http://www.12377.cn/node_548446.htm
+        - link "扫黄打非网举报专区" [ref=f32e2080] [cursor=pointer]:
+          - /url: https://www.shdf.gov.cn/
+        - link "适老化无障碍服务" [ref=f32e2081] [cursor=pointer]:
+          - /url: "#none"
+        - link "国家知识产权公共服务网" [ref=f32e2082] [cursor=pointer]:
+          - /url: https://ggfw.cnipa.gov.cn/home
+  - generic [ref=f32e2083]:
+    - list [ref=f32e2084]:
+      - listitem [ref=f32e2085]:
+        - link "7 购物车" [ref=f32e2086] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=f32e2087]: "7"
+          - generic [ref=f32e2090]: 购物车
+      - listitem [ref=f32e2091]:
+        - link "我的" [ref=f32e2092] [cursor=pointer]:
+          - /url: //home.jd.com/
+      - listitem [ref=f32e2097]:
+        - link "客服" [ref=f32e2098] [cursor=pointer]:
+          - /url: //jdcs.jd.com/chat/index.action?venderId=1&entry=jd_web_jimi_jdhome
+      - listitem [ref=f32e2103]:
+        - link "桌面版" [ref=f32e2105] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f32e2109]:
+        - link "反馈" [ref=f32e2110] [cursor=pointer]:
+          - /url: https://wj-dongjian.jd.com/q/61961e975d82bb00a9002fc1
+      - listitem [ref=f32e2115]:
+        - link "插件版" [ref=f32e2117] [cursor=pointer]:
+          - /url: javascript:void(0)
+    - link "收起" [ref=f32e2122] [cursor=pointer]:
+      - /url: "#"

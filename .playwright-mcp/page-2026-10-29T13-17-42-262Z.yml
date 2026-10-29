@@ -1,0 +1,313 @@
+- generic [active] [ref=f25e1]:
+  - generic [ref=f25e4]:
+    - generic [ref=f25e6]:
+      - navigation "顶部导航" [ref=f25e277]:
+        - list [ref=f25e278]:
+          - listitem [ref=f25e279]:
+            - generic [ref=f25e280]:
+              - generic [ref=f25e281] [cursor=pointer]
+              - generic "京东首页" [ref=f25e284] [cursor=pointer]
+          - listitem [ref=f25e285]
+          - listitem [ref=f25e286]:
+            - generic [ref=f25e287]:
+              - link "jd_o84d14k2a..." [ref=f25e289] [cursor=pointer]:
+                - /url: //home.jd.com/
+              - generic [ref=f25e290]: 
+          - generic [ref=f25e291]:
+            - listitem [ref=f25e292]
+            - listitem [ref=f25e293]:
+              - generic [ref=f25e294]: 同款搜低价
+          - generic [ref=f25e296]:
+            - listitem [ref=f25e297]
+            - listitem [ref=f25e298]:
+              - generic [ref=f25e299]: 桌面版
+        - list [ref=f25e301]:
+          - listitem [ref=f25e302]:
+            - link "购物车 7" [ref=f25e306] [cursor=pointer]:
+              - /url: //cart.jd.com/cart.action
+          - listitem [ref=f25e307]
+          - listitem [ref=f25e308]:
+            - generic [ref=f25e309]:
+              - link "我在APP看过" [ref=f25e310] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - generic [ref=f25e311]: 
+          - listitem [ref=f25e312]
+          - listitem [ref=f25e313]:
+            - link "我的订单" [ref=f25e315] [cursor=pointer]:
+              - /url: //order.jd.com/center/list.action
+          - listitem [ref=f25e316]
+          - listitem [ref=f25e317]:
+            - generic [ref=f25e318]:
+              - link "我的京东" [ref=f25e319] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - generic [ref=f25e320]: 
+          - listitem [ref=f25e321]
+          - listitem [ref=f25e322]:
+            - generic [ref=f25e323]:
+              - link "企业采购" [ref=f25e324] [cursor=pointer]:
+                - /url: //b.jd.com/?bjdSourceChannel=cjdqiehuanqiyeban
+              - generic [ref=f25e325]: 
+          - listitem [ref=f25e326]
+          - listitem [ref=f25e327]:
+            - button "网站导航" [ref=f25e328]:
+              - text: 网站导航
+              - generic [ref=f25e329]: 
+          - listitem [ref=f25e330]
+          - listitem [ref=f25e331]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link:
+                - /url: "#"
+    - generic [ref=f25e8] [cursor=pointer]
+    - generic [ref=f25e11]:
+      - generic [ref=f25e13]:
+        - link "电脑、办公" [ref=f25e15] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+        - generic [ref=f25e16]: ">"
+        - link "电脑组件" [ref=f25e18] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677&sourcePage=itemBreadCrumb
+        - generic [ref=f25e19]: ">"
+        - link "硬盘" [ref=f25e21] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&sourcePage=itemBreadCrumb
+        - generic [ref=f25e22]: ">"
+        - link "希捷（SEAGATE）" [ref=f25e24] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&ev=exbrand_17941&sourcePage=itemBreadCrumb
+      - generic [ref=f25e25]:
+        - generic [ref=f25e27] [cursor=pointer]:
+          - generic [ref=f25e30]:
+            - generic [ref=f25e31]:
+              - generic "摩世科技存储经营部" [ref=f25e32]
+              - generic [ref=f25e33]: "4.9"
+            - generic [ref=f25e41]:
+              - generic [ref=f25e42]: 进店逛逛，享更多优惠
+              - generic [ref=f25e43]: 精选镇店好物，快来逛逛
+              - generic [ref=f25e44]: 进店逛逛，享更多优惠
+              - generic [ref=f25e45]: 精选镇店好物，快来逛逛
+          - generic [ref=f25e46]:
+            - generic [ref=f25e47]: 关注店铺
+            - generic [ref=f25e49]: 联系客服
+        - generic [ref=f25e55]:
+          - generic [ref=f25e56]:
+            - textbox "搜索" [ref=f25e68]: 希捷机械硬盘
+            - generic [ref=f25e69] [cursor=pointer]:
+              - button "搜本店" [ref=f25e70]
+              - button "搜全站" [ref=f25e71]
+          - generic [ref=f25e72]:
+            - generic [ref=f25e593] [cursor=pointer]: 希捷机械硬盘8t
+            - generic [ref=f25e594] [cursor=pointer]: 希捷监控硬盘
+            - generic [ref=f25e595] [cursor=pointer]: 希捷机械硬盘16t
+            - generic [ref=f25e596] [cursor=pointer]: 希捷1t机械硬盘
+            - generic [ref=f25e597] [cursor=pointer]: 希捷机械硬盘4t
+      - generic [ref=f25e80]:
+        - generic [ref=f25e82]:
+          - generic [ref=f25e83]:
+            - generic [ref=f25e84]:
+              - generic [ref=f25e86]:
+                - generic [ref=f25e87] [cursor=pointer]
+                - generic [ref=f25e89] [cursor=pointer]
+                - generic [ref=f25e91] [cursor=pointer]
+                - generic [ref=f25e93] [cursor=pointer]
+                - generic [ref=f25e95] [cursor=pointer]
+                - generic [ref=f25e97] [cursor=pointer]
+                - generic [ref=f25e99] [cursor=pointer]
+                - generic [ref=f25e101] [cursor=pointer]
+                - generic [ref=f25e103] [cursor=pointer]
+                - generic [ref=f25e105] [cursor=pointer]: 规格参数
+              - generic [ref=f25e109] [cursor=pointer]
+            - generic [ref=f25e110]:
+              - generic [ref=f25e111]: 
+              - generic [ref=f25e341] [cursor=pointer]:
+                - generic [ref=f25e342]: 商品对比
+                - generic [ref=f25e343]: 
+                - generic [ref=f25e344]: 新增AI对比和总结能力？ 帮你看更合适买哪款！
+          - generic [ref=f25e115]:
+            - generic [ref=f25e119]:
+              - generic [ref=f25e120] [cursor=pointer]: 大家评
+              - generic [ref=f25e122] [cursor=pointer]: 店铺
+              - generic [ref=f25e124] [cursor=pointer]: 商品详情
+              - generic [ref=f25e126] [cursor=pointer]: 售后保障
+              - generic [ref=f25e128] [cursor=pointer]: 推荐
+            - generic [ref=f25e131]:
+              - generic [ref=f25e133]:
+                - generic [ref=f25e351]:
+                  - generic [ref=f25e352]: 买家评价(1)
+                  - generic [ref=f25e353]: 好评率高达100%
+                - generic [ref=f25e357]:
+                  - generic [ref=f25e358]: 问大家
+                  - generic [ref=f25e359] [cursor=pointer]: 我要提问
+              - generic [ref=f25e207]:
+                - generic [ref=f25e208]: 进店逛逛
+                - generic [ref=f25e210]:
+                  - generic [ref=f25e211] [cursor=pointer]
+                  - generic [ref=f25e214]:
+                    - generic [ref=f25e362] [cursor=pointer]: 联系客服
+                    - generic [ref=f25e215] [cursor=pointer]: 进店逛逛
+              - generic [ref=f25e218]: 商品详情
+        - generic [ref=f25e253]:
+          - generic [ref=f25e254]:
+            - generic [ref=f25e598]: 又好又便宜
+            - generic [ref=f25e257]:
+              - generic [ref=f25e367]:
+                - generic [ref=f25e368]: 希捷（SEAGATE）银河系ST20000NM003C企业级氦气20TB机械硬盘NAS服务器大容量存储 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保3年
+                - generic [ref=f25e369] [cursor=pointer]: 收藏
+              - generic [ref=f25e258]:
+                - generic [ref=f25e260]:
+                  - generic [ref=f25e371] [cursor=pointer]: ¥4488
+                  - generic [ref=f25e372]: 累计评价 1
+                  - generic [ref=f25e375] [cursor=pointer]:
+                    - generic [ref=f25e376]: 
+                    - text: 降价通知
+                - generic [ref=f25e381]:
+                  - generic [ref=f25e382]: 可再享：
+                  - generic [ref=f25e383]:
+                    - generic [ref=f25e604] [cursor=pointer]: 最高返224京豆
+                    - img [ref=f25e386] [cursor=pointer]
+              - list [ref=f25e390]:
+                - listitem [ref=f25e391]:
+                  - link "企业会员6000元补贴，办公设备/易耗品一站式采购！" [ref=f25e394] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/wPxBWVuiHctmS4MX9ywq5n57kiF/index.html?babelChannel=ttt21&hdid=bUTiORFpTb4&returnurl=https%3A%2F%2Fitem.jd.com%2F10227071695928.html
+              - generic [ref=f25e263]:
+                - generic [ref=f25e264]: 送至
+                - generic [ref=f25e396]:
+                  - generic [ref=f25e397]: 预计明天发货，11月1日(周日)送达
+                  - generic [ref=f25e398]:
+                    - generic [ref=f25e399] [cursor=pointer]: 江苏南京市江宁区秣陵街道
+                    - link "包邮" [ref=f25e404] [cursor=pointer]:
+                      - /url: //help.jd.com/user/issue/109-4012.html
+              - generic [ref=f25e409]:
+                - generic [ref=f25e410]:
+                  - generic [ref=f25e411]: 容量
+                  - generic [ref=f25e606] [cursor=pointer]:
+                    - img "20TB 原厂原标 银河企业级" [ref=f25e607]
+                    - generic [ref=f25e608]: 20TB 原厂原标 银河企业级
+                - generic [ref=f25e416]:
+                  - generic [ref=f25e417]: 版本
+                  - generic [ref=f25e418]:
+                    - generic [ref=f25e609] [cursor=pointer]: ST20000NM003C-全新官换-保30天
+                    - generic [ref=f25e611] [cursor=pointer]: ST20000NM003C-全新官换-店保1年
+                    - generic [ref=f25e613] [cursor=pointer]: ST20000NM003C-全新官换-店保2年
+                    - generic [ref=f25e615] [cursor=pointer]: ST20000NM003C-全新官换-店保3年
+              - generic [ref=f25e428]:
+                - generic [ref=f25e429]: 服务
+                - generic [ref=f25e431]:
+                  - generic [ref=f25e432]:
+                    - generic [ref=f25e433]:
+                      - link "晚到赔" [ref=f25e617] [cursor=pointer]:
+                        - /url: https://pro.m.jd.com/mall/active/4N5mQMJBm8mM2RaTMArg4uHPLQLJ/index.html
+                      - generic [ref=f25e435]: ·
+                    - generic [ref=f25e436]:
+                      - generic "售后时效内申请退换货，选择上门取件优先安排京东物流服务，无需支付退换货运费；选择自寄，售后完成后补首重运费。" [ref=f25e618]: 免费上门退换
+                      - generic [ref=f25e438]: ·
+                    - generic [ref=f25e439]:
+                      - link "破损包退换" [ref=f25e619] [cursor=pointer]:
+                        - /url: https://bao.tjjt360.com/insurance/serviceDetail/labelConfigDetail?skuId=10227071695928&labelCode=p93
+                      - generic [ref=f25e441]: ·
+                    - generic [ref=f25e442]:
+                      - link "一年质保" [ref=f25e620] [cursor=pointer]:
+                        - /url: //help.jd.com/user/issue/290-3862.html
+                      - generic [ref=f25e444]: ·
+                    - link "7天价保" [ref=f25e621] [cursor=pointer]:
+                      - /url: https://help.jd.com/user/issue/291-4537.html
+                    - generic [ref=f25e447]:
+                      - link "180天只换不修" [ref=f25e622] [cursor=pointer]:
+                        - /url: https://bao.tjjt360.com/insurance/serviceDetail/labelConfigDetail?&skuId=10227071695928&labelCode=p90
+                      - generic [ref=f25e449]: ·
+                    - generic [ref=f25e450]:
+                      - link "极速审核" [ref=f25e623] [cursor=pointer]:
+                        - /url: //help.jd.com/user/issue/list-114-470.html
+                      - generic [ref=f25e452]: ·
+                    - generic [ref=f25e453]:
+                      - generic "店铺发货&售后服务" [ref=f25e624]
+                      - generic [ref=f25e455]: ·
+                    - link "高价回收" [ref=f25e625] [cursor=pointer]:
+                      - /url: //huishou.jd.com/huanxin?s=1&skuId=10227071695928
+                    - generic "支持7天无理由退货" [ref=f25e626]
+                  - generic [ref=f25e461] [cursor=pointer]
+              - generic [ref=f25e465]:
+                - generic [ref=f25e466]: 优选服务
+                - generic [ref=f25e467]:
+                  - generic [ref=f25e468]:
+                    - generic [ref=f25e469]: 全保换新
+                    - generic [ref=f25e471]:
+                      - generic [ref=f25e472] [cursor=pointer]:
+                        - generic [ref=f25e473]: 4年全保换新
+                        - generic [ref=f25e474]: "329.00"
+                      - generic [ref=f25e475] [cursor=pointer]:
+                        - generic [ref=f25e476]: 3年全保换新
+                        - generic [ref=f25e477]: "309.00"
+                  - generic [ref=f25e478]:
+                    - generic [ref=f25e479]: 数据恢复
+                    - generic [ref=f25e481]:
+                      - generic [ref=f25e482] [cursor=pointer]:
+                        - generic [ref=f25e483]: 1年数据恢复服务
+                        - generic [ref=f25e484]: "79.00"
+                      - generic [ref=f25e485] [cursor=pointer]:
+                        - generic [ref=f25e486]: 2年数据恢复服务
+                        - generic [ref=f25e487]: "119.00"
+                      - generic [ref=f25e488] [cursor=pointer]:
+                        - generic [ref=f25e489]: 3年数据恢复服务
+                        - generic [ref=f25e490]: "169.00"
+                  - generic [ref=f25e491]:
+                    - generic [ref=f25e492]: 质保只换不修
+                    - generic [ref=f25e494]:
+                      - generic [ref=f25e495] [cursor=pointer]:
+                        - generic [ref=f25e496]: 5年质保换新
+                        - generic [ref=f25e497]: "314.00"
+                      - generic [ref=f25e498] [cursor=pointer]:
+                        - generic [ref=f25e499]: 2年质保换新
+                        - generic [ref=f25e500]: "169.00"
+                      - generic [ref=f25e501] [cursor=pointer]:
+                        - generic [ref=f25e502]: 3年质保换新
+                        - generic [ref=f25e503]: "209.00"
+                  - generic [ref=f25e504] [cursor=pointer]: 展开全部
+              - generic [ref=f25e509]:
+                - generic [ref=f25e510]: 白条分期
+                - generic [ref=f25e512]:
+                  - generic [ref=f25e513]:
+                    - generic [ref=f25e514] [cursor=pointer]:
+                      - generic [ref=f25e515]: 不分期
+                      - generic [ref=f25e516]: 0服务费
+                    - generic [ref=f25e517] [cursor=pointer]:
+                      - generic [ref=f25e518]: ￥1496.40 x 3期
+                      - generic [ref=f25e519]: 含服务费：￥0.4/期
+                  - generic [ref=f25e520]: 展开全部
+          - generic [ref=f25e266]:
+            - generic [ref=f25e628]:
+              - button "减少" [ref=f25e629]: "-"
+              - textbox [ref=f25e630]: "1"
+              - button "增加" [ref=f25e631]: +
+            - generic [ref=f25e268]:
+              - generic [ref=f25e531] [cursor=pointer]: 加入购物车
+              - generic [ref=f25e534] [cursor=pointer]: 立即购买
+  - generic [ref=f25e537]:
+    - list [ref=f25e538]:
+      - listitem [ref=f25e539]:
+        - link "首页" [ref=f25e540] [cursor=pointer]:
+          - /url: //www.jd.com
+      - listitem [ref=f25e544]:
+        - link "7 购物车" [ref=f25e545] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=f25e546]: "7"
+          - generic [ref=f25e549]: 购物车
+      - listitem [ref=f25e550]:
+        - link "我的" [ref=f25e551] [cursor=pointer]:
+          - /url: //home.jd.com
+      - listitem [ref=f25e556]:
+        - link "客服" [ref=f25e557] [cursor=pointer]:
+          - /url: https://chat.jd.com/index.action?_t=&pid=10227071695928
+      - listitem [ref=f25e562]:
+        - link "手机查看" [ref=f25e563] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f25e569]:
+        - link "桌面版" [ref=f25e571] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f25e575]:
+        - link "插件版" [ref=f25e577] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f25e581]:
+        - link "反馈" [ref=f25e582] [cursor=pointer]:
+          - /url: //wj-dongjian.jd.com/q/61961a0a457e4000a3085f78
+    - link "收起" [ref=f25e590] [cursor=pointer]:
+      - /url: "#"

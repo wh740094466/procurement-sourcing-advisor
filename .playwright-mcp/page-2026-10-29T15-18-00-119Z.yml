@@ -1,0 +1,213 @@
+- generic [active] [ref=f38e201]:
+  - generic [ref=f38e204]:
+    - generic [ref=f38e206]:
+      - navigation "顶部导航" [ref=f38e209]:
+        - list [ref=f38e210]:
+          - listitem [ref=f38e211]:
+            - generic [ref=f38e212]:
+              - generic [ref=f38e213] [cursor=pointer]
+              - generic "京东首页" [ref=f38e216] [cursor=pointer]
+          - listitem [ref=f38e217]
+          - listitem [ref=f38e218]:
+            - generic [ref=f38e219]:
+              - link "jd_o84d14k2a..." [ref=f38e221] [cursor=pointer]:
+                - /url: //home.jd.com/
+              - generic [ref=f38e222]: 
+          - generic [ref=f38e223]:
+            - listitem [ref=f38e224]
+            - listitem [ref=f38e225]:
+              - generic [ref=f38e226]: 同款搜低价
+          - generic [ref=f38e228]:
+            - listitem [ref=f38e229]
+            - listitem [ref=f38e230]:
+              - generic [ref=f38e231]: 桌面版
+        - list [ref=f38e233]:
+          - listitem [ref=f38e234]:
+            - link "购物车 7" [ref=f38e238] [cursor=pointer]:
+              - /url: //cart.jd.com/cart.action
+          - listitem [ref=f38e239]
+          - listitem [ref=f38e240]:
+            - link "我的订单" [ref=f38e242] [cursor=pointer]:
+              - /url: //order.jd.com/center/list.action
+          - listitem [ref=f38e243]
+          - listitem [ref=f38e244]:
+            - generic [ref=f38e245]:
+              - link "我的京东" [ref=f38e246] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - generic [ref=f38e247]: 
+          - listitem [ref=f38e248]
+          - listitem [ref=f38e249]:
+            - generic [ref=f38e250]:
+              - link "企业采购" [ref=f38e251] [cursor=pointer]:
+                - /url: //b.jd.com/?bjdSourceChannel=cjdqiehuanqiyeban
+              - generic [ref=f38e252]: 
+          - listitem [ref=f38e253]
+          - listitem [ref=f38e254]:
+            - button "网站导航" [ref=f38e255]:
+              - text: 网站导航
+              - generic [ref=f38e256]: 
+          - listitem [ref=f38e257]
+          - listitem [ref=f38e258]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link:
+                - /url: "#"
+    - generic [ref=f38e259] [cursor=pointer]
+    - generic [ref=f38e262]:
+      - generic [ref=f38e264]:
+        - link "电脑、办公" [ref=f38e266] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+        - generic [ref=f38e267]: ">"
+        - link "电脑组件" [ref=f38e269] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677&sourcePage=itemBreadCrumb
+        - generic [ref=f38e270]: ">"
+        - link "硬盘" [ref=f38e272] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&sourcePage=itemBreadCrumb
+        - generic [ref=f38e273]: ">"
+        - link "西部数据（WD）" [ref=f38e275] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&ev=exbrand_17861&sourcePage=itemBreadCrumb
+      - generic [ref=f38e276]:
+        - generic [ref=f38e278] [cursor=pointer]:
+          - generic [ref=f38e281]:
+            - generic [ref=f38e282]:
+              - generic "亚马逊海外官方旗舰店" [ref=f38e283]
+              - generic [ref=f38e284]: "4.7"
+            - generic [ref=f38e292]:
+              - generic [ref=f38e293]: 进店逛逛，享更多优惠
+              - generic [ref=f38e294]: 精选镇店好物，快来逛逛
+              - generic [ref=f38e295]: 进店逛逛，享更多优惠
+              - generic [ref=f38e296]: 精选镇店好物，快来逛逛
+          - generic [ref=f38e297]:
+            - generic [ref=f38e298]: 关注店铺
+            - generic [ref=f38e300]: 联系客服
+        - generic [ref=f38e306]:
+          - generic [ref=f38e307]:
+            - textbox "搜索" [ref=f38e308]: 西部数据固态
+            - generic [ref=f38e309] [cursor=pointer]:
+              - button "搜本店" [ref=f38e310]
+              - button "搜全站" [ref=f38e311]
+          - generic [ref=f38e312]:
+            - generic [ref=f38e313] [cursor=pointer]: 西部数据移动固态
+            - generic [ref=f38e314] [cursor=pointer]: 西部数据sn7100
+            - generic [ref=f38e315] [cursor=pointer]: 西部数据1t固态
+            - generic [ref=f38e316] [cursor=pointer]: 硬盘固态
+            - generic [ref=f38e317] [cursor=pointer]: 西部数据固态硬盘
+      - generic [ref=f38e320]:
+        - generic [ref=f38e322]:
+          - generic [ref=f38e323]:
+            - generic [ref=f38e326]:
+              - generic [ref=f38e327] [cursor=pointer]
+              - generic [ref=f38e329] [cursor=pointer]
+              - generic [ref=f38e331] [cursor=pointer]
+              - generic [ref=f38e333] [cursor=pointer]
+              - generic [ref=f38e335] [cursor=pointer]
+              - generic [ref=f38e337] [cursor=pointer]: 规格参数
+            - generic [ref=f38e341]: 
+          - generic [ref=f38e348]:
+            - generic [ref=f38e352]:
+              - generic [ref=f38e353] [cursor=pointer]: 大家评
+              - generic [ref=f38e355] [cursor=pointer]: 店铺
+              - generic [ref=f38e357] [cursor=pointer]: 商品详情
+              - generic [ref=f38e359] [cursor=pointer]: 售后保障
+              - generic [ref=f38e361] [cursor=pointer]: 推荐
+            - generic [ref=f38e364]:
+              - generic [ref=f38e366]:
+                - generic [ref=f38e368]:
+                  - generic [ref=f38e369]: 买家评价(3)
+                  - generic [ref=f38e370]: 好评率高达100%
+                - generic [ref=f38e374]:
+                  - generic [ref=f38e375]: 问大家
+                  - generic [ref=f38e376] [cursor=pointer]: 我要提问
+              - generic [ref=f38e403]:
+                - generic [ref=f38e404]: 进店逛逛
+                - generic [ref=f38e406]:
+                  - generic [ref=f38e407] [cursor=pointer]
+                  - generic [ref=f38e410]:
+                    - generic [ref=f38e411] [cursor=pointer]: 联系客服
+                    - generic [ref=f38e414] [cursor=pointer]: 进店逛逛
+              - generic [ref=f38e417]: 商品详情
+        - generic [ref=f38e452]:
+          - generic [ref=f38e456]:
+            - generic [ref=f38e459]:
+              - generic [ref=f38e460]:
+                - img "3" [ref=f38e462]
+                - text: 西部数据（WD） 20TB企业级硬盘 8.89cm SATA 7200转 512MB缓存
+              - generic [ref=f38e463] [cursor=pointer]: 收藏
+            - generic [ref=f38e465]:
+              - generic [ref=f38e467]:
+                - generic [ref=f38e468] [cursor=pointer]: ¥5522.69
+                - generic [ref=f38e469]: 到手价
+                - generic [ref=f38e470]: ¥5542.69
+                - generic [ref=f38e472]: 累计评价 3
+              - generic [ref=f38e473]: 税费：价格已含税
+              - generic [ref=f38e483]:
+                - generic [ref=f38e484]: 已享受：
+                - generic [ref=f38e485]:
+                  - generic [ref=f38e486] [cursor=pointer]: 满600减20
+                  - img [ref=f38e488] [cursor=pointer]
+            - list [ref=f38e492]:
+              - listitem [ref=f38e493]:
+                - link "企业会员6000元补贴，办公设备/易耗品一站式采购！" [ref=f38e496] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/wPxBWVuiHctmS4MX9ywq5n57kiF/index.html?babelChannel=ttt21&hdid=bUTiORFpTb4&returnurl=https%3A%2F%2Fitem.jd.com%2F10136266102623.html
+            - generic [ref=f38e499]:
+              - generic [ref=f38e500]: 送至
+              - generic [ref=f38e502]:
+                - generic [ref=f38e503]: 平均3-14天送达
+                - generic [ref=f38e504]:
+                  - generic [ref=f38e505] [cursor=pointer]: 江苏南京市江宁区秣陵街道
+                  - link "包邮" [ref=f38e510] [cursor=pointer]:
+                    - /url: //help.jd.com/user/issue/109-4012.html
+            - generic [ref=f38e515]:
+              - generic [ref=f38e516]: 服务
+              - generic [ref=f38e518]:
+                - generic [ref=f38e519]:
+                  - generic [ref=f38e520]:
+                    - generic "支持港澳台及海外收货地址下单，由于各地区政策不同，具体请以结算页详情为准" [ref=f38e521]: 可配送全球
+                    - generic [ref=f38e522]: ·
+                  - generic [ref=f38e523]:
+                    - generic "店铺发货&售后服务" [ref=f38e524]
+                    - generic [ref=f38e525]: ·
+                  - link "高价回收" [ref=f38e527] [cursor=pointer]:
+                    - /url: //huishou.jd.com/huanxin?s=1&skuId=10136266102623
+                  - generic "此商品不支持7天无理由退货" [ref=f38e529]
+                - generic [ref=f38e531] [cursor=pointer]
+          - generic [ref=f38e533]:
+            - generic [ref=f38e538]:
+              - button "减少" [ref=f38e539]: "-"
+              - textbox [ref=f38e540]: "1"
+              - button "增加" [ref=f38e541] [cursor=pointer]: +
+            - generic [ref=f38e543]:
+              - generic [ref=f38e544] [cursor=pointer]: 加入购物车
+              - generic [ref=f38e547] [cursor=pointer]: 立即购买
+  - generic [ref=f38e557]:
+    - list [ref=f38e558]:
+      - listitem [ref=f38e559]:
+        - link "首页" [ref=f38e560] [cursor=pointer]:
+          - /url: //www.jd.com
+      - listitem [ref=f38e564]:
+        - link "7 购物车" [ref=f38e565] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=f38e566]: "7"
+          - generic [ref=f38e569]: 购物车
+      - listitem [ref=f38e570]:
+        - link "我的" [ref=f38e571] [cursor=pointer]:
+          - /url: //home.jd.com
+      - listitem [ref=f38e576]:
+        - link "客服" [ref=f38e577] [cursor=pointer]:
+          - /url: https://chat.jd.com/index.action?_t=&pid=10136266102623
+      - listitem [ref=f38e582]:
+        - link "手机查看" [ref=f38e583] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f38e589]:
+        - link "桌面版" [ref=f38e591] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f38e595]:
+        - link "插件版" [ref=f38e597] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f38e601]:
+        - link "反馈" [ref=f38e602] [cursor=pointer]:
+          - /url: //wj-dongjian.jd.com/q/61961a0a457e4000a3085f78
+    - link "收起" [ref=f38e610] [cursor=pointer]:
+      - /url: "#"

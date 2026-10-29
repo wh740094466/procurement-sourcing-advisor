@@ -1,0 +1,205 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.procurement/schemas/scorecard.schema.json",
+  "title": "AI-planned Procurement Scorecard",
+  "type": "object",
+  "required": [
+    "name",
+    "category",
+    "version",
+    "dimensions"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "version": {
+      "type": "string"
+    },
+    "rationale": {
+      "type": "string"
+    },
+    "enrichment_targets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "hard_filters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "field",
+          "op"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "field": {
+            "type": "string"
+          },
+          "op": {
+            "enum": [
+              "lte",
+              "gte",
+              "lt",
+              "gt",
+              "eq",
+              "neq",
+              "in",
+              "not_in",
+              "contains_any",
+              "contains_all",
+              "not_contains_any",
+              "exists",
+              "truthy",
+              "matches"
+            ]
+          },
+          "value": {},
+          "value_from": {
+            "type": "string"
+          },
+          "missing": {
+            "enum": [
+              "fail",
+              "pass",
+              "review"
+            ]
+          },
+          "reason": {
+            "type": "string"
+          },
+          "missing_reason": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "dimensions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "label",
+          "weight",
+          "method"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "weight": {
+            "type": "number",
+            "exclusiveMinimum": 0,
+            "maximum": 1
+          },
+          "method": {
+            "enum": [
+              "boolean",
+              "categorical",
+              "keyword",
+              "manual",
+              "minmax",
+              "presence",
+              "reviews",
+              "thresholds"
+            ]
+          },
+          "field": {
+            "type": "string"
+          },
+          "direction": {
+            "enum": [
+              "higher_better",
+              "lower_better"
+            ]
+          },
+          "thresholds": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "map": {
+            "type": "object"
+          },
+          "rules": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "default": {
+            "type": "number"
+          },
+          "missing": {
+            "enum": [
+              "worst",
+              "neutral",
+              "zero",
+              "review"
+            ]
+          },
+          "evidence_required": {
+            "type": "boolean"
+          },
+          "description": {
+            "type": "string"
+          },
+          "group": {
+            "enum": [
+              "fit",
+              "value",
+              "risk"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "confidence": {
+      "type": "object"
+    },
+    "stages": {
+      "type": "object",
+      "properties": {
+        "fit_threshold": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "maximum": 1
+        }
+      },
+      "additionalProperties": true
+    },
+    "price_anchor": {
+      "type": "object",
+      "additionalProperties": true
+    },
+    "confirmed": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

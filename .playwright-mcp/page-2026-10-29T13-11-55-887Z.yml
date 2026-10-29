@@ -1,0 +1,81 @@
+- generic [active] [ref=f8e1]:
+  - generic:
+    - link [ref=f8e3] [cursor=pointer]:
+      - /url: //www.jd.com/
+      - img "京东" [ref=f8e4]
+    - link "登录页面，改进建议" [ref=f8e5] [cursor=pointer]:
+      - /url: //wj-dongjian.jd.com/q/61a05143f2ec2b00b35e40a6
+  - generic [ref=f8e7]:
+    - generic [ref=f8e8]:
+      - generic [ref=f8e9] [cursor=pointer]: 个人用户登录
+      - generic [ref=f8e10] [cursor=pointer]: 企业用户登录
+    - generic [ref=f8e15]:
+      - generic [ref=f8e18]:
+        - generic [ref=f8e19]: 手机扫码安全登录
+        - generic [ref=f8e20]:
+          - text: 支持
+          - generic [ref=f8e22]: 京东APP
+          - generic [ref=f8e24]: 微信扫码
+          - generic [ref=f8e25] [cursor=pointer]: 查看教程
+      - generic [ref=f8e31]:
+        - generic [ref=f8e33]:
+          - generic [ref=f8e34]:
+            - generic [ref=f8e35] [cursor=pointer]: 密码登录
+            - generic [ref=f8e36] [cursor=pointer]: 短信登录
+          - generic [ref=f8e39]:
+            - textbox "账号名/手机号/邮箱" [ref=f8e41]
+            - generic [ref=f8e42]:
+              - textbox "密码" [ref=f8e43]
+              - img [ref=f8e44] [cursor=pointer]
+            - generic [ref=f8e45]:
+              - generic:
+                - link "登录":
+                  - /url: javascript:;
+        - list [ref=f8e47]:
+          - listitem [ref=f8e48]:
+            - link "微信登录" [ref=f8e49] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - generic [ref=f8e51]: "|"
+          - listitem [ref=f8e52]:
+            - link "QQ登录" [ref=f8e53] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - generic [ref=f8e55]: "|"
+          - listitem [ref=f8e56]:
+            - link "忘记密码" [ref=f8e59] [cursor=pointer]:
+              - /url: //passport.jd.com/uc/links?tag=safe
+          - generic [ref=f8e60]: "|"
+          - listitem [ref=f8e61]:
+            - link "立即注册" [ref=f8e64] [cursor=pointer]:
+              - /url: //reg.jd.com/p/regPage?ignore=1
+  - generic [ref=f8e69]:
+    - generic [ref=f8e70]:
+      - link "关于我们" [ref=f8e71] [cursor=pointer]:
+        - /url: //about.jd.com/
+      - text: "|"
+      - link "联系我们" [ref=f8e72] [cursor=pointer]:
+        - /url: //www.jd.com/contact/
+      - text: "|"
+      - link "人才招聘" [ref=f8e73] [cursor=pointer]:
+        - /url: //zhaopin.jd.com/
+      - text: "|"
+      - link "商家入驻" [ref=f8e74] [cursor=pointer]:
+        - /url: //lai.jd.com/
+      - text: "|"
+      - link "广告服务" [ref=f8e75] [cursor=pointer]:
+        - /url: //jzt.jd.com/
+      - text: "|"
+      - link "手机京东" [ref=f8e76] [cursor=pointer]:
+        - /url: //app.jd.com/
+      - text: "|"
+      - link "友情链接" [ref=f8e77] [cursor=pointer]:
+        - /url: //club.jd.com/links.aspx
+      - text: "|"
+      - link "销售联盟" [ref=f8e78] [cursor=pointer]:
+        - /url: //union.jd.com/index
+      - text: "|"
+      - link "京东社区" [ref=f8e79] [cursor=pointer]:
+        - /url: //pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html
+      - text: "|"
+      - link "京东公益" [ref=f8e80] [cursor=pointer]:
+        - /url: //gongyi.jd.com
+    - generic [ref=f8e81]: Copyright © 2004-2026 京东JD.com 版权所有

@@ -1,0 +1,78 @@
+{
+  "quantity": 4,
+  "allow_split": false,
+  "single_order": {
+    "orders": [
+      {
+        "platform": "jd",
+        "product_id": "100207738135",
+        "title": "小米(MI)REDMI 27英寸2K显示器 120Hz IPS技术 广色域电脑办公显示器 A27Q多功能支架2026款",
+        "rank": 1,
+        "score": 69.01,
+        "quantity": 4,
+        "unit_price": 749.0,
+        "unit_price_status": "floor",
+        "subtotal": 2996.0,
+        "shipping": null,
+        "coupon": null,
+        "total": null,
+        "status": "partial",
+        "missing_components": [
+          "unit_price_exact",
+          "shipping",
+          "coupon"
+        ],
+        "stock_assumed": true,
+        "url": "https://item.jd.com/100207738135.html"
+      }
+    ],
+    "order_count": 1,
+    "total": 2996.0,
+    "status": "partial",
+    "unit_count": 4,
+    "strategy": "top_ranked_single_supplier"
+  },
+  "split_order": null,
+  "recommended_option": "single",
+  "recommended_order": {
+    "orders": [
+      {
+        "platform": "jd",
+        "product_id": "100207738135",
+        "title": "小米(MI)REDMI 27英寸2K显示器 120Hz IPS技术 广色域电脑办公显示器 A27Q多功能支架2026款",
+        "rank": 1,
+        "score": 69.01,
+        "quantity": 4,
+        "unit_price": 749.0,
+        "unit_price_status": "floor",
+        "subtotal": 2996.0,
+        "shipping": null,
+        "coupon": null,
+        "total": null,
+        "status": "partial",
+        "missing_components": [
+          "unit_price_exact",
+          "shipping",
+          "coupon"
+        ],
+        "stock_assumed": true,
+        "url": "https://item.jd.com/100207738135.html"
+      }
+    ],
+    "order_count": 1,
+    "total": 2996.0,
+    "status": "partial",
+    "unit_count": 4,
+    "strategy": "top_ranked_single_supplier"
+  },
+  "savings": null,
+  "savings_status": "unknown",
+  "warnings": [
+    "采购简报未允许拆单，未生成拆单方案",
+    "候选未提供库存/可采购数量，组合方案按可满足需求假设，需下单前确认"
+  ],
+  "assumptions": [
+    "商品价格来自检索/详情/浏览器补证，未含账号券、运费、税费时以 landed_price 状态为准",
+    "库存与可采购数量未由 MCP 保证"
+  ]
+}

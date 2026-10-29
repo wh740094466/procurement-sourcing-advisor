@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.procurement/schemas/procurement_brief.schema.json",
+  "title": "Procurement Brief",
+  "type": "object",
+  "required": [
+    "category",
+    "item_description",
+    "quantity"
+  ],
+  "properties": {
+    "brief_id": {
+      "type": "string"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "item_description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "quantity": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "budget_cny": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "budget_per_unit_cny": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "must_have": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "nice_to_have": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "exclusions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "allow_split": {
+      "type": "boolean"
+    },
+    "allow_alternative_models": {
+      "type": "boolean"
+    },
+    "invoice_required": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "min_warranty_months": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "delivery_days": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "usage_context": {
+      "type": "string"
+    },
+    "decision_priorities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "unknowns": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "assumptions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "requirements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "field"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "must",
+              "should"
+            ]
+          },
+          "label": {
+            "type": "string"
+          },
+          "field": {
+            "type": "string"
+          },
+          "op": {
+            "type": "string"
+          },
+          "value": {},
+          "weight": {
+            "type": "number"
+          },
+          "missing": {
+            "enum": [
+              "fail",
+              "pass",
+              "review",
+              "worst"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "usage_profile": {
+      "type": "object",
+      "additionalProperties": true
+    },
+    "confirmed": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

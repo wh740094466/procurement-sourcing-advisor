@@ -1,0 +1,9 @@
+{
+  "defaults": {
+    "price_includes_tax": true,
+    "price_includes_shipping": false,
+    "shipping_cny": 0,
+    "coupon_cny": 0,
+    "other_fees_cny": 0
+  }
+}

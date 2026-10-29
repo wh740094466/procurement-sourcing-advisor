@@ -1,0 +1,9 @@
+[     879ms] [LOG] [mainPicImageEl onload]: 704.0999999940395 @ https://item.taobao.com/item.htm?id=956886528801:235
+[    1241ms] [LOG] Thu Oct 29 2026 21:15:37 GMT+0800 (中国标准时间) @ https://g.alicdn.com/AWSC/et/1.84.16/et_f.js:2
+[    1410ms] [LOG] [@ali/lib-mtop] The current page does not have the lib.windvane variable, automatically downgraded to H5 request @ https://g.alicdn.com/code/npm/@ali/tbpc-pc-detail-ssr-2025/0.0.95/js/p_home.js:0
+[    1429ms] [LOG] [markFCPForCSR]: 1254 @ https://g.alicdn.com/code/npm/@ali/tbpc-pc-detail-ssr-2025/0.0.95/js/p_home.js:0
+[    1537ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:60328/:0
+[    2442ms] [LOG] [markSFSP]: 1254.7999999821186 704.7999999821186 1254.7999999821186 @ https://g.alicdn.com/code/npm/@ali/tbpc-pc-detail-ssr-2025/0.0.95/js/p_home.js:0
+[    2670ms] [LOG] {"cfg":{},"tid":"ZxjmvZcAVxgsFqCbyswaqdlOb35J7VpZYOjSf-wsz4U="} @ https://g.alicdn.com/sd/baxia-entry/baxiaCommon.js:0
+[    3580ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ https://o.alicdn.com/tbpc/customer-service/index.umd.es5.production.js:0
+[    3595ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ https://o.alicdn.com/tbpc/customer-service/index.umd.es5.production.js:0

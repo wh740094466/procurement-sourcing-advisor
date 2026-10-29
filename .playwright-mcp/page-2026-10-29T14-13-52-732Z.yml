@@ -1,0 +1,179 @@
+- generic [ref=f30e4]:
+  - generic [ref=f30e8] [cursor=pointer]
+  - generic [ref=f30e11]:
+    - generic [ref=f30e13]:
+      - link "电脑、办公" [ref=f30e15] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+      - generic [ref=f30e16]: ">"
+      - link "外设产品" [ref=f30e18] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C686&sourcePage=itemBreadCrumb
+      - generic [ref=f30e19]: ">"
+      - link "移动机械硬盘" [ref=f30e21] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C686%2C693&sourcePage=itemBreadCrumb
+      - generic [ref=f30e22]: ">"
+      - link "希捷（SEAGATE）" [ref=f30e24] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C686%2C693&ev=exbrand_17941&sourcePage=itemBreadCrumb
+    - generic [ref=f30e25]:
+      - generic [ref=f30e27] [cursor=pointer]:
+        - generic [ref=f30e30]:
+          - generic [ref=f30e31]:
+            - generic "硬盘商城²⁰" [ref=f30e32]
+            - generic [ref=f30e33]: "4.0"
+          - generic [ref=f30e41]:
+            - generic [ref=f30e42]: 进店逛逛，享更多优惠
+            - generic [ref=f30e43]: 精选镇店好物，快来逛逛
+            - generic [ref=f30e44]: 进店逛逛，享更多优惠
+            - generic [ref=f30e45]: 精选镇店好物，快来逛逛
+        - generic [ref=f30e46]:
+          - generic [ref=f30e47]: 关注店铺
+          - generic [ref=f30e49]: 联系客服
+      - generic [ref=f30e55]:
+        - generic [ref=f30e56]:
+          - generic [ref=f30e57]:
+            - generic [ref=f30e58]: 20tb企业级硬盘
+            - generic [ref=f30e59]: 希捷20t硬盘
+            - generic [ref=f30e60]: 希捷企业级硬盘
+            - generic [ref=f30e61]: 机械硬盘
+            - generic [ref=f30e62]: 硬盘20tb
+            - generic [ref=f30e63]: 希捷机械硬盘
+            - generic [ref=f30e64]: 机械磁盘
+            - generic [ref=f30e65]: 三角洲联名八宝粥
+            - generic [ref=f30e66]: 希捷企业盘
+            - generic [ref=f30e67]: 显示器
+          - textbox "搜索" [ref=f30e68]
+          - generic [ref=f30e69] [cursor=pointer]:
+            - button "搜本店" [ref=f30e70]
+            - button "搜全站" [ref=f30e71]
+        - generic [ref=f30e72]:
+          - generic [ref=f30e73] [cursor=pointer]: 小米显示器27寸
+          - generic [ref=f30e74] [cursor=pointer]: 27寸2k显示器
+          - generic [ref=f30e75] [cursor=pointer]: 希捷20t硬盘
+          - generic [ref=f30e76] [cursor=pointer]: 红米a27q
+          - generic [ref=f30e77] [cursor=pointer]: 机械硬盘
+    - generic [ref=f30e80]:
+      - generic [ref=f30e82]:
+        - generic [ref=f30e83]:
+          - generic [ref=f30e86]:
+            - generic [ref=f30e87] [cursor=pointer]
+            - generic [ref=f30e89] [cursor=pointer]
+            - generic [ref=f30e91] [cursor=pointer]
+            - generic [ref=f30e93] [cursor=pointer]
+            - generic [ref=f30e95] [cursor=pointer]
+            - generic [ref=f30e97] [cursor=pointer]: 规格参数
+          - generic [ref=f30e101]:
+            - generic [ref=f30e102]: 
+            - generic [ref=f30e108] [cursor=pointer]:
+              - generic [ref=f30e109]: 商品对比
+              - generic [ref=f30e110]: 
+        - generic [ref=f30e113]:
+          - generic [ref=f30e117]:
+            - generic [ref=f30e118] [cursor=pointer]: 大家评
+            - generic [ref=f30e120] [cursor=pointer]: 店铺
+            - generic [ref=f30e122] [cursor=pointer]: 商品详情
+            - generic [ref=f30e124] [cursor=pointer]: 售后保障
+            - generic [ref=f30e126] [cursor=pointer]: 推荐
+          - generic [ref=f30e129]:
+            - generic [ref=f30e205]:
+              - generic [ref=f30e206]: 进店逛逛
+              - generic [ref=f30e208]:
+                - generic [ref=f30e209] [cursor=pointer]
+                - generic [ref=f30e212]:
+                  - generic [ref=f30e213] [cursor=pointer]: 联系客服
+                  - generic [ref=f30e216] [cursor=pointer]: 进店逛逛
+            - generic [ref=f30e219]: 商品详情
+      - generic [ref=f30e254]:
+        - generic [ref=f30e258]:
+          - generic [ref=f30e261]:
+            - generic [ref=f30e262]: 希捷（SEAGATE） ST20000NM002H 20t氦气银河企业级NAS机械硬盘20tb 20TB ST20000NM002H 质保五年
+            - generic [ref=f30e263] [cursor=pointer]: 收藏
+          - generic [ref=f30e265]:
+            - generic [ref=f30e267]:
+              - generic [ref=f30e268] [cursor=pointer]: ¥4379
+              - generic [ref=f30e269]: 到手价
+              - generic [ref=f30e270]: ¥4399
+              - generic [ref=f30e272]: 累计评价 0
+              - generic [ref=f30e275] [cursor=pointer]:
+                - generic [ref=f30e276]: 
+                - text: 降价通知
+            - generic [ref=f30e281]:
+              - generic [ref=f30e282]: 已享受：
+              - generic [ref=f30e283]:
+                - generic [ref=f30e284] [cursor=pointer]: 满500减20
+                - img [ref=f30e286] [cursor=pointer]
+          - generic [ref=f30e289]:
+            - generic [ref=f30e290]: 送至
+            - generic [ref=f30e292]:
+              - generic [ref=f30e293]: 预计明天发货，11月1日(周日)送达
+              - link "包邮" [ref=f30e295] [cursor=pointer]:
+                - /url: //help.jd.com/user/issue/109-4012.html
+          - generic [ref=f30e300]:
+            - generic [ref=f30e301]:
+              - generic [ref=f30e302]: 版本
+              - generic [ref=f30e304] [cursor=pointer]:
+                - img "20TB" [ref=f30e305]
+                - generic [ref=f30e306]: 20TB
+            - generic [ref=f30e307]:
+              - generic [ref=f30e308]: 容量
+              - generic [ref=f30e309]: ST20000NM002H 质保五年
+          - generic [ref=f30e313]:
+            - generic [ref=f30e314]: 服务
+            - generic [ref=f30e317]:
+              - generic [ref=f30e318]:
+                - generic "支持港澳台及海外收货地址下单，由于各地区政策不同，具体请以结算页详情为准" [ref=f30e319]: 可配送全球
+                - generic [ref=f30e320]: ·
+              - generic [ref=f30e321]:
+                - link "极速审核" [ref=f30e322] [cursor=pointer]:
+                  - /url: //help.jd.com/user/issue/list-114-470.html
+                - generic [ref=f30e323]: ·
+              - generic [ref=f30e324]:
+                - generic "店铺发货&售后服务" [ref=f30e325]
+                - generic [ref=f30e326]: ·
+              - generic [ref=f30e327]:
+                - link "高价回收" [ref=f30e328] [cursor=pointer]:
+                  - /url: //huishou.jd.com/huanxin?s=1&skuId=10225415721044
+                - generic [ref=f30e329]: ·
+              - generic "支持7天无理由退货" [ref=f30e331]
+          - generic [ref=f30e335]:
+            - generic [ref=f30e336]: 优选服务
+            - generic [ref=f30e337]:
+              - generic [ref=f30e338]:
+                - generic [ref=f30e339]: 质保换新
+                - generic [ref=f30e341]:
+                  - generic [ref=f30e342] [cursor=pointer]:
+                    - generic [ref=f30e343]: 2年质保换新
+                    - generic [ref=f30e344]: "234.00"
+                  - generic [ref=f30e345] [cursor=pointer]:
+                    - generic [ref=f30e346]: 4年质保换新
+                    - generic [ref=f30e347]: "325.00"
+              - generic [ref=f30e348]:
+                - generic [ref=f30e349]: 数据恢复
+                - generic [ref=f30e351]:
+                  - generic [ref=f30e352] [cursor=pointer]:
+                    - generic [ref=f30e353]: 1年数据恢复服务
+                    - generic [ref=f30e354]: "79.00"
+                  - generic [ref=f30e355] [cursor=pointer]:
+                    - generic [ref=f30e356]: 2年数据恢复服务
+                    - generic [ref=f30e357]: "119.00"
+                  - generic [ref=f30e358] [cursor=pointer]:
+                    - generic [ref=f30e359]: 3年数据恢复服务
+                    - generic [ref=f30e360]: "169.00"
+              - generic [ref=f30e361]:
+                - generic [ref=f30e362]: 京选特惠
+                - generic [ref=f30e365] [cursor=pointer]:
+                  - generic [ref=f30e366]: 5年免费换新
+                  - generic [ref=f30e367]: "525.00"
+          - generic [ref=f30e370]:
+            - generic [ref=f30e371]: 白条分期
+            - generic [ref=f30e373]:
+              - generic [ref=f30e374]:
+                - generic [ref=f30e375] [cursor=pointer]:
+                  - generic [ref=f30e376]: 不分期
+                  - generic [ref=f30e377]: 0服务费
+                - generic [ref=f30e378] [cursor=pointer]:
+                  - generic [ref=f30e379]: ￥1499.09 x 3期
+                  - generic [ref=f30e380]: 含服务费：￥39.41/期
+              - generic [ref=f30e381]: 展开全部
+        - generic [ref=f30e390]:
+          - button "减少" [ref=f30e391]: "-"
+          - textbox [ref=f30e392]: "1"
+          - button "增加" [ref=f30e393] [cursor=pointer]: +

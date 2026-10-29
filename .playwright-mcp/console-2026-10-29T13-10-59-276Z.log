@@ -1,0 +1,4 @@
+[    1842ms] [LOG] [JDAS] 通用请求拦截器已启动。 @ https://storage.jd.com/fido-source/tc/1.0.1/trace-chain-sdk.umd.min.js:6
+[    2425ms] [LOG] load js success! @ https://storage.360buyimg.com/webcontainer/js_security_v3_0.1.8.js:2
+[    2520ms] [LOG] spm初始化完毕 @ https://storage.jd.com/retail-mall/jdc_user_login/pc/user/login/0.0.24/js/login2025_append.js:1
+[    5145ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:54345/js/dayTimezone.js:0

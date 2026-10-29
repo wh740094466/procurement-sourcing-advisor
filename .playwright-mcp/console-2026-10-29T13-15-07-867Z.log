@@ -1,0 +1,11 @@
+[     698ms] [LOG] Thu Oct 29 2026 21:15:08 GMT+0800 (中国标准时间) @ https://g.alicdn.com/AWSC/et/1.84.16/et_f.js:2
+[    1077ms] [LOG] [@alife/new-search-suggest Message]:  {version: 2.11.1, name: @alife/new-search-suggest} @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    1337ms] [ERROR] MessageChannel没有初始化，请先调用initInstance @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    1345ms] [LOG] [doInitBaxia]:start {baxiaCommonInit: true} @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    1366ms] [LOG] [doInitBaxia]:end @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    1455ms] [LOG] [imageSearchJumpSupport Start]: {clientImgSearchId: undefined} @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    2717ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ :1
+[    3661ms] [LOG] [LafiteAutoRecive NoticePop]: {iconTabData: } @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    3791ms] [INFO] [info][format] demuxer options {parsers: Array(1)} @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/98.js:0
+[    3805ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ https://o.alicdn.com/tbpc/customer-service/index.umd.es5.production.js:0
+[    4120ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ https://o.alicdn.com/tbpc/customer-service/index.umd.es5.production.js:0

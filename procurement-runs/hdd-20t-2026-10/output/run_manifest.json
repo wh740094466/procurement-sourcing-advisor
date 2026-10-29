@@ -1,0 +1,444 @@
+{
+  "generated_at": "2026-10-29T15:08:35+00:00",
+  "workspace": ".",
+  "inputs": {
+    "brief": "brief.json",
+    "raw_capture": "raw_capture.json",
+    "scorecard": "scorecard.json",
+    "costs": null,
+    "tco_model": null,
+    "bundle_options": null
+  },
+  "capture_validation": {
+    "ok": true,
+    "errors": [],
+    "warnings": [],
+    "listings": 5,
+    "variants": 9
+  },
+  "price_anchors": {
+    "min_ratio": 0.7,
+    "anchors": [
+      {
+        "group": "model:st20000nm002h",
+        "anchor_price": 8949.01,
+        "sample_size": 1,
+        "source_shop": "希捷Seagate京东自营旗舰店",
+        "source_url": "https://item.jd.com/100219097359.html",
+        "models": [
+          "ST20000NM002H"
+        ]
+      }
+    ],
+    "anomalies": [
+      {
+        "platform": "jd",
+        "variant_id": "10225415721044",
+        "model": "ST20000NM002H",
+        "price": 4379.0,
+        "anchor": 8949.01,
+        "ratio": 0.489,
+        "shop": "硬盘商城20"
+      }
+    ]
+  },
+  "fit": {
+    "fit_threshold": 0.8,
+    "passed": 4,
+    "below_fit": [
+      "10227071695928"
+    ],
+    "must_failed": [
+      "10227071695925",
+      "10227071695926",
+      "10227071695927",
+      "100201554283"
+    ]
+  },
+  "value": {
+    "value_dimensions": [
+      "cache",
+      "grade"
+    ],
+    "pool_size": 4,
+    "fallback_anchor": 7561.01,
+    "frontier": [
+      {
+        "variant_id": "100077487247",
+        "platform": "jd",
+        "price": 7461.51,
+        "performance": 5.0,
+        "value_score": 5.0,
+        "fit_score": 0.8
+      }
+    ],
+    "dominated": [
+      {
+        "variant_id": "100219097359",
+        "price": 8949.01,
+        "performance": 5.0,
+        "dominated_by": [
+          "100077487247"
+        ]
+      },
+      {
+        "variant_id": "100416541038",
+        "price": 7660.51,
+        "performance": 4.3,
+        "dominated_by": [
+          "100077487247"
+        ]
+      }
+    ],
+    "excluded_from_frontier": [
+      {
+        "variant_id": "10225415721044",
+        "price": 4379.0,
+        "reason": "价格低于官方/自营锚点且成色/发票未证实，价格指数按 1.00 计，并扣减 15%"
+      }
+    ]
+  },
+  "ranking": {
+    "ranked": 4,
+    "below_fit": [
+      "10227071695928"
+    ],
+    "must_failed": [
+      "10227071695925",
+      "10227071695926",
+      "10227071695927",
+      "100201554283"
+    ]
+  },
+  "confirmation": {
+    "brief": {
+      "by_user": true,
+      "at": "2026-10-29T22:30:00+08:00",
+      "revision": 2,
+      "changes": [
+        "补充 requirements：20TB/CMR/5年保修/企业级/全新",
+        "确认 7×24 场景下 5 年保修优先"
+      ]
+    },
+    "scorecard": {
+      "by_user": true,
+      "at": "2026-10-29T22:30:00+08:00",
+      "revision": 2,
+      "changes": [
+        "改为需求优先模型：fit/value/risk 分组",
+        "7×24 场景把 5 年保修设为 should 维度"
+      ]
+    }
+  },
+  "summary": {
+    "normalized": {
+      "listings": 5,
+      "total": 9,
+      "by_platform": {
+        "taobao": 0,
+        "jd": 9
+      },
+      "with_reviews": 8,
+      "hidden_price": 0
+    },
+    "scored": {
+      "total": 9,
+      "eligible": 9,
+      "eliminated": 0,
+      "needs_review": 9,
+      "low_confidence": 9,
+      "top_score": 100.0,
+      "scorecard": "企业级 20TB 机械硬盘评分卡",
+      "weights_sum": 2.0
+    },
+    "bundle_recommendation": "single",
+    "report": {
+      "quantity": 1,
+      "budget_cny": null,
+      "budget_per_unit_cny": null,
+      "price_scope": {
+        "total": 9,
+        "visible": 9,
+        "hidden_or_missing": 0,
+        "hidden_ids": []
+      },
+      "safe_option": null,
+      "recommendation": {
+        "platform": "jd",
+        "product_id": "100077487247",
+        "listing_id": "100416541038",
+        "variant_id": "100077487247",
+        "variant_label": "MG10ACA20TE 企业级 SATA 20TB",
+        "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+        "model": "MG10ACA20TE",
+        "price": 7461.51,
+        "price_status": "visible",
+        "landed_price": null,
+        "landed_floor": 7461.51,
+        "landed_status": "partial",
+        "tco_exact": null,
+        "tco_floor": 7461.51,
+        "tco_status": "partial",
+        "score": 97.5,
+        "score_confidence": 0.71,
+        "fit_score": 0.8,
+        "fit_tier": "pass",
+        "fit_unmet": [],
+        "performance": 5.0,
+        "value_score": 5.0,
+        "price_index": 1.0,
+        "on_frontier": true,
+        "dominated_by": [],
+        "rank": 1,
+        "url": "https://item.jd.com/100077487247.html",
+        "shop_name": "东芝存储京东自营旗舰店",
+        "reviews_status": "ok",
+        "rating": null,
+        "rating_count": 20000,
+        "review_sample_size": 3,
+        "negative_rate": 0.0,
+        "missing_fields": [
+          "stock",
+          "sales"
+        ],
+        "needs_review": true
+      },
+      "alternatives": [
+        {
+          "platform": "jd",
+          "product_id": "100219097359",
+          "listing_id": "100219097359",
+          "variant_id": "100219097359",
+          "variant_label": "20TB / 希捷银河-企业存储",
+          "title": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘",
+          "model": "ST20000NM002H",
+          "price": 8949.01,
+          "price_status": "visible",
+          "landed_price": null,
+          "landed_floor": 8949.01,
+          "landed_status": "partial",
+          "tco_exact": null,
+          "tco_floor": 8949.01,
+          "tco_status": "partial",
+          "score": 100.0,
+          "score_confidence": 0.68,
+          "fit_score": 0.8,
+          "fit_tier": "pass",
+          "fit_unmet": [],
+          "performance": 5.0,
+          "value_score": 5.0,
+          "price_index": 1.0,
+          "on_frontier": false,
+          "dominated_by": [
+            "100077487247"
+          ],
+          "rank": 2,
+          "url": "https://item.jd.com/100219097359.html",
+          "shop_name": "希捷Seagate京东自营旗舰店",
+          "reviews_status": "ok",
+          "rating": null,
+          "rating_count": 2000000,
+          "review_sample_size": 0,
+          "negative_rate": null,
+          "missing_fields": [
+            "stock",
+            "sales"
+          ],
+          "needs_review": true
+        },
+        {
+          "platform": "jd",
+          "product_id": "100416541038",
+          "listing_id": "100416541038",
+          "variant_id": "100416541038",
+          "variant_label": "N300 Pro NAS 20TB(HDWG62A)",
+          "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+          "model": "HDWG62A",
+          "price": 7660.51,
+          "price_status": "visible",
+          "landed_price": null,
+          "landed_floor": 7660.51,
+          "landed_status": "partial",
+          "tco_exact": null,
+          "tco_floor": 7660.51,
+          "tco_status": "partial",
+          "score": 90.5,
+          "score_confidence": 0.71,
+          "fit_score": 0.8,
+          "fit_tier": "pass",
+          "fit_unmet": [],
+          "performance": 4.3,
+          "value_score": 4.3,
+          "price_index": 1.0,
+          "on_frontier": false,
+          "dominated_by": [
+            "100077487247"
+          ],
+          "rank": 3,
+          "url": "https://item.jd.com/100416541038.html",
+          "shop_name": "东芝存储京东自营旗舰店",
+          "reviews_status": "ok",
+          "rating": null,
+          "rating_count": 20000,
+          "review_sample_size": 3,
+          "negative_rate": 0.0,
+          "missing_fields": [
+            "stock",
+            "sales"
+          ],
+          "needs_review": true
+        }
+      ],
+      "below_fit": [
+        {
+          "platform": "jd",
+          "product_id": "10227071695928",
+          "listing_id": "10227071695927",
+          "variant_id": "10227071695928",
+          "variant_label": "ST20000NM003C-全新官换-店保3年",
+          "title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+          "model": "ST20000NM003C",
+          "price": 4488.0,
+          "price_status": "visible",
+          "landed_price": null,
+          "landed_floor": 4488.0,
+          "landed_status": "partial",
+          "tco_exact": null,
+          "tco_floor": 4488.0,
+          "tco_status": "partial",
+          "score": 67.5,
+          "score_confidence": 0.68,
+          "fit_score": 0.3,
+          "fit_tier": "below_fit",
+          "fit_unmet": [
+            "5 年保修",
+            "全新原封"
+          ],
+          "performance": 5.0,
+          "value_score": 8.4236,
+          "price_index": 0.5936,
+          "on_frontier": false,
+          "dominated_by": [],
+          "rank": null,
+          "url": "https://item.jd.com/10227071695928.html",
+          "shop_name": "摩世科技存储经营部",
+          "reviews_status": "ok",
+          "rating": null,
+          "rating_count": 1,
+          "review_sample_size": 0,
+          "negative_rate": null,
+          "missing_fields": [
+            "invoice",
+            "stock",
+            "sales"
+          ],
+          "needs_review": true
+        }
+      ],
+      "fit": {
+        "fit_threshold": 0.8,
+        "passed": 4,
+        "below_fit": [
+          "10227071695928"
+        ],
+        "must_failed": [
+          "10227071695925",
+          "10227071695926",
+          "10227071695927",
+          "100201554283"
+        ]
+      },
+      "value": {
+        "value_dimensions": [
+          "cache",
+          "grade"
+        ],
+        "pool_size": 4,
+        "fallback_anchor": 7561.01,
+        "frontier": [
+          {
+            "variant_id": "100077487247",
+            "platform": "jd",
+            "price": 7461.51,
+            "performance": 5.0,
+            "value_score": 5.0,
+            "fit_score": 0.8
+          }
+        ],
+        "dominated": [
+          {
+            "variant_id": "100219097359",
+            "price": 8949.01,
+            "performance": 5.0,
+            "dominated_by": [
+              "100077487247"
+            ]
+          },
+          {
+            "variant_id": "100416541038",
+            "price": 7660.51,
+            "performance": 4.3,
+            "dominated_by": [
+              "100077487247"
+            ]
+          }
+        ],
+        "excluded_from_frontier": [
+          {
+            "variant_id": "10225415721044",
+            "price": 4379.0,
+            "reason": "价格低于官方/自营锚点且成色/发票未证实，价格指数按 1.00 计，并扣减 15%"
+          }
+        ]
+      },
+      "decision_confidence": 0.71,
+      "key_risks": [
+        "推荐候选证据完整度偏低",
+        "推荐候选的库存未确认",
+        "推荐候选存在需人工复核的筛选或评分项",
+        "采购简报未允许拆单，未生成拆单方案",
+        "候选未提供库存/可采购数量，组合方案按可满足需求假设，需下单前确认"
+      ],
+      "needs_user_action": [
+        "1 条候选价格显著低于官方/自营锚点，已限制价格得分；下单前需证实成色、发票与保修主体"
+      ],
+      "eligible_count": 4,
+      "eliminated_count": 0
+    }
+  },
+  "outputs": {
+    "report_json": "output\\report.json",
+    "report_md": "output\\report.md",
+    "candidates_csv": "output\\candidates.csv",
+    "normalized": "output\\normalized.json",
+    "priced": "output\\priced.json",
+    "tco": "output\\tco.json",
+    "scored": "output\\scored.json",
+    "bundle": "output\\bundle.json"
+  },
+  "warnings": [
+    "1 条候选价格低于官方/自营锚点的 70%，已限制其价格得分并要求先证实成色/发票/保修主体",
+    "jd:100219097359 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10227071695925 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10227071695926 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10227071695927 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10227071695928 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10225415721044 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100201554283 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100416541038 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100077487247 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100219097359 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10227071695925 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10227071695926 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10227071695927 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10227071695928 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10225415721044 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:100201554283 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:100416541038 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:100077487247 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "采购简报未允许拆单，未生成拆单方案",
+    "候选未提供库存/可采购数量，组合方案按可满足需求假设，需下单前确认",
+    "本次未采集到淘宝数据（未检索/登录墙/访问异常），结论仅基于已采集平台"
+  ],
+  "errors": []
+}

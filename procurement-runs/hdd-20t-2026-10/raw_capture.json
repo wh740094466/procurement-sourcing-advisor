@@ -1,0 +1,413 @@
+{
+  "captures": [
+    {
+      "platform": "jd",
+      "listing_id": "100219097359",
+      "url": "https://item.jd.com/100219097359.html",
+      "title": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘",
+      "shop": "希捷Seagate京东自营旗舰店",
+      "captured_at": "2026-10-29T22:10:00+08:00",
+      "page_state": "ok",
+      "sections": {
+        "params": {
+          "容量": "20TB",
+          "转速": "7200rpm",
+          "缓存": "512MB",
+          "接口": "SATA"
+        },
+        "after_sales": "正品行货带票 · 供应商售后 · 五年质保 · 京东发货 · 免费上门退换",
+        "shop": {"name": "希捷Seagate京东自营旗舰店", "type": "自营"}
+      },
+      "variants": [
+        {
+          "variant_id": "100219097359",
+          "label": "20TB / 希捷银河-企业存储",
+          "option_path": ["20TB", "希捷银河-企业存储"],
+          "price": 8949.01,
+          "price_text": "¥8949.01",
+          "list_price": 8999,
+          "warranty": "5年",
+          "invoice": "可开发票（正品行货带票）",
+          "specs": {
+            "硬盘类型": "企业级硬盘",
+            "容量": "20TB",
+            "转速": "7200rpm",
+            "缓存": "512MB",
+            "接口": "SATA",
+            "型号": "ST20000NM002H",
+            "尺寸": "3.5英寸",
+            "品牌": "希捷（SEAGATE）"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥8949.01 已选：20TB / 希捷银河-企业存储；服务：供应商售后 五年质保 · 京东发货",
+              "source_url": "https://item.jd.com/100219097359.html",
+              "captured_at": "2026-10-29T22:10:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        }
+      ],
+      "reviews": {
+        "positive_rate": 99,
+        "rating_count": 2000000,
+        "sample_size": 0,
+        "negative_themes": [],
+        "positive_themes": [
+          {"theme": "运行稳定", "count": 1872, "snippets": []},
+          {"theme": "容量够用", "count": 1953, "snippets": []},
+          {"theme": "噪音小", "count": 1475, "snippets": []}
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(200万+) 超99%买家赞不绝口 运行稳定 1872 容量够用 1953 噪音小 1475",
+            "source_url": "https://item.jd.com/100219097359.html",
+            "captured_at": "2026-10-29T22:10:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10227071695927",
+      "url": "https://item.jd.com/10227071695927.html",
+      "title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "shop": "摩世科技存储经营部",
+      "captured_at": "2026-10-29T21:20:00+08:00",
+      "page_state": "ok",
+      "variants": [
+        {
+          "variant_id": "10227071695925",
+          "label": "ST20000NM003C-全新官换-保30天",
+          "option_path": ["20TB 原厂原标 银河企业级", "ST20000NM003C-全新官换-保30天"],
+          "price": 4338,
+          "price_text": "¥4338",
+          "warranty": "30天",
+          "specs": {
+            "硬盘类型": "服务器硬盘",
+            "容量": "20TB",
+            "转速": "7200rpm",
+            "缓存": "512MB",
+            "接口": "SATA",
+            "型号": "ST20000NM003C",
+            "尺寸": "3.5英寸",
+            "品牌": "希捷（SEAGATE）"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥4338 已选：20TB 原厂原标 银河企业级 / ST20000NM003C-全新官换-保30天",
+              "source_url": "https://item.jd.com/10227071695925.html",
+              "captured_at": "2026-10-29T21:20:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        },
+        {
+          "variant_id": "10227071695926",
+          "label": "ST20000NM003C-全新官换-店保1年",
+          "option_path": ["20TB 原厂原标 银河企业级", "ST20000NM003C-全新官换-店保1年"],
+          "price": 4388,
+          "price_text": "¥4388",
+          "warranty": "1年",
+          "specs": {
+            "硬盘类型": "服务器硬盘",
+            "容量": "20TB",
+            "转速": "7200rpm",
+            "缓存": "512MB",
+            "接口": "SATA",
+            "型号": "ST20000NM003C",
+            "尺寸": "3.5英寸",
+            "品牌": "希捷（SEAGATE）"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥4388 已选：20TB 原厂原标 银河企业级 / ST20000NM003C-全新官换-店保1年；服务：一年质保",
+              "source_url": "https://item.jd.com/10227071695926.html",
+              "captured_at": "2026-10-29T21:21:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        },
+        {
+          "variant_id": "10227071695927",
+          "label": "ST20000NM003C-全新官换-店保2年",
+          "option_path": ["20TB 原厂原标 银河企业级", "ST20000NM003C-全新官换-店保2年"],
+          "price": 4438,
+          "price_text": "¥4438",
+          "warranty": "2年",
+          "specs": {
+            "硬盘类型": "服务器硬盘",
+            "容量": "20TB",
+            "转速": "7200rpm",
+            "缓存": "512MB",
+            "接口": "SATA",
+            "型号": "ST20000NM003C",
+            "尺寸": "3.5英寸",
+            "品牌": "希捷（SEAGATE）"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥4438 已选：20TB 原厂原标 银河企业级 / ST20000NM003C-全新官换-店保2年",
+              "source_url": "https://item.jd.com/10227071695927.html",
+              "captured_at": "2026-10-29T21:20:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        },
+        {
+          "variant_id": "10227071695928",
+          "label": "ST20000NM003C-全新官换-店保3年",
+          "option_path": ["20TB 原厂原标 银河企业级", "ST20000NM003C-全新官换-店保3年"],
+          "price": 4488,
+          "price_text": "¥4488",
+          "warranty": "3年",
+          "specs": {
+            "硬盘类型": "服务器硬盘",
+            "容量": "20TB",
+            "转速": "7200rpm",
+            "缓存": "512MB",
+            "接口": "SATA",
+            "型号": "ST20000NM003C",
+            "尺寸": "3.5英寸",
+            "品牌": "希捷（SEAGATE）"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥4488 已选：20TB 原厂原标 银河企业级 / ST20000NM003C-全新官换-店保3年",
+              "source_url": "https://item.jd.com/10227071695928.html",
+              "captured_at": "2026-10-29T21:21:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        }
+      ],
+      "reviews": {
+        "positive_rate": 100,
+        "rating_count": 1,
+        "sample_size": 0,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(1) 好评率高达100%",
+            "source_url": "https://item.jd.com/10227071695927.html",
+            "captured_at": "2026-10-29T21:21:00+08:00",
+            "confidence": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10225415721044",
+      "url": "https://item.jd.com/10225415721044.html",
+      "title": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年",
+      "shop": "硬盘商城²⁰",
+      "captured_at": "2026-10-29T21:23:00+08:00",
+      "page_state": "ok",
+      "sections": {
+        "after_sales": "店铺发货&售后服务 · 支持7天无理由退货 · 可选 2 年/4 年质保换新",
+        "usage": "企业级氦气盘，适合 NAS/服务器 7×24 运行"
+      },
+      "variants": [
+        {
+          "variant_id": "10225415721044",
+          "label": "ST20000NM002H 质保五年",
+          "option_path": ["20TB", "ST20000NM002H 质保五年"],
+          "price": 4379,
+          "price_text": "¥4379",
+          "warranty": "5年",
+          "specs": {
+            "品牌": "希捷（SEAGATE）",
+            "型号": "ST20000NM002H",
+            "容量": "20TB",
+            "接口": "SATA3.0",
+            "尺寸": "3.5英寸",
+            "转速": "7200rpm",
+            "缓存": "512MB"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥4379 已选：20TB / ST20000NM002H 质保五年",
+              "source_url": "https://item.jd.com/10225415721044.html",
+              "captured_at": "2026-10-29T21:23:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "jd",
+      "listing_id": "100201554283",
+      "url": "https://item.jd.com/100201554283.html",
+      "title": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸",
+      "shop": "希捷Seagate京东自营旗舰店",
+      "captured_at": "2026-10-29T21:25:00+08:00",
+      "page_state": "ok",
+      "sections": {
+        "after_sales": "供应商售后 · 两年质保 · 京东发货 · 上门换新",
+        "usage": "台式机/桌面存储；页面未标注是否 SMR，需向客服确认"
+      },
+      "variants": [
+        {
+          "variant_id": "100201554283",
+          "label": "ST20000DM001",
+          "option_path": ["20TB", "ST20000DM001"],
+          "price": 4675.51,
+          "price_text": "¥4675.51",
+          "warranty": "2年",
+          "invoice": "可开发票（正品行货带票）",
+          "specs": {
+            "硬盘类型": "台式机硬盘",
+            "容量": "20TB",
+            "转速": "7200rpm",
+            "缓存": "512MB",
+            "接口": "SATA",
+            "型号": "ST20000DM001",
+            "尺寸": "3.5英寸",
+            "品牌": "希捷（SEAGATE）"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥4675.51 已选：20TB / ST20000DM001；服务：供应商售后 · 两年质保",
+              "source_url": "https://item.jd.com/100201554283.html",
+              "captured_at": "2026-10-29T21:25:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        }
+      ],
+      "reviews": {
+        "positive_rate": 99,
+        "rating_count": 2000000,
+        "sample_size": 0,
+        "negative_themes": [],
+        "positive_themes": [
+          {"theme": "运行稳定", "count": 1872, "snippets": []},
+          {"theme": "传输速度快", "count": 2013, "snippets": []},
+          {"theme": "噪音小", "count": 1475, "snippets": []}
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(200万+) 超99%买家赞不绝口 运行稳定 1872 传输速度快 2013 噪音小 1475",
+            "source_url": "https://item.jd.com/100201554283.html",
+            "captured_at": "2026-10-29T21:25:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "100416541038",
+      "url": "https://item.jd.com/100416541038.html",
+      "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+      "shop": "东芝存储京东自营旗舰店",
+      "captured_at": "2026-10-29T21:28:00+08:00",
+      "page_state": "ok",
+      "sections": {
+        "params": {
+          "容量": "20TB",
+          "转速": "7200rpm",
+          "缓存": "512MB",
+          "接口": "SATA"
+        },
+        "after_sales": "正品行货带票 · 五年质保 · 京东发货&售后服务 · 180天只换不修",
+        "usage": "NAS/私有云 7×24 场景；企业级 SATA 版本为 MG10ACA20TE",
+        "shop": {"name": "东芝存储京东自营旗舰店", "type": "自营"},
+        "recommendations": ["同系列 16TB", "搭配 NAS 硬盘盒"]
+      },
+      "variants": [
+        {
+          "variant_id": "100416541038",
+          "label": "N300 Pro NAS 20TB（HDWG62A）",
+          "option_path": ["20TB", "Nas系统硬盘|私有云存储"],
+          "price": 7660.51,
+          "price_text": "¥7660.51",
+          "warranty": "5年",
+          "invoice": "可开发票（正品行货带票）",
+          "specs": {
+            "硬盘类型": "NAS硬盘",
+            "容量": "20TB",
+            "转速": "7200rpm",
+            "缓存": "512MB",
+            "接口": "SATA",
+            "型号": "HDWG62A",
+            "尺寸": "3.5英寸",
+            "品牌": "东芝（TOSHIBA）"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥7660.51 已选：20TB / Nas系统硬盘|私有云存储；服务：五年质保",
+              "source_url": "https://item.jd.com/100416541038.html",
+              "captured_at": "2026-10-29T21:28:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        },
+        {
+          "variant_id": "100077487247",
+          "label": "MG10ACA20TE 企业级 SATA 20TB",
+          "option_path": ["20TB", "企业级硬盘SATA|数据存储中心"],
+          "price": 7461.51,
+          "price_text": "¥7461.51",
+          "warranty": "5年",
+          "invoice": "可开发票（正品行货带票）",
+          "specs": {
+            "硬盘类型": "企业级硬盘",
+            "容量": "20TB",
+            "转速": "7200rpm",
+            "缓存": "512MB",
+            "接口": "SATA",
+            "型号": "MG10ACA20TE",
+            "尺寸": "3.5英寸",
+            "品牌": "东芝（TOSHIBA）"
+          },
+          "evidence": [
+            {
+              "field": "price",
+              "snippet": "¥7461.51 已选：20TB / 企业级硬盘SATA|数据存储中心；型号 MG10ACA20TE",
+              "source_url": "https://item.jd.com/100077487247.html",
+              "captured_at": "2026-10-29T21:29:00+08:00",
+              "confidence": 0.9
+            }
+          ]
+        }
+      ],
+      "reviews": {
+        "positive_rate": 98,
+        "rating_count": 20000,
+        "sample_size": 3,
+        "negative_themes": [],
+        "positive_themes": [
+          {"theme": "运行稳定", "count": 73, "snippets": []},
+          {"theme": "噪音小", "count": 123, "snippets": ["拷贝的声音比硬盘自检的声音小，待机时听不到什么声音"]},
+          {"theme": "容量超大", "count": 64, "snippets": []}
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(2万+) 超98%买家赞不绝口；样本：不错，拷贝的声音比硬盘自检的声音小；第一次用东芝家的硬盘…声音也很小",
+            "source_url": "https://item.jd.com/100416541038.html",
+            "captured_at": "2026-10-29T21:29:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      }
+    }
+  ],
+  "errors": []
+}

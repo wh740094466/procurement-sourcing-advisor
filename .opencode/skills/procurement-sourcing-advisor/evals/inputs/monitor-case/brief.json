@@ -1,0 +1,31 @@
+{
+  "category": "显示器",
+  "item_description": "27 英寸 2K 办公显示器",
+  "quantity": 4,
+  "budget_cny": 6000,
+  "budget_per_unit_cny": 1500,
+  "must_have": [
+    "27 英寸",
+    "2K 分辨率",
+    "可开发票"
+  ],
+  "nice_to_have": [
+    "升降支架",
+    "低蓝光"
+  ],
+  "exclusions": [
+    "二手",
+    "翻新"
+  ],
+  "allow_split": false,
+  "allow_alternative_models": true,
+  "invoice_required": true,
+  "min_warranty_months": 36,
+  "usage_context": "办公室日常文档与表格，4 台统一采购",
+  "confirmed": {
+    "by_user": true,
+    "at": "2026-10-29T08:00:00+08:00",
+    "revision": 1,
+    "changes": []
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "id": "hdd-enterprise-20t-server-2026",
+  "name": "20TB 企业级机械硬盘评分卡（自建服务器 7×24）",
+  "category": "企业级机械硬盘",
+  "version": "1.0",
+  "rationale": "先满足 20TB/SATA/CMR/全新/发票/≥3年保修，再看同价位性能（企业级定位与转速）；价格只作为性价比的分母，不允许用低价补偿成色或保修缺失。7×24 自建服务器把 5 年保修和全新原封设为高权重 should 项。",
+  "stages": {
+    "fit_threshold": 0.8
+  },
+  "price_anchor": {
+    "min_ratio": 0.7
+  },
+  "enrichment_targets": [
+    "price",
+    "detail.warranty",
+    "detail.invoice",
+    "attributes.recording",
+    "attributes.condition",
+    "reviews"
+  ],
+  "hard_filters": [
+    {
+      "id": "used",
+      "label": "排除二手/拆机/翻新/官换",
+      "field": "filter_text",
+      "op": "not_contains_any",
+      "value": [
+        "二手",
+        "拆机",
+        "翻新",
+        "官换",
+        "通电时间"
+      ],
+      "missing": "pass",
+      "reason": "公司服务器要求全新原封"
+    },
+    {
+      "id": "smr",
+      "label": "排除 SMR 叠瓦",
+      "field": "title",
+      "op": "not_contains_any",
+      "value": [
+        "SMR",
+        "叠瓦"
+      ],
+      "missing": "pass",
+      "reason": "7×24 写入场景不接受 SMR"
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "grade",
+      "label": "产品定位",
+      "group": "value",
+      "weight": 0.6,
+      "method": "keyword",
+      "field": "filter_text",
+      "rules": [
+        {
+          "any": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级"
+          ],
+          "score": 5,
+          "label": "企业级"
+        },
+        {
+          "any": [
+            "N300",
+            "IronWolf",
+            "红盘",
+            "NAS"
+          ],
+          "score": 4,
+          "label": "NAS 级"
+        },
+        {
+          "any": [
+            "Barracuda",
+            "酷鱼",
+            "桌面级"
+          ],
+          "score": 2,
+          "label": "桌面级"
+        }
+      ],
+      "default": 3,
+      "missing": "worst"
+    },
+    {
+      "id": "rpm",
+      "label": "转速",
+      "group": "value",
+      "weight": 0.2,
+      "method": "keyword",
+      "field": "attributes.rpm",
+      "rules": [
+        {
+          "any": [
+            "7200"
+          ],
+          "score": 5,
+          "label": "7200rpm"
+        },
+        {
+          "any": [
+            "5400"
+          ],
+          "score": 2,
+          "label": "5400rpm"
+        }
+      ],
+      "default": 3,
+      "missing": "worst"
+    },
+    {
+      "id": "cache",
+      "label": "缓存",
+      "group": "value",
+      "weight": 0.2,
+      "method": "keyword",
+      "field": "attributes.cache",
+      "rules": [
+        {
+          "any": [
+            "512MB",
+            "512M"
+          ],
+          "score": 5,
+          "label": "512MB"
+        },
+        {
+          "any": [
+            "256MB",
+            "256M"
+          ],
+          "score": 3,
+          "label": "256MB"
+        }
+      ],
+      "default": 2,
+      "missing": "worst"
+    },
+    {
+      "id": "seller",
+      "label": "渠道",
+      "group": "risk",
+      "weight": 0.5,
+      "method": "keyword",
+      "field": "shop_name",
+      "rules": [
+        {
+          "any": [
+            "自营"
+          ],
+          "score": 5,
+          "label": "自营"
+        },
+        {
+          "any": [
+            "官方旗舰店",
+            "官方直营"
+          ],
+          "score": 4,
+          "label": "官方店"
+        },
+        {
+          "any": [
+            "旗舰店"
+          ],
+          "score": 3,
+          "label": "旗舰店"
+        },
+        {
+          "any": [
+            "专营",
+            "专卖"
+          ],
+          "score": 2,
+          "label": "专营/专卖"
+        }
+      ],
+      "default": 1,
+      "missing": "worst"
+    },
+    {
+      "id": "reviews",
+      "label": "评价",
+      "group": "risk",
+      "weight": 0.5,
+      "method": "reviews",
+      "field": "reviews.rating",
+      "negative_rate_penalty": 2.5,
+      "missing": "worst"
+    }
+  ],
+  "confidence": {
+    "weight_coverage_min": 0.7,
+    "penalize_missing": true
+  },
+  "confirmed": {
+    "by_user": true,
+    "at": "2026-10-29T15:17:07+00:00",
+    "revision": 1,
+    "changes": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.procurement/schemas/procurement_report.schema.json",
+  "title": "Procurement Report",
+  "type": "object",
+  "required": [
+    "report_id",
+    "generated_at",
+    "brief",
+    "scope",
+    "summary",
+    "scorecard",
+    "candidates",
+    "eliminated",
+    "bundle",
+    "evidence_gaps",
+    "methodology"
+  ],
+  "properties": {
+    "report_id": {"type": "string"},
+    "generated_at": {"type": "string"},
+    "brief": {"type": "object"},
+    "scope": {
+      "type": "object",
+      "required": ["platforms", "excluded_platforms", "price_note"],
+      "properties": {
+        "platforms": {"type": "array", "items": {"enum": ["taobao", "jd"]}},
+        "excluded_platforms": {"type": "array", "items": {"type": "string"}},
+        "price_note": {"type": "string"},
+        "browser_capture": {"type": "string"}
+      },
+      "additionalProperties": true
+    },
+    "summary": {
+      "type": "object",
+      "required": ["quantity", "recommendation", "alternatives", "eligible_count", "eliminated_count"],
+      "properties": {
+        "quantity": {"type": "integer", "minimum": 1},
+        "budget_cny": {"type": ["number", "null"]},
+        "budget_per_unit_cny": {"type": ["number", "null"]},
+        "recommendation": {"type": ["object", "null"]},
+        "alternatives": {"type": "array", "items": {"type": "object"}},
+        "decision_confidence": {"type": ["number", "null"]},
+        "key_risks": {"type": "array", "items": {"type": "string"}},
+        "needs_user_action": {"type": "array", "items": {"type": "string"}},
+        "eligible_count": {"type": "integer", "minimum": 0},
+        "eliminated_count": {"type": "integer", "minimum": 0}
+      },
+      "additionalProperties": true
+    },
+    "scorecard": {"type": "object"},
+    "candidates": {"type": "array", "items": {"type": "object"}},
+    "eliminated": {"type": "array", "items": {"type": "object"}},
+    "bundle": {"type": "object"},
+    "evidence_gaps": {"type": "array", "items": {"type": "object"}},
+    "methodology": {"type": "object"},
+    "warnings": {"type": "array", "items": {"type": "string"}},
+    "errors": {"type": "array", "items": {"type": "object"}}
+  },
+  "additionalProperties": true
+}

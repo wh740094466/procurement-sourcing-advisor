@@ -1,0 +1,84 @@
+- generic [ref=f33e4]:
+  - generic [ref=f33e8] [cursor=pointer]
+  - generic [ref=f33e11]:
+    - generic [ref=f33e13]:
+      - link "电脑、办公" [ref=f33e15] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+      - generic [ref=f33e16]: ">"
+      - link "电脑组件" [ref=f33e18] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677&sourcePage=itemBreadCrumb
+      - generic [ref=f33e19]: ">"
+      - link "显示器" [ref=f33e21] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677%2C688&sourcePage=itemBreadCrumb
+      - generic [ref=f33e22]: ">"
+      - link "小米（MI）" [ref=f33e24] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677%2C688&ev=exbrand_18374&sourcePage=itemBreadCrumb
+    - generic [ref=f33e25]:
+      - generic [ref=f33e27] [cursor=pointer]:
+        - generic [ref=f33e30]:
+          - generic "小米京东自营旗舰店" [ref=f33e34]
+          - generic [ref=f33e36]:
+            - generic [ref=f33e37]: 进店逛逛，享更多优惠
+            - generic [ref=f33e38]: 精选镇店好物，快来逛逛
+            - generic [ref=f33e39]: 进店逛逛，享更多优惠
+            - generic [ref=f33e40]: 精选镇店好物，快来逛逛
+        - generic [ref=f33e41]:
+          - generic [ref=f33e42]: 关注店铺
+          - generic [ref=f33e44]: 联系客服
+      - generic [ref=f33e50]:
+        - generic [ref=f33e51]:
+          - generic [ref=f33e52]:
+            - generic [ref=f33e53]: 希捷20t硬盘
+            - generic [ref=f33e54]: 20tb企业级硬盘
+            - generic [ref=f33e55]: 固态硬盘p41
+            - generic [ref=f33e56]: 硬盘20tb
+            - generic [ref=f33e57]: 希捷机械硬盘
+            - generic [ref=f33e58]: 希捷企业级硬盘
+            - generic [ref=f33e59]: 机械磁盘
+            - generic [ref=f33e60]: 定型喷雾男士
+            - generic [ref=f33e61]: 16tb企业级硬盘
+            - generic [ref=f33e62]: 16tb硬盘
+          - textbox "搜索" [ref=f33e63]
+          - generic [ref=f33e64] [cursor=pointer]:
+            - button "搜本店" [ref=f33e65]
+            - button "搜全站" [ref=f33e66]
+        - generic [ref=f33e67]:
+          - generic [ref=f33e68] [cursor=pointer]: 小米显示器27寸
+          - generic [ref=f33e69] [cursor=pointer]: 27寸2k显示器
+          - generic [ref=f33e70] [cursor=pointer]: 希捷20t硬盘
+          - generic [ref=f33e71] [cursor=pointer]: 红米a27q
+          - generic [ref=f33e72] [cursor=pointer]: 机械硬盘
+    - generic [ref=f33e75]:
+      - generic [ref=f33e77]:
+        - generic [ref=f33e78]:
+          - generic [ref=f33e79]:
+            - generic [ref=f33e81]:
+              - generic [ref=f33e82] [cursor=pointer]
+              - generic [ref=f33e84] [cursor=pointer]
+              - generic [ref=f33e86] [cursor=pointer]
+              - generic [ref=f33e88] [cursor=pointer]
+              - generic [ref=f33e90] [cursor=pointer]
+              - generic [ref=f33e92] [cursor=pointer]
+              - generic [ref=f33e94] [cursor=pointer]
+              - generic [ref=f33e96] [cursor=pointer]
+              - generic [ref=f33e98] [cursor=pointer]
+              - generic [ref=f33e100] [cursor=pointer]
+              - generic [ref=f33e102] [cursor=pointer]: 规格参数
+            - generic [ref=f33e106] [cursor=pointer]
+          - generic [ref=f33e107]: 
+        - generic [ref=f33e114]:
+          - generic [ref=f33e118]:
+            - generic [ref=f33e119] [cursor=pointer]: 大家评
+            - generic [ref=f33e121] [cursor=pointer]: 店铺
+            - generic [ref=f33e123] [cursor=pointer]: 商品详情
+            - generic [ref=f33e125] [cursor=pointer]: 使用说明
+            - generic [ref=f33e127] [cursor=pointer]: 售后保障
+            - generic [ref=f33e129] [cursor=pointer]: 推荐
+          - generic [ref=f33e132]:
+            - generic [ref=f33e208]:
+              - generic [ref=f33e209]: 进店逛逛
+              - generic [ref=f33e211]:
+                - generic [ref=f33e212] [cursor=pointer]
+                - generic [ref=f33e215]: 进店逛逛
+            - generic [ref=f33e219]: 商品详情
+      - generic [ref=f33e256]: 送至

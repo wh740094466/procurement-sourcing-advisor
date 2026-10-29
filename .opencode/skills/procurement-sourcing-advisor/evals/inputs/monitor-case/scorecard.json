@@ -1,0 +1,212 @@
+{
+  "id": "monitor-office-2026",
+  "name": "办公显示器评分卡",
+  "category": "显示器",
+  "version": "1.0",
+  "rationale": "办公显示器优先保证预算内、27 英寸 2K 与可开票；面板与保修次之；店铺渠道权重最低但不为零。",
+  "enrichment_targets": [
+    "price",
+    "detail.warranty",
+    "detail.invoice",
+    "detail.stock_status"
+  ],
+  "hard_filters": [
+    {
+      "id": "budget",
+      "label": "单台预算",
+      "field": "landed_price.floor",
+      "op": "lte",
+      "value_from": "budget_per_unit_cny",
+      "missing": "review",
+      "reason": "到手价下限不得超过单台预算"
+    },
+    {
+      "id": "used",
+      "label": "排除二手/翻新",
+      "field": "title",
+      "op": "not_contains_any",
+      "value": [
+        "二手",
+        "翻新",
+        "官翻"
+      ],
+      "missing": "pass",
+      "reason": "必须全新品"
+    },
+    {
+      "id": "ad",
+      "label": "排除广告位",
+      "field": "flags.ad",
+      "op": "eq",
+      "value": false,
+      "missing": "pass",
+      "reason": "广告位不作为自然搜索结果"
+    },
+    {
+      "id": "invoice",
+      "label": "可开发票",
+      "field": "detail.invoice",
+      "op": "contains_any",
+      "value": [
+        "发票"
+      ],
+      "missing": "review",
+      "reason": "企业采购需要发票；缺失时不能假设可开"
+    },
+    {
+      "id": "screen",
+      "label": "27 英寸及以上",
+      "field": "attributes.screen_inch",
+      "op": "gte",
+      "value": 27,
+      "missing": "review",
+      "reason": "屏幕尺寸未确认时需人工复核"
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "price",
+      "label": "价格",
+      "weight": 0.35,
+      "method": "minmax",
+      "field": "landed_price.floor",
+      "direction": "lower_better",
+      "missing": "worst"
+    },
+    {
+      "id": "panel",
+      "label": "面板素质",
+      "weight": 0.2,
+      "method": "keyword",
+      "field": "attributes.panel",
+      "rules": [
+        {
+          "any": [
+            "IPS Black"
+          ],
+          "score": 5,
+          "label": "IPS Black"
+        },
+        {
+          "any": [
+            "IPS"
+          ],
+          "score": 4,
+          "label": "IPS"
+        },
+        {
+          "any": [
+            "VA"
+          ],
+          "score": 3,
+          "label": "VA"
+        }
+      ],
+      "default": 2,
+      "missing": "worst"
+    },
+    {
+      "id": "warranty",
+      "label": "保修",
+      "weight": 0.2,
+      "method": "keyword",
+      "field": "detail.warranty",
+      "rules": [
+        {
+          "any": [
+            "3年",
+            "三年"
+          ],
+          "score": 5,
+          "label": "3 年"
+        },
+        {
+          "any": [
+            "2年",
+            "两年"
+          ],
+          "score": 3,
+          "label": "2 年"
+        },
+        {
+          "any": [
+            "1年",
+            "一年"
+          ],
+          "score": 2,
+          "label": "1 年"
+        }
+      ],
+      "default": 1,
+      "missing": "worst"
+    },
+    {
+      "id": "invoice",
+      "label": "发票",
+      "weight": 0.15,
+      "method": "keyword",
+      "field": "detail.invoice",
+      "rules": [
+        {
+          "any": [
+            "专用发票"
+          ],
+          "score": 5,
+          "label": "专票"
+        },
+        {
+          "any": [
+            "普通发票"
+          ],
+          "score": 4,
+          "label": "普票"
+        },
+        {
+          "any": [
+            "发票"
+          ],
+          "score": 3,
+          "label": "票种未明"
+        }
+      ],
+      "default": 0,
+      "missing": "worst"
+    },
+    {
+      "id": "seller",
+      "label": "渠道",
+      "weight": 0.1,
+      "method": "keyword",
+      "field": "shop_name",
+      "rules": [
+        {
+          "any": [
+            "自营",
+            "官方旗舰店"
+          ],
+          "score": 5,
+          "label": "自营/官方"
+        },
+        {
+          "any": [
+            "旗舰店"
+          ],
+          "score": 4,
+          "label": "旗舰店"
+        }
+      ],
+      "default": 2,
+      "missing": "worst"
+    }
+  ],
+  "confidence": {
+    "weight_coverage_min": 0.7,
+    "penalize_missing": true
+  },
+  "confirmed": {
+    "by_user": true,
+    "at": "2026-10-29T08:00:00+08:00",
+    "revision": 1,
+    "changes": []
+  }
+}

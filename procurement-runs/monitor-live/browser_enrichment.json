@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-10-29T12:49:58+00:00",
+  "fields_requested": [
+    "price",
+    "detail.warranty",
+    "detail.invoice",
+    "detail.stock_status"
+  ],
+  "results": [
+    {
+      "platform": "jd",
+      "product_id": "100275929320",
+      "url": "https://item.jd.com/100275929320.html",
+      "status": "blocked",
+      "page_title": "PC频控页 -京东商城",
+      "final_url": "https://pc-frequent-pro.pf.jd.com/?from=pc_item&reason=403",
+      "fields": {},
+      "observed_prices": [],
+      "specs_excerpt": "",
+      "fetched_at": "2026-10-29T12:50:00+00:00",
+      "text_length": 823,
+      "text_path": "evidence\\jd-100275929320.txt"
+    }
+  ],
+  "errors": [
+    {
+      "platform": "jd",
+      "product_id": "100275929320",
+      "code": "BROWSER_BLOCKED",
+      "message": "页面状态为 blocked；请先完成登录/验证，不要绕过",
+      "retryable": false
+    }
+  ],
+  "skipped": [
+    {
+      "platform": "jd",
+      "product_id": "100207738135",
+      "reason": "stopped after login/captcha wall"
+    },
+    {
+      "platform": "jd",
+      "product_id": "100021739768",
+      "reason": "stopped after login/captcha wall"
+    }
+  ]
+}

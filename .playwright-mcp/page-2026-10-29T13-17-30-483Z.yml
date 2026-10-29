@@ -1,0 +1,82 @@
+- generic [ref=f25e4]:
+  - generic [ref=f25e8] [cursor=pointer]
+  - generic [ref=f25e11]:
+    - generic [ref=f25e13]:
+      - link "电脑、办公" [ref=f25e15] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+      - generic [ref=f25e16]: ">"
+      - link "电脑组件" [ref=f25e18] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677&sourcePage=itemBreadCrumb
+      - generic [ref=f25e19]: ">"
+      - link "硬盘" [ref=f25e21] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&sourcePage=itemBreadCrumb
+      - generic [ref=f25e22]: ">"
+      - link "希捷（SEAGATE）" [ref=f25e24] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&ev=exbrand_17941&sourcePage=itemBreadCrumb
+    - generic [ref=f25e25]:
+      - generic [ref=f25e27] [cursor=pointer]:
+        - generic [ref=f25e30]:
+          - generic [ref=f25e31]:
+            - generic "摩世科技存储经营部" [ref=f25e32]
+            - generic [ref=f25e33]: "4.9"
+          - generic [ref=f25e41]:
+            - generic [ref=f25e42]: 进店逛逛，享更多优惠
+            - generic [ref=f25e43]: 精选镇店好物，快来逛逛
+            - generic [ref=f25e44]: 进店逛逛，享更多优惠
+            - generic [ref=f25e45]: 精选镇店好物，快来逛逛
+        - generic [ref=f25e46]:
+          - generic [ref=f25e47]: 关注店铺
+          - generic [ref=f25e49]: 联系客服
+      - generic [ref=f25e55]:
+        - generic [ref=f25e56]:
+          - generic [ref=f25e57]:
+            - generic [ref=f25e58]: 小米显示器27寸
+            - generic [ref=f25e59]: 机械硬盘
+            - generic [ref=f25e60]: 显示器27寸2k
+            - generic [ref=f25e61]: 希捷20t硬盘
+            - generic [ref=f25e62]: 27英寸显示器
+            - generic [ref=f25e63]: 机械磁盘
+            - generic [ref=f25e64]: 27英寸显示器4k
+            - generic [ref=f25e65]: 希捷硬盘机械
+            - generic [ref=f25e66]: 希捷硬盘
+            - generic [ref=f25e67]: 希捷酷狼
+          - textbox "搜索" [ref=f25e68]
+          - generic [ref=f25e69] [cursor=pointer]:
+            - button "搜本店" [ref=f25e70]
+            - button "搜全站" [ref=f25e71]
+        - generic [ref=f25e72]:
+          - generic [ref=f25e73] [cursor=pointer]: 小米显示器27寸
+          - generic [ref=f25e74] [cursor=pointer]: 27寸2k显示器
+          - generic [ref=f25e75] [cursor=pointer]: 希捷20t硬盘
+          - generic [ref=f25e76] [cursor=pointer]: 红米a27q
+          - generic [ref=f25e77] [cursor=pointer]: 机械硬盘
+    - generic [ref=f25e80]:
+      - generic [ref=f25e82]:
+        - generic [ref=f25e84]:
+          - generic [ref=f25e86]:
+            - generic [ref=f25e87] [cursor=pointer]
+            - generic [ref=f25e89] [cursor=pointer]
+            - generic [ref=f25e91] [cursor=pointer]
+            - generic [ref=f25e93] [cursor=pointer]
+            - generic [ref=f25e95] [cursor=pointer]
+            - generic [ref=f25e97] [cursor=pointer]
+            - generic [ref=f25e99] [cursor=pointer]
+            - generic [ref=f25e101] [cursor=pointer]
+            - generic [ref=f25e103] [cursor=pointer]
+            - generic [ref=f25e105] [cursor=pointer]: 规格参数
+          - generic [ref=f25e109] [cursor=pointer]
+        - generic [ref=f25e115]:
+          - generic [ref=f25e119]:
+            - generic [ref=f25e120] [cursor=pointer]: 大家评
+            - generic [ref=f25e122] [cursor=pointer]: 店铺
+            - generic [ref=f25e124] [cursor=pointer]: 商品详情
+            - generic [ref=f25e126] [cursor=pointer]: 售后保障
+            - generic [ref=f25e128] [cursor=pointer]: 推荐
+          - generic [ref=f25e131]:
+            - generic [ref=f25e207]:
+              - generic [ref=f25e208]: 进店逛逛
+              - generic [ref=f25e210]:
+                - generic [ref=f25e211] [cursor=pointer]
+                - generic [ref=f25e214]: 进店逛逛
+            - generic [ref=f25e218]: 商品详情
+      - generic [ref=f25e252]: 送至

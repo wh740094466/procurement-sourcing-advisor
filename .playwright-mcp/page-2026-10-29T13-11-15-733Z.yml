@@ -1,0 +1,154 @@
+- generic [ref=f2e1]:
+  - link "欢迎进入 ,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=f2e4]:
+    - img [ref=f2e5]:
+      - link [ref=f2e6] [cursor=pointer]:
+        - /url: //www.taobao.com
+    - generic [ref=f2e7]:
+      - button "搜索" [ref=f2e9]
+      - generic [ref=f2e10]: 搜同款
+  - generic [ref=f2e118]:
+    - generic [ref=f2e121]:
+      - list [ref=f2e122]:
+        - listitem [ref=f2e123]:
+          - generic [ref=f2e124]:
+            - generic [ref=f2e125]: 中国大陆
+            - generic [ref=f2e126]: 
+        - listitem [ref=f2e128]:
+          - generic [ref=f2e129]:
+            - generic:
+              - link "亲，请登录" [ref=f2e130] [cursor=pointer]:
+                - /url: //login.taobao.com/member/login.jhtml?f=top&redirectURL=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D27%25E8%258B%25B1%25E5%25AF%25B8%25202K%2520%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8
+              - link "免费注册" [ref=f2e131] [cursor=pointer]:
+                - /url: //reg.taobao.com/member/new_register.jhtml?from=tbtop&ex_info=&ex_sign=
+        - listitem [ref=f2e132]:
+          - link "网页无障碍" [ref=f2e134] [cursor=pointer]:
+            - /url: javascript:void(0)
+      - list [ref=f2e136]:
+        - listitem [ref=f2e137]:
+          - link "淘宝网首页" [ref=f2e140] [cursor=pointer]:
+            - /url: //www.taobao.com/
+        - listitem [ref=f2e141]:
+          - link "已买到的宝贝" [ref=f2e143] [cursor=pointer]:
+            - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm
+        - listitem [ref=f2e145]:
+          - generic [ref=f2e146]:
+            - link "我的淘宝" [ref=f2e147] [cursor=pointer]:
+              - /url: //i.taobao.com/my_itaobao
+            - generic [ref=f2e149]: 
+        - listitem [ref=f2e151]:
+          - link " 购物车" [ref=f2e153] [cursor=pointer]:
+            - /url: //cart.taobao.com/cart.htm?from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+            - generic [ref=f2e154]: 
+            - generic [ref=f2e155]: 购物车
+        - listitem [ref=f2e156]:
+          - generic [ref=f2e157]:
+            - link " 收藏夹" [ref=f2e158] [cursor=pointer]:
+              - /url: //i.taobao.com/my_itaobao/itao-tool/collect
+              - generic [ref=f2e159]: 
+              - generic [ref=f2e160]: 收藏夹
+            - generic [ref=f2e161]: 
+        - listitem [ref=f2e163]:
+          - generic [ref=f2e164]:
+            - link "免费开店" [ref=f2e165] [cursor=pointer]:
+              - /url: //ishop.taobao.com/openshop/tb_open_shop_landing.htm?source=tbweb1st
+            - generic [ref=f2e167]: 
+        - listitem [ref=f2e169]:
+          - generic [ref=f2e170]:
+            - link "千牛卖家中心" [ref=f2e171] [cursor=pointer]:
+              - /url: //myseller.taobao.com/home.htm/QnworkbenchHome/
+            - generic [ref=f2e173]: 
+        - listitem [ref=f2e175]:
+          - generic [ref=f2e176]:
+            - link "帮助中心" [ref=f2e177] [cursor=pointer]:
+              - /url: https://consumerservice.taobao.com
+            - generic [ref=f2e179]: 
+    - generic [ref=f2e182]:
+      - img [ref=f2e183]:
+        - link [ref=f2e184] [cursor=pointer]:
+          - /url: //www.taobao.com
+      - generic [ref=f2e186]:
+        - search [ref=f2e187]:
+          - generic [ref=f2e188]:
+            - button "搜索" [ref=f2e189] [cursor=pointer]
+            - textbox "请输入搜索文字" [active] [ref=f2e191]: 27英寸 2K 显示器
+        - generic [ref=f2e192]: 搜同款
+    - generic [ref=f2e205]:
+      - generic [ref=f2e206]:
+        - generic [ref=f2e208]:
+          - generic [ref=f2e209] [cursor=pointer]: 所有宝贝
+          - generic [ref=f2e211] [cursor=pointer]: 天猫
+          - generic [ref=f2e212] [cursor=pointer]: 淘宝
+          - generic [ref=f2e213] [cursor=pointer]: 店铺
+          - generic [ref=f2e214] [cursor=pointer]: 企业购
+        - generic [ref=f2e218]:
+          - button "发货地 " [ref=f2e220] [cursor=pointer]:
+            - generic [ref=f2e221]: 发货地
+            - generic [ref=f2e222]: 
+          - generic [ref=f2e225]:
+            - generic [ref=f2e226]: 
+            - generic [ref=f2e228] [cursor=pointer]: 
+          - generic [ref=f2e231]:
+            - button "上一页，当前第1页" [disabled] [ref=f2e232]:
+              - generic [ref=f2e233]: 
+            - generic [ref=f2e234]:
+              - emphasis [ref=f2e235]: "1"
+              - text: /100
+            - button "下一页，当前第1页" [ref=f2e236] [cursor=pointer]:
+              - generic [ref=f2e237]: 
+      - generic [ref=f2e238]:
+        - generic [ref=f2e240]:
+          - generic [ref=f2e242]:
+            - tablist [ref=f2e247]:
+              - tab "综合" [selected] [ref=f2e248]
+              - tab "销量" [ref=f2e250]
+            - generic:
+              - tabpanel
+          - generic [ref=f2e252]:
+            - generic [ref=f2e253]: 
+            - tablist [ref=f2e260]:
+              - tab "价格" [ref=f2e261]
+        - generic [ref=f2e264]: 加载中...
+    - generic [ref=f2e278]:
+      - link "桌面版" [ref=f2e280] [cursor=pointer]:
+        - /url: https://pc.taobao.com?channel=search
+      - generic [ref=f2e283] [cursor=pointer]: 联系客服
+      - link "购物车" [ref=f2e288] [cursor=pointer]:
+        - /url: //cart.taobao.com
+      - link "官方客服" [ref=f2e292] [cursor=pointer]:
+        - /url: //consumerservice.taobao.com/online-help
+      - link "反馈" [ref=f2e296] [cursor=pointer]:
+        - /url: //market.m.taobao.com/app/tbhome/feedback/index.html?fromURL=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D27%25E8%258B%25B1%25E5%25AF%25B8%25202K%2520%25E6%2598%25BE%25E7%25A4%25BA%25E5%2599%25A8
+  - generic [ref=f2e300]:
+    - img [ref=f2e301] [cursor=pointer]
+    - iframe [ref=f2e302]:
+      - generic [ref=f4e3]:
+        - generic:
+          - generic [ref=f4e4] [cursor=pointer]: 
+          - generic [ref=f4e6]:
+            - emphasis [ref=f4e7]
+            - generic [ref=f4e9]: 扫码登录更安全
+        - generic [ref=f4e11]:
+          - generic [ref=f4e12]:
+            - link "密码登录" [ref=f4e13] [cursor=pointer]:
+              - /url: javascript:void(0);
+            - link "短信登录" [ref=f4e14] [cursor=pointer]:
+              - /url: javascript:void(0);
+            - generic [ref=f4e15]: 请重新登录
+          - text: 
+          - generic [ref=f4e17]:
+            - generic [ref=f4e18]:
+              - generic "用户名" [ref=f4e20]: 
+              - textbox "账号名/邮箱/手机号" [ref=f4e22]
+            - generic [ref=f4e23]:
+              - generic "请输入登录密码" [ref=f4e25]: 
+              - textbox "请输入登录密码" [ref=f4e27]
+            - button "登录" [ref=f4e29] [cursor=pointer]
+            - generic [ref=f4e30]:
+              - link "忘记密码" [ref=f4e31] [cursor=pointer]:
+                - /url: https://passport.taobao.com/ac/password_find.htm?from_site=0&lang=zh_CN&app_name=sm&tracelog=signin_main_pass
+              - link "忘记账号名" [ref=f4e32] [cursor=pointer]:
+                - /url: https://passport.taobao.com/ac/nick_find.htm?from_site=0&lang=zh_CN&app_name=sm
+              - link "免费注册" [ref=f4e33] [cursor=pointer]:
+                - /url: https://reg.taobao.com/member/newbie.htm?from=login

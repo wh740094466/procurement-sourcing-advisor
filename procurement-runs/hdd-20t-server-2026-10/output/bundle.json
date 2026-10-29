@@ -1,0 +1,78 @@
+{
+  "quantity": 1,
+  "allow_split": false,
+  "single_order": {
+    "orders": [
+      {
+        "platform": "jd",
+        "product_id": "100077487247",
+        "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 企业级 MG10ACA20TE",
+        "rank": 1,
+        "score": 97.5,
+        "quantity": 1,
+        "unit_price": 7461.51,
+        "unit_price_status": "floor",
+        "subtotal": 7461.51,
+        "shipping": null,
+        "coupon": null,
+        "total": null,
+        "status": "partial",
+        "missing_components": [
+          "unit_price_exact",
+          "shipping",
+          "coupon"
+        ],
+        "stock_assumed": true,
+        "url": "https://item.jd.com/100077487247.html"
+      }
+    ],
+    "order_count": 1,
+    "total": 7461.51,
+    "status": "partial",
+    "unit_count": 1,
+    "strategy": "top_ranked_single_supplier"
+  },
+  "split_order": null,
+  "recommended_option": "single",
+  "recommended_order": {
+    "orders": [
+      {
+        "platform": "jd",
+        "product_id": "100077487247",
+        "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 企业级 MG10ACA20TE",
+        "rank": 1,
+        "score": 97.5,
+        "quantity": 1,
+        "unit_price": 7461.51,
+        "unit_price_status": "floor",
+        "subtotal": 7461.51,
+        "shipping": null,
+        "coupon": null,
+        "total": null,
+        "status": "partial",
+        "missing_components": [
+          "unit_price_exact",
+          "shipping",
+          "coupon"
+        ],
+        "stock_assumed": true,
+        "url": "https://item.jd.com/100077487247.html"
+      }
+    ],
+    "order_count": 1,
+    "total": 7461.51,
+    "status": "partial",
+    "unit_count": 1,
+    "strategy": "top_ranked_single_supplier"
+  },
+  "savings": null,
+  "savings_status": "unknown",
+  "warnings": [
+    "采购简报未允许拆单，未生成拆单方案",
+    "候选未提供库存/可采购数量，组合方案按可满足需求假设，需下单前确认"
+  ],
+  "assumptions": [
+    "商品价格来自检索/详情/浏览器补证，未含账号券、运费、税费时以 landed_price 状态为准",
+    "库存与可采购数量未由 MCP 保证"
+  ]
+}

@@ -1,0 +1,1154 @@
+- generic [ref=f14e1]:
+  - link "欢迎进入 20TB SATA 企业级硬盘_淘宝搜索,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=f14e5]:
+    - generic [ref=f14e8]:
+      - list [ref=f14e9]:
+        - listitem [ref=f14e10]:
+          - generic [ref=f14e11]:
+            - generic [ref=f14e12]: 中国大陆
+            - generic [ref=f14e13]: 
+        - listitem [ref=f14e15]:
+          - generic [ref=f14e16]:
+            - generic:
+              - link "w3323745204" [ref=f14e17] [cursor=pointer]:
+                - /url: //i.taobao.com/my_itaobao?ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+              - generic [ref=f14e18]: 
+        - listitem [ref=f14e20]:
+          - link "网页无障碍" [ref=f14e22] [cursor=pointer]:
+            - /url: javascript:void(0)
+      - list [ref=f14e24]:
+        - listitem [ref=f14e25]:
+          - link "淘宝网首页" [ref=f14e28] [cursor=pointer]:
+            - /url: //www.taobao.com/
+        - listitem [ref=f14e29]:
+          - link "已买到的宝贝" [ref=f14e31] [cursor=pointer]:
+            - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm
+        - listitem [ref=f14e33]:
+          - generic [ref=f14e34]:
+            - link "我的淘宝" [ref=f14e35] [cursor=pointer]:
+              - /url: //i.taobao.com/my_itaobao
+            - generic [ref=f14e37]: 
+        - listitem [ref=f14e39]:
+          - link " 购物车 41" [ref=f14e41] [cursor=pointer]:
+            - /url: //cart.taobao.com/cart.htm?from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+            - generic [ref=f14e42]: 
+            - generic [ref=f14e43]: 购物车
+            - generic [ref=f14e44]: "41"
+        - listitem [ref=f14e45]:
+          - generic [ref=f14e46]:
+            - link " 收藏夹" [ref=f14e47] [cursor=pointer]:
+              - /url: //i.taobao.com/my_itaobao/itao-tool/collect
+              - generic [ref=f14e48]: 
+              - generic [ref=f14e49]: 收藏夹
+            - generic [ref=f14e50]: 
+        - listitem [ref=f14e52]:
+          - generic [ref=f14e53]:
+            - link "免费开店" [ref=f14e54] [cursor=pointer]:
+              - /url: //ishop.taobao.com/openshop/tb_open_shop_landing.htm?source=tbweb1st
+            - generic [ref=f14e56]: 
+        - listitem [ref=f14e58]:
+          - generic [ref=f14e59]:
+            - link "千牛卖家中心" [ref=f14e60] [cursor=pointer]:
+              - /url: //myseller.taobao.com/home.htm/QnworkbenchHome/
+            - generic [ref=f14e62]: 
+        - listitem [ref=f14e64]:
+          - generic [ref=f14e65]:
+            - link "帮助中心" [ref=f14e66] [cursor=pointer]:
+              - /url: https://consumerservice.taobao.com
+            - generic [ref=f14e68]: 
+    - generic [ref=f14e71]:
+      - img [ref=f14e72]:
+        - link [ref=f14e73] [cursor=pointer]:
+          - /url: //www.taobao.com
+      - generic [ref=f14e75]:
+        - search [ref=f14e76]:
+          - generic [ref=f14e77]:
+            - button "搜索" [ref=f14e78] [cursor=pointer]
+            - textbox "请输入搜索文字" [active] [ref=f14e80]: 20TB SATA 企业级硬盘
+        - generic [ref=f14e81]: 搜同款
+    - generic [ref=f14e94]:
+      - generic [ref=f14e95]:
+        - generic [ref=f14e97]:
+          - generic [ref=f14e98] [cursor=pointer]: 所有宝贝
+          - generic [ref=f14e100] [cursor=pointer]: 天猫
+          - generic [ref=f14e101] [cursor=pointer]: 淘宝
+          - generic [ref=f14e102] [cursor=pointer]: 店铺
+          - generic [ref=f14e103] [cursor=pointer]: 企业购
+        - generic [ref=f14e107]:
+          - button "发货地 " [ref=f14e109] [cursor=pointer]:
+            - generic [ref=f14e110]: 发货地
+            - generic [ref=f14e111]: 
+          - generic [ref=f14e114]:
+            - generic [ref=f14e115]: 
+            - generic [ref=f14e117] [cursor=pointer]: 
+          - generic [ref=f14e120]:
+            - button "上一页，当前第1页" [disabled] [ref=f14e121]:
+              - generic [ref=f14e122]: 
+            - generic [ref=f14e123]:
+              - emphasis [ref=f14e124]: "1"
+              - text: /100
+            - button "下一页，当前第1页" [ref=f14e125] [cursor=pointer]:
+              - generic [ref=f14e126]: 
+      - generic [ref=f14e127]:
+        - generic [ref=f14e128]:
+          - generic [ref=f14e129]:
+            - generic [ref=f14e131]:
+              - tablist [ref=f14e136]:
+                - tab "综合" [selected] [ref=f14e137]
+                - tab "销量" [ref=f14e139]
+              - generic:
+                - tabpanel
+            - generic [ref=f14e141]:
+              - generic [ref=f14e142]: 
+              - generic [ref=f14e143]: 
+              - tablist [ref=f14e150]:
+                - tab "价格" [ref=f14e151]
+                - tab "区间" [ref=f14e153]
+          - generic [ref=f14e156]:
+            - generic [ref=f14e158]:
+              - generic [ref=f14e159]:
+                - generic "双11开门红8.5折起" [ref=f14e160] [cursor=pointer]
+                - generic "官方立减" [ref=f14e163] [cursor=pointer]
+                - generic "百亿补贴" [ref=f14e166] [cursor=pointer]
+                - generic "包邮" [ref=f14e169] [cursor=pointer]
+                - generic "可开发票" [ref=f14e172] [cursor=pointer]
+                - generic "分期免息" [ref=f14e175] [cursor=pointer]
+                - generic "对公支付" [ref=f14e178] [cursor=pointer]
+                - generic "全球购" [ref=f14e181] [cursor=pointer]
+                - generic "天猫国际" [ref=f14e184] [cursor=pointer]
+                - generic "淘金币抵钱" [ref=f14e187] [cursor=pointer]
+                - generic "退货宝" [ref=f14e190] [cursor=pointer]
+                - generic "7+天内退货" [ref=f14e193] [cursor=pointer]
+                - generic "公益宝贝" [ref=f14e196] [cursor=pointer]
+              - generic [ref=f14e199] [cursor=pointer]
+            - generic [ref=f14e205]: 筛选
+        - generic [ref=f14e213]:
+          - link "监控专用硬盘2T 4T/6T/8TB/10T/12T16T存储 录像机企业级机械硬盘 2万+数码3c爱好者看过 8TB 服务器/台式机/监控/点歌机 ¥ 258 200+人付款 广东 惠州 直接下单享优惠 退货宝 包邮 5年老店 锦星硬盘存储仓" [ref=f14e215] [cursor=pointer]:
+            - /url: https://click.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=905173843&k=2721&e=nSboAdqN0ZejghWDXmJMWyDn%2Fcw5U14x9GSpZjhCYHD88kjCR6IWRI6XWCQyVY%2BaT0RISWIURihCiBsT5glxhaygoBrqmjkOkjHpNW61CTIF1NCHgBKXpFl5A0TEcwGsN%2Bl4i2DKoSJuUawMWZQ72MOFvgAmP%2Bl34rnZx9INZPoOql71yyPFUhjGUDOwcSy%2Ff%2BmQs8cpCpJXuTtVOgGUhW3fU1rxXbEL8c62OEIdz8si%2B5oSSRhmDE4tOZU7wBvwNK2Q3ZBOCaniFNYDkN6CJWKAQOYl%2BMvewFYTaWgNkwAkH4FNff8VAv8%2FZdaOMoV18B4HAe3fg3GkOHz0YgpqvQLjw2sbehjMlJOESedIBE7XqwZKSz9fjW7WdoeQd1IpMg3dEjrtEL6TUUn0qugiOK%2FbdZjGpUoDwBthhNLwN86J9nlc846BrT32UWgln2MHF0BhM%2BddTRcU%2Bj99x4xrbjeJvjmbREqndaStR3hwDZzWBeFEr0bINtySEuCJmljonA%2Bvuty1zTj1rkSFHupCe3my36eZGzZh54t3mpdwZKSGyjdmbCfN%2BVt2BtFxpsZSRC1US3Lb3%2FndqsKfwGPTBIUacfyKRx14paySDaIHZeIo3P%2Bd5TXn0oDiQ7hRyPWFbhoR8YDCvQv%2Ff7CPmv5YG%2FnC3OMWjFgUL0qNVIcawWG6vgvg%2FAdAyeCKoqOtOUt1XEWv0qXsegZo8m2K2p28O8HYgz6J5G%2BwM2zCzqCUzeAxaql6ubnFjo4ns6K7gOk3F5vriiJZ%2FC7Ir%2FRT9cucn%2FfH%2FJUQDFX8dTna6VDEuP6H%2BssT3lqwXoF15gycDbquizlVKk2gASlQE8bRyLvkCJ%2FByBKBMhTnPEV2QtBvPIz6a2i6wHT45aBvoxT1vNFjrMZ1N7%2FpORQ4u8NKlO2lz2hDVQ7rRes2%2FcuD92WKlQWNlvwxU8Y%2BGZmVXxnM1pjc4iGdzGfNVBFgXmxlSl654qIRHhpzkXY92qjuuuwXHi%2Fqa7V8vBPKNZdpyX7Yt0mOjtOVFA3Llq6EpNgvGmhv1WzNQFXxeDcZiIyJLs%2BL648MeSYYTC0rjzK5DM42DFLL3B4lJVKAAtKrM2OtyDY9P4C%2FqPDrLT7w7IpbDkOAy%2BDM%2BzfWhepXQpUVZq7LPVTv2z1IB%2BkqlaH2Z7WYGDlFQ%2FzHo0K448LaIKZCWrwxBP5mC1%2FBsE2mHiq63hYVscZ2b%2BsQuoyoXE8nosGH4e0k2c8KOUpAqs4Jep2zokgTIDtwWdVq4VJfncJ7qWTMyOm3pws9rP04qrDoRoCYvfRi3uhGotpdgch0a59S5L%2Bz0Uk7tLL%2BGM4scwVmaO0PgqGDJH9FlNGtQwq0uQZnj71MgHCHc5bTTnMmVEflSGiH0CFAk7HY5It8yS3LOk%2F89x6QS5gqp6bntPWb8hNOWmPpkKvlnV2EOj%2BWKV0mblMRu2rrsa4gfZT1Av835z72gGI1ORLtz6YzXuopnn0%2F4%2BZi5muF%2BTqU5DFgYg0dXnkVudqLPHdIEEIKSJPOnbxglzsSXtL2cvFCa0mo8bDUZrMkzSe%2FujtU5qLAILo%2F93pV41ABj2l4AttysB%2FN6sw2nNiaPnTKalOvqC2KskkWpc9PqExtvCI4RQXe4hpT%2FphjVgG%2FtQRn7PgX693cwZf7nQB3FH7qyF5UgaVaSiNEDAffestP6nIvTnOEOPNCbCuELoGHtwA9rAX5oBtUVtzK1GgS%2FcKfZE4fbp4r5AX4wn3qMTyQdD%2By92HG7g7ppNfdywQ94g6p28Nily9WmiA6%2FpEQ1wu0BAPqDRJlEqwRhhEVtMHBHR6LkFuIDm0JU4dN9gEGwC38gI6wLbPN3QviLtvCa2FxjJhQqr8iqYQi7eYtkW26Gk6NU%2FsI81Q17NhPoceA1r6N%2BMlsbP5MQO5%2FIU%2FelRdXsRsUT5JiUDqJFl8WEDzZy7uCLKS7q%2Fzna2FvfofF5vsqP6ugLk191mA5aiue9jpHb65sxKZd45KNGDi6SxP4UVTHGH9jd5FurToiO%2FLS4Iqf6%2Bi9HGm3XZ8pjqYfihlb5UZI68tqKGpHw459pnoKUyjkvc6%2Fs1pVHC1AVwh%2FaZiXY93lar7ba4d9YQytd5FurToiO%2FK43H82HXZF7EVir6GXIRtPwXNd8hCoaYG3AnKNt824WTzf7kQFFTXo%2F9I6j9QGhv5Db%2FzSF2AlldyUd1G2e8Pq2s%2FE3dOwszLvwvQuis%2BxYC5WjBgUO1LmuH5DkwXzaIpk%2B9YSESbR1fJUNkjMdHBIfTNY1uoy34TQsQYVUNdNhJj1x9gBKFkrtfW9wtP%2FAsv3zaiUGFBNakonoXH%2FL%2B37EqFfgn5EQbv2aCWd91ILyXPuSG2OYpI1POCkFbv6Py4guj%2F3elXjUB9lJ2ua5NPEbRnFfG3tsMrD%2FKpDzdvL5Q1F%2Bp5talr%2BN5iysl%2Fc6MxymRNmyCteQfQU66Jw1GtMPsZO8ZEoLNBZeUzGN98KjfjcQZ7KD3n51s2JeRs7e6CozVNp96kP8Zp1EHrbkC8gh5uC6UpYwuzlTsKV6SnjPCs8x%2F5aR2yMGtkmha3%2FfDe0St0mzCncbvYFeHhggHXsJ9OUQo%2FFpYwD8%2B4BXcNzX%2FYi6nPzSPRMs83dC%2BIu28LItOqUzkBsQWbnJ4VPmY0Dyjh1m1g%2FlRefPXYFN%2BYKD3E3ZbmbblNpVFxuFz8awl%2FCGyiKhYg3bJ0eL5kGPRjO&mm_sceneid=2_0_1980410192_0_0&a=xxc%3Dad_ztc%26mi_id%3D00003V2cj3sBfKqck482iPsyxHhemAF5b4EhRkCrIdWdpyg%26skuId%3D6075149312233%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%2525252202f4fa06c16cbc8631d370c99785798e%25252522%2525257D%26&id=1049287216666&spm=a21n57.1.item.1
+            - generic [ref=f14e216]:
+              - generic [ref=f14e217]:
+                - generic "监控专用硬盘2T 4T/6T/8TB/10T/12T16T存储 录像机企业级机械硬盘" [ref=f14e222]
+                - generic [ref=f14e225]:
+                  - generic [ref=f14e226]: 2万+数码3c爱好者看过
+                  - generic [ref=f14e229]:
+                    - generic [ref=f14e230]: 8TB
+                    - generic [ref=f14e233]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e238]:
+                  - generic [ref=f14e239]: ¥
+                  - generic [ref=f14e240]: "258"
+                  - generic [ref=f14e242]: 200+人付款
+                  - generic [ref=f14e243]: 广东
+                  - generic [ref=f14e244]: 惠州
+              - generic "直接下单享优惠 退货宝 包邮" [ref=f14e245]:
+                - generic [ref=f14e246]: 直接下单享优惠
+                - generic [ref=f14e248]: 退货宝
+                - generic [ref=f14e250]: 包邮
+              - link "5年老店 锦星硬盘存储仓" [ref=f14e253]:
+                - /url: https://click.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=905173843&k=2689&e=XjHbHkLUH5WjghWDXmJMWyDn%2Fcw5U14x9GSpZjhCYHD88kjCR6IWRI6XWCQyVY%2BaT0RISWIURihCiBsT5glxhaygoBrqmjkOkjHpNW61CTIF1NCHgBKXpFl5A0TEcwGsN%2Bl4i2DKoSJuUawMWZQ72MOFvgAmP%2Bl34rnZx9INZPoOql71yyPFUhjGUDOwcSy%2Ff%2BmQs8cpCpJXuTtVOgGUhW3fU1rxXbEL8c62OEIdz8si%2B5oSSRhmDE4tOZU7wBvwNK2Q3ZBOCaniFNYDkN6CJWKAQOYl%2BMvewFYTaWgNkwAkH4FNff8VAv8%2FZdaOMoV18B4HAe3fg3GkOHz0YgpqvQLjw2sbehjMlJOESedIBE7XqwZKSz9fjW7WdoeQd1IpMg3dEjrtEL6TUUn0qugiOK%2FbdZjGpUoDwBthhNLwN86J9nlc846BrT32UWgln2MHF0BhM%2BddTRcU%2Bj99x4xrbjeJvjmbREqndaStR3hwDZzWBeFEr0bINtySEuCJmljonA%2Bvuty1zTj1rkSFHupCe3my36eZGzZh54t3mpdwZKSGyjdmbCfN%2BVt2BtFxpsZSRC1US3Lb3%2FndqsKfwGPTBIUacfyKRx14paySDaIHZeIo3P%2Bd5TXn0oDiQ7hRyPWFbhoR8YDCvQv%2Ff7CPmv5YG%2FnC3OMWjFgUL0qNVIcawWG6vgvg%2FAdAyeCKoqOtOUt1XEWv0qXsegZo8m2K2p28O8HYgz6J5G%2BwM2zCzqCUzeAxaql6ubnFjo4ns6K7gOk3F5vriiJZ%2FC7Ir%2FRT9cucn%2FfH%2FJUQDFX8dTna6VDEuP6H%2BssT3lqwXoF15gycDbquydyWpRTnW9MBwkkFyty%2BsSiW6Dz8FRMzqh81rE%2FLu%2BIkiZelxbhHlmhDVQ7rRes2%2FcuD92WKlQWNlvwxU8Y%2BGZmVXxnM1pjc4iGdzGfNVBFgXmxlSl654qIRHhpzkXY92qjuuuwXHi%2Fqa7V8vBPKNZdpyX7Yt0mOjtOVFA3Llq6EpNgvGmhv1WzNQFXxeDcZiIyJLs%2BL648MeSYYTC0rjzK5DM42DFLL3B4lJVKAAtKrM2OtyDY9P4C%2FqPDrLT7w7IpbDkOAy%2BDM%2BzfWhepXQpUVZq7LPVTv2z1IB%2BkqlaH2Z7WYGDlFQ%2FzHo0K448LaIKZCWrwxBP5mC1%2FBsE2mHiq63hYVscZ2b%2BsQuoyoXE8nosGH4e0k2c8KOUpAqs4Jep2zokgTIDtwWdVq4VJfncJ7qWTMyOm3pws9rP04qrDoRoCYvfRi3uhGotpdgch0a59S5L%2Bz0Uk7tLL%2BGM4scwVmaO0PgqGDJH9FlNGtQwq0uQZnj71MgHCHc5bTTnMmVEflSGiH0CFAk7HY5It8yS3LOk%2F89x6QS5gqp6bntPWb8hNOWmPpkKvlnV2EOj%2BWKV0mblMRu2rrsa4gfZT1Av835z72gGI1ORLtz6YzXuopnn0%2F4%2BZi5muF%2BTqU5DFgYg0dXnkVudqLPHdIEEIKSJPOnbxglzsSXtL2cvFCa0mo8bDUZrMkzSe%2FujtU5qLAILo%2F93pV41ABj2l4AttysB%2FN6sw2nNiaPnTKalOvqC2KskkWpc9PqExtvCI4RQXe4hpT%2FphjVgG%2FtQRn7PgX693cwZf7nQB3FH7qyF5UgaVaSiNEDAffestP6nIvTnOEOPNCbCuELoGHtwA9rAX5oBtUVtzK1GgS%2FcKfZE4fbp4r5AX4wn3qMTyQdD%2By92HG7g7ppNfdywQ94g6p28Nily9WmiA6%2FpEQ1wu0BAPqDRJlEqwRhhEVtMHBHR6LkFuIDm0JU4dN9gEGwC38gI6wLbPN3QviLtvCa2FxjJhQqr8iqYQi7eYtkW26Gk6NU%2FsI81Q17NhPoceA1r6N%2BMlsbP5MQO5%2FIU%2FelRdXsRsUT5JiUDqJFl8WEDzZy7uCLKS7q%2Fzna2FvfofF5vsqP6ugLk191mA5aiue9jpHb65sxKZd45KNGDi6SxP4UVTHGH9jd5FurToiO%2FLS4Iqf6%2Bi9HGm3XZ8pjqYfihlb5UZI68tqKGpHw459pnoKUyjkvc6%2Fs1pVHC1AVwh%2FaZiXY93lar7ba4d9YQytd5FurToiO%2FK43H82HXZF7EVir6GXIRtPwXNd8hCoaYG3AnKNt824WTzf7kQFFTXo%2F9I6j9QGhv5Db%2FzSF2AlldyUd1G2e8Pq2s%2FE3dOwszLvwvQuis%2BxYC5WjBgUO1LmuH5DkwXzaIpk%2B9YSESbR1fJUNkjMdHBIfTNY1uoy34TQsQYVUNdNhJj1x9gBKFkrtfW9wtP%2FAsv3zaiUGFBNakonoXH%2FL%2B37EqFfgn5EQbv2aCWd91ILyXPuSG2OYpI1POCkFbv6Py4guj%2F3elXjUB9lJ2ua5NPEbRnFfG3tsMrD%2FKpDzdvL5Q1F%2Bp5talr%2BN5iysl%2Fc6MxymRNmyCteQfQU66Jw1GtMPsZO8ZEoLNBZeUzGN98KjfjcQZ7KD3n51s2JeRs7e6CozVNp96kP8Zp1EHrbkC8gh5uC6UpYwuzlTsKV6SnjPCs8x%2F5aR2yMGtkmha3%2FfDe0St0mzCncbvYFeHhggHXsJ9OUQo%2FFpYwD8%2B4BXcNzX%2FYi6nPzSPRMs83dC%2BIu28LItOqUzkBsQWbnJ4VPmY0Dyjh1m1g%2FlRefPXYFN%2BYKD3E3ZbmbblNpVFxuFz8awl%2FCGyiKhYg3bJ0eL5kGPRjO&mm_sceneid=2_0_1980410192_0_0&a=topIds%3D1049287216666%26shopSearchKeyword%3D20TB%2520SATA%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%26&spm=a21n57.1.item.1
+                - generic [ref=f14e254]: 5年老店
+                - generic [ref=f14e256]: 锦星硬盘存储仓
+          - link "全新4-24TB希捷酷狼Pro企业级硬盘3.5英寸SATA3.0接口CMR垂直技术 4TB 服务器/台式机/监控/点歌机 ¥ 869 优惠后 3人付款 广东 东莞 退货宝 包邮 创鑫电子硬盘" [ref=f14e259] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1078501706593&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000kVJZoEgn0TRTbthomBFuqsx_Z0YqNYQ1BUVlukHKj2I&skuId=6295916850839&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22da06a1a500970eeaa18758bd1539249e%22%7D&spm=a21n57.1.item.2
+            - generic [ref=f14e260]:
+              - generic [ref=f14e261]:
+                - generic "全新4-24TB希捷酷狼Pro企业级硬盘3.5英寸SATA3.0接口CMR垂直技术" [ref=f14e265]
+                - generic [ref=f14e270]:
+                  - generic [ref=f14e271]: 4TB
+                  - generic [ref=f14e274]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e279]:
+                  - generic [ref=f14e280]: ¥
+                  - generic [ref=f14e281]: "869"
+                  - generic [ref=f14e283]: 优惠后
+                  - generic [ref=f14e284]: 3人付款
+                  - generic [ref=f14e285]: 广东
+                  - generic [ref=f14e286]: 东莞
+              - generic "退货宝 包邮" [ref=f14e287]:
+                - generic [ref=f14e288]: 退货宝
+                - generic [ref=f14e290]: 包邮
+              - link "创鑫电子硬盘" [ref=f14e293]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWRFC7v7nRSg6eeyLHTXs2gb8uXNt4dhkAX1HoDm9LgnR4&topIds=1078501706593&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.2
+          - link "西数机械硬盘氦气盘WD10T12T14T 16T18TWDHC550企业级NAS监控硬盘 ¥ 640 6人付款 广东 东莞 3期 退货宝 包邮 12年老店 锐丰科技" [ref=f14e297] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1082882091122&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000w5Q1vKtEsVRHCfJ8kYI6E5PY0Jz1aqiJDWYet_cjt-I&skuId=6144793981567&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22e691336af87f3740af500942698bb741%22%7D&spm=a21n57.1.item.3
+            - generic [ref=f14e298]:
+              - generic [ref=f14e299]:
+                - generic "西数机械硬盘氦气盘WD10T12T14T 16T18TWDHC550企业级NAS监控硬盘" [ref=f14e305]
+                - generic [ref=f14e308]:
+                  - generic [ref=f14e309]: ¥
+                  - generic [ref=f14e310]: "640"
+                  - generic [ref=f14e312]: 6人付款
+                  - generic [ref=f14e313]: 广东
+                  - generic [ref=f14e314]: 东莞
+              - generic "3期 退货宝 包邮" [ref=f14e315]:
+                - generic [ref=f14e316]: 3期
+                - generic [ref=f14e318]: 退货宝
+                - generic [ref=f14e320]: 包邮
+              - link "12年老店 锐丰科技" [ref=f14e323]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWLiejfU8SnHwN5aeVMubc12H61JUaXUpsuWN4p2QE8Gn5&topIds=1082882091122&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.3
+                - generic [ref=f14e324]: 12年老店
+                - generic [ref=f14e326]: 锐丰科技
+          - link "银河3TB企业级SATA7200转服务器存储磁盘阵列NAS监控台式机械硬盘 入选监控级硬盘店铺 榜 ¥ 376 优惠后 93人付款 广东 深圳 官方立减4元 包邮 公益宝贝 硕诚数码科技" [ref=f14e329] [cursor=pointer]:
+            - /url: https://mclick.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=1770873928&k=2573&e=vJ89EW40rpvk4ULvp7blMPOcDQ%2BCwmPwNjzVFQPtK%2Fe8cLCPgB%2BoDU%2BCz1v22xXQACeEhTzJEcUPnzwH88RhcwcX2%2FL7rT%2FMtS0uzM9GzdCly3E7N8jMuVWQY7EPwRm09S42hrXCaFhxwGIcHHtvUpezZC800Px4BNUGhTJgG8L9wL%2B6Ikyfp3blEf7kB2XlP0a%2FRHyKw4EgG7cXg8hg%2F5aZD8Lgy0PndoNk0U%2BYUmASC6NndZANt9bR%2FtZDQ%2BiSsiS%2FSdmQUfVB1%2FrWtgSLGDLOOvrfD5QOvZBYRD1aC5mL01NaSvVW1F4sqfJzQYRG89m9jCEtPu3LAH4FD2hI%2BGG6xodNuY23nGVB9W4FhKRkFXUHpjK7QXKSivoadJNfe4%2F9x6CFD%2BCVbkNxu12J4bFCCgcBb%2BZyVbV4Js4twz%2B4Nu%2F5m2BOb9AZVBtEa278y8PKVE6Ur9pe3wBursmqDlP9GE47FJqRpRB6rrgVTR9MXdhGwNXmhimTYPAmeqscAzzAcjSQDeR1absUQ5wjC7DXXYAId0KQebk2sJ7Wj1ChjXhM%2FESVZVcSvxud%2Ffnw1yPkacUmC75jV4sKZaJPcRrNcsNLhcL3y4tAdE%2FgAOKCaLcbySDz%2FsKpRSrdk6Nh%2FHV8j9RVb7idAWLPJ%2BZMN9MaTe3LGvHKDccHLshsK4EII%2FPo2WYkVVH1J%2FC0r9bn%2B9SZI3viiIdmm%2FQjjsXjz81etH6PfzNxOGgNR5Y8um1etwbUg010tJrTFQXZd92qLS2LvWkoIlxgWEntLrdBJwJKoIKLo9mZO5Vp%2FNDLHuslf2rVVyZv%2FjIm6TW1jBunWCFfq%2FZn4tEC0rO6i9x8uQ9UiCRHV7e5u7XNmkvzOj%2FnI%2F%2BZ0oTRDTStCs%2BpjzHv2JM5BoVjcewYIJ4XF0F17bSohH2QuSJw1oG%2FGbe6hZPNXrR%2Bj38zcRdNM%2FHlXQB7svIDKSnIOtMkqFUfecjcpfLUdGlcFJ3vWd8dlg15%2FSgBQpbs2B2lMkgj8Wl%2B5hmpXT%2BVTr1RjwB60Ol5Dl6cRcSPJaWDUc0PmzRUFyYKcecOamzGtcoFd2ZXkCSMMz%2F2L2BXbpjPcPivWOBM%2Bt9MJYx4C41LcmNp79AqVMelxFcQRGyNBS1OzFlHstOWDxsG%2FtctMga08v2jfX6GfcFTc6KV4Pobk%2BxcFG0lHB4SUlR0UtdW47D0YaCRMLdIWCN8g1FUB12SlrY4qCKkw4S7WOcrVZjhiN%2Bs5GrWNfSG3SujjhY7uqBNKXvzJCXmiToBWeJHCcvjMT6I783JA%2BDImVy7Zkk%2FEHB3iLH4L%2BkY6AprhK29A4y90I6U6EbCAAQHUHNUQFg7pnJPmVV9tQ%2FGOPlebIPgFqxy1and%2F%2FLiIT4XNMXucqELwkYMyEQJCjncoe9T1Em3eL%2FzTCTFN1YlD%2F0UzCmW5reWHFU25mCgBVMBuEwa6XIWvEO0AmoG3BfXcgaZCeEtsjEGVkRyKHHIboPr1OZ36FbTGe2XccgVbJFtseDQULnQUcuTfV08vAp45%2Fj%2FyXyCuw9xXnwhyZ7r0apZZPiGBUCGIb5H6RfMNRuNJUpBng66kQGHAIOQcwRXlWNrrdQJ1fpAgtsyV%2BCY03s8MIqILUwBJPOEX8urTVUQIxumCBX6dIi9f6EQbqRRUCJOoyC3nyvoflTDHKKrEq9E1E%2FfNEu4NHwC%2B%2F8tKmEtGKlzwTVSgO5kJubPH0LEzwt7eZolC5WMAdCWkc%2Be0gt8YDwXZy2ip8wUoe%2FgV7ZTEirRS4tjagJxp5LZOEU%2F5R05fbqcd2w3ig8Q5NGfKrVV6gDfJAZw%2FdihJ5z01aYJG4fsdzNAnSklVa22KbObKcDnCNlWYeYrdZBvKFGvq7n6JB7AAJl9i39LV4H%2BUnoM7krXHDr6newrckYe7SPrzuOTRXkH58ZqkmJgI1kozwuq%2FN5DSThRYyG0QwBELXwVJl%2BTkSOoO1rtyg9XXDcv86t6jdWCLv3VrufSOWGPLGgLTMNhp3dspwQb6B7OzdsMKGKsCqJikeWULSQrgJDEGgdJRzSUHiMOEMvL7teST3pCZW3Xw94bx9QmbRIQcFNDZ2tXtoAlk3AVULyoylR8Ye0h%2F1eUK0s%2BFJArHS%2FYPTTGIk4uMtEjWUfViDsiIDLa1%2BtZmYhsMdvxc0Th7qREf5zRwvJxOOltBTKmDPkHlOYShoI8fEL%2BlSTd1azHEtQKN%2FoOdFnpWerEfxqeZlvst4rzhru4%2B8eZXZKbKHMF8ewhx1%2Fmau5kpe%2BfWLMKqn798QD0cwWLn%2BqUJ2Nl1%2BEyhYDH273qxuRjHng2jGnBOY8YTI7rEI50F3DCnbD3ir%2FGBxZSp7W72V4Jpu9gmIzqNyJ8LghZPYDxEQYNL4%2F%2BHgmanzqtm%2BuZ5o7ni5zIrHCgnXWIJpR9G8f6xXYZcowv%2FdCg8v%2BMMlOGhs8BhRyvmQVvkmCFS4pvhobPAYUcr5k58Nubwh8B5wtkKiJQuTyxDOnlHQovb60GgaPjAvcgTiG%2BR%2BkXzDUbS1Eby%2BVLSkZuhP9vgGr1NzXIcvsjhPwmPHakibDuHfM%3D&eadt=1&mm_sceneid=1_0_5101674202_0_0&a=xxc%3DtaobaoSearch%26mi_id%3D0000eNYlIqSS7x6KMRVLfYdgxJ_e0RNQ6leahRGtfpv3Ikk%26skuId%3D6126448928717%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%252525222e09e6205f9716a473d201d606fd6662%25252522%2525257D%26&id=986778475942&spm=a21n57.1.item.4
+            - generic [ref=f14e330]:
+              - generic [ref=f14e331]:
+                - generic "银河3TB企业级SATA7200转服务器存储磁盘阵列NAS监控台式机械硬盘" [ref=f14e337]
+                - generic [ref=f14e343]:
+                  - generic [ref=f14e344]: 入选监控级硬盘店铺
+                  - generic [ref=f14e345]: 榜
+                - generic [ref=f14e347]:
+                  - generic [ref=f14e348]: ¥
+                  - generic [ref=f14e349]: "376"
+                  - generic [ref=f14e351]: 优惠后
+                  - generic [ref=f14e352]: 93人付款
+                  - generic [ref=f14e353]: 广东
+                  - generic [ref=f14e354]: 深圳
+              - generic "官方立减4元 包邮 公益宝贝" [ref=f14e355]:
+                - generic [ref=f14e356]: 官方立减4元
+                - generic [ref=f14e358]: 包邮
+                - generic [ref=f14e360]: 公益宝贝
+              - link "硕诚数码科技" [ref=f14e363]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWRLu8wn48xMen5WS121TJTx1ndjdsePtotki3pb5u9VTA&topIds=986778475942&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.4
+          - link "4T 6T 8T紫盘机械硬盘 监控硬盘服务器可用 10T 12T 16T 8TB 服务器/台式机/监控/点歌机 ¥ 65 57人付款 安徽 马鞍山 退货宝 48小时内发 包邮 12年老店 企安硬盘" [ref=f14e367] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1049162622685&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000TeGSGW6JsNi33k96R9foRXJODkVP5stwJxPvXQuq-Iw&skuId=6244332986509&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%227d843a9ed7e3b177df3aac4c9a535cf7%22%7D&spm=a21n57.1.item.5
+            - generic [ref=f14e368]:
+              - generic [ref=f14e369]:
+                - generic "4T 6T 8T紫盘机械硬盘 监控硬盘服务器可用 10T 12T 16T" [ref=f14e373]
+                - generic [ref=f14e378]:
+                  - generic [ref=f14e379]: 8TB
+                  - generic [ref=f14e382]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e387]:
+                  - generic [ref=f14e388]: ¥
+                  - generic [ref=f14e389]: "65"
+                  - generic [ref=f14e391]: 57人付款
+                  - generic [ref=f14e392]: 安徽
+                  - generic [ref=f14e393]: 马鞍山
+              - generic "退货宝 48小时内发 包邮" [ref=f14e394]:
+                - generic [ref=f14e395]: 退货宝
+                - generic [ref=f14e397]: 48小时内发
+                - generic [ref=f14e399]: 包邮
+              - link "12年老店 企安硬盘" [ref=f14e402]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWJwUWL4pfcmGLbMyz47ixpbtD3pqp5VueC5CqXiwJRu21&topIds=1049162622685&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.5
+                - generic [ref=f14e403]: 12年老店
+                - generic [ref=f14e405]: 企安硬盘
+          - link "全新Seagate/希捷ST4000NM0025 SAS服务器企业硬盘4tb磁盘陈列4t 4TB 3.5英寸 服务器 ¥ 512 优惠后 200+人付款 广东 韶关 直接下单享优惠 退货宝 包邮 鸿泰电子科技" [ref=f14e408] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=957377073113&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000rdMcOTAffP3oNE7wCqhwgYT-XN1uFMsrJmKKbxCvhfY&skuId=6050117491878&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%2294156f65e9280e9f011e30fd6e6a1ea5%22%7D&spm=a21n57.1.item.6
+            - generic [ref=f14e409]:
+              - generic [ref=f14e410]:
+                - generic "全新Seagate/希捷ST4000NM0025 SAS服务器企业硬盘4tb磁盘陈列4t" [ref=f14e414]
+                - generic [ref=f14e420]:
+                  - generic [ref=f14e421]: 4TB
+                  - generic [ref=f14e424]: 3.5英寸
+                  - generic [ref=f14e428]: 服务器
+                - generic [ref=f14e433]:
+                  - generic [ref=f14e434]: ¥
+                  - generic [ref=f14e435]: "512"
+                  - generic [ref=f14e437]: 优惠后
+                  - generic [ref=f14e438]: 200+人付款
+                  - generic [ref=f14e439]: 广东
+                  - generic [ref=f14e440]: 韶关
+              - generic "直接下单享优惠 退货宝 包邮" [ref=f14e441]:
+                - generic [ref=f14e442]: 直接下单享优惠
+                - generic [ref=f14e444]: 退货宝
+                - generic [ref=f14e446]: 包邮
+              - link "鸿泰电子科技" [ref=f14e449]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWTn7zpeTieYUf1u3iUSHNwSjAvRWQAurcZ84QREduhx6H&topIds=957377073113&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.6
+          - link "希捷氦气企业级 10T 12T 16T 18T 20T监控台式机NAS存储机械硬盘 3.5英寸 服务器/台式机/监控/点歌机 ¥ 425 3000+人付款 广东 广州 直接下单享优惠 退货宝 包邮 16年老店 科立电子硬盘批发" [ref=f14e453] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=731252381313&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000Salq58Ng9vr2llvdDuf9ajQQWH4rQKL8pQbb5zhJ1q4&skuId=6118696894137&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%2204d9045463c6178dc2bf91ff5bf8cc08%22%7D&spm=a21n57.1.item.7
+            - generic [ref=f14e454]:
+              - generic [ref=f14e455]:
+                - generic "希捷氦气企业级 10T 12T 16T 18T 20T监控台式机NAS存储机械硬盘" [ref=f14e459]
+                - generic [ref=f14e464]:
+                  - generic [ref=f14e465]: 3.5英寸
+                  - generic [ref=f14e468]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e473]:
+                  - generic [ref=f14e474]: ¥
+                  - generic [ref=f14e475]: "425"
+                  - generic [ref=f14e477]: 3000+人付款
+                  - generic [ref=f14e478]: 广东
+                  - generic [ref=f14e479]: 广州
+              - generic "直接下单享优惠 退货宝 包邮" [ref=f14e480]:
+                - generic [ref=f14e481]: 直接下单享优惠
+                - generic [ref=f14e483]: 退货宝
+                - generic [ref=f14e485]: 包邮
+              - link "16年老店 科立电子硬盘批发" [ref=f14e488]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HAjsPjTVrmCh16Lt9y4J7Puj&topIds=731252381313&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.7
+                - generic [ref=f14e489]: 16年老店
+                - generic [ref=f14e491]: 科立电子硬盘批发
+          - link "希捷银河4t企业级监控硬盘6t机械硬盘SATA接口8t海康10tNAS存储 ¥ 670 58人付款 广东 惠州 退货宝 包邮 公益宝贝 AI科创存储数码店" [ref=f14e494] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1072071703904&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000Y2a_FsSG-6snidFNyHBTLcq3gCubuCau2U-HCb7wfl0&skuId=6288680763155&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22f7a87be996ffdb28987b19bb1dfaa8d0%22%7D&spm=a21n57.1.item.8
+            - generic [ref=f14e495]:
+              - generic [ref=f14e496]:
+                - generic "希捷银河4t企业级监控硬盘6t机械硬盘SATA接口8t海康10tNAS存储" [ref=f14e500]
+                - generic [ref=f14e503]:
+                  - generic [ref=f14e504]: ¥
+                  - generic [ref=f14e505]: "670"
+                  - generic [ref=f14e507]: 58人付款
+                  - generic [ref=f14e508]: 广东
+                  - generic [ref=f14e509]: 惠州
+              - generic "退货宝 包邮 公益宝贝" [ref=f14e510]:
+                - generic [ref=f14e511]: 退货宝
+                - generic [ref=f14e513]: 包邮
+                - generic [ref=f14e515]: 公益宝贝
+              - link "AI科创存储数码店" [ref=f14e518]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMqPGmL6Biksww5wK4wz8sbKAbbkzBuMeg9TJKkzorLVf&topIds=1072071703904&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.8
+          - link "WD/西数HC550 16T服务器硬盘SATA 8T12T HC520企业级监控机械硬盘 3.5英寸 服务器/台式机/监控/点歌机 ¥ 1780 39人付款 广东 东莞 包邮 盘源严选存储馆" [ref=f14e522] [cursor=pointer]:
+            - /url: https://mclick.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=1770873928&k=2553&e=3lInKHRYR9Dk4ULvp7blMPOcDQ%2BCwmPwNjzVFQPtK%2Fe8cLCPgB%2BoDU%2BCz1v22xXQACeEhTzJEcX5q043Fwf68zS3NBnWQDgMiToL9Tf1QZmly3E7N8jMuVWQY7EPwRm09S42hrXCaFhxwGIcHHtvUpezZC800Px4BNUGhTJgG8L9wL%2B6Ikyfp3blEf7kB2XlP0a%2FRHyKw4EgG7cXg8hg%2F5aZD8Lgy0PndoNk0U%2BYUmASC6NndZANt9bR%2FtZDQ%2BiSsiS%2FSdmQUfVB1%2FrWtgSLGDLOOvrfD5QOvZBYRD1aC5mL01NaSvVW1F4sqfJzQYRG89m9jCEtPu3LAH4FD2hI%2BGG6xodNuY23nGVB9W4FhKRkFXUHpjK7QXKSivoadJNfe4%2F9x6CFD%2BCVbkNxu12J4bFCCgcBb%2BZyVbV4Js4twz%2B4Nu%2F5m2BOb9AZVBtEa278y8PKVE6Ur9pe3wBursmqDlP9GE47FJqRpRB6rrgVTR9MXdhGwNXmhimTYPAmeqscAzzAcjSQDeR1absUQ5wjC7DXXYAId0KQebk2sJ7Wj1ChjXhM%2FESVZVcSvxud%2Ffnw1yPkacUmC75jV4sKZaJPcRrNcsNLhcL3y4tAdE%2FgAOKCaLcbySDz%2FsKpRSrdk6Nh%2FHV8j9RVb7idAWLPJ%2BZMN4SI8eN7Q4eh9MRjFbu3qom4PXbnFzgG4KMYPPs%2BdEDtlq1bXJRET%2FSJXqqmKDayDKlURR6yL53CS4U2ZHb6zIGY3zHL4bqGYAp8nLaC6AqqNReQNJXr%2BVe7Qc8xYIMssY2AS18wULRriD%2FKM8uORZBBO%2FOAdZheZRlU8sd1piSmTe52LIByf3jnI%2F%2BZ0oTRDTStCs%2BpjzHv2JM5BoVjcewYIJ4XF0F17bSohH2QuSJwBq3oTNyqDKAgqPsHdCtmjSRLkhfZVd0SLprpWoDeqrlbNTgCFDMBAMPMisEixujF3dA6ghHN2Rr4%2BYgTFSfI17uGEhcXQeDh8REGDS%2BP%2Fh4Jmp86rZvrmeaO54ucyKxwoJ11iCaUfRvH%2BsV2GXKML%2F3QoPL%2FjDJT8%2FvN6id9ZUB32tH7LezxuPzL68BnGNNGSTFe30KDRF6WV39LtB4%2BG5%2FGFokds4EN5yWjw%2BVqZkSDCRr35clDRlVEdqZWqCaBKzm2Bo81oF404uSIzMOki0E784B1mF5lrujSFE4kEXhnEqjnNZnqDh%2BgOInxENjG2NsY%2F42GoyKWfh4zh8TN3bLuHvte4fzhp8CxPUL6kc3rbEZlGuG6ARyS0MBD%2Fk%2BI56sLgJCHh2RkFdpF10EnlXzGbIt4dnDzgloTOAWBqWafQ9N0sWWE2tv24MvhzNTdOik4ajjiEaAVWQTMeKOL7wDL6NzHJfEliUN3gncpgy4avaFY%2BcufZ9FxMgRsicyROXd%2F2aVksWg8HHuvVgpxe1HWHb5jG4XUTV%2BIh%2Fc3hXJ1fkpjbjqMNAkaLMjqFfGL965J458jWL9tseDQULnQUcuTfV08vAp4c2ncx%2BtsqNhtoW7%2FEX9u1apZZPiGBUCGNqocC%2F8QY5NxxdXXnKEWKQGHAIOQcwRXlWNrrdQJ1fpAgtsyV%2BCY00xO5KDG2qQngbBQgsGSNU%2BjTIRcQRRiaCmIqJGc%2FExibVCCxLQFWpFJaVAPJvpbOw5KntMreQ9i4zr%2F63dV29j0VDrWfjy2Puf5gl0KgVQ7UE9hl5DVfvA3TW0FJoPoMBKLt5%2FeYKkh2oZV2Cl%2FBMAynpjIrnDcjUdpUnWEOOgK%2BZ%2BmxF%2B%2BKu%2FXmbw2ogdbx373nk8FC9pZp6pQ9OIZWTgAKRIK3RpBk9cg6dceq0R%2BGb5TYciTVP7LsQOZW9lmAI3VOsqGZi3YHNUQYK1TzOCg5xp6B0iH%2F85iCCvRUEsldYNT1NXtovCVg0EIAR00sDmtfHdGR%2Bbhf%2BPciuwvXX49bVm%2FP60i3OWR0RWhHFnd%2Fn8GcA1lNRET7LUC73l%2BNYGEiQEwUp6yVGrsy7t41lSZ62LSMDCpg564KDEchABHf%2BPciuwvXX7%2FFHkDQZ99aNpEPDGAeoBGXMlcOFVkPuICvqVZapAWz7yYuWw1koZPopxX8v6IN7Q7pZkZiG%2BdPaNBFH4%2BXgjSzZPqQnd9IWMu32ad9uIA6vYnFyfCLNhaMqGVVQ0GI7XpM8Yd%2BjIOirqO%2BiG9JeNly6ftzN1ZKyeSTimJeE655xoSLGasHSVBn6n8P5g%2FRl6mU2NUn3Jv2zkvVqGFBQPXilud0WnxaOCHRsut28OgxGdokC3gWwxe%2Fwq7qYLIgVrdO52hiWCGG2eHREQXRZw3qWf3lB04fWY3GSP47hiVmyzMZ%2Bk7xsAo1IAsRrYN3zILN%2BIpnTzOAddKF45KIPoazaJucBr3atB1KHkBUOW%2BWmbwgIHAdI0QbiVILIOTffoMafy8KBjwbMfFJjRRdzOQ1yNT3l9tGZA5%2FZsRy%2FaRYlROsvF3xwpyWpSWHTC7PUZg69WOyVGJZi%2FNKr1T0QbccBMR1cFMOkfAIVKOpQ52niPe%2FUcOMa5ap1jJnZd8WavfRzQDF9VCzQ%3D%3D&eadt=1&mm_sceneid=1_0_33131814_0_0&a=xxc%3DtaobaoSearch%26mi_id%3D0000vqET9l7oFQaj_LzYiHGhbyyfgVYr8YJ5DUahMqS6v5s%26skuId%3D6121012377205%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%25252522e430c247d7407e26211bdebe56d6afef%25252522%2525257D%26&id=1072251780140&spm=a21n57.1.item.9
+            - generic [ref=f14e523]:
+              - generic [ref=f14e524]:
+                - generic "WD/西数HC550 16T服务器硬盘SATA 8T12T HC520企业级监控机械硬盘" [ref=f14e530]
+                - generic [ref=f14e535]:
+                  - generic [ref=f14e536]: 3.5英寸
+                  - generic [ref=f14e539]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e544]:
+                  - generic [ref=f14e545]: ¥
+                  - generic [ref=f14e546]: "1780"
+                  - generic [ref=f14e548]: 39人付款
+                  - generic [ref=f14e549]: 广东
+                  - generic [ref=f14e550]: 东莞
+              - generic "包邮" [ref=f14e551]
+              - link "盘源严选存储馆" [ref=f14e555]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWN667twa5o6dHGKc6FjkvQeang7udhKr8oonyXGjDZ6JD&topIds=1072251780140&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.9
+          - link "日立3TB企业级硬盘7200转SATA3 监控录像NAS原装网络存储磁盘阵列 入选监控级硬盘店铺 榜 500MB/s以下 3.5英寸 服务器/台式机/监控/点歌机 ¥ 295 300+人付款 广东 深圳 包邮 公益宝贝 硕诚数码科技" [ref=f14e559] [cursor=pointer]:
+            - /url: https://mclick.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=1770873928&k=2561&e=LixBcTlbznXk4ULvp7blMPOcDQ%2BCwmPwNjzVFQPtK%2Fe8cLCPgB%2BoDU%2BCz1v22xXQACeEhTzJEcUPnzwH88RhcwcX2%2FL7rT%2FM0Pg6ukags2Kly3E7N8jMuVWQY7EPwRm09S42hrXCaFhxwGIcHHtvUpezZC800Px4BNUGhTJgG8L9wL%2B6Ikyfp3blEf7kB2XlP0a%2FRHyKw4EgG7cXg8hg%2F5aZD8Lgy0PndoNk0U%2BYUmASC6NndZANt9bR%2FtZDQ%2BiSsiS%2FSdmQUfVB1%2FrWtgSLGDLOOvrfD5QOvZBYRD1aC5mL01NaSvVW1F4sqfJzQYRG89m9jCEtPu3LAH4FD2hI%2BGG6xodNuY23nGVB9W4FhKRkFXUHpjK7QXKSivoadJNfe4%2F9x6CFD%2BCVbkNxu12J4bFCCgcBb%2BZyVbV4Js4twz%2B4Nu%2F5m2BOb9AZVBtEa278y8PKVE6Ur9pe3wBursmqDlP9GE47FJqRpRB6rrgVTR9MXdhGwNXmhimTYPAmeqscAzzAcjSQDeR1absUQ5wjC7DXXYAId0KQebk2sJ7Wj1ChjXhM%2FESVZVcSvxud%2Ffnw1yPkacUmC75jV4sKZaJPcRrNcsNLhcL3y4tAdE%2FgAOKCaLcbySDz%2FsKpRSrdk6Nh%2FHV8j9RVb7idAWLPJ%2BZMN8JcGOK%2BRFbn21VtCzUvpB%2FaxRtwRKfDhKrPFBg9Pj4HOWdS5UT1GHKPNRrej3CitqNyXS4FXNf%2FWfhLcQ1OMFC1BuW%2B13GUVMbPQHxbb9ZcieJLpCR4aKVXhxBsSdAoTiJbX18m9pty5FiE5abxJrr%2FWpYEHltumUEgKOc4OZAU%2Fs21qnLPD%2F0LqtwRObN8agfuzWBV4I%2F%2FAL96xqyitQSbAS5PUNG31WiQZ%2BDkEuv4sa981kg8gfsRkF36gM84JgA2jDM%2BluASLGqA4cQX5U3QsOvl%2BirLB9cQFP9V0RjFazU6cFWzDyBg0gxkAT35Rp37s29oGs1LTiNTIwLQeXm1ZrzFLIfSaZAsQ9Hf7XHv10oXjkog%2BhrNom5wGvdq0HUoeQFQ5b5aZvCAgcB0jRBuJUgsg5N9%2BhMbrAOM23HOHknahry6Lt4TG6wDjNtxzpN6jnNv1O54BUQTK9KKLOIxU0VmBdwoH00R0sOZUlBPxZmepRXPH7vehsRppLr1ZA%2B2NvG3kJHBhB7bXYQXtSGlG9TaULSP7bVCg6BFKFp8KWXdJtznP3VKGw%2BDA3DKgza22nzHNQJb%2BnHiGLLJ89mrCxN2tXrRvEk6nTNt5W4G1oWmdLgoSFAdiOr7q9r1e2ElPbHlP3Jy9zR5qbuDIrKegsPl9Wh6hFChEo%2By7jycz5Ed70gF%2FLfxlEDjfqluFlq0D9S3HByFqayZqgcGnA93UVEK7l3cmCNOgZ6Ozi3wNKKvo6f494Kx485CN207y8BGSAhV8rdBIFjo1wU5owsI1eCkqo%2BWHaYp9k99s%2B3Ko40Zu24aNRiCogVhtYr0sGDSDGQBPflGkIhjZMXkq0bII7grk7Z2tbCDTufXascPhW9xbYbuaH%2FbF883yuvn4qQTmhE6t1aU1X7CEYu1RH0%2FBtODY6gRft95mRBPzIUCulGkDF7mIzJ4kZcQCfCWbz0rmzTYeg4lECMbpggV%2BnSIvX%2BhEG6kUVAiTqMgt58r6H5UwxyiqxIjL5iOYdz6AjR8Avv%2FLSphLRipc8E1UoDuZCbmzx9CxM8Le3maJQuVjAHQlpHPntILfGA8F2ctoqfMFKHv4Fe2UxIq0UuLY2oCcaeS2ThFP%2BUdOX26nHdsN4oPEOTRnyq1VeoA3yQGcP3YoSec9NWmCRuH7HczQJ1r5iE8IyQKeEnCk8llCh2IWCZoxWi9Ud%2Fhx%2FWsYUFeOmNBk%2FtXN7zgRLEwFHtRFzig5I%2BCmdgvtM7jk0V5B%2BfGapJiYCNZKM8LqvzeQ0k4UWb%2BhCVk93GzFSZfk5EjqDva5rKlc%2FDmXVWtr1G6SX5lMm%2F4Y4I73NpoC0zDYad3bKcEG%2Bgezs3bDChirAqiYpHllC0kK4CQxBoHSUc0lB4jDhDLy%2B7Xkk96QmVt18PeG%2F6DTCHX%2FeJHu3kq2ahyz9twFVC8qMpUfGHtIf9XlCtLPhSQKx0v2D00xiJOLjLRI1lH1Yg7IiAy2tfrWZmIbDHb8XNE4e6kRH%2Bc0cLycTjpbQUypgz5B5TmEoaCPHxC%2FpUk3dWsxxLUCjf6DnRZ6VnqxH8anmZb7LeK84a7uPvHmV2SmyhzBfHsIcdf5mruZKXvn1izCqp%2B%2FfEA9HMFi5%2FqlCdjZdfhMoWAx9u96sbkUN3jmusBN5Hmj9C3dx%2BMthdwwp2w94q%2FxgcWUqe1u9mjcl0uBVzX%2F5QvwK8SGAna8REGDS%2BP%2Fh4Jmp86rZvrmeaO54ucyKxwoJ11iCaUfRvH%2BsV2GXKML%2F3QoPL%2FjDJThobPAYUcr5kFb5JghUuKb4aGzwGFHK%2BZqSstRlOMgPszFrOYQ%2FuW3BcYMsUEdfixulc2rVRbRsYLqtwRObN8avEk1gGGQ62FboT%2Fb4Bq9Tc1yHL7I4T8Jjx2pImw7h3z&eadt=1&mm_sceneid=1_0_5101674202_0_0&a=xxc%3DtaobaoSearch%26mi_id%3D0000eAFPtL0EpI9p1CxQXGACE4c03_mwxXnQ98fUD9Pd5PA%26skuId%3D6110331468536%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%252525222852dba5385feb1c6aa50e93d20be6c0%25252522%2525257D%26&id=1056702646223&spm=a21n57.1.item.10
+            - generic [ref=f14e560]:
+              - generic [ref=f14e561]:
+                - generic "日立3TB企业级硬盘7200转SATA3 监控录像NAS原装网络存储磁盘阵列" [ref=f14e567]
+                - generic [ref=f14e570]:
+                  - generic [ref=f14e572]:
+                    - generic [ref=f14e573]: 入选监控级硬盘店铺
+                    - generic [ref=f14e574]: 榜
+                  - generic [ref=f14e576]:
+                    - generic [ref=f14e577]: 500MB/s以下
+                    - generic [ref=f14e580]: 3.5英寸
+                    - generic [ref=f14e584]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e589]:
+                  - generic [ref=f14e590]: ¥
+                  - generic [ref=f14e591]: "295"
+                  - generic [ref=f14e593]: 300+人付款
+                  - generic [ref=f14e594]: 广东
+                  - generic [ref=f14e595]: 深圳
+              - generic "包邮 公益宝贝" [ref=f14e596]:
+                - generic [ref=f14e597]: 包邮
+                - generic [ref=f14e599]: 公益宝贝
+              - link "硕诚数码科技" [ref=f14e602]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWRLu8wn48xMen5WS121TJTx1ndjdsePtotki3pb5u9VTA&topIds=1056702646223&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.10
+          - link "WD/西部数据 WUH721816ALE6L4服务器氦气16T硬盘企业级16TB HC550 16TB 3.5英寸 服务器 ¥ 1580 26人付款 广东 广州 直接下单享优惠 广州硬盘批发商行" [ref=f14e606] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=862629597958&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000wavR3bH-BUvSbzD4CjLwWu_cibYBHCzix49Ff3r60Vo&skuId=5681905948788&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%2214a73f5b7313bf2d039467140c16db24%22%7D&spm=a21n57.1.item.11
+            - generic [ref=f14e607]:
+              - generic [ref=f14e608]:
+                - generic "WD/西部数据 WUH721816ALE6L4服务器氦气16T硬盘企业级16TB HC550" [ref=f14e612]
+                - generic [ref=f14e617]:
+                  - generic [ref=f14e618]: 16TB
+                  - generic [ref=f14e621]: 3.5英寸
+                  - generic [ref=f14e625]: 服务器
+                - generic [ref=f14e630]:
+                  - generic [ref=f14e631]: ¥
+                  - generic [ref=f14e632]: "1580"
+                  - generic [ref=f14e634]: 26人付款
+                  - generic [ref=f14e635]: 广东
+                  - generic [ref=f14e636]: 广州
+              - generic "直接下单享优惠" [ref=f14e637]
+              - link "广州硬盘批发商行" [ref=f14e641]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWJqeEUgHgcQZx7qAhgi94nvmC8S2RvV7Ez3ViiCC8YMak&topIds=862629597958&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.11
+          - link "全新希捷银河22T/20T/18T/16T/14T/12T/10T/8T/6T企业级机械硬盘 16TB 3.5英寸 服务器/台式机/监控/点歌机 ¥ 339 优惠后 100+人付款 广东 东莞 24小时内发 退货宝 包邮 精诚科技商城" [ref=f14e645] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=800736824761&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000Z5QZlF2u9w-ILSC4LTUUpX3Uc-Z1v3J6IDI-ftyWLyI&skuId=5452802992525&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%227f1ba94fd1044c39260c4d264fc13de8%22%7D&spm=a21n57.1.item.12
+            - generic [ref=f14e646]:
+              - generic [ref=f14e647]:
+                - generic "全新希捷银河22T/20T/18T/16T/14T/12T/10T/8T/6T企业级机械硬盘" [ref=f14e651]
+                - generic [ref=f14e656]:
+                  - generic [ref=f14e657]: 16TB
+                  - generic [ref=f14e660]: 3.5英寸
+                  - generic [ref=f14e664]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e669]:
+                  - generic [ref=f14e670]: ¥
+                  - generic [ref=f14e671]: "339"
+                  - generic [ref=f14e673]: 优惠后
+                  - generic [ref=f14e674]: 100+人付款
+                  - generic [ref=f14e675]: 广东
+                  - generic [ref=f14e676]: 东莞
+              - generic "24小时内发 退货宝 包邮" [ref=f14e677]:
+                - generic [ref=f14e678]: 24小时内发
+                - generic [ref=f14e680]: 退货宝
+                - generic [ref=f14e682]: 包邮
+              - link "精诚科技商城" [ref=f14e685]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWKULMZpfYLoyqxzhk6H233kXY9HY2xvuYga3jmCK4aG4y&topIds=800736824761&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.12
+          - link "银河企业级服务器机械硬盘 4T 3T 6T 8T 7200转电脑监控存储硬盘 500MB/s以下 100x70x7mm NAS ¥ 260 优惠后 87人付款 广东 深圳 退货宝 包邮 公益宝贝 聚力电子科技" [ref=f14e689] [cursor=pointer]:
+            - /url: https://mclick.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=1770873928&k=2573&e=zhz10dy%2BS9Dk4ULvp7blMPOcDQ%2BCwmPwNjzVFQPtK%2Fe8cLCPgB%2BoDU%2BCz1v22xXQACeEhTzJEcXD22yWG8lF8f4%2B4XR5uVbwgz2RauYiJJ6ly3E7N8jMuVWQY7EPwRm09S42hrXCaFhxwGIcHHtvUpezZC800Px4BNUGhTJgG8L9wL%2B6Ikyfp3blEf7kB2XlP0a%2FRHyKw4EgG7cXg8hg%2F5aZD8Lgy0PndoNk0U%2BYUmASC6NndZANt9bR%2FtZDQ%2BiSsiS%2FSdmQUfVB1%2FrWtgSLGDLOOvrfD5QOvZBYRD1aC5mL01NaSvVW1F4sqfJzQYRG89m9jCEtPu3LAH4FD2hI%2BGG6xodNuY23nGVB9W4FhKRkFXUHpjK7QXKSivoadJNfe4%2F9x6CFD%2BCVbkNxu12J4bFCCgcBb%2BZyVbV4Js4twz%2B4Nu%2F5m2BOb9AZVBtEa278y8PKVE6Ur9pe3wBursmqDlP9GE47FJqRpRB6rrgVTR9MXdhGwNXmhimTYPAmeqscAzzAcjSQDeR1absUQ5wjC7DXXYAId0KQebk2sJ7Wj1ChjXhM%2FESVZVcSvxud%2Ffnw1yPkacUmC75jV4sKZaJPcRrNcsNLhcL3y4tAdE%2FgAOKCaLcbySDz%2FsKpRSrdk6Nh%2FHV8j9RVb7idAWLPJ%2BZMN9B%2FuAO0DWUW9szIcOagx6DK7fjCtdvJdMOzMxcmxLlmxyazt2%2FLATYipycF4YQSOtuIAZW%2B2vbS8y1fsdVYADQZSpAtK1B5CIwAGgpT0QeTAbsndNQO81IdlxlCCr4pFER4C%2F3HqxNS%2B%2BKRec%2FI7YOOQISw5Cw9yFxpMtDYoYj6%2BxZJ2zLriqhJ4ztI73VkwSTGNRdEYKICYIWAI%2FCCVlSxr3zWSDyB%2Bxg8R1ayvQ3aiQZh65sAMubAq%2F%2Bz5jIyXRRqc8AtBAop4wVC7n4VkW9d9%2BQEr0ETfc3eUtZ7m5TYRntJD%2B3yO2w0XZpf36NXt3OYK6JKE6VIPU0W165E0n3MkoJ5lB01qevA4QZondbV5sJ6%2BmnMroPPvusrsR1XJReLatu0FVX6biS27utXiNCSAoef65Ds6erA2HT%2BGelI447T6j%2FFibDqwNh0%2FhnpSLrcJX1LyG9rVXq083IW3o3%2BiCu6iE5AXYRke9%2BaXDTwCiPifYYpOBzJI7%2BBRzoT5MSxYCMlIx3PL7qjhXlp1soll8QlCOGl2TioIqTDhLtY5ytVmOGI36zkatY19IbdK6OOFju6oE0pe%2FMkJeaJOgFZ4kcJy%2BMxPojvzckD4MiZXLtmST8QcHeIsfgv6RjoCmuErb0DjL3QjpToRsIABAdQc1RAWDumck%2BZVX21D8Y41jVHj1znX0XuWxZ28DAggBc0xe5yoQvCRgzIRAkKOdyh71PUSbd4vwGU9SOAI4kvlERDMWihY4UJHb72XDII53LNwqDUfecTPU0W165E0n379CvZmGf%2B2XF6aRX8KT1P2fcFemnkGvzxReV4xQ4EbvjdojR6GMs%2BOS9WoYUFA9eQXf5Lk%2FLCWRlKkC0rUHkI%2BDV3ZmGxPL26ljioYqRlGwtMHoaT5ZrB6U%2B9KgG0Ho%2BnWMmdl3xZq4exhZjg1S%2BdUTZSkxGCaRbmqWve8c5vFo1mav%2Bxt2XLyqvqSgkeTIL75qj0GrA9iDVwzO3jr0DL9Y%2F56c5tCDfjOv%2Frd1Xb2PRUOtZ%2BPLY%2B5%2FmCXQqBVDtQT2GXkNV%2B8DdNbQUmg%2BgwEou3n95gqSHahlXYKX8EwDKemMiucNyNR2lSdYQ46Ar5n6bEX74q74tDPEc2pW5gavkB1RP%2FxcsVmkUsZ3RSQz%2FdOyy9evWi0ZgeIX8VWBwbxAozSUsDvEYHqLrhOgc4p%2F8SkgUWOR1c69rRpst2VMAXiKcSInfg9fktcUEyCIIlwp5XyCRm%2BPyIz9YZSA8Suot7PleRkywxqazX1xgYVOkJ9JLqLzJ65cNPQGwEWrKdSjakcjzOlCjufLiMiHrpV2kbDkmfBJzqwNh0%2FhnpSFcXP12L6JMCCJiO6uBdwD55XZfaY9L8DiJS4nNZ%2BS%2F%2Bum2LBbU9rh02LLaCS5IP1N%2FMNbCddAZdAhpvV7rv9e9BYN1vLs9rfTWRxToOAkkPM9GTy9oaDugn6Qzn3qKwhprldhYrZT5O%2FjlpOxADfBcGWJxL60aSEv34VpK5TB%2BS5aI36mOgcopX6olRXFR7Lsi9iGuVz%2BKVAa4165Bv3ws6cLn47rJDVy1fgX%2BuynurAOjWYMjwoODl0wO1NQ5UdpjgfnNngpmwGLP0DWlN6N9ctRBtaVIAQUGDHcED1V%2Fol7tASujThMqYc0hhl28QW6ln95QdOH1mNxkj%2BO4YlZvEnYuSpisBPq30I2XcUTmcR0eCVfHPccWWgF%2FLyr26U1Eh0IGNzsEoSXJuLKgNX7Jcf3E9AFnAPa0%2F2An0eZTgQYcXmkGY9fMwZYzGI%2FMxdgeZqmmwafQCys%2B5kkbcqEjnr3vPaId3I3uM%2B9g7YQiMGUqQLStQeQhPrXW0HW27O%2FPFUKVFTh6UGpUnDAXBxdIBhwCDkHMEV5Vja63UCdX6rkDuq4DA4Yc%3D&eadt=1&mm_sceneid=1_0_10065734330_0_1&a=xxc%3DtaobaoSearch%26mi_id%3D0000Ag0Nk4pHqxIqM4IU71Q7XjZYuCoZPJqW5GUPbTMxxHA%26skuId%3D6086875856229%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%2525252296deb994e31cfe0cb567922f2c3f6a4b%25252522%2525257D%26&id=1039572246137&spm=a21n57.1.item.13
+            - generic [ref=f14e690]:
+              - generic [ref=f14e691]:
+                - generic "银河企业级服务器机械硬盘 4T 3T 6T 8T 7200转电脑监控存储硬盘" [ref=f14e693]
+                - generic [ref=f14e698]:
+                  - generic [ref=f14e699]: 500MB/s以下
+                  - generic [ref=f14e702]: 100x70x7mm
+                  - generic [ref=f14e706]: NAS
+                - generic [ref=f14e711]:
+                  - generic [ref=f14e712]: ¥
+                  - generic [ref=f14e713]: "260"
+                  - generic [ref=f14e715]: 优惠后
+                  - generic [ref=f14e716]: 87人付款
+                  - generic [ref=f14e717]: 广东
+                  - generic [ref=f14e718]: 深圳
+              - generic "退货宝 包邮 公益宝贝" [ref=f14e719]:
+                - generic [ref=f14e720]: 退货宝
+                - generic [ref=f14e722]: 包邮
+                - generic [ref=f14e724]: 公益宝贝
+              - link "聚力电子科技" [ref=f14e727]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWUbkv3wdhKPgourjmH7QLQmdcfeV4jZwcm6X9xDMrEgu7&topIds=1039572246137&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.13
+          - link "WD西数HC550 18T服务器硬盘SATA 8T14T HC530企业级监控机械硬盘 3.5英寸 服务器 ¥ 1300 100+人付款 福建 厦门 直接下单享优惠 退货宝 包邮 华南云仓数科存储" [ref=f14e731] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1053331725491&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000Wnfx44yPPkMVWwBBKh1gRPtZYH0I52j_hoaW7MOBtMk&skuId=6302920243258&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%2271a379b0b5568b2bbf961fe580f0b5ec%22%7D&spm=a21n57.1.item.14
+            - generic [ref=f14e732]:
+              - generic [ref=f14e733]:
+                - generic "WD西数HC550 18T服务器硬盘SATA 8T14T HC530企业级监控机械硬盘" [ref=f14e735]
+                - generic [ref=f14e740]:
+                  - generic [ref=f14e741]: 3.5英寸
+                  - generic [ref=f14e744]: 服务器
+                - generic [ref=f14e749]:
+                  - generic [ref=f14e750]: ¥
+                  - generic [ref=f14e751]: "1300"
+                  - generic [ref=f14e753]: 100+人付款
+                  - generic [ref=f14e754]: 福建
+                  - generic [ref=f14e755]: 厦门
+              - generic "直接下单享优惠 退货宝 包邮" [ref=f14e756]:
+                - generic [ref=f14e757]: 直接下单享优惠
+                - generic [ref=f14e759]: 退货宝
+                - generic [ref=f14e761]: 包邮
+              - link "华南云仓数科存储" [ref=f14e764]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWRKZUYGm6Q3q5GEgqXxEs27JpMjqHTpaaWmNN3JEouZiq&topIds=1053331725491&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.14
+          - link "顺丰全新希捷银河22T/20T/18T/16T/14T/12T/10T/8T企业级硬盘 4TB 服务器/台式机/监控/点歌机 ¥ 889 优惠后 400+人付款 广东 东莞 直接下单享优惠 退货宝 包邮 精诚科技商城" [ref=f14e768] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=860055385377&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000d4vcrIPs6I42REVHtMSsULroEvCnf27-wnOhLb7wo-4&skuId=6223784310991&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22cecd5211609e182fd1f1b3c75157d05e%22%7D&spm=a21n57.1.item.15
+            - generic [ref=f14e769]:
+              - generic [ref=f14e770]:
+                - generic "顺丰全新希捷银河22T/20T/18T/16T/14T/12T/10T/8T企业级硬盘" [ref=f14e772]
+                - generic [ref=f14e777]:
+                  - generic [ref=f14e778]: 4TB
+                  - generic [ref=f14e781]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e786]:
+                  - generic [ref=f14e787]: ¥
+                  - generic [ref=f14e788]: "889"
+                  - generic [ref=f14e790]: 优惠后
+                  - generic [ref=f14e791]: 400+人付款
+                  - generic [ref=f14e792]: 广东
+                  - generic [ref=f14e793]: 东莞
+              - generic "直接下单享优惠 退货宝 包邮" [ref=f14e794]:
+                - generic [ref=f14e795]: 直接下单享优惠
+                - generic [ref=f14e797]: 退货宝
+                - generic [ref=f14e799]: 包邮
+              - link "精诚科技商城" [ref=f14e802]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWKULMZpfYLoyqxzhk6H233kXY9HY2xvuYga3jmCK4aG4y&topIds=860055385377&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.15
+          - link "酷狼3T 4T 12T机械硬盘NAS企业级存储服务器台式机监控点歌机SATA 12TB 3.5英寸 服务器/台式机/监控/点歌机 ¥ 360 17人付款 广东 东莞 3期 退货宝 48小时内发 7年老店 鑫浩电子数码科技" [ref=f14e806] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1084760818220&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000o8viTHA8Gc8kiGKVgBDBB8b0M3WELhpaH7eRQP-87X0&skuId=6304310831820&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22b62581c343c89d42e9b76ed9647c1254%22%7D&spm=a21n57.1.item.16
+            - generic [ref=f14e807]:
+              - generic [ref=f14e808]:
+                - generic "酷狼3T 4T 12T机械硬盘NAS企业级存储服务器台式机监控点歌机SATA" [ref=f14e810]
+                - generic [ref=f14e815]:
+                  - generic [ref=f14e816]: 12TB
+                  - generic [ref=f14e819]: 3.5英寸
+                  - generic [ref=f14e823]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e828]:
+                  - generic [ref=f14e829]: ¥
+                  - generic [ref=f14e830]: "360"
+                  - generic [ref=f14e832]: 17人付款
+                  - generic [ref=f14e833]: 广东
+                  - generic [ref=f14e834]: 东莞
+              - generic "3期 退货宝 48小时内发" [ref=f14e835]:
+                - generic [ref=f14e836]: 3期
+                - generic [ref=f14e838]: 退货宝
+                - generic [ref=f14e840]: 48小时内发
+              - link "7年老店 鑫浩电子数码科技" [ref=f14e843]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWP8ouU6vAmorZsWrki8JNN6WXUAcm2aiApkju4W8HdaPw&topIds=1084760818220&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.16
+                - generic [ref=f14e844]: 7年老店
+                - generic [ref=f14e846]: 鑫浩电子数码科技
+          - link "机械硬盘4T6TB7200转企业级SATA硬盘台式机服务器监控盘3.5寸 ¥ 538 优惠后 27人付款 江西 赣州 官方立减50元 退货宝 包邮 笑笑硬盘批发" [ref=f14e849] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1074608875470&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000B_O4yzuRJkau0r3h2Sa-bwQp6r8OiFRLHwdonrTDHRY&skuId=6291885950942&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22a977e95ffd0e5326c8403e9866e1facd%22%7D&spm=a21n57.1.item.17
+            - generic [ref=f14e850]:
+              - generic [ref=f14e851]:
+                - generic "机械硬盘4T6TB7200转企业级SATA硬盘台式机服务器监控盘3.5寸" [ref=f14e853]
+                - generic [ref=f14e857]:
+                  - generic [ref=f14e858]: ¥
+                  - generic [ref=f14e859]: "538"
+                  - generic [ref=f14e861]: 优惠后
+                  - generic [ref=f14e862]: 27人付款
+                  - generic [ref=f14e863]: 江西
+                  - generic [ref=f14e864]: 赣州
+              - generic "官方立减50元 退货宝 包邮" [ref=f14e865]:
+                - generic [ref=f14e866]: 官方立减50元
+                - generic [ref=f14e868]: 退货宝
+                - generic [ref=f14e870]: 包邮
+              - link "笑笑硬盘批发" [ref=f14e873]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWR9oampJzmtEPPxr18bXwXQy4toj2UFf4a29f2XHQSDL5&topIds=1074608875470&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.17
+          - link "希捷 ST4000NM000AB 4T SATA 3.5寸银河企业级服务器安防监控硬盘 ¥ 530 65人付款 上海 上海华胜电脑" [ref=f14e877] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1049071616913&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000zvUEzk7PmPVYaS-Np7ikQ2YsZcZr81tYiemzjjqJkls&skuId=6104965229074&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22a907853c2dc7e352bbc5a387d1945748%22%7D&spm=a21n57.1.item.18
+            - generic [ref=f14e878]:
+              - generic [ref=f14e879]:
+                - generic "希捷 ST4000NM000AB 4T SATA 3.5寸银河企业级服务器安防监控硬盘" [ref=f14e881]
+                - generic [ref=f14e884]:
+                  - generic [ref=f14e885]: ¥
+                  - generic [ref=f14e886]: "530"
+                  - generic [ref=f14e888]: 65人付款
+                  - generic [ref=f14e889]: 上海
+              - link "上海华胜电脑" [ref=f14e891]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWS3KWS9TWCR1Wa5mYFaSY7RYMBGxehyuGHVHQYJXmknvD&topIds=1049071616913&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.18
+          - link "4TB机械硬盘监控录像盘SATA接口质保大内存NAS储存阵列企业级硬盘 ¥ 529 优惠后 9人付款 广东 中山 退货宝 包邮 安齐监控存储科技硬盘" [ref=f14e895] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1079113845954&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000Fo28IpHicLdJLIv4pBVlVlR3sIAfr-12o_ea6BrcGSs&skuId=6130528924449&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%220ae0e2cc7512bf2eff478a8511144189%22%7D&spm=a21n57.1.item.19
+            - generic [ref=f14e896]:
+              - generic [ref=f14e897]:
+                - generic "4TB机械硬盘监控录像盘SATA接口质保大内存NAS储存阵列企业级硬盘" [ref=f14e899]
+                - generic [ref=f14e902]:
+                  - generic [ref=f14e903]: ¥
+                  - generic [ref=f14e904]: "529"
+                  - generic [ref=f14e906]: 优惠后
+                  - generic [ref=f14e907]: 9人付款
+                  - generic [ref=f14e908]: 广东
+                  - generic [ref=f14e909]: 中山
+              - generic "退货宝 包邮" [ref=f14e910]:
+                - generic [ref=f14e911]: 退货宝
+                - generic [ref=f14e913]: 包邮
+              - link "安齐监控存储科技硬盘" [ref=f14e916]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMkqBbUvgqo6Gap8eAeva63JuppkikRCcECrY1wN72vZq&topIds=1079113845954&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.19
+          - link "WD西部数据企业级机械硬盘18T16T14T12T10T服务器NAS阵列监控储存 500-1000MB/s 3.5英寸 服务器/台式机/监控/点歌机 ¥ 1780 40人付款 广东 东莞 包邮 盘源严选存储馆" [ref=f14e920] [cursor=pointer]:
+            - /url: https://mclick.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=1770873928&k=2585&e=QOUfKSlAiVbk4ULvp7blMPOcDQ%2BCwmPwNjzVFQPtK%2Fe8cLCPgB%2BoDU%2BCz1v22xXQACeEhTzJEcX5q043Fwf68zS3NBnWQDgM8x%2F6PgmUH2ely3E7N8jMuVWQY7EPwRm09S42hrXCaFhxwGIcHHtvUpezZC800Px4BNUGhTJgG8L9wL%2B6Ikyfp3blEf7kB2XlP0a%2FRHyKw4EgG7cXg8hg%2F5aZD8Lgy0PndoNk0U%2BYUmASC6NndZANt9bR%2FtZDQ%2BiSsiS%2FSdmQUfVB1%2FrWtgSLGDLOOvrfD5QOvZBYRD1aC5mL01NaSvVW1F4sqfJzQYRG89m9jCEtPu3LAH4FD2hI%2BGG6xodNuY23nGVB9W4FhKRkFXUHpjK7QXKSivoadJNfe4%2F9x6CFD%2BCVbkNxu12J4bFCCgcBb%2BZyVbV4Js4twz%2B4Nu%2F5m2BOb9AZVBtEa278y8PKVE6Ur9pe3wBursmqDlP9GE47FJqRpRB6rrgVTR9MXdhGwNXmhimTYPAmeqscAzzAcjSQDeR1absUQ5wjC7DXXYAId0KQebk2sJ7Wj1ChjXhM%2FESVZVcSvxud%2Ffnw1yPkacUmC75jV4sKZaJPcRrNcsNLhcL3y4tAdE%2FgAOKCaLcbySDz%2FsKpRSrdk6Nh%2FHV8j9RVb7idAWLPJ%2BZMN9B%2FuAO0DWUW9szIcOagx6DK7fjCtdvJdMOzMxcmxLlm6FqN2C28GxXs%2FG2TIqqzk5Cs%2BVgPhcAHg8YNtuqhCSS95r6TSmrM1La1Sf3kgdsPC1DZQK5yKpG41NLIMlHglMC%2FiFK8porNtyKmFyZoMNEJRXVZbqR160Lo3zALvjCniV6qpig2sgwpaYZ2v%2BvoKvaZx7yK2k7tYIWAI%2FCCVlSxr3zWSDyB%2Bxg8R1ayvQ3aiQZh65sAMubAq%2F%2Bz5jIyXdj53BMIXVYuYobI3klhqeJ2%2BRnFiKQLNXI72kWoqScqym3cutuQIRKIBw16Cok67Z37s29oGs1LldMv9N7Gp4xuwJ5VjRBwxjEhRlfV7xy5USfVeKUcfPMOHBECbK83h4Ck8sbycomJ0o9vSNvd7NcytXBT3x771iVgmq%2FW8QBS5i%2BZkKE1vomXE%2BbywJHPtORRxVRG7%2FXT%2F2uqfe%2BkRAnv8B6VSEoYN%2F7XLTIGtPL9utWsdBMjJbLeBDQwu2xKK9Wi8gfDqyc26Yjz3jhI%2BhfkY01LDFARokRChGrgho4%2FOKgipMOEu1jnK1WY4YjfrORq1jX0ht0ro44WO7qgTSl78yQl5ok6AVniRwnL4zE%2BiO%2FNyQPgyJlcu2ZJPxBwd4ix%2BC%2FpGOgKa4StvQOMvdCOlOhGwgAEB1BzVEBYO6ZyT5lVfbUPxjieU9iZTyNbPUyCzvUIev9kFzTF7nKhC8JGDMhECQo53KHvU9RJt3i%2F80wkxTdWJQ8%2BIvE3UwyoV2kQP493SqO0kOwh%2FXcvbtaE8UVOxtXD9NQD5NAFoxzuh6TGZPWwNUCSuvEShP3aB0pjEe%2FFG2MO4zG7nhn%2FNgVOuVPufruZ3VrySAASSgg3ZDr82QZetmyZRk9Gun792X4ipyLraq2XfNCIMaRXbHYPr1XDbGF8x1xConTriSgGj4Y7PMospy8K39vaApzptAGrUqIbOlffqgTptaqDvktzrdFYPm8c5hUmX5ORI6g7odEzKMUkTwlkjg2p8P0t7JIYEf%2B4EpqS7eqfXigqnJicNPWv5JOy9Q%2FcCZbGx0ZRVSo97d1UkodSDZc%2BcmNFtk4IhthElmYE6cClxFWTOvQ%2FruXKbjeYlb57agjbeSKyP2KMeFG29FWGgvGphecYULyIMiCE3sXqFprmDljtSYi9K42Jbw1vjTLnNsuB2tx9T9pN0B52uPXmVeO%2BPfISSPfpu9nUhAW3tSIJXT65Uo%2F3%2Bgy2eke3XMQ%2BsoWQmpAOzcW%2BWg2PB58tDdhziAXj2F4Zlzx9QZp2Apnniza%2FRwLLiZfMRznBHgxmb1jO%2BnclZf9Ke9K4RoLKOSZ9SuZ%2FUkZi47%2F6Gu0enUrceVdMEjcBAR%2B4GpoAb14Zlzx9QZp2GgdJRzSUHiMOEMvL7teST3pCZW3Xw94bNtqdO4hQfSkcB23RvfWt2c1QhWyf8VR1yxpYmZVZkh1OxIouVX6TJeH9f9c9GNV4%2FjTAnYJkajISCFwPqXawrxkww29V3JWU7xHZAPGNGoedcccCoj9ZO5Iu%2BvdlulJd8t%2B6PVPjmwJQepBFAFPIZStThMSQXLqj2MYD1cQ17Ry6qn%2BhlbKbKPIQfMAmjnvh1tldTE7o%2BQDaYak1sEfaBqRNbKqUtPo7yATvzo4Rl1kK9BgzpYxyY1aHUJCUrY%2Ftu4EonSJyKJsDBKSoTuwOeBklUavKeYj23Pqmz10PzBrrwOEGaJ3W1ebCevppzK6Dz77rK7EdVyUXi2rbtBVV%2Bm4ktu7rV4jQkgKHn%2BuQ7On8DHtrxYPGTWnR5I2KgHLgCkGDTeYjUn1ObGgGL4be%2BlF8ZDYfoNg6mp78hePAEJl%2FQ41on4e1o2HV7vu4rf4z3ED%2FvhxBo%2FECOF7vlzp1DT8G04NjqBF%2B33mZEE%2FMhQIGW4NeBLmUBA%3D%3D&eadt=1&mm_sceneid=1_0_33131814_0_0&a=xxc%3DtaobaoSearch%26mi_id%3D0000mhFFg3mM6wBNvs09hGdFItiZizjz6KHUcjHN-bz23-0%26skuId%3D6120298236347%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%25252522dde495d8642a1514ed6072434190a290%25252522%2525257D%26&id=1070258194802&spm=a21n57.1.item.20
+            - generic [ref=f14e921]:
+              - generic [ref=f14e922]:
+                - generic "WD西部数据企业级机械硬盘18T16T14T12T10T服务器NAS阵列监控储存" [ref=f14e924]
+                - generic [ref=f14e929]:
+                  - generic [ref=f14e930]: 500-1000MB/s
+                  - generic [ref=f14e933]: 3.5英寸
+                  - generic [ref=f14e937]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e942]:
+                  - generic [ref=f14e943]: ¥
+                  - generic [ref=f14e944]: "1780"
+                  - generic [ref=f14e946]: 40人付款
+                  - generic [ref=f14e947]: 广东
+                  - generic [ref=f14e948]: 东莞
+              - generic "包邮" [ref=f14e949]
+              - link "盘源严选存储馆" [ref=f14e953]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWN667twa5o6dHGKc6FjkvQeang7udhKr8oonyXGjDZ6JD&topIds=1070258194802&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.20
+          - link "Seagate/希捷酷狼1TB 2TB 3TB 4TB 6TB酷狼机械硬盘NAS服务器硬盘 ¥ 341 优惠后 29人付款 广东 广州 官方立减4元 包邮 6年老店 极速硬盘商行" [ref=f14e957] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1071233163684&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=00000IDYzExpgpuGPqOGp3ZkG_t0LHxukLIY345NKkuElrg&skuId=6287470491865&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%227cb4eb3f1e6474a8c8c3b669f3247d34%22%7D&spm=a21n57.1.item.21
+            - generic [ref=f14e958]:
+              - generic [ref=f14e959]:
+                - generic "Seagate/希捷酷狼1TB 2TB 3TB 4TB 6TB酷狼机械硬盘NAS服务器硬盘" [ref=f14e961]
+                - generic [ref=f14e965]:
+                  - generic [ref=f14e966]: ¥
+                  - generic [ref=f14e967]: "341"
+                  - generic [ref=f14e969]: 优惠后
+                  - generic [ref=f14e970]: 29人付款
+                  - generic [ref=f14e971]: 广东
+                  - generic [ref=f14e972]: 广州
+              - generic "官方立减4元 包邮" [ref=f14e973]:
+                - generic [ref=f14e974]: 官方立减4元
+                - generic [ref=f14e976]: 包邮
+              - link "6年老店 极速硬盘商行" [ref=f14e979]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWZn8jPiS4ikbxHUj88LNrBHSsL3y91S6TfDrw2RX4upDh&topIds=1071233163684&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.21
+                - generic [ref=f14e980]: 6年老店
+                - generic [ref=f14e982]: 极速硬盘商行
+          - link "全新WD/西部数据红盘4TB 6TB NAS机械硬盘 3.5英寸 SATA CMR垂直 ¥ 809 优惠后 34人付款 广东 深圳 退货宝 48小时内发 包邮 精艺数码科技" [ref=f14e985] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1031149410572&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000WaDBkrgkTOmGlZ17P7f4f9g9DKKng_oheo2K0gvYjoU&skuId=6045902737992&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%228a9a9ea600c948f0e1753be9f0a84922%22%7D&spm=a21n57.1.item.22
+            - generic [ref=f14e986]:
+              - generic [ref=f14e987]:
+                - generic "全新WD/西部数据红盘4TB 6TB NAS机械硬盘 3.5英寸 SATA CMR垂直" [ref=f14e989]
+                - generic [ref=f14e992]:
+                  - generic [ref=f14e993]: ¥
+                  - generic [ref=f14e994]: "809"
+                  - generic [ref=f14e996]: 优惠后
+                  - generic [ref=f14e997]: 34人付款
+                  - generic [ref=f14e998]: 广东
+                  - generic [ref=f14e999]: 深圳
+              - generic "退货宝 48小时内发 包邮" [ref=f14e1000]:
+                - generic [ref=f14e1001]: 退货宝
+                - generic [ref=f14e1003]: 48小时内发
+                - generic [ref=f14e1005]: 包邮
+              - link "精艺数码科技" [ref=f14e1008]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWaBDVLEoDf5CsLmTBm9QdDtdXinuBdb4QionXVfb9CPu1&topIds=1031149410572&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.22
+          - link "日立氦气8T机械台式硬盘8tb监控安防NAS存储扩容SATA3企业级硬盘 ¥ 620 49人付款 浙江 杭州 24小时内发 退货宝 包邮 16年老店 太平洋存储商城" [ref=f14e1012] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1050098232788&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=00009zaqYlxozA6WOs-c9Y77LMwTGXdMZvpmGahQsnCczhM&skuId=6242902887317&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%224fca958449ecb70238c939b6d4745b55%22%7D&spm=a21n57.1.item.23
+            - generic [ref=f14e1013]:
+              - generic [ref=f14e1014]:
+                - generic "日立氦气8T机械台式硬盘8tb监控安防NAS存储扩容SATA3企业级硬盘" [ref=f14e1016]
+                - generic [ref=f14e1019]:
+                  - generic [ref=f14e1020]: ¥
+                  - generic [ref=f14e1021]: "620"
+                  - generic [ref=f14e1023]: 49人付款
+                  - generic [ref=f14e1024]: 浙江
+                  - generic [ref=f14e1025]: 杭州
+              - generic "24小时内发 退货宝 包邮" [ref=f14e1026]:
+                - generic [ref=f14e1027]: 24小时内发
+                - generic [ref=f14e1029]: 退货宝
+                - generic [ref=f14e1031]: 包邮
+              - link "16年老店 太平洋存储商城" [ref=f14e1034]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWb3uULd549xuWXLsgoduY8G9BAJkbKh1h9dZdTNis324y&topIds=1050098232788&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.23
+                - generic [ref=f14e1035]: 16年老店
+                - generic [ref=f14e1037]: 太平洋存储商城
+          - link "1TB-10TB企业级硬盘7200转监控硬盘SATA接口监控录像机专用硬盘 10TB 500-1000MB/s 3.5英寸 ¥ 203 优惠后 64人付款 广东 中山 24小时内发 包邮 斌诚科技监控存储" [ref=f14e1040] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1080445691087&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000uqzH24_-oEsERCwoxoLeGcIJn_a2afizAX0s18xWu2Y&skuId=6299497906054&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%224b0ae4310afaaf67688fa051e6de8273%22%7D&spm=a21n57.1.item.24
+            - generic [ref=f14e1041]:
+              - generic [ref=f14e1042]:
+                - generic "1TB-10TB企业级硬盘7200转监控硬盘SATA接口监控录像机专用硬盘" [ref=f14e1044]
+                - generic [ref=f14e1049]:
+                  - generic [ref=f14e1050]: 10TB
+                  - generic [ref=f14e1053]: 500-1000MB/s
+                  - generic [ref=f14e1057]: 3.5英寸
+                - generic [ref=f14e1062]:
+                  - generic [ref=f14e1063]: ¥
+                  - generic [ref=f14e1064]: "203"
+                  - generic [ref=f14e1066]: 优惠后
+                  - generic [ref=f14e1067]: 64人付款
+                  - generic [ref=f14e1068]: 广东
+                  - generic [ref=f14e1069]: 中山
+              - generic "24小时内发 包邮" [ref=f14e1070]:
+                - generic [ref=f14e1071]: 24小时内发
+                - generic [ref=f14e1073]: 包邮
+              - link "斌诚科技监控存储" [ref=f14e1076]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWLff5X5vuRzYCWpS7zHALtYxSyd6WcuSSCfqeHykGsbsa&topIds=1080445691087&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.24
+          - link "4TB6TB企业级硬盘SAS接口正品服务器硬盘3.5英寸机械硬盘 ¥ 388 19人付款 江西 赣州 官方立减30元 退货宝 包邮 笑笑硬盘批发" [ref=f14e1080] [cursor=pointer]:
+            - /url: https://mclick.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=1770873928&k=2605&e=uT8pvCCtvJvk4ULvp7blMPOcDQ%2BCwmPwNjzVFQPtK%2Fe8cLCPgB%2BoDU%2BCz1v22xXQACeEhTzJEcXQpnA2ZYHZ3CJYoWsXyaUpjyOLBSvt1%2FOly3E7N8jMuVWQY7EPwRm09S42hrXCaFhxwGIcHHtvUpezZC800Px4BNUGhTJgG8L9wL%2B6Ikyfp3blEf7kB2XlP0a%2FRHyKw4EgG7cXg8hg%2F5aZD8Lgy0PndoNk0U%2BYUmASC6NndZANt9bR%2FtZDQ%2BiSsiS%2FSdmQUfVB1%2FrWtgSLGDLOOvrfD5QOvZBYRD1aC5mL01NaSvVW1F4sqfJzQYRG89m9jCEtPu3LAH4FD2hI%2BGG6xodNuY23nGVB9W4FhKRkFXUHpjK7QXKSivoadJNfe4%2F9x6CFD%2BCVbkNxu12J4bFCCgcBb%2BZyVbV4Js4twz%2B4Nu%2F5m2BOb9AZVBtEa278y8PKVE6Ur9pe3wBursmqDlP9GE47FJqRpRB6rrgVTR9MXdhGwNXmhimTYPAmeqscAzzAcjSQDeR1absUQ5wjC7DXXYAId0KQebk2sJ7Wj1ChjXhM%2FESVZVcSvxud%2Ffnw1yPkacUmC75jV4sKZaJPcRrNcsNLhcL3y4tAdE%2FgAOKCaLcbySDz%2FsKpRSrdk6Nh%2FHV8j9RVb7izJ5fgNQ%2B5JIQpvb%2BXi2X10H%2B4A7QNZRb2zMhw5qDHoAgj8%2BjZZiRVUfUn8LSv1uf71Jkje%2BKIh6TUFqRwHAvilYYvjP5HYkRWocJJhQzSmJxgerJ9yO8rGu0ZbucYObdsC%2F6mrjNwFLje81Z5NQwfv4vHmGHO7IzCABdT5lS1xc1fkXNHvn%2BH92H0BNg2CzNtqGb%2FL7PtxSO2R5z1oQlHmbwYorSl69dWsRqlrEdhucL%2FYOZj7SgP6KT6GtPaXzljRyZBjuOA3w6pomqOvJFY4JFcuJVNAFLaubAfs5QjIBdHsIBgYwmxJM7XkQ2DtQKTSv1TitPEhs3eUtZ7m5TYjXZm5V9ao2G52P8HWYit83OYK6JKE6VII7ZHnPWhCUc3lACbEPk8OOvA4QZondbV5sJ6%2BmnMroPPvusrsR1XJReLatu0FVX6biS27utXiNCSAoef65Ds6bWM9fI8SKvM1kkN46tKavGXE%2BbywJHPtORRxVRG7%2FXTrPVdPXhS5d%2FegngqsPZbNv7XLTIGtPL9A3yCwPt5k48lVE3WGzFtZC7QWQSbaNdJXtmtICLq3mn%2FbSLMjpg53URChGrgho4%2FOKgipMOEu1jnK1WY4YjfrORq1jX0ht0ro44WO7qgTSl78yQl5ok6AVniRwnL4zE%2BiO%2FNyQPgyJlcu2ZJPxBwd4ix%2BC%2FpGOgKa4StvQOMvdCOlOhGwgAEB1BzVEBYO6ZyFRXfzyIufhK7f3XDmQvTqovglmepND%2FPIVkQGtcC8pejr6DkwQF0O%2FybDkYQmcW2bIcJv8%2FksUSw3OM1k1G205VUahGTzCQt7jTukP%2BSteqbLNNiy2MMEpIwbGlh1sbyFSQbbyC8GrkLnJ53n4QIi0txSYZ34gCNLsZpIJlCl3sKTylKo5rjJeXTA7U1DlR2sZpTPBZ3e4Ajtkec9aEJR0xX77rq%2FjqUEWhRy5n3OXuisKErYoFAWrGuPmjuYVNnRwFW6o%2FF0nFJTVAIUQuPFaxgyc1NbSlA3oJ4KrD2WzaymyPC5eOcG6nRUkAXGj%2FdexX4ajRoDAY2pAy8Wy13V1C8jVOBDw3Sk0NN6Og0p55ozZ9VwwtwDGWJdUEjEroZ4KLFcVh%2F1ldCHFkothFj5FWQY7EPwRm09S42hrXCaFhxwGIcHHtvUghoYfQY9ASyWLhCz5qY9G7tGW2E9QvqWjZG0sFfvcTeUhuGedJpopfxhFz8IR2Fv4xhYZsnfQKUpzR9G9hjcFpE%2BIJBSvtp2NyNS5hyoRqAUxkoQ7eXq2n5kWB%2BO3i9434HI5m2SgkXkTS0ph%2Fvfm1hlvhiOtD1jZLUpfIMPILB4EjGgN7ZZUgVJl%2BTkSOoO9rmsqVz8OZdTh5U0G7cz4P8c%2BMiKS4%2FAZtFD5%2F1axa7HMpArIhOo9WAjPvvD3O4DUmUwGT4WYtDOm8YI8XD8xKL1hrY3GUT8kFFgTgxWksGNtqdO4hQfSlDZ2tXtoAlk3AVULyoylR8Ye0h%2F1eUK0s%2BFJArHS%2FYPTTGIk4uMtEjWUfViDsiIDLa1%2BtZmYhsMdvxc0Th7qREf5zRwvJxOOltBTKmDPkHlOYShoI8fEL%2BlSTd1azHEtQKN%2FoOdFnpWerEfxqeZlvst4rzhru4%2B8eZXZKbKHMF8ewhx1%2Fmau5kpe%2BfWLMKqn798QD0cwWLn%2BqUJ2Nl1%2BEyhYDH273qxuRfOS7XiUN0dZ0ZPOoMv7ZwsuW75atD8u5gPx94CupE0I5xiuns0RxwwKf2o7XibJwxIUZX1e8cuVEn1XilHHzzDhwRAmyvN4eApPLG8nKJidKPb0jb3ezXMrVwU98e%2B9aPjnZinUgcscvYGhw%2BRb8DepY5bHMI99XdPYgHcr2q0MddUd61X8AIX3XjiRkgE6vvHS6ZUpmRmeWFge%2FD8tsOAMJcJ4PnR%2FJcStibFGX%2FQbpJ6FYxWNK%2FS6RJE7THANM%3D&eadt=1&mm_sceneid=1_0_10555123319_0_0&a=xxc%3DtaobaoSearch%26mi_id%3D0000sbXu0tRzYlRx_1v504gDeNKQ_vGC0a9-Z9eLChkDRXM%26skuId%3D6130420416494%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%25252522d0c1392ef9d2346530467ece4a3168fa%25252522%2525257D%26&id=1079029489419&spm=a21n57.1.item.25
+            - generic [ref=f14e1081]:
+              - generic [ref=f14e1082]:
+                - generic "4TB6TB企业级硬盘SAS接口正品服务器硬盘3.5英寸机械硬盘" [ref=f14e1084]
+                - generic [ref=f14e1088]:
+                  - generic [ref=f14e1089]: ¥
+                  - generic [ref=f14e1090]: "388"
+                  - generic [ref=f14e1092]: 19人付款
+                  - generic [ref=f14e1093]: 江西
+                  - generic [ref=f14e1094]: 赣州
+              - generic "官方立减30元 退货宝 包邮" [ref=f14e1095]:
+                - generic [ref=f14e1096]: 官方立减30元
+                - generic [ref=f14e1098]: 退货宝
+                - generic [ref=f14e1100]: 包邮
+              - link "笑笑硬盘批发" [ref=f14e1103]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWR9oampJzmtEPPxr18bXwXQy4toj2UFf4a29f2XHQSDL5&topIds=1079029489419&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.25
+          - link "希捷银河氦气企业级10T 12T 16T 18T监控台式机NAS存储机械硬盘 ¥ 350 37人付款 广东 东莞 退货宝 包邮 恒存数码存储" [ref=f14e1107] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1058021664554&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000Evf6m0-FbR3SCqEguMXl3oFnebOo3Q6gcsV5eNO7Dwo&skuId=6138710257608&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22f380f251adfaa26f8e89170e2882c8f1%22%7D&spm=a21n57.1.item.26
+            - generic [ref=f14e1108]:
+              - generic [ref=f14e1109]:
+                - generic "希捷银河氦气企业级10T 12T 16T 18T监控台式机NAS存储机械硬盘" [ref=f14e1111]
+                - generic [ref=f14e1114]:
+                  - generic [ref=f14e1115]: ¥
+                  - generic [ref=f14e1116]: "350"
+                  - generic [ref=f14e1118]: 37人付款
+                  - generic [ref=f14e1119]: 广东
+                  - generic [ref=f14e1120]: 东莞
+              - generic "退货宝 包邮" [ref=f14e1121]:
+                - generic [ref=f14e1122]: 退货宝
+                - generic [ref=f14e1124]: 包邮
+              - link "恒存数码存储" [ref=f14e1127]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWKcxYFjWs4XnSqQmNqsGpYDAgv85gZMzAPyYydgqzeBGZ&topIds=1058021664554&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.26
+          - link "14T企业级机械氦气硬盘HC620 飞牛NAS Linux专用 14TB 500MB/s以下 NAS ¥ 780 43人付款 广东 深圳 12年老店 老飘NAS存储" [ref=f14e1131] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1045856043827&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000PVMmelXbViro3u4MK9362O__9_i6r4BNqq9zruiKL18&skuId=6288907330734&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22b9f713253553850a315940afea75adb4%22%7D&spm=a21n57.1.item.27
+            - generic [ref=f14e1132]:
+              - generic [ref=f14e1133]:
+                - generic "14T企业级机械氦气硬盘HC620 飞牛NAS Linux专用" [ref=f14e1135]
+                - generic [ref=f14e1140]:
+                  - generic [ref=f14e1141]: 14TB
+                  - generic [ref=f14e1144]: 500MB/s以下
+                  - generic [ref=f14e1148]: NAS
+                - generic [ref=f14e1153]:
+                  - generic [ref=f14e1154]: ¥
+                  - generic [ref=f14e1155]: "780"
+                  - generic [ref=f14e1157]: 43人付款
+                  - generic [ref=f14e1158]: 广东
+                  - generic [ref=f14e1159]: 深圳
+              - link "12年老店 老飘NAS存储" [ref=f14e1161]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HAvz2V9k8B56gkmfsS1T96iv&topIds=1045856043827&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.27
+                - generic [ref=f14e1162]: 12年老店
+                - generic [ref=f14e1164]: 老飘NAS存储
+          - link "WD西部数据2TB台式机硬盘SATA接口7200转企业级机械硬盘 ¥ 360 0人付款 广东 广州 24小时内发 退货宝 包邮 东鑫科技电子" [ref=f14e1167] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1065766795805&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000aHRIqAuLln5WFDsFAvzis1-KNenhIqEICa2C1pShnYc&skuId=6116014513534&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%2267cd89d1db316ea00c27e3e1121c1f97%22%7D&spm=a21n57.1.item.28
+            - generic [ref=f14e1168]:
+              - generic [ref=f14e1169]:
+                - generic "WD西部数据2TB台式机硬盘SATA接口7200转企业级机械硬盘" [ref=f14e1171]
+                - generic [ref=f14e1174]:
+                  - generic [ref=f14e1175]: ¥
+                  - generic [ref=f14e1176]: "360"
+                  - generic [ref=f14e1178]: 0人付款
+                  - generic [ref=f14e1179]: 广东
+                  - generic [ref=f14e1180]: 广州
+              - generic "24小时内发 退货宝 包邮" [ref=f14e1181]:
+                - generic [ref=f14e1182]: 24小时内发
+                - generic [ref=f14e1184]: 退货宝
+                - generic [ref=f14e1186]: 包邮
+              - link "东鑫科技电子" [ref=f14e1189]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWNxcwr5q16PheMw2BzWJVfvNvRWzzBW73wiid2iYLNySy&topIds=1065766795805&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.28
+          - link "全新Seagate/希捷 ST2000NX0273 2tb 2.5寸 SAS 企业服务器硬盘2t 2TB 服务器 ¥ 415 优惠后 80人付款 广东 韶关 官方立减5元 退货宝 包邮 鸿泰电子科技" [ref=f14e1193] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=964853851896&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000eB8F8XZCqAguers_in9EluM4snbYNjkVU3PuOiKdxog&skuId=5909525485280&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22b7a329d6a073286b372ef32d9fb782ee%22%7D&spm=a21n57.1.item.29
+            - generic [ref=f14e1194]:
+              - generic [ref=f14e1195]:
+                - generic "全新Seagate/希捷 ST2000NX0273 2tb 2.5寸 SAS 企业服务器硬盘2t" [ref=f14e1197]
+                - generic [ref=f14e1203]:
+                  - generic [ref=f14e1204]: 2TB
+                  - generic [ref=f14e1207]: 服务器
+                - generic [ref=f14e1212]:
+                  - generic [ref=f14e1213]: ¥
+                  - generic [ref=f14e1214]: "415"
+                  - generic [ref=f14e1216]: 优惠后
+                  - generic [ref=f14e1217]: 80人付款
+                  - generic [ref=f14e1218]: 广东
+                  - generic [ref=f14e1219]: 韶关
+              - generic "官方立减5元 退货宝 包邮" [ref=f14e1220]:
+                - generic [ref=f14e1221]: 官方立减5元
+                - generic [ref=f14e1223]: 退货宝
+                - generic [ref=f14e1225]: 包邮
+              - link "鸿泰电子科技" [ref=f14e1228]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWTn7zpeTieYUf1u3iUSHNwSjAvRWQAurcZ84QREduhx6H&topIds=964853851896&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.29
+          - link "西数红盘4TB机械硬盘1T 2T 3T 4T 6T 8T 10T 12T 14T/电脑监控NAS ¥ 226 优惠后 1000+人付款 广东 韶关 官方立减3元 包邮 6年老店 极速硬盘商行" [ref=f14e1232] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1060527757858&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000xULbESuLnR-zOnUzOX1U3aSBt7gLMVbnn1wV0cQw6hU&skuId=6269211946077&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%226f55ee8db802943e6ad9e6a1fed89d12%22%7D&spm=a21n57.1.item.30
+            - generic [ref=f14e1233]:
+              - generic [ref=f14e1234]:
+                - generic "西数红盘4TB机械硬盘1T 2T 3T 4T 6T 8T 10T 12T 14T/电脑监控NAS" [ref=f14e1236]
+                - generic [ref=f14e1240]:
+                  - generic [ref=f14e1241]: ¥
+                  - generic [ref=f14e1242]: "226"
+                  - generic [ref=f14e1244]: 优惠后
+                  - generic [ref=f14e1245]: 1000+人付款
+                  - generic [ref=f14e1246]: 广东
+                  - generic [ref=f14e1247]: 韶关
+              - generic "官方立减3元 包邮" [ref=f14e1248]:
+                - generic [ref=f14e1249]: 官方立减3元
+                - generic [ref=f14e1251]: 包邮
+              - link "6年老店 极速硬盘商行" [ref=f14e1254]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWZn8jPiS4ikbxHUj88LNrBHSsL3y91S6TfDrw2RX4upDh&topIds=1060527757858&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.30
+                - generic [ref=f14e1255]: 6年老店
+                - generic [ref=f14e1257]: 极速硬盘商行
+          - link "监控专用紫盘垂直盘录像机硬盘1T 2T 3T硬盘3.5寸安防CMR监控硬盘 5400转 500MB/s以下 服务器/台式机/监控/点歌机 ¥ 217 优惠后 300+人付款 广东 清远 官方立减3元 退货宝 包邮 极光储存硬盘批发" [ref=f14e1260] [cursor=pointer]:
+            - /url: https://mclick.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=1770873928&k=2413&e=6Yd6JkTXiWbk4ULvp7blMPOcDQ%2BCwmPwNjzVFQPtK%2Fe8cLCPgB%2BoDU%2BCz1v22xXQACeEhTzJEcUMJHgrNDvET8JhIKblwx60U1ZvfsX%2F5hGly3E7N8jMuVWQY7EPwRm09S42hrXCaFhxwGIcHHtvUpezZC800Px4BNUGhTJgG8L9wL%2B6Ikyfp3blEf7kB2XlP0a%2FRHyKw4EgG7cXg8hg%2F5aZD8Lgy0PndoNk0U%2BYUmASC6NndZANt9bR%2FtZDQ%2BiSsiS%2FSdmQUfVB1%2FrWtgSLGDLOOvrfD5QOvZBYRD1aC5mL01NaSvVW1F4sqfJzQYRG89m9jCEtPu3LAH4FD2hI%2BGG6xodNuY23nGVB9W4FhKRkFXUHpjK7QXKSivoadJNfe4%2F9x6CFD%2BCVbkNxu12J4bFCCgcBb%2BZyVbV4Js4twz%2B4Nu%2F5m2BOb9AZVBtEa278y8PKVE6Ur9pe3wBursmqDlP9GE47FJqRpRB6rrgVTR9MXdhGwNXmhimTYPAmeqscAzzAcjSQDeR1absUQ5wjC7DXXYAId0KQebk2sJ7Wj1ChjXhM%2FESVZVcSvxud%2Ffnw1yPkacUmC75jV4sKZaJPcRrNcsNLhcL3y4tAdE%2FgAOKCaLcbySDz%2FsKpRSrdk6Nh%2FHV8j9RVb7iDtTl2gp695vAlzhpaziL%2FmECWyXx7OQoalPBNZUMDZN3Jo0S08VBzhIjx43tDh6H0xGMVu7eqibg9ducXOAbg%2Bq9PA5OQ6wMspSxxrQKH26RzmOq5khgJ04rXvDxIujq7rNqwZ7edfiWJC0kQR91VI6zx4qCpsamEloSx4G%2FBNOTeZnQoMrg2fkFjt14Gl0tx%2FyjCRAVSY%2Bcj%2F5nShNENNK0Kz6mPMe%2FYkzkGhWNx7BggnhcXQXXttKiEfZC5InAGrehM3KoMoIKOWpP48xslEwYxROPpiPuKjVBOBTrErrosVdjOT3REDzvkhsnTL3XN%2F%2BxzxYfUYA%2B9SHbSACFjlM5Gt3sH542oNzPtXlzuL4TH7LOdv5fQUSHQgY3OwShJcm4sqA1fslx%2FcT0AWcA9rT%2FYCfR5lODaSuiIIljsanqWOWxzCPfVRqn2znh8K5M6GferJRFmwDApSA1ndBJoTRHSw5lSUE9noNSqW%2BcH69M5V7Kd%2F%2FTID7Y28beQkcFkySX4Shz6xvrnb219YQIJB2Ey%2FwIPhP0pZd0m3Oc%2FdUobD4MDcMqDNrbafMc1Alv6ceIYssnz2asLE3a1etG8STqdM23lbgbWhaZ0uChIUB2I6vur2vV7YSU9seU%2FcnL3NHmpu4Misp6Cw%2BX1aHqEUKESj7LuPJzPkR3vSAX8t8kUL%2FDIsg3HjJs1T2xD75iprJmqBwacD3dRUQruXdyYIAiyl%2B%2BqNL1T0FhhLthYGtsVwst7KOL850mYRY9o96yQmzon%2Fyci0ZDQwCu8cSMn4INRbJEdWMR9dBChM7oL70QBkPtU59DCE6NgdGq2Z5sZ2xzXY9boxNOK17w8SLo6SssZAPSWsUABhwCDkHMEV5Vja63UCdX6adDk%2FM0VNdFXnkjgvTPVeX%2FBD6w2RGHftMC5fRdteSvO1Y8bYYSudI1mav%2Bxt2XLyqvqSgkeTIL75qj0GrA9iDVwzO3jr0DLzZBU2ZOaay5mbTHpekG1X%2FRUOtZ%2BPLY%2BVWgzunhVku43TW0FJoPoMBKLt5%2FeYKkh2oZV2Cl%2FBMAynpjIrnDcjUdpUnWEOOgK%2BZ%2BmxF%2B%2BKu%2BLQzxHNqVuYGr5AdUT%2F8XLFZpFLGd0UkPO45NFeQfnxjk2muOMihwvRl0Zx%2BmNRExFUCM0%2FlnU0SqJq8CT8kmAcRpgObkWTB9b1PcrrDM16EwsUp53OnEIfSbciObdr03Tem%2F54OcdWklTSoz2Vbn0OTaa44yKHC9GXRnH6Y1ETBoHSUc0lB4jDhDLy%2B7Xkk%2BRMWDUxGOq%2BEFg3W8uz2t9NZHFOg4CSQ8z0ZPL2hoO6CfpDOfeorCGmuV2FitlPk7%2BOWk7EAN8FwZYnEvrRpIS%2FfhWkrlMH5LlojfqY6ByilfqiVFcVHsuyL2Ia5XP4pUBrjXrkG%2FfC9lk1aRsKeVBjBGEiU7iA2bgX5EL%2FtnXY03Y%2By972YnDsRjJhEV9UVKiYYK37qChd7qoOb7VExk0O7zubfcMTIMRCrR9Nnv9bCYRws1k8RU5SpRAk1u%2F4LBKOUmk%2FhCyY2HLM%2FdPM5RA9ixVsJWL7d9C7JBWwYvFt5%2BAtkhUVFvlkms7kzQO4C3c7ICYrJ6%2F5gFLuuWErPQnBXwYvYBzH4uXE%2BbywJHPtLC5C1DYlO989LoraGsroatYdIqBA%2BLSrbR1PxV5qA2H%2FtctMga08v0%2Fo0fkKzY1lgBs7R3JLnq1M9Y%2FiOFslKsPr1XDbGF8x1xConTriSgGSdlzZ9uNuEk%3D&eadt=318&mm_sceneid=0_0_4147197587_0_0&a=xxc%3DtaobaoSearch%26mi_id%3D00009PeZom5NxE4-dm2mKbGCYPheu0NLopbkIiYoE0vhUOU%26skuId%3D6281583510764%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%25252522cd2672d7f111f924df5ea818f86fcd3f%25252522%2525257D%26&id=1068636417446&spm=a21n57.1.item.31
+            - generic [ref=f14e1261]:
+              - generic [ref=f14e1262]:
+                - generic "监控专用紫盘垂直盘录像机硬盘1T 2T 3T硬盘3.5寸安防CMR监控硬盘" [ref=f14e1264]
+                - generic [ref=f14e1270]:
+                  - generic [ref=f14e1271]: 5400转
+                  - generic [ref=f14e1274]: 500MB/s以下
+                  - generic [ref=f14e1278]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e1283]:
+                  - generic [ref=f14e1284]: ¥
+                  - generic [ref=f14e1285]: "217"
+                  - generic [ref=f14e1287]: 优惠后
+                  - generic [ref=f14e1288]: 300+人付款
+                  - generic [ref=f14e1289]: 广东
+                  - generic [ref=f14e1290]: 清远
+              - generic "官方立减3元 退货宝 包邮" [ref=f14e1291]:
+                - generic [ref=f14e1292]: 官方立减3元
+                - generic [ref=f14e1294]: 退货宝
+                - generic [ref=f14e1296]: 包邮
+              - link "极光储存硬盘批发" [ref=f14e1299]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWJLdNPJ9WHX3T8fFT3UUz4wALpStvGAFyXdzN6PsmLLJh&topIds=1068636417446&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.31
+          - link "希捷ST4000NM000A/000B银河企业级服务器4t机械硬盘7200转SATA 4TB 服务器/台式机/监控/点歌机 ¥ 633 优惠后 30人付款 广东 东莞 官方立减7元 退货宝 48小时内发 5年老店 华语科技6707" [ref=f14e1303] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1082023245182&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000sum6El639xzw2vNHbk4HTleQ0EU2SOer2eJa3f7c1VU&skuId=6134939033068&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%220f33fabeeb2930521e82973e257b2629%22%7D&spm=a21n57.1.item.32
+            - generic [ref=f14e1304]:
+              - generic [ref=f14e1305]:
+                - generic "希捷ST4000NM000A/000B银河企业级服务器4t机械硬盘7200转SATA" [ref=f14e1307]
+                - generic [ref=f14e1312]:
+                  - generic [ref=f14e1313]: 4TB
+                  - generic [ref=f14e1316]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e1321]:
+                  - generic [ref=f14e1322]: ¥
+                  - generic [ref=f14e1323]: "633"
+                  - generic [ref=f14e1325]: 优惠后
+                  - generic [ref=f14e1326]: 30人付款
+                  - generic [ref=f14e1327]: 广东
+                  - generic [ref=f14e1328]: 东莞
+              - generic "官方立减7元 退货宝 48小时内发" [ref=f14e1329]:
+                - generic [ref=f14e1330]: 官方立减7元
+                - generic [ref=f14e1332]: 退货宝
+                - generic [ref=f14e1334]: 48小时内发
+              - link "5年老店 华语科技6707" [ref=f14e1337]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWaFfcRAqNfKxmzsZwcdfzrqRfdGksCVfgNddesZac2QBE&topIds=1082023245182&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.32
+                - generic [ref=f14e1338]: 5年老店
+                - generic [ref=f14e1340]: 华语科技6707
+          - link "WD/西数4TB机械硬盘电脑台式机4t游戏黑盘垂直存储阵列监控录像机 ¥ 220 优惠后 2000+人付款 广东 揭阳 直接下单享优惠 退货宝 包邮 暖暖硬盘批发商" [ref=f14e1343] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=708939079632&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000L56SgfagmYVxutV1sQweyk0BEdV4nGOf3K5JN9h59fw&skuId=5652405556529&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%223f96193566f04e29d496626cf5fcdf77%22%7D&spm=a21n57.1.item.33
+            - generic [ref=f14e1344]:
+              - generic [ref=f14e1345]:
+                - generic "WD/西数4TB机械硬盘电脑台式机4t游戏黑盘垂直存储阵列监控录像机" [ref=f14e1347]
+                - generic [ref=f14e1351]:
+                  - generic [ref=f14e1352]: ¥
+                  - generic [ref=f14e1353]: "220"
+                  - generic [ref=f14e1355]: 优惠后
+                  - generic [ref=f14e1356]: 2000+人付款
+                  - generic [ref=f14e1357]: 广东
+                  - generic [ref=f14e1358]: 揭阳
+              - generic "直接下单享优惠 退货宝 包邮" [ref=f14e1359]:
+                - generic [ref=f14e1360]: 直接下单享优惠
+                - generic [ref=f14e1362]: 退货宝
+                - generic [ref=f14e1364]: 包邮
+              - link "暖暖硬盘批发商" [ref=f14e1367]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWToFc4GYp3cKmYapzi7YtXtf9P7bExYMH2NvRoWcpvLbX&topIds=708939079632&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.33
+          - link "东芝3T4T6T8T企业级硬盘10TB监控录像机12T阵列NAS台式机硬盘垂直 入选硬盘扩容神器店铺 榜 3.5英寸 服务器/台式机/监控/点歌机 ¥ 200 100+人付款 广东 东莞 退货宝 包邮 7年老店 志超电子科技" [ref=f14e1371] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=927428469129&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000s4uji16XmuUOFvmOcq3XVrsgxMWE5hoyOTVHLOS5U8g&skuId=6282749946221&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22e22005c55d7770ced03ea1ece0199716%22%7D&spm=a21n57.1.item.34
+            - generic [ref=f14e1372]:
+              - generic [ref=f14e1373]:
+                - generic "东芝3T4T6T8T企业级硬盘10TB监控录像机12T阵列NAS台式机硬盘垂直" [ref=f14e1375]
+                - generic [ref=f14e1378]:
+                  - generic [ref=f14e1380]:
+                    - generic [ref=f14e1381]: 入选硬盘扩容神器店铺
+                    - generic [ref=f14e1382]: 榜
+                  - generic [ref=f14e1384]:
+                    - generic [ref=f14e1385]: 3.5英寸
+                    - generic [ref=f14e1388]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e1393]:
+                  - generic [ref=f14e1394]: ¥
+                  - generic [ref=f14e1395]: "200"
+                  - generic [ref=f14e1397]: 100+人付款
+                  - generic [ref=f14e1398]: 广东
+                  - generic [ref=f14e1399]: 东莞
+              - generic "退货宝 包邮" [ref=f14e1400]:
+                - generic [ref=f14e1401]: 退货宝
+                - generic [ref=f14e1403]: 包邮
+              - link "7年老店 志超电子科技" [ref=f14e1406]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWS3nP1cj7DJ4ycqPoKxhoNC1wbDQy4UbtDf5MMqJpfQzq&topIds=927428469129&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.34
+                - generic [ref=f14e1407]: 7年老店
+                - generic [ref=f14e1409]: 志超电子科技
+          - link "西数1T 2T 3T 4T 5T 6T 8T 10T 12T 14T 16T 18T 20T 22T 24T硬盘 ¥ 198 0人付款 北京 包邮 d[s173856868]" [ref=f14e1412] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1063778992722&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=000034e-lteW-LcFk8hMBxajgy85b1_1aoBwPsbdTT5yUvw&skuId=6108257812016&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%221a3034592355d4ecfcacb28d9908f911%22%7D&spm=a21n57.1.item.35
+            - generic [ref=f14e1413]:
+              - generic [ref=f14e1414]:
+                - generic "西数1T 2T 3T 4T 5T 6T 8T 10T 12T 14T 16T 18T 20T 22T 24T硬盘" [ref=f14e1416]
+                - generic [ref=f14e1419]:
+                  - generic [ref=f14e1420]: ¥
+                  - generic [ref=f14e1421]: "198"
+                  - generic [ref=f14e1423]: 0人付款
+                  - generic [ref=f14e1424]: 北京
+              - generic "包邮" [ref=f14e1425]
+              - link "d[s173856868]" [ref=f14e1429]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWNnZdyJn1GGqdEQYaoDK15U5TfK4Tz5qg5VgcgdG1xoJL&topIds=1063778992722&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.35
+          - link "10T企业级WD102PURX监控硬盘NAS存储阵列台式机械硬盘零通电 10TB 500MB/s以下 3.5英寸 ¥ 1660 300+人付款 广东 深圳 直接下单享优惠 退货宝 包邮 7年老店 深圳飞驰数码硬盘科技" [ref=f14e1433] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1046908518728&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=00008B_KtGN6VZ2VFnphUf2wlcQKgIabjrYsO-A4Frvit0U&skuId=6129048741959&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%2270dc3b62f0ec548a57a3c1be93729c24%22%7D&spm=a21n57.1.item.36
+            - generic [ref=f14e1434]:
+              - generic [ref=f14e1435]:
+                - generic "10T企业级WD102PURX监控硬盘NAS存储阵列台式机械硬盘零通电" [ref=f14e1437]
+                - generic [ref=f14e1442]:
+                  - generic [ref=f14e1443]: 10TB
+                  - generic [ref=f14e1446]: 500MB/s以下
+                  - generic [ref=f14e1450]: 3.5英寸
+                - generic [ref=f14e1455]:
+                  - generic [ref=f14e1456]: ¥
+                  - generic [ref=f14e1457]: "1660"
+                  - generic [ref=f14e1459]: 300+人付款
+                  - generic [ref=f14e1460]: 广东
+                  - generic [ref=f14e1461]: 深圳
+              - generic "直接下单享优惠 退货宝 包邮" [ref=f14e1462]:
+                - generic [ref=f14e1463]: 直接下单享优惠
+                - generic [ref=f14e1465]: 退货宝
+                - generic [ref=f14e1467]: 包邮
+              - link "7年老店 深圳飞驰数码硬盘科技" [ref=f14e1470]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWSGfPQADnB6w2NgWR4Qr13ucmMaPNTUPs5SvEq2jX2Jed&topIds=1046908518728&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.36
+                - generic [ref=f14e1471]: 7年老店
+                - generic [ref=f14e1473]: 深圳飞驰数码硬盘科技
+          - link "WD HC550 16T企业级氦气盘监控专用机械硬盘 14T 18T 12T希捷存储 ¥ 549 优惠后 500+人付款 上海 直接下单享优惠 包邮 上海红名服务器" [ref=f14e1476] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=688026868154&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000SudWZk0yNycmuV5t7i2xbJO706syRpY0UKnYYs2_yqY&skuId=5933557229634&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%2223787ad8cb06a18b98ed29651d0b8424%22%7D&spm=a21n57.1.item.37
+            - generic [ref=f14e1477]:
+              - generic [ref=f14e1478]:
+                - generic "WD HC550 16T企业级氦气盘监控专用机械硬盘 14T 18T 12T希捷存储" [ref=f14e1480]
+                - generic [ref=f14e1483]:
+                  - generic [ref=f14e1484]: ¥
+                  - generic [ref=f14e1485]: "549"
+                  - generic [ref=f14e1487]: 优惠后
+                  - generic [ref=f14e1488]: 500+人付款
+                  - generic [ref=f14e1489]: 上海
+              - generic "直接下单享优惠 包邮" [ref=f14e1490]:
+                - generic [ref=f14e1491]: 直接下单享优惠
+                - generic [ref=f14e1493]: 包邮
+              - link "上海红名服务器" [ref=f14e1496]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWLPAEYTZhskLDwgkx9rTNuJDzb1TeeqCp7tEc9TX7jf6z&topIds=688026868154&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.37
+          - link "监控专用硬盘1T2T4T6T8T10T12T16机械硬盘7200转台式机企业级硬盘 16TB NAS ¥ 215 优惠后 12人付款 北京 包邮 嘉莹监控存储科技硬盘" [ref=f14e1500] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1080734651655&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000Xn7MF5T59H-WXRd3TFOkVbIEzQfe66DfVzNoRcAyqXQ&skuId=6300102503444&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22d754eab01a4694d7718840269b8575b6%22%7D&spm=a21n57.1.item.38
+            - generic [ref=f14e1501]:
+              - generic [ref=f14e1502]:
+                - generic "监控专用硬盘1T2T4T6T8T10T12T16机械硬盘7200转台式机企业级硬盘" [ref=f14e1504]
+                - generic [ref=f14e1509]:
+                  - generic [ref=f14e1510]: 16TB
+                  - generic [ref=f14e1513]: NAS
+                - generic [ref=f14e1518]:
+                  - generic [ref=f14e1519]: ¥
+                  - generic [ref=f14e1520]: "215"
+                  - generic [ref=f14e1522]: 优惠后
+                  - generic [ref=f14e1523]: 12人付款
+                  - generic [ref=f14e1524]: 北京
+              - generic "包邮" [ref=f14e1525]
+              - link "嘉莹监控存储科技硬盘" [ref=f14e1529]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWWwz7dePLNZKmbeWiiqj4TyGY5a8u6dvSeixvkQojTBSC&topIds=1080734651655&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.38
+          - link "希捷3TB旗舰级机械硬盘SATA接口5900转NAS硬盘服务器监控二手硬盘 5900转 500MB/s以下 3.5英寸 ¥ 288 补贴后 74人付款 广东 东莞 3期 淘金币已抵12元 退货宝 芯源创业科技储存店" [ref=f14e1533] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1056807110544&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000erQYFDQFu8VU2Ez3vF5i87-RB60mTdk1eVV1GaPhYv8&skuId=6139501717470&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%225e711b0401f0060a64d3e18e32b0ddc1%22%7D&spm=a21n57.1.item.39
+            - generic [ref=f14e1534]:
+              - generic [ref=f14e1535]:
+                - generic "希捷3TB旗舰级机械硬盘SATA接口5900转NAS硬盘服务器监控二手硬盘" [ref=f14e1537]
+                - generic [ref=f14e1542]:
+                  - generic [ref=f14e1543]: 5900转
+                  - generic [ref=f14e1546]: 500MB/s以下
+                  - generic [ref=f14e1550]: 3.5英寸
+                - generic [ref=f14e1555]:
+                  - generic [ref=f14e1556]: ¥
+                  - generic [ref=f14e1557]: "288"
+                  - generic [ref=f14e1559]: 补贴后
+                  - generic [ref=f14e1560]: 74人付款
+                  - generic [ref=f14e1561]: 广东
+                  - generic [ref=f14e1562]: 东莞
+              - generic "3期 淘金币已抵12元 退货宝" [ref=f14e1563]:
+                - generic [ref=f14e1564]: 3期
+                - generic [ref=f14e1566]: 淘金币已抵12元
+                - generic [ref=f14e1568]: 退货宝
+              - link "芯源创业科技储存店" [ref=f14e1571]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWVAnim7kBn73ikQrn9yw9NZidyPECYYCXY6aAJLZZFgKv&topIds=1056807110544&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.39
+          - link "监控录像机专用硬盘1-10TB长质保企业级硬盘NAS储存阵列机械硬盘 12TB 服务器/台式机/监控/点歌机 ¥ 210 优惠后 25人付款 广东 中山 24小时内发 包邮 斌诚科技监控存储" [ref=f14e1575] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1087782280019&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000s9fUtsaky9RT53mNi3BrYvaqH82zb0Vfe5RV-SI9k6A&skuId=6140653904392&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%227eca975fbf6d24c0538a37aef64ad5a0%22%7D&spm=a21n57.1.item.40
+            - generic [ref=f14e1576]:
+              - generic [ref=f14e1577]:
+                - generic "监控录像机专用硬盘1-10TB长质保企业级硬盘NAS储存阵列机械硬盘" [ref=f14e1579]
+                - generic [ref=f14e1584]:
+                  - generic [ref=f14e1585]: 12TB
+                  - generic [ref=f14e1588]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e1593]:
+                  - generic [ref=f14e1594]: ¥
+                  - generic [ref=f14e1595]: "210"
+                  - generic [ref=f14e1597]: 优惠后
+                  - generic [ref=f14e1598]: 25人付款
+                  - generic [ref=f14e1599]: 广东
+                  - generic [ref=f14e1600]: 中山
+              - generic "24小时内发 包邮" [ref=f14e1601]:
+                - generic [ref=f14e1602]: 24小时内发
+                - generic [ref=f14e1604]: 包邮
+              - link "斌诚科技监控存储" [ref=f14e1607]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWLff5X5vuRzYCWpS7zHALtYxSyd6WcuSSCfqeHykGsbsa&topIds=1087782280019&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.40
+          - link "酷鱼3TB SATA 3.5寸1TB–8TB机械硬盘家用台式机监控专用存储硬盘 500MB/s以下 3.5英寸 服务器/台式机/监控/点歌机 ¥ 242 优惠后 11人付款 广东 深圳 官方立减3元 退货宝 包邮 聚力电子科技" [ref=f14e1611] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1066018575322&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000n-vwRHyTkkBzY6RRltscfMIC1xx_P0vuak0ox6Z7Nxw&skuId=6280744179093&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%227b1517f0e704154f9d501d2fd644bff3%22%7D&spm=a21n57.1.item.41
+            - generic [ref=f14e1612]:
+              - generic [ref=f14e1613]:
+                - generic "酷鱼3TB SATA 3.5寸1TB–8TB机械硬盘家用台式机监控专用存储硬盘" [ref=f14e1615]
+                - generic [ref=f14e1620]:
+                  - generic [ref=f14e1621]: 500MB/s以下
+                  - generic [ref=f14e1624]: 3.5英寸
+                  - generic [ref=f14e1628]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e1633]:
+                  - generic [ref=f14e1634]: ¥
+                  - generic [ref=f14e1635]: "242"
+                  - generic [ref=f14e1637]: 优惠后
+                  - generic [ref=f14e1638]: 11人付款
+                  - generic [ref=f14e1639]: 广东
+                  - generic [ref=f14e1640]: 深圳
+              - generic "官方立减3元 退货宝 包邮" [ref=f14e1641]:
+                - generic [ref=f14e1642]: 官方立减3元
+                - generic [ref=f14e1644]: 退货宝
+                - generic [ref=f14e1646]: 包邮
+              - link "聚力电子科技" [ref=f14e1649]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWUbkv3wdhKPgourjmH7QLQmdcfeV4jZwcm6X9xDMrEgu7&topIds=1066018575322&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.41
+          - link "西数WD希捷16T企业级14T 4T 6T 8T 10T 12T 18T机械监控硬盘SATA ¥ 569 优惠后 3000+人付款 上海 直接下单享优惠 包邮 浦东服务器" [ref=f14e1653] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=599544680031&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000VQ6fHA6SoaujPjQo6LV3ijph0Aq80SRtssF_EGDm66o&skuId=6315000706451&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22dc06de26a6e2ef591aa989bee4426cdc%22%7D&spm=a21n57.1.item.42
+            - generic [ref=f14e1654]:
+              - generic [ref=f14e1655]:
+                - generic "西数WD希捷16T企业级14T 4T 6T 8T 10T 12T 18T机械监控硬盘SATA" [ref=f14e1657]
+                - generic [ref=f14e1660]:
+                  - generic [ref=f14e1661]: ¥
+                  - generic [ref=f14e1662]: "569"
+                  - generic [ref=f14e1664]: 优惠后
+                  - generic [ref=f14e1665]: 3000+人付款
+                  - generic [ref=f14e1666]: 上海
+              - generic "直接下单享优惠 包邮" [ref=f14e1667]:
+                - generic [ref=f14e1668]: 直接下单享优惠
+                - generic [ref=f14e1670]: 包邮
+              - link "浦东服务器" [ref=f14e1673]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HAj3iij4BAcGTsqaZfymva2Y&topIds=599544680031&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.42
+          - link "监控专用硬盘1T/2T/4T/6T/8T/10T企业级硬盘7200转机械硬盘长质保 6TB 监控器材 ¥ 207 优惠后 60人付款 广东 中山 退货宝 48小时内发 包邮 安齐监控存储科技硬盘" [ref=f14e1677] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1074313505638&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000CLJ2h5iFaCEbjIXtaurNiaYegVbGdC2Gnr7CUTi5C9M&skuId=6293787990218&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22150740c0ec6b0747e3b202108ffb798e%22%7D&spm=a21n57.1.item.43
+            - generic [ref=f14e1678]:
+              - generic [ref=f14e1679]:
+                - generic "监控专用硬盘1T/2T/4T/6T/8T/10T企业级硬盘7200转机械硬盘长质保" [ref=f14e1681]
+                - generic [ref=f14e1686]:
+                  - generic [ref=f14e1687]: 6TB
+                  - generic [ref=f14e1690]: 监控器材
+                - generic [ref=f14e1695]:
+                  - generic [ref=f14e1696]: ¥
+                  - generic [ref=f14e1697]: "207"
+                  - generic [ref=f14e1699]: 优惠后
+                  - generic [ref=f14e1700]: 60人付款
+                  - generic [ref=f14e1701]: 广东
+                  - generic [ref=f14e1702]: 中山
+              - generic "退货宝 48小时内发 包邮" [ref=f14e1703]:
+                - generic [ref=f14e1704]: 退货宝
+                - generic [ref=f14e1706]: 48小时内发
+                - generic [ref=f14e1708]: 包邮
+              - link "安齐监控存储科技硬盘" [ref=f14e1711]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMkqBbUvgqo6Gap8eAeva63JuppkikRCcECrY1wN72vZq&topIds=1074313505638&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.43
+          - link "WD西数4T黑盘企业级高速 3TB 2TB台式机64m电脑硬盘录像机硬盘 ¥ 255 14人付款 广东 惠州 退货宝 48小时内发 包邮 数仓小铺" [ref=f14e1715] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1075889812587&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000y4E8GjAWmuufZ3J1o1utiHlaTZnxCyWF7ePyHfWsELU&skuId=6124844600679&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22d8a43e4a128f65b5be2cffae5f79b542%22%7D&spm=a21n57.1.item.44
+            - generic [ref=f14e1716]:
+              - generic [ref=f14e1717]:
+                - generic "WD西数4T黑盘企业级高速 3TB 2TB台式机64m电脑硬盘录像机硬盘" [ref=f14e1719]
+                - generic [ref=f14e1722]:
+                  - generic [ref=f14e1723]: ¥
+                  - generic [ref=f14e1724]: "255"
+                  - generic [ref=f14e1726]: 14人付款
+                  - generic [ref=f14e1727]: 广东
+                  - generic [ref=f14e1728]: 惠州
+              - generic "退货宝 48小时内发 包邮" [ref=f14e1729]:
+                - generic [ref=f14e1730]: 退货宝
+                - generic [ref=f14e1732]: 48小时内发
+                - generic [ref=f14e1734]: 包邮
+              - link "数仓小铺" [ref=f14e1737]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWPAGyerRWYt8qK7b6LSxVnoEodS1VY8DxGsQDmitNikPE&topIds=1075889812587&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.44
+          - link "WD西部数据4TB机械硬盘监控专用CMR垂直记录SATA接口3.5寸 3.5英寸 服务器/台式机/监控/点歌机 ¥ 249 200+人看过 广东 惠州 包邮 利源数码科技" [ref=f14e1741] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1085552883606&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000iU9cTxJeKKeIqq-fd5b6u44mTI5s35wB1NRjrHxYGiw&skuId=6306453887032&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22a394c0accdc3835fb10f86f308791517%22%7D&spm=a21n57.1.item.45
+            - generic [ref=f14e1742]:
+              - generic [ref=f14e1743]:
+                - generic "WD西部数据4TB机械硬盘监控专用CMR垂直记录SATA接口3.5寸" [ref=f14e1745]
+                - generic [ref=f14e1750]:
+                  - generic [ref=f14e1751]: 3.5英寸
+                  - generic [ref=f14e1754]: 服务器/台式机/监控/点歌机
+                - generic [ref=f14e1759]:
+                  - generic [ref=f14e1760]: ¥
+                  - generic [ref=f14e1761]: "249"
+                  - generic [ref=f14e1763]: 200+人看过
+                  - generic [ref=f14e1764]: 广东
+                  - generic [ref=f14e1765]: 惠州
+              - generic "包邮" [ref=f14e1766]
+              - link "利源数码科技" [ref=f14e1770]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWaV9BeZ2Y1zLwiKGuZ51937w584sSCTDDWvLcayPmc1Fz&topIds=1085552883606&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.45
+          - link "1T2T3T4T6T8T10T12T16T企业级监控录像存储氦气垂直机械硬盘 品牌新客补贴，当日有效 3.5英寸 监控器材 ¥ 5377 .63 首单价 300+人付款 江苏 苏州 官方立减0.6元 直降7元 淘金币已抵0.55元 万鼎科技硬盘批发零售商铺" [ref=f14e1774] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=720814758077&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000h4M3IiFaDxcXGnfmgcbBO98Dm4J9JNuJrmE39u-nWZ4&skuId=6116872685806&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%224af959abb4370777217619a8b7adc398%22%7D&spm=a21n57.1.item.46
+            - generic [ref=f14e1775]:
+              - generic [ref=f14e1776]:
+                - generic "1T2T3T4T6T8T10T12T16T企业级监控录像存储氦气垂直机械硬盘" [ref=f14e1778]
+                - generic [ref=f14e1781]:
+                  - generic [ref=f14e1782]: 品牌新客补贴，当日有效
+                  - generic [ref=f14e1788]:
+                    - generic [ref=f14e1789]: 3.5英寸
+                    - generic [ref=f14e1792]: 监控器材
+                - generic [ref=f14e1797]:
+                  - generic [ref=f14e1798]: ¥
+                  - generic [ref=f14e1799]:
+                    - generic [ref=f14e1800]: "5377"
+                    - generic [ref=f14e1801]: ".63"
+                  - generic [ref=f14e1802]: 首单价
+                  - generic [ref=f14e1803]: 300+人付款
+                  - generic [ref=f14e1804]: 江苏
+                  - generic [ref=f14e1805]: 苏州
+              - generic "官方立减0.6元 直降7元 淘金币已抵0.55元" [ref=f14e1806]:
+                - generic [ref=f14e1807]: 官方立减0.6元
+                - generic [ref=f14e1809]: 直降7元
+                - generic [ref=f14e1811]: 淘金币已抵0.55元
+              - link "万鼎科技硬盘批发零售商铺" [ref=f14e1814]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWKi2NqrgkgSixoJsRwAdGsEngZiHBED7686hV1Rjo985M&topIds=720814758077&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.46
+          - link "6T家用存储硬盘6TB大内存监控安防专用企业级硬盘录像机专用硬盘 ¥ 855 优惠后 8人付款 北京 24小时内发 包邮 嘉莹监控存储科技硬盘" [ref=f14e1818] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=1064824194722&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000luymvrowM3A5FZNa8K2slGvLHIBUaeZr_1WETBmyMs8&skuId=6287818575652&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%225cb63680b38cf0cffb08acaf3d0fd540%22%7D&spm=a21n57.1.item.47
+            - generic [ref=f14e1819]:
+              - generic [ref=f14e1820]:
+                - generic "6T家用存储硬盘6TB大内存监控安防专用企业级硬盘录像机专用硬盘" [ref=f14e1822]
+                - generic [ref=f14e1825]:
+                  - generic [ref=f14e1826]: ¥
+                  - generic [ref=f14e1827]: "855"
+                  - generic [ref=f14e1829]: 优惠后
+                  - generic [ref=f14e1830]: 8人付款
+                  - generic [ref=f14e1831]: 北京
+              - generic "24小时内发 包邮" [ref=f14e1832]:
+                - generic [ref=f14e1833]: 24小时内发
+                - generic [ref=f14e1835]: 包邮
+              - link "嘉莹监控存储科技硬盘" [ref=f14e1838]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWWwz7dePLNZKmbeWiiqj4TyGY5a8u6dvSeixvkQojTBSC&topIds=1064824194722&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.47
+          - link "3.5英寸机械硬盘1T2T3T4TB监控硬盘台式机企业级存储SATA高速安防 ¥ 217 优惠后 35人看过 安徽 合肥 官方立减3元 包邮 苒鑫科技硬盘之家" [ref=f14e1842] [cursor=pointer]:
+            - /url: https://mclick.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=1770873928&k=2593&e=uJMTIi1z0p%2Fk4ULvp7blMPOcDQ%2BCwmPwNjzVFQPtK%2Fe8cLCPgB%2BoDU%2BCz1v22xXQACeEhTzJEcWI7XK3ThQCGdBUtuM5OXIC%2BDGP%2F6KSpNely3E7N8jMuVWQY7EPwRm09S42hrXCaFhxwGIcHHtvUpezZC800Px4BNUGhTJgG8L9wL%2B6Ikyfp3blEf7kB2XlP0a%2FRHyKw4EgG7cXg8hg%2F5aZD8Lgy0PndoNk0U%2BYUmASC6NndZANt9bR%2FtZDQ%2BiSsiS%2FSdmQUfVB1%2FrWtgSLGDLOOvrfD5QOvZBYRD1aC5mL01NaSvVW1F4sqfJzQYRG89m9jCEtPu3LAH4FD2hI%2BGG6xodNuY23nGVB9W4FhKRkFXUHpjK7QXKSivoadJNfe4%2F9x6CFD%2BCVbkNxu12J4bFCCgcBb%2BZyVbV4Js4twz%2B4Nu%2F5m2BOb9AZVBtEa278y8PKVE6Ur9pe3wBursmqDlP9GE47FJqRpRB6rrgVTR9MXdhGwNXmhimTYPAmeqscAzzAcjSQDeR1absUQ5wjC7DXXYAId0KQebk2sJ7Wj1ChjXhM%2FESVZVcSvxud%2Ffnw1yPkacUmC75jV4sKZaJPcRrNcsNLhcL3y4tAdE%2FgAOKCaLcbySDz%2FsKpRSrdk6Nh%2FHV8j9RVb7idAWLPJ%2BZMN4SI8eN7Q4eh9co3Fo99fOnPt7Xqfxr5st8SMm96hcQq2Zy4JLwLGABK9jC2AicWVDNzawtaB7xxVyo%2FTN4J4QDAdFdgM5v27CI1xsTOlvltOfpD4BQ0gdit83AMOpxesatPYVacBatmo0KlQxP7Zs8FLDrYF%2FiMUKcSWctBuOENLRXcryqHo1McKvdLNkoRywa11ZAGPgxvO30ECjVca61CBReWSTA%2BjBWfl%2FCdoDhwsOdH869S2pbqjgAnjjG6pDgUmKKAL%2B02HIuzO088UO2YsWV7lv4fT7LyAykpyDrTnYuryjMqTBwGCi8%2BZbvCNsn6j%2FM%2ByoRicb8jq%2BXb65GqM0qZnuqSHws34imdPM4Buacvk%2BfPx77Nom5wGvdq0HUoeQFQ5b5aZvCAgcB0jRCX0uUA%2F2WoTwZxlMYFNe4xopdEX50ShfbXAWXo4GPkYjxYu4NpFp0fOf2bEcv2kWJdVXdigqSnvByLsztPPFDtji0QrFScxfqglGucRKbHBVkOdLV99MHaz3bnVQYG0rTBpeWbbt4gCrmU4OSJOFuFzLZ3GSvCmPoyrr9PZRDpKNWhQhZ%2FxF1aFXsv%2FdvnXb%2Bk1Yxs5oAbmVW79Ae8lZ5Ps3iJsHO%2FxEL%2F6f9YZx8d%2FrHdOkM%2ByuBo%2Fnrg6ZEBJTmzzxn45NMsHNp5G0Hy%2BlzImtvrK697eCn8GCBa0JTLLEMwKnGVXe5%2BfMpeEf%2BlW8eBiUf36sS1KVbgRZmxv8Sg%2BPepu0coFWVXpb78b223QwMpg3Hj47Z1LibYzdBPzwjj594cLGzxLwbrC4uDRjP%2B3kEXM68qhxhOOQjeZr1jI4CEVT1hTThJnp%2F9kfQMHE1jgYCRN1eHBuBfkQv%2B2ddjf0MIqJYMzCwdsJWnJlLCbk5E%2BWk5%2Bl5QpGZ8BHki0hTF39kSbo9oy8obNrQ6733oNchy%2ByOE%2FCZlpDvJQEH4ttSZJrnOwlPMSvYwtgInFlQrVTF9WHaGabhIVNRN4dS2y1siAz6ep3QObTmzXbAGRZsU%2BwL%2BfmuK3KGqrSNh1N4W%2FtiQ%2Fix2Uol96ebQFEudwqb01A4HHb1Xd1%2Bxp1KrY%2Bke%2FYrru84JQqJkkAvnselZf%2BIe0ouClaTBiBSCctOLRDTKfAVVUFc35R2JBNznKJgK8wkYhh84VEHWrQG0k64dQEqWy6bIrRcvn5AJmu3d2Td8oYeObOfVEnp9055jHFgvQWpnYNdbV15Vkpqe%2Fhqr0v9rez2WIxeqMNysAJYvfNGf4bB%2FMmkYlKiKvqWNS93Xv5DRoqS4TQbNI6Cl9DB0H0kKi3fKChUmX5ORI6g7GpdQANHkY%2BinQSaWJvBYz4EciNKoOv1Ne4FBuBraWIl%2BhDYJRb5TNb3HMJnbTSP12sRJ3DvI7VAOhDOUuIzHgNLz4NmbVltGgGQK0ztodfIswZLEmRiIz8ktWNqu2ToHXk1qxqFFkIbsEO8H0cIeAWHxyCAi3z57bYdEAi%2BY7AbihQjfhcm%2FVIcbgaRJ3vs0sv4NL5t6E%2BBXuKHDhjElENKKPQ82ntxX8ER0Hd17yfcqam75u%2BfSI%2Boh2CJkoWKwLV%2BBf67Ke6sA6NZgyPCg4OXTA7U1DlR2mOB%2Bc2eCmbAYs%2FQNaU3o31y1EG1pUgBBQYMdwQPVX%2BiXu0BK6NOEym9GK0EXYVxhwZL082PFsWrXuWrHeOmJgvwzC6v1bMrm4OPGj6D24NgCywRdlIcOtGNRkqaahCizslZQqZsUxd8Ue%2B41DDI8yEeNv9KSkXkkclQ%2BOz8qMPNoa4%2FHvCIxpsUB9dogohAESL6%2BwcwCPgAamWQ9icfFFp1K3HlXTBI34K5bLl1ylZpMiOxpzm2gHmVl0ITVvzV9B0m%2Fi6pEnG0usCzTsOt1OJRfnM5dUExGLxU2VAv5JjJHAVbqj8XScThyXLqyHujG&eadt=1&mm_sceneid=1_0_10748139778_0_0&a=xxc%3DtaobaoSearch%26mi_id%3D0000XrN2ClS7RugfyTQaG8-uCgEg3t3Pya_L6Dqmt8nD6cQ%26skuId%3D6309670622757%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%252525229958bf0a8a37781d1d3fdc4e41016b1e%25252522%2525257D%26&id=1089268950819&spm=a21n57.1.item.48
+            - generic [ref=f14e1843]:
+              - generic [ref=f14e1844]:
+                - generic "3.5英寸机械硬盘1T2T3T4TB监控硬盘台式机企业级存储SATA高速安防" [ref=f14e1846]
+                - generic [ref=f14e1850]:
+                  - generic [ref=f14e1851]: ¥
+                  - generic [ref=f14e1852]: "217"
+                  - generic [ref=f14e1854]: 优惠后
+                  - generic [ref=f14e1855]: 35人看过
+                  - generic [ref=f14e1856]: 安徽
+                  - generic [ref=f14e1857]: 合肥
+              - generic "官方立减3元 包邮" [ref=f14e1858]:
+                - generic [ref=f14e1859]: 官方立减3元
+                - generic [ref=f14e1861]: 包邮
+              - link "苒鑫科技硬盘之家" [ref=f14e1864]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMo7PDHbmBNuhAeRkVBX38tpkNhDLRps6TYdAmiU2LRR7&topIds=1089268950819&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.48
+          - link "希捷企业级4T6T8TB硬盘服务器SAS接口8000GB机械硬盘ST4000NM0025 ¥ 430 65人付款 广东 东莞 退货宝 包邮 10年老店 科睿雷电子科技官方店" [ref=f14e1868] [cursor=pointer]:
+            - /url: //item.taobao.com/item.htm?id=920065999860&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=00009wkxwme1aLZmMJq_4IEAuYMESCyOGO8HzoTPK25m0pY&skuId=5908027628172&priceTId=2150445c17932797103651475e11d0&utparam=%7B%22aplus_abtest%22%3A%22e1f0a4faa73e9491357a48835e13bd19%22%7D&spm=a21n57.1.item.49
+            - generic [ref=f14e1869]:
+              - generic [ref=f14e1870]:
+                - generic "希捷企业级4T6T8TB硬盘服务器SAS接口8000GB机械硬盘ST4000NM0025" [ref=f14e1872]
+                - generic [ref=f14e1875]:
+                  - generic [ref=f14e1876]: ¥
+                  - generic [ref=f14e1877]: "430"
+                  - generic [ref=f14e1879]: 65人付款
+                  - generic [ref=f14e1880]: 广东
+                  - generic [ref=f14e1881]: 东莞
+              - generic "退货宝 包邮" [ref=f14e1882]:
+                - generic [ref=f14e1883]: 退货宝
+                - generic [ref=f14e1885]: 包邮
+              - link "10年老店 科睿雷电子科技官方店" [ref=f14e1888]:
+                - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXCS8RVzpdyDXnSKxY14VnTmmYwkj6iHC3ycbVrXosEL5&topIds=920065999860&shopSearchKeyword=20TB%20SATA%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%A1%AC%E7%9B%98&spm=a21n57.1.item.49
+                - generic [ref=f14e1889]: 10年老店
+                - generic [ref=f14e1891]: 科睿雷电子科技官方店
+          - link "Seagate希捷ST20000NM007D银河机械硬盘企业级服务器20t大容量 1万+数码3c爱好者看过 20TB 3.5英寸 服务器 ¥ 8999 100+人付款 广东 广州 直接下单享优惠 退货宝 包邮 5年老店 SEAGATE希捷旗舰店" [ref=f14e1894] [cursor=pointer]:
+            - /url: https://click.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=905173843&k=2509&e=zlg6vExQHvKjghWDXmJMWyDn%2Fcw5U14x9GSpZjhCYHD88kjCR6IWRI6XWCQyVY%2BaT0RISWIURijeISw70YmvanmvnXLCBzTlwh1%2BCxwbNHcF1NCHgBKXpFl5A0TEcwGsN%2Bl4i2DKoSJuUawMWZQ72MOFvgAmP%2Bl34rnZx9INZPoOql71yyPFUhjGUDOwcSy%2Ff%2BmQs8cpCpJXuTtVOgGUhW3fU1rxXbEL8c62OEIdz8si%2B5oSSRhmDE4tOZU7wBvwNK2Q3ZBOCaniFNYDkN6CJWKAQOYl%2BMvewFYTaWgNkwAkH4FNff8VAv8%2FZdaOMoV18B4HAe3fg3GkOHz0YgpqvQLjw2sbehjMlJOESedIBE7XqwZKSz9fjW7WdoeQd1IpMg3dEjrtEL6TUUn0qugiOK%2FbdZjGpUoDwBthhNLwN86J9nlc846BrT32UWgln2MHF0BhM%2BddTRcU%2Bj99x4xrbjeJvjmbREqndaStR3hwDZzWBeFEr0bINtySEuCJmljonA%2Bvuty1zTj1rkSFHupCe3my36eZGzZh54t3mpdwZKSGyjdmbCfN%2BVt2BtFxpsZSRC1US3Lb3%2FndqsKfwGPTBIUacfyKRx14paySDaIHZeIo3P%2Bd5TXn0oDiQ7hRyPWFbhoR8YDCvQv%2Ff7CPmv5YG%2FnC3OMWjFgUSL%2Baf9daYElvnYFNN7BGkY36j8SZZ11dEhv4eS2glC1KvSpTnlp56dGly3WDNyJsuyrbZoE0qkzxFl04a47D8nH0AVRBlqBLt6JB94PHjXe6eKErvn15OgiNdAttJhdfusezOgVQ4PzKP9fDwJt6BVDItb6dqHQYZLnJc%2FS6Fu7H48iSUMB3nSnpYz2CFyTprEXSi1ybVu%2Fgj7OAJpxDNU1BseUd49zdbQTaMQ556OJZJiOWYCzrkNfbSjlWzngcUn0GxBJ%2Bc%2BnGGcvn%2BgLTDkAomKw%2FsiDlhJr1oqOKPtYC4MCY94To5VvLADC3UsIEFYowYG94LS%2FjtsPmS67lUpTpLaaFY%2BHLq6hTkaJIi0VvnYFNN7BGkTYU1K3wBxQ2sS58W4T8HlG0No4scmAL1tmqcHcKwNt52sskQn3JczEaWYUfk%2BiHZysLOqJAXabKfIdzN3XXxTdg5zxCwQ9p9%2B6DDmxRHjt5w%2Bf%2FlykdB9uVU2ihkgg6k4wgvY55iemfdtCZkeGYdvLYkOIUcnxh07VZIC5Wvxek3NYYSuHEe0gvQc4l460HHptP4xdHsodLGQgjVa7CYdJvVcq17lgVfS268j8q4DeinLOmwGd%2BFDJgt99Jn%2BJDGBmF%2FRblVmWfGouk%2BgOAy2leuwDxinmPKV%2FnllHJs36YyliNp6ErFRszZtEGYbtPJyHY3S19TwvWWWduL7oCVhOh9KOZitgfjbsr2i7ixLbOB2wVNCko6OS258ZpUF%2BywhVO2BEpQ45e0ASoscWL8foPhmrfgNcHw2lRpE85wFTrBNDt4KaFbsb1AdCGXNJDf93VlKeTNEJbfrgbo54D8HU2WSd4TuIRCX9b8qeOhoYrZYhAsGTOO94DEud3Z%2BXV8OdhyhS9RReGYpCL3PECTnq2ewc8ZRk8eDFScrrNGc0qgvq6Ivm%2BPawgr4lJ%2BfYzV0ToQjahXTGWM3Uy%2Bh748GYNTiWtVzkYhfYB%2FTSN9G7jB2aBnhfleOV7FnHlnlY18HaTdICOGDEV2MUgUsYdgeh6pKGwgnM73LlPIRukPCDl5TPI81RKE6bYxSBSxh2B6EywBLTzBAK%2F0DvFbE9PwjT7O%2FbU49X3rXBQIB33tneU5%2F%2BQwX34rR1Em4E9OSbhm69%2FwLYeGuIw4jHo0ZvVbssKj%2FlIfUJzDYOs1WYt%2FMI0U3KjAKWmbMtatdACe09Hnv6fyCQACvsEun7BUfGk607CcE1QF6xaBj%2Faff3ql1Gn0koquza28tLjIsAFXS1v%2BTBNmWgibktFWSzrPeHh1D3LIhWRDC9E9TB7J40XsLsG8EI3K%2BdGZYalF4emkr%2FwH9npFg3U1DUTGRrY%2BeYsZSoIKQ3aSpnUC2U7FIA81ZhgANzpJ4jy76fPiVoU9IBapoVSkwnLDywwGazoleoTrkR1riPDKt4oRoaEgPsXDg%2B%2FCOjV2CSEfBlnOFJeExEzcvINLMYBnNA1EfOn3CsPCDdSYpgePGrzOscDOZaes22WE63zkvdFP7nW9vmFDbeCR3%2FORt3Y03XmwJOyhPQCwDHDsitCeLGIt5ELLQKXBnkI4m3G%2FTsbm3sCCZS3w4ulocWNfC%2F4sLpui4G63%2FvYLqXy4t6eumRjJQMnsDud1RbJtNP4LAwFknL6w3GglrMAAsOHwbNB3T0KR7WsMS3GNeACiMuJ8JPwD9s07T9kNbCdiZlR1L9SB%2FpVekYqN0ZnZGdcnAsveWWlpxAkn%2BRhSmByA92GTojD9yYpZ3ruy%2FEN6n3QFfguyJ2rfAryKpz5ZdTNvU2IPAOtouBm2Kwk5a6ZLyqVKnLnvQMS53dn5dXwSk%2BzllZ%2Bw2I%3D&mm_sceneid=1_0_1640440191_0_0&a=xxc%3Dad_ztc%26mi_id%3D0000o0FqyXSMjpuKv4LsunZh0jfUj3isV6UIbVp0hAtVaSw%26skuId%3D6241798374617%26priceTId%3D2150445c17932797103651475e11d0%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%25252522697970c80713d5affe1dfc2a071efa20%25252522%2525257D%26&id=689540977430&spm=a21n57.1.item.50
+            - generic [ref=f14e1895]:
+              - generic [ref=f14e1896]:
+                - generic "Seagate希捷ST20000NM007D银河机械硬盘企业级服务器20t大容量" [ref=f14e1898]
+                - generic [ref=f14e1902]:
+                  - generic [ref=f14e1903]: 1万+数码3c爱好者看过
+                  - generic [ref=f14e1906]:
+                    - generic [ref=f14e1907]: 20TB
+                    - generic [ref=f14e1910]: 3.5英寸
+                    - generic [ref=f14e1914]: 服务器
+                - generic [ref=f14e1919]:
+                  - generic [ref=f14e1920]: ¥
+                  - generic [ref=f14e1921]: "8999"
+                  - generic [ref=f14e1923]: 100+人付款
+                  - generic [ref=f14e1924]: 广东
+                  - generic [ref=f14e1925]: 广州
+              - generic "直接下单享优惠 退货宝 包邮" [ref=f14e1926]:
+                - generic [ref=f14e1927]: 直接下单享优惠
+                - generic [ref=f14e1929]: 退货宝
+                - generic [ref=f14e1931]: 包邮
+              - link "5年老店 SEAGATE希捷旗舰店" [ref=f14e1934]:
+                - /url: https://click.simba.taobao.com/cc_im?p=20TB%20SATA%20%C6%F3%D2%B5%BC%B6%D3%B2%C5%CC&s=905173843&k=2477&e=IQRpk5ick5ejghWDXmJMWyDn%2Fcw5U14x9GSpZjhCYHD88kjCR6IWRI6XWCQyVY%2BaT0RISWIURijeISw70YmvanmvnXLCBzTlwh1%2BCxwbNHcF1NCHgBKXpFl5A0TEcwGsN%2Bl4i2DKoSJuUawMWZQ72MOFvgAmP%2Bl34rnZx9INZPoOql71yyPFUhjGUDOwcSy%2Ff%2BmQs8cpCpJXuTtVOgGUhW3fU1rxXbEL8c62OEIdz8si%2B5oSSRhmDE4tOZU7wBvwNK2Q3ZBOCaniFNYDkN6CJWKAQOYl%2BMvewFYTaWgNkwAkH4FNff8VAv8%2FZdaOMoV18B4HAe3fg3GkOHz0YgpqvQLjw2sbehjMlJOESedIBE7XqwZKSz9fjW7WdoeQd1IpMg3dEjrtEL6TUUn0qugiOK%2FbdZjGpUoDwBthhNLwN86J9nlc846BrT32UWgln2MHF0BhM%2BddTRcU%2Bj99x4xrbjeJvjmbREqndaStR3hwDZzWBeFEr0bINtySEuCJmljonA%2Bvuty1zTj1rkSFHupCe3my36eZGzZh54t3mpdwZKSGyjdmbCfN%2BVt2BtFxpsZSRC1US3Lb3%2FndqsKfwGPTBIUacfyKRx14paySDaIHZeIo3P%2Bd5TXn0oDiQ7hRyPWFbhoR8YDCvQv%2Ff7CPmv5YG%2FnC3OMWjFgUSL%2Baf9daYElvnYFNN7BGkY36j8SZZ11dEhv4eS2glC1KvSpTnlp56dGly3WDNyJsuyrbZoE0qkzxFl04a47D8nH0AVRBlqBLt6JB94PHjXe6eKErvn15OgiNdAttJhdfusezOgVQ4PzKP9fDwJt6BRTnMM9uiDkA0XXc5HJIoemhWqfiP%2BYWBmImn3Tm1NL80mQJlbIOAC3KemWiMYzC87oufLUUTZqCqN0CgjIOllMTS9FRTxM9A2PHgcjLg%2FUfw4fBs0HdPQpHtawxLcY14AKIy4nwk%2FAP2zTtP2Q1sJ2JmVHUv1IH%2BlV6Rio3Rmdk9FVll4gO0n1yA92GTojD9yYpZ3ruy%2FENqJASyZIfBVjFQy32afcXBhDlAVz8E1IqlFtNQFHLocECsyc6ZJBiSHNE6LWSHEcs0h8EJuRBkjZnr3zKfZKx4kiMU77DR6R1lzXjDZYz79FHFWGnpsdjHcn97nybSg1DNPQgRz1gK2Q8tpQryOlIYykGNIn0jYowbQp%2FIm1TgKoFGIFGIIO5s5CeUaIYU8ypcETR58kEGT%2BGlAxisLr7%2FWtYmVq8xMNjAKeuKjiAo2esnC0HP6Vgb9%2Bx8yR%2FGg91q3m9mjuf%2B6nPqwxKjyk55Qbki3Z5dSuc8h%2F2Xjhyys7rsa4gfZT1Ao%2FZp6IMe0clNe7A9fJ%2FO4nyoiWeU8agNBUQ1r%2FERXwEGveJYy4iCHiyAGIrNh4yvtTNvU2IPAOtOkiec0R35OkQydfa7YiVK6UAuZyOqip%2B4m3G%2FTsbm3ulqPfaGXSENwhy%2B8P4pE7K83eAxA3BarJfcCrRmjEbUMxJbI7YnDNkNsue1cOSQ%2Fzny8OE7Twz56COuJEYV7QdMylSdvKN4%2F7cgQL4s3Rri7LgBEImIK%2FtBtePhY9xushEq2rudi2plqjudH8oMZtqdPCW1DV60xaHaNfwVuDR3SNctLvnhszrNmRprNtiriZvZhf6XmLA8rmB14l4pimfb52BTTewRpFMdYaYcwW8nPdlEPvNx3m%2BJE11v81fYuJvnYFNN7BGkW2BMvt7rFA%2BZcuOsJisv2H1jbpvVR4eSgL%2FXonnYv%2F9CF5Mk87EndSsiXDtq%2Btql4K%2FZprotWPaoDNi4HKJ1tmoVWxYd05aRspQTHaXOBhrKZD%2BvR9VTBVLdT3lTZpNKyIPXqddr%2BUNLCcDiL9RuMD5d08P2fFkBdx51nZMiLcgaihqR8OOfaZ6ClMo5L3Ov61ARo44LVsdiiuD%2B%2F4lgzwTfa6YkHX3isnAbbXvgV0otIM44woGsAO3W2QOMmzVZuT8m4y8N%2FjrfhEQUw5eBDz5THDYOH1AghfujI7LHmM26LkiC0GFGzJOiyDgaFrUx8eoQEb5p0o1PsznYLQ54CUm0kflRxmfiAfty2awK6yV0GrPgLw0t%2Bqy0yobE0wwbKBVgczLr40tYIOXuUnlBMOdVay%2F5SvyC5QfYuYHkZc44ud9LaKbuGNPj3F22NxouJc9ORvrXNdIGD%2BcFv1aDfGDkLLpQlhPWhz0oajUSm9sAigNARJhxgaRmtUw7ULziY4G1QQML9DlvjpoBLkibFUqSaxaXp4Dn0Mxi%2BUjnnEFbdmvmCJ910tF5rvnCopXUTEUHfXlyJf%2FTqve9qNlL0nAibOrk7Pf1FnJqdpuK3mLcjmriPXA4xCF%2F8OoG9dxQ8VDLfZp9xcG6w1gQEwg8AaWf8LPotJmNxWKMGBveC0vAsFXshNrXVVnYnVNnBM53jIUGEiJZ2VZS6llY8VZ5ZiohviSFXe7EufLw4TtPDPnGi7UM7ZIv1s%3D&mm_sceneid=1_0_1640440191_0_0&a=topIds%3D689540977430%26shopSearchKeyword%3D20TB%2520SATA%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%26&spm=a21n57.1.item.50
+                - generic [ref=f14e1935]: 5年老店
+                - generic [ref=f14e1937]: SEAGATE希捷旗舰店
+        - generic [ref=f14e1941]:
+          - button "上一页，当前第1页" [disabled] [ref=f14e1942]:
+            - generic [ref=f14e1943]: 
+            - generic [ref=f14e1944]: 上一页
+          - generic [ref=f14e1945]:
+            - button "第1页，共100页" [ref=f14e1946] [cursor=pointer]:
+              - generic [ref=f14e1947]: "1"
+            - button "第2页，共100页" [ref=f14e1948] [cursor=pointer]:
+              - generic [ref=f14e1949]: "2"
+            - button "第3页，共100页" [ref=f14e1950] [cursor=pointer]:
+              - generic [ref=f14e1951]: "3"
+            - button "第4页，共100页" [ref=f14e1952] [cursor=pointer]:
+              - generic [ref=f14e1953]: "4"
+            - button "第5页，共100页" [ref=f14e1954] [cursor=pointer]:
+              - generic [ref=f14e1955]: "5"
+            - button "第6页，共100页" [ref=f14e1956] [cursor=pointer]:
+              - generic [ref=f14e1957]: "6"
+            - button "第7页，共100页" [ref=f14e1958] [cursor=pointer]:
+              - generic [ref=f14e1959]: "7"
+            - button "第8页，共100页" [ref=f14e1960] [cursor=pointer]:
+              - generic [ref=f14e1961]: "8"
+            - button "第9页，共100页" [ref=f14e1962] [cursor=pointer]:
+              - generic [ref=f14e1963]: "9"
+            - button "第10页，共100页" [ref=f14e1964] [cursor=pointer]:
+              - generic [ref=f14e1965]: "10"
+            - button "第11页，共100页" [ref=f14e1966] [cursor=pointer]:
+              - generic [ref=f14e1967]: "11"
+            - generic [ref=f14e1968]: 
+            - button "第100页，共100页" [ref=f14e1969] [cursor=pointer]:
+              - generic [ref=f14e1970]: "100"
+          - button "下一页，当前第1页" [ref=f14e1971] [cursor=pointer]:
+            - generic [ref=f14e1972]: 下一页
+            - generic [ref=f14e1973]: 
+          - generic [ref=f14e1974]:
+            - emphasis [ref=f14e1975]: "1"
+            - text: /100
+          - generic [ref=f14e1976]: 到第
+          - textbox "请输入跳转到第几页" [ref=f14e1978]
+          - generic [ref=f14e1979]: 页
+          - button "确定" [ref=f14e1980] [cursor=pointer]
+    - generic [ref=f14e1985]:
+      - link "桌面版" [ref=f14e1987] [cursor=pointer]:
+        - /url: https://pc.taobao.com?channel=search
+      - generic [ref=f14e1990] [cursor=pointer]: 联系客服
+      - link "购物车" [ref=f14e1995] [cursor=pointer]:
+        - /url: //cart.taobao.com
+      - link "官方客服" [ref=f14e1999] [cursor=pointer]:
+        - /url: //consumerservice.taobao.com/online-help
+      - link "反馈" [ref=f14e2003] [cursor=pointer]:
+        - /url: //market.m.taobao.com/app/tbhome/feedback/index.html?fromURL=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fcommend%3Dall%26page%3D1%26q%3D20TB%2520SATA%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%26tab%3Dall

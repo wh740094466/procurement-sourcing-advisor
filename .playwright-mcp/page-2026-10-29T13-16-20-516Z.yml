@@ -1,0 +1,1617 @@
+- generic [active] [ref=f22e1]:
+  - generic [ref=f22e2]:
+    - navigation "顶部导航" [ref=f22e5]:
+      - list [ref=f22e6]:
+        - listitem [ref=f22e7]:
+          - generic [ref=f22e8]:
+            - button "地区" [ref=f22e9] [cursor=pointer]: 中国大陆版
+            - generic [ref=f22e10]: 
+        - listitem [ref=f22e11]
+        - listitem [ref=f22e12]:
+          - generic [ref=f22e13]:
+            - link "jd_o84d14k2a..." [ref=f22e15] [cursor=pointer]:
+              - /url: //home.jd.com/
+            - generic [ref=f22e16]: 
+        - listitem [ref=f22e17]
+        - listitem [ref=f22e18]:
+          - link "切换企业版" [ref=f22e20] [cursor=pointer]:
+            - /url: //b.jd.com/?entry=newuser&bjdSourceChannel=cjdqiehuanbjd
+        - generic [ref=f22e21]:
+          - listitem [ref=f22e22]
+          - listitem [ref=f22e23]:
+            - generic [ref=f22e24]: 同款搜低价
+        - generic [ref=f22e26]:
+          - listitem [ref=f22e27]
+          - listitem [ref=f22e28]:
+            - generic [ref=f22e29]: 桌面版
+      - list [ref=f22e31]:
+        - listitem [ref=f22e32]:
+          - link "购物车 7" [ref=f22e36] [cursor=pointer]:
+            - /url: //cart.jd.com/cart.action
+        - listitem [ref=f22e37]
+        - listitem [ref=f22e38]:
+          - generic [ref=f22e39]:
+            - link "我在APP看过" [ref=f22e40] [cursor=pointer]:
+              - /url: javascript:void(0)
+            - generic [ref=f22e41]: 
+        - listitem [ref=f22e48]:
+          - link "我的订单" [ref=f22e50] [cursor=pointer]:
+            - /url: //order.jd.com/center/list.action
+        - listitem [ref=f22e51]
+        - listitem [ref=f22e52]:
+          - generic [ref=f22e53]:
+            - link "我的京东" [ref=f22e54] [cursor=pointer]:
+              - /url: "#"
+            - generic [ref=f22e55]: 
+        - listitem [ref=f22e56]
+        - listitem [ref=f22e57]:
+          - generic [ref=f22e58]:
+            - link "企业采购" [ref=f22e59] [cursor=pointer]:
+              - /url: //b.jd.com/?bjdSourceChannel=cjdqiehuanqiyeban
+            - generic [ref=f22e60]: 
+        - listitem [ref=f22e61]
+        - listitem [ref=f22e62]:
+          - button "网站导航" [ref=f22e63]:
+            - text: 网站导航
+            - generic [ref=f22e64]: 
+        - generic [ref=f22e65]:
+          - listitem [ref=f22e66]:
+            - generic [ref=f22e67]: 摸鱼入口
+          - listitem [ref=f22e70]
+    - generic [ref=f22e73]:
+      - generic [ref=f22e74]:
+        - heading [level=1] [ref=f22e75]:
+          - link "京东" [ref=f22e76] [cursor=pointer]:
+            - /url: //www.jd.com
+        - generic "大促LOGO位推广" [ref=f22e79]
+      - generic [ref=f22e81]:
+        - generic: 京言AI
+        - generic [ref=f22e89]:
+          - generic [ref=f22e90]:
+            - generic [ref=f22e91]: 商品
+            - generic [ref=f22e95]:
+              - generic [ref=f22e97]: 27英寸显示器
+              - generic [ref=f22e98]: 创维酷开k6
+              - generic [ref=f22e99]: 机械硬盘30t
+              - generic [ref=f22e100]: 希捷硬盘
+              - generic [ref=f22e101]: 机械磁盘
+              - generic [ref=f22e102]: 希捷20t硬盘
+              - generic [ref=f22e103]: 3.5寸硬盘
+              - generic [ref=f22e104]: 机械硬盘
+              - generic [ref=f22e105]: 小米显示器27寸
+              - generic [ref=f22e96]: 27寸显示器2k
+            - textbox "搜索" [ref=f22e106]
+            - generic [ref=f22e107]:
+              - generic [ref=f22e108]: 搜索
+              - switch [ref=f22e109] [cursor=pointer]
+            - generic [ref=f22e114] [cursor=pointer]
+            - button "搜索" [ref=f22e116] [cursor=pointer]
+          - generic [ref=f22e117]:
+            - generic [ref=f22e118] [cursor=pointer]: 大牌特卖低至6折
+            - generic [ref=f22e119] [cursor=pointer]: 行李箱
+            - generic [ref=f22e120] [cursor=pointer]: 运动套装
+            - generic [ref=f22e121] [cursor=pointer]: 保险柜
+            - generic [ref=f22e122] [cursor=pointer]: 车厘子
+            - generic [ref=f22e123] [cursor=pointer]: 烤箱家用
+            - generic [ref=f22e124] [cursor=pointer]: 打蛋器
+            - generic [ref=f22e125] [cursor=pointer]: 指纹锁
+            - generic [ref=f22e126] [cursor=pointer]: 运动裤
+            - generic [ref=f22e127] [cursor=pointer]: 颈椎按摩器
+            - generic [ref=f22e128] [cursor=pointer]: 电动自行车
+      - generic [ref=f22e130]:
+        - link "推广位" [ref=f22e131] [cursor=pointer]:
+          - /url: //interact.jd.com/
+        - generic [ref=f22e132] [cursor=pointer]: 短剧
+    - generic [ref=f22e137]:
+      - generic [ref=f22e138]:
+        - list [ref=f22e141]:
+          - listitem [ref=f22e2092]:
+            - link "家用电器" [ref=f22e2094] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2vx2zyXR2KhRouYS6LrSEdnLF1P5/index.html
+          - listitem [ref=f22e2096]:
+            - link "手机" [ref=f22e2098] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%89%8B%E6%9C%BA&enc=utf-8&wq=%E6%89%8B%E6%9C%BA&pvid=8858151673f941e9b1a4d2c7214b2b52
+            - text: /
+            - link "运营商" [ref=f22e2099] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/hEFfzNmUqhjLxLgGCcpbDXSMYkP/index.html?babelChannel=ttt49
+            - text: /
+            - link "数码" [ref=f22e2100] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%95%B0%E7%A0%81&enc=utf-8&wq=%E6%95%B0%E7%A0%81&pvid=34b0fcf7ed434840a74c057bc97be346
+          - listitem [ref=f22e2102]:
+            - link "电脑" [ref=f22e2104] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/4Xs847qJzeqf6ASxnEMWwe4Pz3kC/index.html?babelChannel=ttt2
+            - text: /
+            - link "办公" [ref=f22e2105] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/tDeBrVaghdfk9fALcQY52RA61aF/index.html?babelChannel=ttt1
+            - text: /
+            - link "文具用品" [ref=f22e2106] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=37462
+          - listitem [ref=f22e2108]:
+            - link "家居" [ref=f22e2110] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=1620
+            - text: /
+            - link "家具" [ref=f22e2111] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=家具&enc=utf-8&pvid=1c58265e1904499a9c1d9c7847b7b962
+            - text: /
+            - link "家装" [ref=f22e2112] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E5%AE%89%E8%A3%85&enc=utf-8&wq=%E5%AE%89%E8%A3%85&pvid=97bb21465c894defaccfc1f197896150
+            - text: /
+            - link "厨具" [ref=f22e2113] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E5%8E%A8%E5%85%B7&enc=utf-8&wq=%E5%8E%A8%E5%85%B7&pvid=7bdf296458744f4d8d17be5fbdaed59a
+          - listitem [ref=f22e2115]:
+            - link "男装" [ref=f22e2117] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/32EphPL81Mb6FD4qLCTtYmd31YXr/index.html
+            - text: /
+            - link "女装" [ref=f22e2118] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/DpSh7ma8JV7QAxSE2gJNro8Q2h9/index.html?babelChannel=ttt56
+            - text: /
+            - link "童装" [ref=f22e2119] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html?babelChannel=ttt70
+            - text: /
+            - link "内衣" [ref=f22e2120] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/4PgpL1xqPSW1sVXCJ3xopDbB1f69/index.html
+          - listitem [ref=f22e2122]:
+            - link "美妆" [ref=f22e2124] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/2kmaPNrGDNYo1LKwYtRoaSmsgbj6/index.html
+            - text: /
+            - link "个护清洁" [ref=f22e2125] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=个护清洁&enc=utf-8&wq=个护清洁&pvid=261b201c58c643d88b3722d66158dd67
+            - text: /
+            - link "宠物" [ref=f22e2126] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2TY2j1yJ9T2QKiQekTpHgvv68HiD/index.html
+          - listitem [ref=f22e2128]:
+            - link "女鞋" [ref=f22e2130] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html?babelChannel=ttt47
+            - text: /
+            - link "箱包" [ref=f22e2131] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/ZrH7gGAcEkY2gH8wXqyAPoQgk6t/index.html?babelChannel=ttt4
+            - text: /
+            - link "钟表" [ref=f22e2132] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2BcJPCVVzMEtMUynXkPscCSsx68W/index.html
+            - text: /
+            - link "珠宝" [ref=f22e2133] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/22DpAdd48C4fU3cBRkeYSM87WhWV/index.html?babelChannel=ttt148
+          - listitem [ref=f22e2135]:
+            - link "男鞋" [ref=f22e2137] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html?babelChannel=ttt47
+            - text: /
+            - link "运动" [ref=f22e2138] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/oKAAQpTfmbKWmL338JdgxNDeWK2/index.html
+            - text: /
+            - link "户外" [ref=f22e2139] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2MG8bJwgHvAqAZ9PamfCp3pDuthL/index.html
+          - listitem [ref=f22e2141]:
+            - link "房产" [ref=f22e2143] [cursor=pointer]:
+              - /url: //xinfang.jd.com/
+            - text: /
+            - link "汽车" [ref=f22e2144] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=12379
+            - text: /
+            - link "汽车用品" [ref=f22e2145] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=6728
+          - listitem [ref=f22e2147]:
+            - link "母婴" [ref=f22e2149] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%AF%8D%E5%A9%B4&enc=utf-8&wq=%E6%AF%8D%E5%A9%B4&pvid=3e86f063795740d594b1bb1187e02063
+            - text: /
+            - link "玩具乐器" [ref=f22e2150] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E7%8E%A9%E5%85%B7%E4%B9%90%E5%99%A8&enc=utf-8&wq=%E7%8E%A9%E5%85%B7%E4%B9%90%E5%99%A8&pvid=6acae74f0ea34c6a8db6b5563f1a24d1
+          - listitem [ref=f22e2152]:
+            - link "食品" [ref=f22e2154] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E9%A3%9F%E5%93%81&enc=utf-8&wq=%E9%A3%9F%E5%93%81&pvid=b22bb1ad1cb045aa989753d21f73c228
+            - text: /
+            - link "酒类" [ref=f22e2155] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=中外名酒&enc=utf-8&wq=中外名酒&pvid=16e1724bdc294613b5c43df42878baba
+            - text: /
+            - link "生鲜" [ref=f22e2156] [cursor=pointer]:
+              - /url: //fresh.jd.com
+            - text: /
+            - link "特产" [ref=f22e2157] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/41YdRWconKueXwVVnLLM6YY4x4wU/index.html
+          - listitem [ref=f22e2159]:
+            - link "艺术" [ref=f22e2161] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=艺术品&enc=utf-8&wq=艺术品&pvid=5928d0db63e24f479330f2922ea1b0d7
+            - text: /
+            - link "礼品鲜花" [ref=f22e2162] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E9%B2%9C%E8%8A%B1&enc=utf-8&wq=%E9%B2%9C%E8%8A%B1&pvid=0aad3e1477ad46829f14f3cb19b25b0a
+            - text: /
+            - link "农牧园艺" [ref=f22e2163] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/CYivQ3Q2U5zCcgqGDXeGzzWn5XF/index.html
+          - listitem [ref=f22e2165]:
+            - link "京东买药" [ref=f22e2167] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF&enc=utf-8&wq=%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF&pvid=d605a440ef96406f9dedbe3e8ddc9dbd
+            - text: /
+            - link "计生情趣" [ref=f22e2168] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E8%AE%A1%E7%94%9F%E6%83%85%E8%B6%A3&enc=utf-8&wq=%E8%AE%A1%E7%94%9F%E6%83%85%E8%B6%A3&pvid=e8284db88df24f919dfc31e5536bbf64
+          - listitem [ref=f22e2170]:
+            - link "图书" [ref=f22e2172] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/3sAaxodHF7kfo3s95cjxo2UZUxu2/index.html
+            - text: /
+            - link "文娱" [ref=f22e2173] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2TxxbZnqAm7M8tkDpTN3VJNtoSKo/index.html
+            - text: /
+            - link "教育" [ref=f22e2174] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E8%AF%BE%E7%A8%8B&enc=utf-8&wq=%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E8%AF%BE%E7%A8%8B&pvid=04dff2bdd3694c96ab68337e9fc4c6b2
+            - text: /
+            - link "电子书" [ref=f22e2175] [cursor=pointer]:
+              - /url: //e.jd.com/
+          - listitem [ref=f22e2177]:
+            - link "机票" [ref=f22e2179] [cursor=pointer]:
+              - /url: //jipiao.jd.com/
+            - text: /
+            - link "酒店" [ref=f22e2180] [cursor=pointer]:
+              - /url: //hotel.jd.com/
+            - text: /
+            - link "旅游" [ref=f22e2181] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/XSLZKjWxASg9S8RnURtRuKY7Phz/index.html?babelChannel=ttt486
+            - text: /
+            - link "生活" [ref=f22e2182] [cursor=pointer]:
+              - /url: //ish.jd.com/
+          - listitem [ref=f22e2184]:
+            - link "支付" [ref=f22e2186] [cursor=pointer]:
+              - /url: //www.jdpay.com/home/
+            - text: /
+            - link "白条" [ref=f22e2187] [cursor=pointer]:
+              - /url: //baitiao.jd.com
+            - text: /
+            - link "保险" [ref=f22e2188] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/3i11dVqMyKjD3RdMkj5DsLy4aCur/index.html
+            - text: /
+            - link "企业金融" [ref=f22e2189] [cursor=pointer]:
+              - /url: //qyjr.jddglobal.com/
+          - listitem [ref=f22e2191]:
+            - link "安装" [ref=f22e2193] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=安装&enc=utf-8&wq=安装&pvid=97bb21465c894defaccfc1f197896150
+            - text: /
+            - link "维修" [ref=f22e2194] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=维修&enc=utf-8&wq=维修&pvid=eba9b7454da0494c960f074db37be847
+            - text: /
+            - link "清洗" [ref=f22e2195] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%B8%85%E6%B4%97&enc=utf-8&wq=%E6%B8%85%E6%B4%97&pvid=5b8c10e5e1d242fa931e2c6bca2e4624
+            - text: /
+            - link "二手" [ref=f22e2196] [cursor=pointer]:
+              - /url: //2.jd.com/
+          - listitem [ref=f22e2198]:
+            - link "元器件" [ref=f22e2200] [cursor=pointer]:
+              - /url: //ic.jd.com
+            - text: /
+            - link "原材料" [ref=f22e2201] [cursor=pointer]:
+              - /url: //i-search.jd.com/search?keyword=%E5%8E%9F%E6%9D%90%E6%96%99&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&cid2=21667#J_searchWrap&tktk=eyJxdWVyeSI6IuWOn
+            - text: /
+            - link "五金机电" [ref=f22e2202] [cursor=pointer]:
+              - /url: //mro.jd.com
+        - generic [ref=f22e144]:
+          - generic [ref=f22e145]:
+            - generic [ref=f22e146]:
+              - link [ref=f22e147] [cursor=pointer]:
+                - /url: https://pro.jd.com/mall/active/3fNa4gg4udob1juiWbWWBp9z9PBs/index.html?babelChannel=ttt920
+              - link "希捷硬盘 好物立刻抢购 低价狂欢倒计时" [ref=f22e150] [cursor=pointer]:
+                - /url: https://item.jd.com/100193199167.html
+                - generic [ref=f22e152]: 希捷硬盘
+                - generic [ref=f22e153]: 好物立刻抢购
+                - generic [ref=f22e154]: 低价狂欢倒计时
+              - link "东芝硬盘 爆品好价抢 抢到就是赚到" [ref=f22e155] [cursor=pointer]:
+                - /url: http://item.jd.com/10058908615796.html
+                - generic [ref=f22e157]: 东芝硬盘
+                - generic [ref=f22e158]: 爆品好价抢
+                - generic [ref=f22e159]: 抢到就是赚到
+              - link [ref=f22e160] [cursor=pointer]:
+                - /url: https://pro.jd.com/mall/active/32Be5o799kWx168oLQnebXgyWSZz/index.html?babelChannel=ttt23
+              - link "品质精选 好物立刻抢购 抢完即止速来" [ref=f22e163] [cursor=pointer]:
+                - /url: http://item.jd.com/100052327398.html
+                - generic [ref=f22e165]: 品质精选
+                - generic [ref=f22e166]: 好物立刻抢购
+                - generic [ref=f22e167]: 抢完即止速来
+              - link [ref=f22e168] [cursor=pointer]:
+                - /url: https://pro.jd.com/mall/active/3AR9njLsa6s7AUJzhkRqfFPsuDoK/index.html?babelChannel=ttt19
+              - list [ref=f22e171]:
+                - listitem [ref=f22e172] [cursor=pointer]
+                - listitem [ref=f22e173] [cursor=pointer]
+                - listitem [ref=f22e174] [cursor=pointer]
+                - listitem [ref=f22e175] [cursor=pointer]
+                - listitem [ref=f22e176] [cursor=pointer]
+                - listitem [ref=f22e177] [cursor=pointer]
+            - generic [ref=f22e180]:
+              - img "西部数据" [ref=f22e185] [cursor=pointer]
+              - generic [ref=f22e186]: Moncler
+              - img "公牛" [ref=f22e196] [cursor=pointer]
+              - img "都市丽人" [ref=f22e201] [cursor=pointer]
+              - generic [ref=f22e202] [cursor=pointer]: 全部品牌
+          - generic [ref=f22e203]:
+            - generic [ref=f22e205]:
+              - link "国家补贴 × 超级补贴 限时补贴" [ref=f22e206] [cursor=pointer]:
+                - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html
+                - generic [ref=f22e207]: 国家补贴 × 超级补贴
+                - generic [ref=f22e208]: 限时补贴
+              - generic [ref=f22e209]:
+                - link "¥1079.1 补贴减119元" [ref=f22e210] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html?innerAnchor=100421106080
+                  - generic [ref=f22e213]: ¥1079.1
+                  - generic [ref=f22e215]: 补贴减119元
+                - link "¥498.6 补贴减55.40元" [ref=f22e216] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html?innerAnchor=100166875069
+                  - generic [ref=f22e219]: ¥498.6
+                  - generic [ref=f22e221]: 补贴减55.40元
+                - link "¥667 已补88.4元" [ref=f22e222] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html?innerAnchor=10155811768014
+                  - generic [ref=f22e225]: ¥667
+                  - generic [ref=f22e227]: 已补88.4元
+                - link "¥1328.67 补贴减147元" [ref=f22e228] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html?innerAnchor=100388333076
+                  - generic [ref=f22e231]: ¥1328.67
+                  - generic [ref=f22e233]: 补贴减147元
+            - generic [ref=f22e236]:
+              - link "司法拍卖" [ref=f22e238] [cursor=pointer]:
+                - /url: https://auction.jd.com/sifa.html
+              - link "京东特价" [ref=f22e241] [cursor=pointer]:
+                - /url: https://pro.jd.com/mall/active/49pNiBvgfNMAAELMNNA1Krxyu6TA/index.html
+              - link "领券中心" [ref=f22e244] [cursor=pointer]:
+                - /url: https://pro.jd.com/mall/active/VAjs3vpayA513UwxL5XC4eGBXqY/index.html?babelChannel=ttt117
+              - generic [ref=f22e246] [cursor=pointer]: 全部频道
+        - generic [ref=f22e250]:
+          - generic [ref=f22e251]:
+            - link "个人头像" [ref=f22e252] [cursor=pointer]:
+              - /url: //home.jd.com
+              - generic [ref=f22e256]: 4年
+            - generic [ref=f22e261]:
+              - paragraph [ref=f22e262]:
+                - link "jd_o84d14k2azwa7u" [ref=f22e263] [cursor=pointer]:
+                  - /url: //home.jd.com
+              - paragraph [ref=f22e264]:
+                - link "已省￥1516.37" [ref=f22e265] [cursor=pointer]:
+                  - /url: //plus.jd.com/index?flow_system=appicon&flow_entrance=appicon1&flow_channel=pc
+          - link [ref=f22e266] [cursor=pointer]:
+            - /url: https://plus.jd.com/index?flow_system=appicon&flow_entrance=appicon1&flow_channel=pc
+          - list [ref=f22e269]:
+            - listitem [ref=f22e270]:
+              - link "52 优惠券" [ref=f22e271] [cursor=pointer]:
+                - /url: https://quan.jd.com/user_quan.action
+                - generic [ref=f22e272]: "52"
+                - generic [ref=f22e273]: 优惠券
+            - listitem [ref=f22e274]:
+              - link "202 京豆" [ref=f22e275] [cursor=pointer]:
+                - /url: https://bean.jd.com/myJingBean/list
+                - generic [ref=f22e276]: "202"
+                - generic [ref=f22e277]: 京豆
+            - listitem [ref=f22e278]:
+              - link "抽¥288 红包" [ref=f22e279] [cursor=pointer]:
+                - /url: https://interact.jd.com/
+                - generic [ref=f22e280]: 抽¥288
+                - generic [ref=f22e282]: 红包
+            - listitem [ref=f22e283]:
+              - link "购卡返 京东E卡" [ref=f22e284] [cursor=pointer]:
+                - /url: https://o.jd.com/
+                - generic [ref=f22e285]: 购卡返
+                - generic [ref=f22e286]: 京东E卡
+          - generic [ref=f22e287] [cursor=pointer]:
+            - img "京豆" [ref=f22e288]
+            - generic [ref=f22e289]:
+              - generic [ref=f22e290]: 每天签到
+              - generic [ref=f22e291]: 还有2天最高可领88京豆
+            - img "箭头" [ref=f22e292]
+          - generic [ref=f22e295]:
+            - link "我的订单 我的订单" [ref=f22e296] [cursor=pointer]:
+              - /url: https://order.jd.com/center/list.action
+              - img "我的订单" [ref=f22e297]
+              - generic [ref=f22e298]: 我的订单
+            - link "浏览记录 浏览记录" [ref=f22e299] [cursor=pointer]:
+              - /url: https://home.jd.com/history
+              - img "浏览记录" [ref=f22e300]
+              - generic [ref=f22e301]: 浏览记录
+            - link "商品收藏 商品收藏" [ref=f22e302] [cursor=pointer]:
+              - /url: https://t.jd.com/home/follow
+              - img "商品收藏" [ref=f22e303]
+              - generic [ref=f22e304]: 商品收藏
+            - link "店铺关注 店铺关注" [ref=f22e305] [cursor=pointer]:
+              - /url: https://t.jd.com/vender/followVenderList.action
+              - img "店铺关注" [ref=f22e306]
+              - generic [ref=f22e307]: 店铺关注
+      - generic [ref=f22e308]:
+        - generic [ref=f22e313] [cursor=pointer]:
+          - generic [ref=f22e314]:
+            - generic [ref=f22e315]: 超级直播日
+            - generic [ref=f22e318]: 领60元惊喜红包
+          - generic [ref=f22e319]:
+            - generic [ref=f22e320]:
+              - generic [ref=f22e321]: ¥1325
+              - generic [ref=f22e323]: 惊喜红包
+            - generic [ref=f22e324]: 办公省心囤
+        - generic [ref=f22e329]:
+          - generic [ref=f22e331] [cursor=pointer]:
+            - generic [ref=f22e332]: 在APP看过
+            - generic [ref=f22e334]:
+              - generic [ref=f22e338]:
+                - generic [ref=f22e339]: 希捷酷鱼20TB大容量氦气存储硬盘
+                - generic [ref=f22e341]:
+                  - generic [ref=f22e342]: ¥4675.51
+                  - generic [ref=f22e343]: PLUS到手价
+              - generic [ref=f22e344]:
+                - generic [ref=f22e345]: 去对比
+                - generic [ref=f22e348]: 继续挑
+          - img "编辑" [ref=f22e352] [cursor=pointer]
+        - generic [ref=f22e353]:
+          - generic [ref=f22e355] [cursor=pointer]:
+            - generic [ref=f22e356]:
+              - generic [ref=f22e357]: 京东秒杀
+              - generic [ref=f22e358]: 限时抢购 不止5折
+            - generic [ref=f22e361]:
+              - img "联想 GP70Max 刻录机" [ref=f22e363]
+              - generic [ref=f22e364]:
+                - generic [ref=f22e365]: 联想 GP70Max 刻录机
+                - generic [ref=f22e366]: 热销中
+                - generic [ref=f22e370]:
+                  - generic [ref=f22e371]:
+                    - generic [ref=f22e372]: ¥
+                    - generic [ref=f22e373]: "201"
+                  - generic [ref=f22e374]: 180天最低
+          - img "编辑" [ref=f22e377] [cursor=pointer]
+          - generic [ref=f22e378]:
+            - generic [ref=f22e380]: 新增首页定制化频道功能
+            - generic [ref=f22e381]: 点这儿可定制你想展示的频道
+            - generic [ref=f22e382]:
+              - generic [ref=f22e383] [cursor=pointer]: 我知道了
+              - generic [ref=f22e384] [cursor=pointer]: 去定制
+        - generic [ref=f22e385]:
+          - generic [ref=f22e387] [cursor=pointer]:
+            - generic [ref=f22e388]:
+              - generic [ref=f22e389]: 京东新品
+              - generic [ref=f22e390]: 重磅新品抢先体验
+            - generic [ref=f22e392]:
+              - img "重磅新品" [ref=f22e396]
+              - generic [ref=f22e397]:
+                - generic [ref=f22e398]: 水星家纺百丽丝×JDear京东联名棉棉可水洗针织棉花四季被2*2.3m 5.0斤
+                - generic [ref=f22e399]:
+                  - generic [ref=f22e400]: 新材质·
+                  - generic [ref=f22e401]: 全棉针织
+                - generic [ref=f22e404]:
+                  - generic [ref=f22e405]: ¥497.6
+                  - generic [ref=f22e406]: 国补到手价
+                  - generic "622.00" [ref=f22e407]: ￥622.00
+                  - generic "622.00" [ref=f22e408]: 销量900+
+          - img "编辑" [ref=f22e410] [cursor=pointer]
+  - generic "为你推荐" [ref=f22e413]:
+    - generic [ref=f22e414]:
+      - generic [ref=f22e415]:
+        - generic:
+          - generic:
+            - generic:
+              - list:
+                - tab "为你推荐 猜你喜欢" [selected]:
+                  - generic: 为你推荐
+                - tab "电脑数码 电脑数码":
+                  - generic: 电脑数码
+                - tab "手机通讯 手机通讯":
+                  - generic: 手机通讯
+                - tab "家用电器 大家电":
+                  - generic: 家用电器
+                - tab "家居百货 家电家居":
+                  - generic: 家居百货
+                - tab "超补情报局 国家补贴":
+                  - generic: 超补情报局
+                - tab "粮油调味 粮油调味":
+                  - generic: 粮油调味
+                - tab "食品酒饮 休食饮料":
+                  - generic: 食品酒饮
+                - tab "摸鱼顺手秒 秒杀推荐7.3":
+                  - generic: 摸鱼顺手秒
+                - tab "文具办公 文具办公":
+                  - generic: 文具办公
+                - tab "五金机电 工业品":
+                  - generic: 五金机电
+                - tab "小家电 小家电":
+                  - generic: 小家电
+                - tab "家具建材 家具建材":
+                  - generic: 家具建材
+                - tab "个护美妆 运动户外":
+                  - generic: 个护美妆
+                - tab "母婴亲子 母婴亲子":
+                  - generic: 母婴亲子
+                - tab "服饰鞋包 服饰鞋包":
+                  - generic: 服饰鞋包
+                - tab "运动户外 运动户外":
+                  - generic: 运动户外
+                - tab "教育文娱 教育文娱":
+                  - generic: 教育文娱
+                - tab "萌宠护理 宠物生活":
+                  - generic: 萌宠护理
+                - tab "农资园艺 农资园艺":
+                  - generic: 农资园艺
+                - tab "健康保养 健康保健":
+                  - generic: 健康保养
+                - tab "汽车服务 汽车服务":
+                  - generic: 汽车服务
+      - generic [ref=f22e417]:
+        - tabpanel "为你推荐 猜你喜欢" [ref=f22e418]:
+          - listitem [ref=f22e419]:
+            - link "希捷（SEAGATE）监控硬盘 8TB 256MB SATA CMR垂直 机械硬盘 视频储存 数据恢复服务 希捷酷鹰 3.5英寸ST8000VX009" [ref=f22e421] [cursor=pointer]:
+              - /url: https://item.jd.com/100152214411.html?pcdk=SMAi-q8waj4zkmKofZl5BYld-XPCcSr_jQ9ujyhW5P-BQqbiBXe_GHeTHfEhhl60.dqA7.aWhW
+              - generic [ref=f22e424]:
+                - paragraph [ref=f22e425]: 希捷（SEAGATE）监控硬盘 8TB 256MB SATA CMR垂直 机械硬盘 视频储存 数据恢复服务 希捷酷鹰 3.5英寸ST8000VX009
+                - generic [ref=f22e428]: 正品行货带票
+                - generic [ref=f22e433]:
+                  - generic [ref=f22e434]:
+                    - generic [ref=f22e435]: ¥
+                    - generic [ref=f22e436]: "3183.01"
+                  - generic "3199.00" [ref=f22e439]: 销量300万+
+              - generic "不喜欢" [ref=f22e440]
+          - listitem [ref=f22e442]:
+            - link "公牛（BULL）新国标过载超功率保护插座/插线板/插排宿舍家用桌面排插 3C认证 8位总控开关全长2米 GN-B3440" [ref=f22e443] [cursor=pointer]:
+              - /url: https://item.jd.com/100165737436.html?pcdk=SMAi-q8waj4zkmKofZl5BYld-XPCcSr_jQ9ujyhW5P9t3DnmLhYuUZxBIP9CUmxF.dqA7.aWhW
+              - generic [ref=f22e446]:
+                - paragraph [ref=f22e447]: 公牛（BULL）新国标过载超功率保护插座/插线板/插排宿舍家用桌面排插 3C认证 8位总控开关全长2米 GN-B3440
+                - generic [ref=f22e450]: 正品行货带票
+                - generic [ref=f22e456]:
+                  - generic [ref=f22e457]:
+                    - generic [ref=f22e458]: ¥
+                    - generic [ref=f22e459]: "35.90"
+                  - generic "35.90" [ref=f22e462]: 销量1000万+
+              - generic "不喜欢" [ref=f22e463]
+          - listitem [ref=f22e465]:
+            - link "希捷 14TB 企业级硬盘 3.5寸 CMR垂直 SATA ST14000NM010G 3年质保 牛皮纸盒包装（21年产全新未使用）" [ref=f22e467] [cursor=pointer]:
+              - /url: https://item.jd.com/100221849111.html?pcdk=SMAi-q8waj4zkmKofZl5BUdUuwJLRnvIKm4nakZSOgTWkOcIxywHUCkhoE6Bzkz8.dqA7.aWhW
+              - generic [ref=f22e470]:
+                - paragraph [ref=f22e471]: 希捷 14TB 企业级硬盘 3.5寸 CMR垂直 SATA ST14000NM010G 3年质保 牛皮纸盒包装（21年产全新未使用）
+                - generic [ref=f22e474]: 正品行货带票
+                - generic [ref=f22e479]:
+                  - generic [ref=f22e480]:
+                    - generic [ref=f22e481]: ¥
+                    - generic [ref=f22e482]: "3431.76"
+                  - generic "3449.00" [ref=f22e485]: 销量2000+
+              - generic "不喜欢" [ref=f22e486]
+          - listitem [ref=f22e488]:
+            - generic [ref=f22e489]:
+              - generic [ref=f22e491] [cursor=pointer]:
+                - img "productImg" [ref=f22e493]
+                - generic "耐克男子速干紧身短裤举重训练运动裤NIKE PRO DRI-FIT FB7959 010黑/白 L" [ref=f22e494]
+                - generic [ref=f22e495]:
+                  - generic "耐克" [ref=f22e499]
+                  - button "进入品牌" [ref=f22e500]
+              - generic [ref=f22e502] [cursor=pointer]:
+                - img "productImg" [ref=f22e504]
+                - generic "可口可乐学生手表中性笔文具18件套装考试专用" [ref=f22e505]
+                - generic [ref=f22e506]:
+                  - generic "可口可乐" [ref=f22e510]
+                  - button "进入品牌" [ref=f22e511]
+              - list [ref=f22e512]:
+                - listitem [ref=f22e513] [cursor=pointer]
+                - listitem [ref=f22e514] [cursor=pointer]
+          - listitem [ref=f22e515] [cursor=pointer]:
+            - link [ref=f22e516]:
+              - /url: https://pro.jd.com/mall/active/32Be5o799kWx168oLQnebXgyWSZz/index.html?babelChannel=ttt22
+          - listitem [ref=f22e517]:
+            - link "曼秀雷敦男士专用控油冰爽洁面泡沫150ml清爽去角质去油洗面奶送男生" [ref=f22e518] [cursor=pointer]:
+              - /url: https://item.jd.com/188565.html?pcdk=SMAi-q8waj4zkmKofZl5BbWuO7szaVvyfbOA8R75fgB1Cmo0_NW7iZc6yYwOUsE6.dqA7.aWhW
+              - generic [ref=f22e521]:
+                - paragraph [ref=f22e522]: 曼秀雷敦男士专用控油冰爽洁面泡沫150ml清爽去角质去油洗面奶送男生
+                - generic [ref=f22e529]:
+                  - generic [ref=f22e530]:
+                    - generic [ref=f22e531]: ¥
+                    - generic [ref=f22e532]: "37.05"
+                  - generic "39.00" [ref=f22e535]: 销量60万+
+              - generic "不喜欢" [ref=f22e536]
+          - listitem [ref=f22e538]:
+            - link "希捷（SEAGATE）银河企业级20TBSATA接口监控硬盘控录像储存监控NAS台式机械硬盘20TB银河官换新盘 20TB 希捷企业银河级ST20000NM000H" [ref=f22e540] [cursor=pointer]:
+              - /url: https://item.jd.com/10238011789521.html?pcdk=SMAi-q8waj4zkmKofZl5BcuZdat_B7F9OD6-2ZXQir9OEJExGQEDYVR5zQs_GYG7.dqA7.aWhW
+              - generic [ref=f22e543]:
+                - paragraph [ref=f22e544]: 希捷（SEAGATE）银河企业级20TBSATA接口监控硬盘控录像储存监控NAS台式机械硬盘20TB银河官换新盘 20TB 希捷企业银河级ST20000NM000H
+                - generic [ref=f22e547]:
+                  - generic [ref=f22e548]: ¥
+                  - generic [ref=f22e549]: "4500.00"
+              - generic "不喜欢" [ref=f22e551]
+          - listitem [ref=f22e553]:
+            - link "NVV 电动升降电脑桌 电脑支架笔记本支架 铝合金多功能台式显示器增高架USB多口扩展坞快充RGB灯NP-23" [ref=f22e554] [cursor=pointer]:
+              - /url: https://item.jd.com/100132210401.html?pcdk=SMAi-q8waj4zkmKofZl5BYld-XPCcSr_jQ9ujyhW5P-fnI7iVT3DVGocaePJWy9Z.dqA7.aWhW
+              - generic [ref=f22e557]:
+                - paragraph [ref=f22e558]: NVV 电动升降电脑桌 电脑支架笔记本支架 铝合金多功能台式显示器增高架USB多口扩展坞快充RGB灯NP-23
+                - generic [ref=f22e561]: 国家补贴 | 已减¥4.24
+                - generic [ref=f22e564]:
+                  - generic [ref=f22e565]:
+                    - generic [ref=f22e566]: ¥
+                    - generic [ref=f22e567]: "419.55"
+                  - generic [ref=f22e569]: 国补到手价
+                  - generic "534.79" [ref=f22e571]: ￥534.79
+                  - generic "534.79" [ref=f22e573]: 销量10万+
+              - generic "不喜欢" [ref=f22e574]
+          - listitem [ref=f22e576]:
+            - link "公牛（BULL）67W氮化镓桌面充电站扩展坞电竞立式USB插排智能插座多功能数显100W快充接线板多孔插排拖线板扩展 【67W氮化镓快充】立式数显 十口输出 1.5米" [ref=f22e578] [cursor=pointer]:
+              - /url: https://item.jd.com/10120253004753.html?pcdk=SMAi-q8waj4zkmKofZl5BfopNgkTXfyVTT70P851UDw3CBuKt5lw4eIhRraZwH9d.dqA7.aWhW
+              - generic [ref=f22e581]:
+                - paragraph [ref=f22e582]: 公牛（BULL）67W氮化镓桌面充电站扩展坞电竞立式USB插排智能插座多功能数显100W快充接线板多孔插排拖线板扩展 【67W氮化镓快充】立式数显 十口输出 1.5米
+                - generic [ref=f22e583]: 官方直降15%
+                - generic [ref=f22e588]:
+                  - generic [ref=f22e589]:
+                    - generic [ref=f22e590]: ¥
+                    - generic [ref=f22e591]: "210.16"
+                  - generic "294.90" [ref=f22e595]: ￥294.90
+                  - generic "294.90" [ref=f22e597]: 销量1万+
+              - generic "不喜欢" [ref=f22e598]
+          - listitem [ref=f22e600]:
+            - link "NB（ERGONOMIC）笔记本支架显示器支架一拖二合一电脑升降机械臂笔记本悬臂支架显示器增高架上下双显示屏示器支架 【大师款-双臂】笔显组合丨单臂承重9kg黑" [ref=f22e601] [cursor=pointer]:
+              - /url: https://item.jd.com/10071135823326.html?pcdk=SMAi-q8waj4zkmKofZl5BeZfrVGRG6s7FZ7dd12UdcNsUKoRqlnVBJ0YqKrZmuCm.dqA7.aWhW
+              - generic [ref=f22e604]:
+                - paragraph [ref=f22e605]: NB（ERGONOMIC）笔记本支架显示器支架一拖二合一电脑升降机械臂笔记本悬臂支架显示器增高架上下双显示屏示器支架 【大师款-双臂】笔显组合丨单臂承重9kg黑
+                - generic [ref=f22e607]:
+                  - generic [ref=f22e608]: 惊喜红包 | 满200减20
+                  - generic [ref=f22e609]: 只换不修
+                - generic [ref=f22e611]:
+                  - generic [ref=f22e612]:
+                    - generic [ref=f22e613]: ¥
+                    - generic [ref=f22e614]: "259.00"
+                  - generic "279.00" [ref=f22e617]: 销量1000+
+              - generic "不喜欢" [ref=f22e618]
+          - listitem [ref=f22e620]:
+            - link "LG G6 27英寸2K显示器200Hz 游戏电竞显示器 FastIPS HDR400 1ms(GtG) 高刷电脑显示屏 27G610A" [ref=f22e623] [cursor=pointer]:
+              - /url: https://item.jd.com/100325898428.html?pcdk=SMAi-q8waj4zkmKofZl5BQom-pAS03ZZw4qXybkjTfBOxqy5ZvjcnMlrrO_beaPp.dqA7.aWhW
+              - generic [ref=f22e626]:
+                - paragraph [ref=f22e627]: LG G6 27英寸2K显示器200Hz 游戏电竞显示器 FastIPS HDR400 1ms(GtG) 高刷电脑显示屏 27G610A
+                - generic [ref=f22e633]:
+                  - generic [ref=f22e634]:
+                    - generic [ref=f22e635]: ¥
+                    - generic [ref=f22e636]: "1049.00"
+                  - generic "1049.00" [ref=f22e639]: 销量4万+
+              - generic "不喜欢" [ref=f22e640]
+          - listitem [ref=f22e642]:
+            - link "CangHua 适用华为手表充电器便携Watch6/6Pro/5/4/3/GT7/GT7Pro/GT6/GT5/GT4/GT3/D2充电线快充磁吸底座" [ref=f22e644] [cursor=pointer]:
+              - /url: https://item.jd.com/100245114831.html?pcdk=SMAi-q8waj4zkmKofZl5BUdUuwJLRnvIKm4nakZSOgTydLYKBInzs_i0v5THP68t.dqA7.aWhW
+              - generic [ref=f22e647]:
+                - paragraph [ref=f22e648]: CangHua 适用华为手表充电器便携Watch6/6Pro/5/4/3/GT7/GT7Pro/GT6/GT5/GT4/GT3/D2充电线快充磁吸底座
+                - generic [ref=f22e651]: 国家补贴 | 已减¥0.52
+                - generic [ref=f22e654]:
+                  - generic [ref=f22e655]:
+                    - generic [ref=f22e656]: ¥
+                    - generic [ref=f22e657]: "51.40"
+                  - generic "59.00" [ref=f22e660]: 销量20万+
+              - generic "不喜欢" [ref=f22e661]
+          - listitem [ref=f22e663]:
+            - link "ST8000VN004 酷狼8tb台式机械硬盘8t垂直256M群晖NAS 8TB" [ref=f22e666] [cursor=pointer]:
+              - /url: https://item.jd.com/10207470547542.html?pcdk=SMAi-q8waj4zkmKofZl5BVMLSeqTGwMPqyrKdVBLZFmjmQLeeNhdxQPEt4UbGOoP.dqA7.aWhW
+              - generic [ref=f22e669]:
+                - paragraph [ref=f22e670]: ST8000VN004 酷狼8tb台式机械硬盘8t垂直256M群晖NAS 8TB
+                - generic [ref=f22e673]:
+                  - generic [ref=f22e674]: ¥
+                  - generic [ref=f22e675]: "2299.00"
+              - generic "不喜欢" [ref=f22e677]
+          - listitem [ref=f22e679]:
+            - link "可相兔台式电脑增高架显示器屏幕底座支撑架办公室工位桌面木制置物架 胡桃色-40*20【升级加固】 碳素钢腿" [ref=f22e681] [cursor=pointer]:
+              - /url: https://item.jd.com/10143638494367.html?pcdk=SMAi-q8waj4zkmKofZl5BfEdSQgj9inYg_mp1di_tvPyufB-G5bkFEweCJFSnFIQ.dqA7.aWhW
+              - generic [ref=f22e684]:
+                - paragraph [ref=f22e685]: 可相兔台式电脑增高架显示器屏幕底座支撑架办公室工位桌面木制置物架 胡桃色-40*20【升级加固】 碳素钢腿
+                - generic [ref=f22e687]:
+                  - generic [ref=f22e688]:
+                    - generic [ref=f22e689]: ¥
+                    - generic [ref=f22e690]: "17.50"
+                  - generic [ref=f22e692]: 到手价
+                  - generic "24.50" [ref=f22e694]: ￥24.50
+                  - generic "24.50" [ref=f22e696]: 销量500+
+              - generic "不喜欢" [ref=f22e697]
+          - listitem [ref=f22e699]:
+            - link "希捷（SEAGATE）移动硬盘4TB USB3.0简系列 黑色2.5英寸 机械硬盘 大容量办公家庭存储 外置办公 免费数据恢复服务" [ref=f22e702] [cursor=pointer]:
+              - /url: https://item.jd.com/100018308017.html?pcdk=SMAi-q8waj4zkmKofZl5BRanCys7lEMF4r6S-eBo4RkDQtDaYECr15vO-ACtI9x1.dqA7.aWhW
+              - generic [ref=f22e705]:
+                - paragraph [ref=f22e706]: 希捷（SEAGATE）移动硬盘4TB USB3.0简系列 黑色2.5英寸 机械硬盘 大容量办公家庭存储 外置办公 免费数据恢复服务
+                - generic [ref=f22e709]: 正品行货带票
+                - generic [ref=f22e714]:
+                  - generic [ref=f22e715]:
+                    - generic [ref=f22e716]: ¥
+                    - generic [ref=f22e717]: "1239.00"
+                  - generic "1239.00" [ref=f22e720]: 销量100万+
+              - generic "不喜欢" [ref=f22e721]
+          - listitem [ref=f22e723]:
+            - link "公牛（BULL）PDU桌面过载超功率保护桌下电竞机柜插座/插线板/插排/排插 6位分控 1.8米规格 GNE-P1063E黑" [ref=f22e725] [cursor=pointer]:
+              - /url: https://item.jd.com/100222023375.html?pcdk=SMAi-q8waj4zkmKofZl5BUdUuwJLRnvIKm4nakZSOgRMKbnIgZScxSjfpfM3oIo-.dqA7.aWhW
+              - generic [ref=f22e728]:
+                - paragraph [ref=f22e729]: 公牛（BULL）PDU桌面过载超功率保护桌下电竞机柜插座/插线板/插排/排插 6位分控 1.8米规格 GNE-P1063E黑
+                - generic [ref=f22e732]: 国家补贴 | 已减¥11.41
+                - generic [ref=f22e735]:
+                  - generic [ref=f22e736]:
+                    - generic [ref=f22e737]: ¥
+                    - generic [ref=f22e738]: "64.67"
+                  - generic [ref=f22e740]: 国补到手价
+                  - generic "108.50" [ref=f22e742]: ￥108.50
+                  - generic "108.50" [ref=f22e744]: 销量40万+
+              - generic "不喜欢" [ref=f22e745]
+          - listitem [ref=f22e747]:
+            - link "希捷（SEAGATE）希捷移动硬盘 2TB USB-C高速 One Touch铭2.5英寸 灰 机械硬盘 AES256加密 智能备份" [ref=f22e750] [cursor=pointer]:
+              - /url: https://item.jd.com/100322556285.html?pcdk=SMAi-q8waj4zkmKofZl5BQom-pAS03ZZw4qXybkjTfD-HZ9u1OED7CxJUufhWOsC.dqA7.aWhW
+              - generic [ref=f22e753]:
+                - paragraph [ref=f22e754]: 希捷（SEAGATE）希捷移动硬盘 2TB USB-C高速 One Touch铭2.5英寸 灰 机械硬盘 AES256加密 智能备份
+                - generic [ref=f22e757]: 正品行货带票
+                - generic [ref=f22e763]:
+                  - generic [ref=f22e764]:
+                    - generic [ref=f22e765]: ¥
+                    - generic [ref=f22e766]: "999.00"
+                  - generic "999.00" [ref=f22e769]: 销量1000+
+              - generic "不喜欢" [ref=f22e770]
+          - listitem [ref=f22e772]:
+            - link "巨木高压洗车水枪头金属水抢家用增压冲洗强力汽车洗地喷水喷头单个枪 7.5米伸缩魔术管【注水前2.5米】" [ref=f22e774] [cursor=pointer]:
+              - /url: https://item.jd.com/10078082063737.html?pcdk=SMAi-q8waj4zkmKofZl5BeZfrVGRG6s7FZ7dd12UdcPp0n7jmGqEYLLYJUQpc4jW.dqA7.aWhW
+              - generic [ref=f22e777]:
+                - paragraph [ref=f22e778]: 巨木高压洗车水枪头金属水抢家用增压冲洗强力汽车洗地喷水喷头单个枪 7.5米伸缩魔术管【注水前2.5米】
+                - generic [ref=f22e779]: 惊喜加补 | 满5000减700
+                - generic [ref=f22e784]:
+                  - generic [ref=f22e785]:
+                    - generic [ref=f22e786]: ¥
+                    - generic [ref=f22e787]: "23.70"
+                  - generic [ref=f22e789]: 已补贴3.19元
+                  - generic "25.00" [ref=f22e791]: 销量1万+
+              - generic "不喜欢" [ref=f22e792]
+          - listitem [ref=f22e794]:
+            - link "小米（MI）REDMI 27英寸2K显示器120Hz 低蓝光 广色域电脑办公显示器 REDMI显示器 A27Q 2026" [ref=f22e797] [cursor=pointer]:
+              - /url: https://item.jd.com/10183983628335.html?pcdk=SMAi-q8waj4zkmKofZl5Bf1kB2qAYNuRacSwD-DiX5SYqmO1l3SIteqS9AqX2PRY.dqA7.aWhW
+              - generic [ref=f22e800]:
+                - paragraph [ref=f22e801]: 小米（MI）REDMI 27英寸2K显示器120Hz 低蓝光 广色域电脑办公显示器 REDMI显示器 A27Q 2026
+                - generic [ref=f22e802]: 假一赔四
+                - generic [ref=f22e806]:
+                  - generic [ref=f22e807]:
+                    - generic [ref=f22e808]: ¥
+                    - generic [ref=f22e809]: "629.00"
+                  - generic "629.00" [ref=f22e812]: 销量4000+
+              - generic "不喜欢" [ref=f22e813]
+          - listitem [ref=f22e815]:
+            - link "孙二嫂 驴打滚豆面卷芝麻卷打糕糯米糕糍粑切糕青团东北特产老北京小吃 打糕450g" [ref=f22e817] [cursor=pointer]:
+              - /url: https://item.jd.com/mini/10042621227334.html?source=web&pcdk=SMAi-q8waj4zkmKofZl5BT5En7MSnM1SZr1sgzLU7frE3ClLZSp4OLaBiWD58IBY.dqA7.aWhW
+              - generic [ref=f22e820]:
+                - paragraph [ref=f22e821]: 孙二嫂 驴打滚豆面卷芝麻卷打糕糯米糕糍粑切糕青团东北特产老北京小吃 打糕450g
+                - generic [ref=f22e822]: 官方直降15%
+                - generic [ref=f22e827]:
+                  - generic [ref=f22e828]:
+                    - generic [ref=f22e829]: ¥
+                    - generic [ref=f22e830]: "8.41"
+                  - generic "9.90" [ref=f22e833]: 销量5万+
+              - generic "不喜欢" [ref=f22e834]
+          - listitem [ref=f22e836] [cursor=pointer]:
+            - link [ref=f22e837]:
+              - /url: https://pro.jd.com/mall/active/3oXSBXHSzCbhAktnXLbqAjfU2yvw/index.html?babelChannel=ttt13
+          - listitem [ref=f22e838]:
+            - link "浪莎10双装男士袜子男秋冬短袜新疆棉吸汗短筒男袜运动休闲白色袜子" [ref=f22e840] [cursor=pointer]:
+              - /url: https://item.jd.com/100009584446.html?pcdk=SMAi-q8waj4zkmKofZl5BRanCys7lEMF4r6S-eBo4RlHLN6bn_CTT3RW3lpACKjT.dqA7.aWhW
+              - generic [ref=f22e843]:
+                - paragraph [ref=f22e844]: 浪莎10双装男士袜子男秋冬短袜新疆棉吸汗短筒男袜运动休闲白色袜子
+                - generic [ref=f22e847]: 惊喜加补 | 满5000减400
+                - generic [ref=f22e852]:
+                  - generic [ref=f22e853]:
+                    - generic [ref=f22e854]: ¥
+                    - generic [ref=f22e855]: "37.91"
+                  - generic "39.90" [ref=f22e858]: 销量9万+
+              - generic "不喜欢" [ref=f22e859]
+          - listitem [ref=f22e861] [cursor=pointer]:
+            - generic [ref=f22e862]:
+              - paragraph [ref=f22e863]: 精选热点
+              - list [ref=f22e864]:
+                - listitem [ref=f22e865]:
+                  - link "小米显示器27寸" [ref=f22e867]:
+                    - /url: //search.jd.com/Search?keyword=%E5%B0%8F%E7%B1%B3%E6%98%BE%E7%A4%BA%E5%99%A827%E5%AF%B8&enc=utf-8
+                - listitem [ref=f22e868]:
+                  - link "27寸2k显示器" [ref=f22e870]:
+                    - /url: //search.jd.com/Search?keyword=27%E5%AF%B82k%E6%98%BE%E7%A4%BA%E5%99%A8&enc=utf-8
+                - listitem [ref=f22e871]:
+                  - link "希捷20t硬盘" [ref=f22e873]:
+                    - /url: //search.jd.com/Search?keyword=%E5%B8%8C%E6%8D%B720t%E7%A1%AC%E7%9B%98&enc=utf-8
+                - listitem [ref=f22e874]:
+                  - link "红米a27q" [ref=f22e876]:
+                    - /url: //search.jd.com/Search?keyword=%E7%BA%A2%E7%B1%B3a27q&enc=utf-8
+                - listitem [ref=f22e877]:
+                  - link "机械硬盘" [ref=f22e879]:
+                    - /url: //search.jd.com/Search?keyword=%E6%9C%BA%E6%A2%B0%E7%A1%AC%E7%9B%98&enc=utf-8
+                - listitem [ref=f22e880]:
+                  - link "显示器27英寸" [ref=f22e882]:
+                    - /url: //search.jd.com/Search?keyword=%E6%98%BE%E7%A4%BA%E5%99%A827%E8%8B%B1%E5%AF%B8&enc=utf-8
+                - listitem [ref=f22e883]:
+                  - link "西数机械硬盘" [ref=f22e885]:
+                    - /url: //search.jd.com/Search?keyword=%E8%A5%BF%E6%95%B0%E6%9C%BA%E6%A2%B0%E7%A1%AC%E7%9B%98&enc=utf-8
+                - listitem [ref=f22e886]:
+                  - link "4k显示器27英寸" [ref=f22e888]:
+                    - /url: //search.jd.com/Search?keyword=4k%E6%98%BE%E7%A4%BA%E5%99%A827%E8%8B%B1%E5%AF%B8&enc=utf-8
+                - listitem [ref=f22e889]:
+                  - link "电脑显示屏" [ref=f22e891]:
+                    - /url: //search.jd.com/Search?keyword=%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%B1%8F&enc=utf-8
+                - listitem [ref=f22e892]:
+                  - link "鼠标垫护腕垫" [ref=f22e894]:
+                    - /url: //search.jd.com/Search?keyword=%E9%BC%A0%E6%A0%87%E5%9E%AB%E6%8A%A4%E8%85%95%E5%9E%AB&enc=utf-8
+                - listitem [ref=f22e895]:
+                  - link "type-c扩展坞" [ref=f22e897]:
+                    - /url: //search.jd.com/Search?keyword=type-c%E6%89%A9%E5%B1%95%E5%9D%9E&enc=utf-8
+                - listitem [ref=f22e898]:
+                  - link "pdu插排" [ref=f22e900]:
+                    - /url: //search.jd.com/Search?keyword=pdu%E6%8F%92%E6%8E%92&enc=utf-8
+                - listitem [ref=f22e901]:
+                  - link "显示器机械臂" [ref=f22e903]:
+                    - /url: //search.jd.com/Search?keyword=%E6%98%BE%E7%A4%BA%E5%99%A8%E6%9C%BA%E6%A2%B0%E8%87%82&enc=utf-8
+                - listitem [ref=f22e904]:
+                  - link "显示器" [ref=f22e906]:
+                    - /url: //search.jd.com/Search?keyword=%E6%98%BE%E7%A4%BA%E5%99%A8&enc=utf-8
+                - listitem [ref=f22e907]:
+                  - link "插线板" [ref=f22e909]:
+                    - /url: //search.jd.com/Search?keyword=%E6%8F%92%E7%BA%BF%E6%9D%BF&enc=utf-8
+          - listitem [ref=f22e910]:
+            - link "东芝（TOSHIBA）18TB 7200转 512MB SATA接口 垂直式CMR 氦气机械硬盘 企业级硬盘(MG09ACA18TE)" [ref=f22e913] [cursor=pointer]:
+              - /url: https://item.jd.com/100161687886.html?pcdk=SMAi-q8waj4zkmKofZl5BYld-XPCcSr_jQ9ujyhW5P_ozNaMlreErTNTnqGRY2Yj.dqA7.aWhW
+              - generic [ref=f22e916]:
+                - paragraph [ref=f22e917]: 东芝（TOSHIBA）18TB 7200转 512MB SATA接口 垂直式CMR 氦气机械硬盘 企业级硬盘(MG09ACA18TE)
+                - generic [ref=f22e920]: 正品行货带票
+                - generic [ref=f22e925]:
+                  - generic [ref=f22e926]:
+                    - generic [ref=f22e927]: ¥
+                    - generic [ref=f22e928]: "6461.51"
+                  - generic "6499.00" [ref=f22e931]: 销量5万+
+              - generic "不喜欢" [ref=f22e932]
+          - listitem [ref=f22e934]:
+            - link "维特丝泡沫发蜡弹力素卷发持久定型护卷保湿蓬松摩丝男女士淡雅发胶泡泡" [ref=f22e936] [cursor=pointer]:
+              - /url: https://item.jd.com/mini/100071654009.html?source=web&pcdk=SMAi-q8waj4zkmKofZl5BRanCys7lEMF4r6S-eBo4RkFpMenp7exl7wrK45DaJXm.dqA7.aWhW
+              - generic [ref=f22e939]:
+                - paragraph [ref=f22e940]: 维特丝泡沫发蜡弹力素卷发持久定型护卷保湿蓬松摩丝男女士淡雅发胶泡泡
+                - generic [ref=f22e943]: 轻柔发蜡发泥榜第4名
+                - generic [ref=f22e951]:
+                  - generic [ref=f22e952]:
+                    - generic [ref=f22e953]: ¥
+                    - generic [ref=f22e954]: "23.46"
+                  - generic [ref=f22e956]: 90天最低
+                  - generic "28.90" [ref=f22e958]: 销量60万+
+              - generic "不喜欢" [ref=f22e959]
+          - listitem [ref=f22e961]:
+            - link "希捷（SEAGATE）银河企业级24TBSATA接口监控硬盘控录像储存监控NAS台式机械硬盘24TB银河官换新盘 16TB 希捷原厂官换盘ST16000NM000J" [ref=f22e964] [cursor=pointer]:
+              - /url: https://item.jd.com/10238013004577.html?pcdk=SMAi-q8waj4zkmKofZl5BcuZdat_B7F9OD6-2ZXQir_BrHj04yJBWWuIXsuuM8iq.dqA7.aWhW
+              - generic [ref=f22e967]:
+                - paragraph [ref=f22e968]: 希捷（SEAGATE）银河企业级24TBSATA接口监控硬盘控录像储存监控NAS台式机械硬盘24TB银河官换新盘 16TB 希捷原厂官换盘ST16000NM000J
+                - generic [ref=f22e971]:
+                  - generic [ref=f22e972]: ¥
+                  - generic [ref=f22e973]: "3230.00"
+              - generic "不喜欢" [ref=f22e975]
+          - listitem [ref=f22e977]:
+            - link "梦族X109曲面人体工学无线键鼠套装蓝牙键盘静音鼠标电脑商务办公充电多功能适配苹果台式笔记本手感好 金属灰【键鼠套装】无线2.4G+蓝牙5.0双模 无线连接 108" [ref=f22e979] [cursor=pointer]:
+              - /url: https://item.jd.com/10131058327528.html?pcdk=SMAi-q8waj4zkmKofZl5BWggkcOBTYLhqQkuXO-ysrOFSk2WajFNG8xyQBkBxIyU.dqA7.aWhW
+              - generic [ref=f22e982]:
+                - paragraph [ref=f22e983]: 梦族X109曲面人体工学无线键鼠套装蓝牙键盘静音鼠标电脑商务办公充电多功能适配苹果台式笔记本手感好 金属灰【键鼠套装】无线2.4G+蓝牙5.0双模 无线连接 108
+                - generic [ref=f22e984]: 只换不修
+                - generic [ref=f22e988]:
+                  - generic [ref=f22e989]:
+                    - generic [ref=f22e990]: ¥
+                    - generic [ref=f22e991]: "179.00"
+                  - generic "179.00" [ref=f22e994]: 销量2000+
+              - generic "不喜欢" [ref=f22e995]
+          - listitem [ref=f22e997]:
+            - link "辰悦衣磨脚石搓脚板洗脚火山石去死皮老茧家用美脚底后跟浮石磨足部石头 磨脚石【一块】" [ref=f22e999] [cursor=pointer]:
+              - /url: https://item.jd.com/mini/10054805175140.html?source=web&pcdk=SMAi-q8waj4zkmKofZl5BUh8SKUniXJv2nhpS2sfZCU9dWTkk6L93HocxKArGbrS.dqA7.aWhW
+              - generic [ref=f22e1002]:
+                - paragraph [ref=f22e1003]: 辰悦衣磨脚石搓脚板洗脚火山石去死皮老茧家用美脚底后跟浮石磨足部石头 磨脚石【一块】
+                - generic [ref=f22e1005]:
+                  - generic [ref=f22e1006]:
+                    - generic [ref=f22e1007]: ¥
+                    - generic [ref=f22e1008]: "4.90"
+                  - generic "4.90" [ref=f22e1011]: 销量1万+
+              - generic "不喜欢" [ref=f22e1012]
+          - listitem [ref=f22e1014]:
+            - link "华为（HUAWEI）WATCH 5智能运动手表防水心率血氧监测体温检测eSIM独立通话通信导航智慧控车男女士高端新款腕表 晨曦金 烁金色钛金属表带 42mm" [ref=f22e1016] [cursor=pointer]:
+              - /url: https://item.jd.com/10164077755832.html?pcdk=SMAi-q8waj4zkmKofZl5BYi2BiwaZzZzTzy3hmwtqgYYkntpvUJTQWLKjIkyMF4-.dqA7.aWhW
+              - generic [ref=f22e1019]:
+                - paragraph [ref=f22e1020]: 华为（HUAWEI）WATCH 5智能运动手表防水心率血氧监测体温检测eSIM独立通话通信导航智慧控车男女士高端新款腕表 晨曦金 烁金色钛金属表带 42mm
+                - generic [ref=f22e1021]: 首购礼金400元
+                - generic [ref=f22e1026]:
+                  - generic [ref=f22e1027]:
+                    - generic [ref=f22e1028]: ¥
+                    - generic [ref=f22e1029]: "1803.00"
+                  - generic "2203.00" [ref=f22e1032]: 销量2000+
+              - generic "不喜欢" [ref=f22e1033]
+          - listitem [ref=f22e1035]:
+            - link "匠界茶叶黄金芽绿茶明前新茶黄金叶嫩芽白茶茗茶罐装50g口粮茶自己喝" [ref=f22e1037] [cursor=pointer]:
+              - /url: https://item.jd.com/mini/100124408567.html?source=web&pcdk=SMAi-q8waj4zkmKofZl5BYld-XPCcSr_jQ9ujyhW5P9tPS0KCGVJL56KsWd-zJSv.dqA7.aWhW
+              - generic [ref=f22e1040]:
+                - paragraph [ref=f22e1041]: 匠界茶叶黄金芽绿茶明前新茶黄金叶嫩芽白茶茗茶罐装50g口粮茶自己喝
+                - generic [ref=f22e1044]: 惊喜加补 | 满5000减400
+                - generic [ref=f22e1049]:
+                  - generic [ref=f22e1050]:
+                    - generic [ref=f22e1051]: ¥
+                    - generic [ref=f22e1052]: "34.30"
+                  - generic "34.30" [ref=f22e1055]: 销量1万+
+              - generic "不喜欢" [ref=f22e1056]
+          - listitem [ref=f22e1058]:
+            - link "希捷10T ST10000NM017B氦气银河企业级NAS安防监控10T保五年 10T企业银河 ST10000NM017B 五年" [ref=f22e1060] [cursor=pointer]:
+              - /url: https://item.jd.com/10201346043258.html?pcdk=SMAi-q8waj4zkmKofZl5BVMLSeqTGwMPqyrKdVBLZFn2EiBTZf-pRYy_HVU9uZwo.dqA7.aWhW
+              - generic [ref=f22e1063]:
+                - paragraph [ref=f22e1064]: 希捷10T ST10000NM017B氦气银河企业级NAS安防监控10T保五年 10T企业银河 ST10000NM017B 五年
+                - generic [ref=f22e1068]:
+                  - generic [ref=f22e1069]:
+                    - generic [ref=f22e1070]: ¥
+                    - generic [ref=f22e1071]: "2230.00"
+                  - generic "2230.00" [ref=f22e1074]: 销量200+
+              - generic "不喜欢" [ref=f22e1075]
+          - listitem [ref=f22e1077]:
+            - link "【京东物流】纯铜插排办公电脑桌下固定pdu无线插座桌面过载保护插线板接线板 黑武士丨【用电专家】丨【10位】 【高承载力】丨【过载保护】纯铜线1.8米" [ref=f22e1079] [cursor=pointer]:
+              - /url: https://item.jd.com/10193838518884.html?pcdk=SMAi-q8waj4zkmKofZl5BWGCS9fNOcpsZQ6tf5j1UzwL5K4meuDKQv51UpAxKAVU.dqA7.aWhW
+              - generic [ref=f22e1082]:
+                - paragraph [ref=f22e1083]: 【京东物流】纯铜插排办公电脑桌下固定pdu无线插座桌面过载保护插线板接线板 黑武士丨【用电专家】丨【10位】 【高承载力】丨【过载保护】纯铜线1.8米
+                - generic [ref=f22e1086]: 官方直降1%
+                - generic [ref=f22e1091]:
+                  - generic [ref=f22e1092]:
+                    - generic [ref=f22e1093]: ¥
+                    - generic [ref=f22e1094]: "41.40"
+                  - generic "41.90" [ref=f22e1097]: 销量1万+
+              - generic "不喜欢" [ref=f22e1098]
+          - listitem [ref=f22e1100]:
+            - link "优倍快UniFi UACC-SSD-2.5-1TB 2.5英寸固态硬盘1TB UCK-G2-Plus Ubiquiti UBNT 1TB UACC-SSD-2.5-1TB" [ref=f22e1103] [cursor=pointer]:
+              - /url: https://item.jd.com/10237824047694.html?pcdk=65nbKXRLgTuvpdxQFnErsumYDyLnvkOIf2wi8n4gO9XHOHjl-jgHkKdNoPistMvv.dqA7.aWhW
+              - generic [ref=f22e1106]:
+                - paragraph [ref=f22e1107]: 优倍快UniFi UACC-SSD-2.5-1TB 2.5英寸固态硬盘1TB UCK-G2-Plus Ubiquiti UBNT 1TB UACC-SSD-2.5-1TB
+                - generic [ref=f22e1108]: 只换不修
+                - generic [ref=f22e1112]:
+                  - generic [ref=f22e1113]:
+                    - generic [ref=f22e1114]: ¥
+                    - generic [ref=f22e1115]: "1169.10"
+                  - generic [ref=f22e1117]: 到手价
+                  - generic "1299.00" [ref=f22e1119]: ￥1299.00
+              - generic "不喜欢" [ref=f22e1120]
+          - listitem [ref=f22e1122]:
+            - link "尔思家网线理线器桌下插排收纳免打孔机柜理线架桌底置物架理线盒收线器 夜幕黑【伸缩款】长度43-74cm【大容量】" [ref=f22e1124] [cursor=pointer]:
+              - /url: https://item.jd.com/10164569677313.html?pcdk=65nbKXRLgTuvpdxQFnErskCBRDfHSGRQB2KU1ELMmtbUXVhfA9Oj1Hawjq3PcUg6.dqA7.aWhW
+              - generic [ref=f22e1127]:
+                - paragraph [ref=f22e1128]: 尔思家网线理线器桌下插排收纳免打孔机柜理线架桌底置物架理线盒收线器 夜幕黑【伸缩款】长度43-74cm【大容量】
+                - generic [ref=f22e1129]: 理线器榜第27名
+                - generic [ref=f22e1137]:
+                  - generic [ref=f22e1138]:
+                    - generic [ref=f22e1139]: ¥
+                    - generic [ref=f22e1140]: "49.00"
+                  - generic "49.00" [ref=f22e1143]: 销量6000+
+              - generic "不喜欢" [ref=f22e1144]
+          - listitem [ref=f22e1146]:
+            - link "西部数据（WD）台式机机械硬盘 WD Blue 西数蓝盘 3.5英寸CMR垂直技术 AI硬盘 4TB (WD40EZZX)" [ref=f22e1149] [cursor=pointer]:
+              - /url: https://item.jd.com/10234353276110.html?pcdk=65nbKXRLgTuvpdxQFnErsumYDyLnvkOIf2wi8n4gO9WWqCj6_sniz1fdQFWOgEmV.dqA7.aWhW
+              - generic [ref=f22e1152]:
+                - paragraph [ref=f22e1153]: 西部数据（WD）台式机机械硬盘 WD Blue 西数蓝盘 3.5英寸CMR垂直技术 AI硬盘 4TB (WD40EZZX)
+                - generic [ref=f22e1155]:
+                  - generic [ref=f22e1157]: 首购礼金20元
+                  - generic [ref=f22e1159]: 只换不修
+                - generic [ref=f22e1161]:
+                  - generic [ref=f22e1162]:
+                    - generic [ref=f22e1163]: ¥
+                    - generic [ref=f22e1164]: "1319.00"
+                  - generic "1339.00" [ref=f22e1167]: 销量400+
+              - generic "不喜欢" [ref=f22e1168]
+          - listitem [ref=f22e1170]:
+            - link "乐家老铺南京同仁堂治重度灰指甲特效专用膏药指甲真菌感染灰甲净抑菌液" [ref=f22e1172] [cursor=pointer]:
+              - /url: https://item.jd.com/mini/100150258666.html?source=web&pcdk=65nbKXRLgTuvpdxQFnErss647ZsXfkvAw_yE7AxuybQmWWDvLHt8mt8reGVUHuE3.dqA7.aWhW
+              - generic [ref=f22e1175]:
+                - paragraph [ref=f22e1176]: 乐家老铺南京同仁堂治重度灰指甲特效专用膏药指甲真菌感染灰甲净抑菌液
+                - generic [ref=f22e1179]: 清洁护足霜榜第4名
+                - generic [ref=f22e1187]:
+                  - generic [ref=f22e1188]:
+                    - generic [ref=f22e1189]: ¥
+                    - generic [ref=f22e1190]: "69.99"
+                  - generic [ref=f22e1192]: 已补贴9.01元
+                  - generic "69.99" [ref=f22e1194]: 销量1万+
+              - generic "不喜欢" [ref=f22e1195]
+          - listitem [ref=f22e1197]:
+            - link "14T机械硬盘14TB企业级氦气7200转512M监控NAS服务器" [ref=f22e1200] [cursor=pointer]:
+              - /url: https://item.jd.com/10066862153901.html?pcdk=65nbKXRLgTuvpdxQFnErstRolBZRbGHytJw7qe5PIZiGAczh1rx305QDkOvyT47f.dqA7.aWhW
+              - generic [ref=f22e1203]:
+                - paragraph [ref=f22e1204]: 14T机械硬盘14TB企业级氦气7200转512M监控NAS服务器
+                - generic [ref=f22e1208]:
+                  - generic [ref=f22e1209]:
+                    - generic [ref=f22e1210]: ¥
+                    - generic [ref=f22e1211]: "2218.00"
+                  - generic "2218.00" [ref=f22e1214]: 销量800+
+              - generic "不喜欢" [ref=f22e1215]
+          - listitem [ref=f22e1217]:
+            - link "蔓斯菲尔（MSFE）电竞电脑桌书桌2026新款 台式书房卧室带插排办公学习写字工作台" [ref=f22e1219] [cursor=pointer]:
+              - /url: https://item.jd.com/100328516422.html?pcdk=65nbKXRLgTuvpdxQFnErsl6PstcIHrZak5QUJL-hWkATco_bNCSa9Y2dObtZLVoY.dqA7.aWhW
+              - generic [ref=f22e1222]:
+                - paragraph [ref=f22e1223]: 蔓斯菲尔（MSFE）电竞电脑桌书桌2026新款 台式书房卧室带插排办公学习写字工作台
+                - generic [ref=f22e1226]: 国家补贴 | 已减¥70.41
+                - generic [ref=f22e1229]:
+                  - generic [ref=f22e1230]:
+                    - generic [ref=f22e1231]: ¥
+                    - generic [ref=f22e1232]: "399.00"
+                  - generic "469.41" [ref=f22e1235]: 销量9000+
+              - generic "不喜欢" [ref=f22e1236]
+          - listitem [ref=f22e1238]:
+            - link "六维鲨便携式显示器16英寸屏幕手机笔记本电脑触摸Ps5switch游戏娱乐副屏扩展可调节比例 14英寸 4K 非触 不支持支架【S14U6】" [ref=f22e1241] [cursor=pointer]:
+              - /url: https://item.jd.com/10196895229730.html?pcdk=65nbKXRLgTuvpdxQFnErsgYa2jJzq9Dkazy6iNw_QjHkgZ6GxslD7KelXcxk4690.dqA7.aWhW
+              - generic [ref=f22e1244]:
+                - paragraph [ref=f22e1245]: 六维鲨便携式显示器16英寸屏幕手机笔记本电脑触摸Ps5switch游戏娱乐副屏扩展可调节比例 14英寸 4K 非触 不支持支架【S14U6】
+                - generic [ref=f22e1247]:
+                  - generic [ref=f22e1248]: 官方直降15%
+                  - generic [ref=f22e1250]: 只换不修
+                - generic [ref=f22e1252]:
+                  - generic [ref=f22e1253]:
+                    - generic [ref=f22e1254]: ¥
+                    - generic [ref=f22e1255]: "679.00"
+                  - generic "799.00" [ref=f22e1258]: 销量5000+
+              - generic "不喜欢" [ref=f22e1259]
+          - listitem [ref=f22e1261]:
+            - link "清肺戒烟2025款戒烟辅助棒一次性替代戒棒 罗汉果橙叶款【一条】" [ref=f22e1263] [cursor=pointer]:
+              - /url: https://item.jd.com/mini/10229569453931.html?source=web&pcdk=65nbKXRLgTuvpdxQFnErslfdGrUa94sBFZi-ixqOetZX_bZE8ATvh919twRwyDmi.dqA7.aWhW
+              - generic [ref=f22e1266]:
+                - paragraph [ref=f22e1267]: 清肺戒烟2025款戒烟辅助棒一次性替代戒棒 罗汉果橙叶款【一条】
+                - generic [ref=f22e1269]:
+                  - generic [ref=f22e1270]:
+                    - generic [ref=f22e1271]: ¥
+                    - generic [ref=f22e1272]: "108.00"
+                  - generic "120.00" [ref=f22e1275]: 销量200+
+              - generic "不喜欢" [ref=f22e1276]
+          - listitem [ref=f22e1278]:
+            - link "联合创新27英寸2K高清显示器120Hz Type-C反向供电 HDR400全链路色准苹果mac专业设计办公 云上舞白CB27Q1" [ref=f22e1281] [cursor=pointer]:
+              - /url: https://item.jd.com/100309079702.html?pcdk=65nbKXRLgTuvpdxQFnErsl6PstcIHrZak5QUJL-hWkDthEMn85llwTIlHaaNpknA.dqA7.aWhW
+              - generic [ref=f22e1284]:
+                - paragraph [ref=f22e1285]: 联合创新27英寸2K高清显示器120Hz Type-C反向供电 HDR400全链路色准苹果mac专业设计办公 云上舞白CB27Q1
+                - generic [ref=f22e1291]:
+                  - generic [ref=f22e1292]:
+                    - generic [ref=f22e1293]: ¥
+                    - generic [ref=f22e1294]: "799.00"
+                  - generic "799.00" [ref=f22e1297]: 销量5000+
+              - generic "不喜欢" [ref=f22e1298]
+          - listitem [ref=f22e1300]:
+            - link "25年新货山东特产烤熟五香蒜香奶香原味多味花生米休闲零食 五香+蒜香 约250g*2袋" [ref=f22e1302] [cursor=pointer]:
+              - /url: https://item.jd.com/mini/10150416802541.html?source=web&pcdk=65nbKXRLgTuvpdxQFnErshVJPHuuIkARigD9aEfhS4sYoz-co5WuqTJiP7_PiM8V.dqA7.aWhW
+              - generic [ref=f22e1305]:
+                - paragraph [ref=f22e1306]: 25年新货山东特产烤熟五香蒜香奶香原味多味花生米休闲零食 五香+蒜香 约250g*2袋
+                - generic [ref=f22e1312]:
+                  - generic [ref=f22e1313]:
+                    - generic [ref=f22e1314]: ¥
+                    - generic [ref=f22e1315]: "8.90"
+                  - generic "8.90" [ref=f22e1318]: 销量10万+
+              - generic "不喜欢" [ref=f22e1319]
+          - listitem [ref=f22e1321]:
+            - link "德力西PDU桌面过载超功率保护桌下电竞机柜插座/插线板/插排/排插 8位总控开关全长2米" [ref=f22e1324] [cursor=pointer]:
+              - /url: https://item.jd.com/100216766165.html?pcdk=65nbKXRLgTuvpdxQFnErsoJAeAL5_zMKhtTTiBRX11ni3OcxTWWdYkDZBgIQQKMf.dqA7.aWhW
+              - generic [ref=f22e1327]:
+                - paragraph [ref=f22e1328]: 德力西PDU桌面过载超功率保护桌下电竞机柜插座/插线板/插排/排插 8位总控开关全长2米
+                - generic [ref=f22e1331]: 国家补贴 | 已减¥8.58
+                - generic [ref=f22e1334]:
+                  - generic [ref=f22e1335]:
+                    - generic [ref=f22e1336]: ¥
+                    - generic [ref=f22e1337]: "48.61"
+                  - generic [ref=f22e1339]: 国补到手价
+                  - generic "76.30" [ref=f22e1341]: ￥76.30
+                  - generic "76.30" [ref=f22e1343]: 销量1万+
+              - generic "不喜欢" [ref=f22e1344]
+          - listitem [ref=f22e1346]:
+            - link "CangHua 适用华为Watch6 42MM保护膜 HUAWEI Watch6手表膜非钢化膜高清全屏防摔防刮贴膜 42mm" [ref=f22e1348] [cursor=pointer]:
+              - /url: https://item.jd.com/100316717051.html?pcdk=65nbKXRLgTuvpdxQFnErsl6PstcIHrZak5QUJL-hWkC5_x7W65fCHdveYNxPRVlY.dqA7.aWhW
+              - generic [ref=f22e1351]:
+                - paragraph [ref=f22e1352]: CangHua 适用华为Watch6 42MM保护膜 HUAWEI Watch6手表膜非钢化膜高清全屏防摔防刮贴膜 42mm
+                - generic [ref=f22e1355]: 国家补贴 | 已减¥0.18
+                - generic [ref=f22e1358]:
+                  - generic [ref=f22e1359]:
+                    - generic [ref=f22e1360]: ¥
+                    - generic [ref=f22e1361]: "17.72"
+                  - generic "21.10" [ref=f22e1364]: 销量10万+
+              - generic "不喜欢" [ref=f22e1365]
+          - listitem [ref=f22e1367]:
+            - link "联合创新49英寸曲面144Hz 32:9带鱼屏智慧双显准4K mac mini外接游戏电竞办公设计炒股电脑显示器49C1G" [ref=f22e1370] [cursor=pointer]:
+              - /url: https://item.jd.com/100058359469.html?pcdk=65nbKXRLgTuvpdxQFnErsi5C4wdUmtveWv3LVZb1dBQsx-hMwU0CLlrl9-Zu4mMH.dqA7.aWhW
+              - generic [ref=f22e1373]:
+                - paragraph [ref=f22e1374]: 联合创新49英寸曲面144Hz 32:9带鱼屏智慧双显准4K mac mini外接游戏电竞办公设计炒股电脑显示器49C1G
+                - generic [ref=f22e1377]: 领政府补贴减¥372.8
+                - generic [ref=f22e1380]:
+                  - generic [ref=f22e1381]:
+                    - generic [ref=f22e1382]: ¥
+                    - generic [ref=f22e1383]: "3355.21"
+                  - generic "3998.00" [ref=f22e1386]: 销量6万+
+              - generic "不喜欢" [ref=f22e1387]
+          - listitem [ref=f22e1389]:
+            - link "可折叠无线充电器MagSafe三合一手机手表耳机华为苹果17promax桌面充电站生日礼物男士 黑色" [ref=f22e1391] [cursor=pointer]:
+              - /url: https://item.jd.com/10159890395966.html?pcdk=65nbKXRLgTuvpdxQFnErshVJPHuuIkARigD9aEfhS4uElJQvao0KQTqhQ7bZfoO3.dqA7.aWhW
+              - generic [ref=f22e1394]:
+                - paragraph [ref=f22e1395]: 可折叠无线充电器MagSafe三合一手机手表耳机华为苹果17promax桌面充电站生日礼物男士 黑色
+                - generic [ref=f22e1398]: 官方直降12%
+                - generic [ref=f22e1403]:
+                  - generic [ref=f22e1404]:
+                    - generic [ref=f22e1405]: ¥
+                    - generic [ref=f22e1406]: "58.01"
+                  - generic "69.90" [ref=f22e1409]: 销量1000+
+              - generic "不喜欢" [ref=f22e1410]
+          - listitem [ref=f22e1412]:
+            - link "BABT贰次发育【一盒尺寸暴涨】深度修复鹿三天渐显起效快改善情绪趣" [ref=f22e1415] [cursor=pointer]:
+              - /url: https://item.jd.com/100317592877.html?pcdk=65nbKXRLgTuvpdxQFnErsl6PstcIHrZak5QUJL-hWkAUgWU_DMpK8kgDL8cxGxTG.dqA7.aWhW
+              - generic [ref=f22e1418]:
+                - paragraph [ref=f22e1419]: BABT贰次发育【一盒尺寸暴涨】深度修复鹿三天渐显起效快改善情绪趣
+                - generic [ref=f22e1422]: 惊喜加补 | 满100减10
+                - generic [ref=f22e1426]:
+                  - generic [ref=f22e1427]:
+                    - generic [ref=f22e1428]: ¥
+                    - generic [ref=f22e1429]: "178.00"
+                  - generic "188.00" [ref=f22e1432]: 销量3000+
+              - generic "不喜欢" [ref=f22e1433]
+          - listitem [ref=f22e1435]:
+            - link "巨木洗车高压水枪家用增压喷头家用软管庭院浇花冲洗院子浇花专用水管 洗车水枪【高压枪头】" [ref=f22e1437] [cursor=pointer]:
+              - /url: https://item.jd.com/10182361353679.html?pcdk=65nbKXRLgTuvpdxQFnErsixjCBw8jX2CA_gKibZssqzcw4riARV0Zr9npoYDyYHA.dqA7.aWhW
+              - generic [ref=f22e1440]:
+                - paragraph [ref=f22e1441]: 巨木洗车高压水枪家用增压喷头家用软管庭院浇花冲洗院子浇花专用水管 洗车水枪【高压枪头】
+                - generic [ref=f22e1442]: 塑料洗车水枪榜第24名
+                - generic [ref=f22e1450]:
+                  - generic [ref=f22e1451]:
+                    - generic [ref=f22e1452]: ¥
+                    - generic [ref=f22e1453]: "9.90"
+                  - generic "10.50" [ref=f22e1456]: 销量400+
+              - generic "不喜欢" [ref=f22e1457]
+          - listitem [ref=f22e1459]:
+            - link "华为畅享 100 Pro 256GB 幻夜黑【新品】麒麟8020A芯片 前置3200万超清影像 直屏手机华为手机" [ref=f22e1462] [cursor=pointer]:
+              - /url: https://item.jd.com/100328709285.html?pcdk=65nbKXRLgTuvpdxQFnErsl6PstcIHrZak5QUJL-hWkA1vIMJ9N4RPTcHEak0nROZ.dqA7.aWhW
+              - generic [ref=f22e1465]:
+                - paragraph [ref=f22e1466]: 华为畅享 100 Pro 256GB 幻夜黑【新品】麒麟8020A芯片 前置3200万超清影像 直屏手机华为手机
+                - generic [ref=f22e1469]: 国家补贴 | 已减¥219.9
+                - generic [ref=f22e1472]:
+                  - generic [ref=f22e1473]:
+                    - generic [ref=f22e1474]: ¥
+                    - generic [ref=f22e1475]: "1979.10"
+                  - generic [ref=f22e1477]: 国补到手价
+                  - generic "2199.00" [ref=f22e1479]: ￥2199.00
+              - generic "不喜欢" [ref=f22e1480]
+          - listitem [ref=f22e1482] [cursor=pointer]:
+            - generic [ref=f22e1483]:
+              - paragraph [ref=f22e1484]: 精选热点
+              - list [ref=f22e1485]:
+                - listitem [ref=f22e1486]:
+                  - link "显示器支架机械臂" [ref=f22e1488]:
+                    - /url: //search.jd.com/Search?keyword=%E6%98%BE%E7%A4%BA%E5%99%A8%E6%94%AF%E6%9E%B6%E6%9C%BA%E6%A2%B0%E8%87%82&enc=utf-8
+                - listitem [ref=f22e1489]:
+                  - link "lg显示器27寸" [ref=f22e1491]:
+                    - /url: //search.jd.com/Search?keyword=lg%E6%98%BE%E7%A4%BA%E5%99%A827%E5%AF%B8&enc=utf-8
+                - listitem [ref=f22e1492]:
+                  - link "东芝n300" [ref=f22e1494]:
+                    - /url: //search.jd.com/Search?keyword=%E4%B8%9C%E8%8A%9Dn300&enc=utf-8
+                - listitem [ref=f22e1495]:
+                  - link "无线键盘" [ref=f22e1497]:
+                    - /url: //search.jd.com/Search?keyword=%E6%97%A0%E7%BA%BF%E9%94%AE%E7%9B%98&enc=utf-8
+                - listitem [ref=f22e1498]:
+                  - link "cpu散热器" [ref=f22e1500]:
+                    - /url: //search.jd.com/Search?keyword=cpu%E6%95%A3%E7%83%AD%E5%99%A8&enc=utf-8
+                - listitem [ref=f22e1501]:
+                  - link "戴尔电脑显示器" [ref=f22e1503]:
+                    - /url: //search.jd.com/Search?keyword=%E6%88%B4%E5%B0%94%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%99%A8&enc=utf-8
+                - listitem [ref=f22e1504]:
+                  - link "16t机械硬盘" [ref=f22e1506]:
+                    - /url: //search.jd.com/Search?keyword=16t%E6%9C%BA%E6%A2%B0%E7%A1%AC%E7%9B%98&enc=utf-8
+                - listitem [ref=f22e1507]:
+                  - link "戴尔显示器27寸" [ref=f22e1509]:
+                    - /url: //search.jd.com/Search?keyword=%E6%88%B4%E5%B0%94%E6%98%BE%E7%A4%BA%E5%99%A827%E5%AF%B8&enc=utf-8
+                - listitem [ref=f22e1510]:
+                  - link "电脑显示器27寸" [ref=f22e1512]:
+                    - /url: //search.jd.com/Search?keyword=%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%99%A827%E5%AF%B8&enc=utf-8
+                - listitem [ref=f22e1513]:
+                  - link "土豆回锅肉" [ref=f22e1515]:
+                    - /url: //search.jd.com/Search?keyword=%E5%9C%9F%E8%B1%86%E5%9B%9E%E9%94%85%E8%82%89&enc=utf-8
+                - listitem [ref=f22e1516]:
+                  - link "正宗隆江猪脚饭" [ref=f22e1518]:
+                    - /url: //search.jd.com/Search?keyword=%E6%AD%A3%E5%AE%97%E9%9A%86%E6%B1%9F%E7%8C%AA%E8%84%9A%E9%A5%AD&enc=utf-8
+                - listitem [ref=f22e1519]:
+                  - link "aoc显示器27寸" [ref=f22e1521]:
+                    - /url: //search.jd.com/Search?keyword=aoc%E6%98%BE%E7%A4%BA%E5%99%A827%E5%AF%B8&enc=utf-8
+                - listitem [ref=f22e1522]:
+                  - link "sata数据线" [ref=f22e1524]:
+                    - /url: //search.jd.com/Search?keyword=sata%E6%95%B0%E6%8D%AE%E7%BA%BF&enc=utf-8
+                - listitem [ref=f22e1525]:
+                  - link "16tb机械硬盘" [ref=f22e1527]:
+                    - /url: //search.jd.com/Search?keyword=16tb%E6%9C%BA%E6%A2%B0%E7%A1%AC%E7%9B%98&enc=utf-8
+                - listitem [ref=f22e1528]:
+                  - link "利民pa120se" [ref=f22e1530]:
+                    - /url: //search.jd.com/Search?keyword=%E5%88%A9%E6%B0%91pa120se&enc=utf-8
+          - listitem [ref=f22e1531]:
+            - link "华为FreeBuds 7 悦彰耳机 蓝牙无线耳机 半入耳主动降噪 舒适稳固 悦彰音质 安卓/苹果手机通用 星空黑" [ref=f22e1533] [cursor=pointer]:
+              - /url: https://item.jd.com/100306701041.html?pcdk=65nbKXRLgTuvpdxQFnErsl6PstcIHrZak5QUJL-hWkCy8_6qf0CG6i55sqDjHWch.dqA7.aWhW
+              - generic [ref=f22e1536]:
+                - paragraph [ref=f22e1537]: 华为FreeBuds 7 悦彰耳机 蓝牙无线耳机 半入耳主动降噪 舒适稳固 悦彰音质 安卓/苹果手机通用 星空黑
+                - generic [ref=f22e1540]: 领焕新补贴减¥134.85
+                - generic [ref=f22e1543]:
+                  - generic [ref=f22e1544]:
+                    - generic [ref=f22e1545]: ¥
+                    - generic [ref=f22e1546]: "764.15"
+                  - generic [ref=f22e1548]: 补贴领后价
+                  - generic "899.00" [ref=f22e1550]: ￥899.00
+              - generic "不喜欢" [ref=f22e1551]
+          - listitem [ref=f22e1553]:
+            - link "ST18000NE000 18tb酷狼pro机械硬盘18t网络存储NAS 18TB" [ref=f22e1556] [cursor=pointer]:
+              - /url: https://item.jd.com/10207470505648.html?pcdk=65nbKXRLgTuvpdxQFnErssFBj3jgY1FapncJaN0BMij8ZtUTGNFFvx1ejrAgN--A.dqA7.aWhW
+              - generic [ref=f22e1559]:
+                - paragraph [ref=f22e1560]: ST18000NE000 18tb酷狼pro机械硬盘18t网络存储NAS 18TB
+                - generic [ref=f22e1563]:
+                  - generic [ref=f22e1564]: ¥
+                  - generic [ref=f22e1565]: "3675.00"
+              - generic "不喜欢" [ref=f22e1567]
+          - listitem [ref=f22e1569]:
+            - link "科净威车载香薰2026新汽车香氛净化异味持久留香膏固体除味除臭车内摆件 玫瑰森林+玉龙茶香+永恒之水+香奈栀子花+乌木雪松" [ref=f22e1571] [cursor=pointer]:
+              - /url: https://item.jd.com/10186739291736.html?pcdk=65nbKXRLgTuvpdxQFnErsixjCBw8jX2CA_gKibZssqyDPzEspwmcWZEzQh0gyupr.dqA7.aWhW
+              - generic [ref=f22e1574]:
+                - paragraph [ref=f22e1575]: 科净威车载香薰2026新汽车香氛净化异味持久留香膏固体除味除臭车内摆件 玫瑰森林+玉龙茶香+永恒之水+香奈栀子花+乌木雪松
+                - generic [ref=f22e1577]:
+                  - generic [ref=f22e1578]:
+                    - generic [ref=f22e1579]: ¥
+                    - generic [ref=f22e1580]: "149.90"
+                  - generic "149.90" [ref=f22e1583]: 销量2万+
+              - generic "不喜欢" [ref=f22e1584]
+          - listitem [ref=f22e1586]:
+            - link "西部数据（WD）20TB企业级氦气机械硬盘HC560 SATA 7200转512MB CMR垂直 服务器硬盘 3.5英寸WUH722020BLE6L4" [ref=f22e1589] [cursor=pointer]:
+              - /url: https://item.jd.com/100052327398.html?pcdk=65nbKXRLgTuvpdxQFnErsi5C4wdUmtveWv3LVZb1dBTYqfzk2PB1Inr8jXfU4x3S.dqA7.aWhW
+              - generic [ref=f22e1592]:
+                - paragraph [ref=f22e1593]: 西部数据（WD）20TB企业级氦气机械硬盘HC560 SATA 7200转512MB CMR垂直 服务器硬盘 3.5英寸WUH722020BLE6L4
+                - generic [ref=f22e1596]: 正品行货带票
+                - generic [ref=f22e1601]:
+                  - generic [ref=f22e1602]:
+                    - generic [ref=f22e1603]: ¥
+                    - generic [ref=f22e1604]: "10242.51"
+                  - generic "10299.00" [ref=f22e1607]: 销量100万+
+              - generic "不喜欢" [ref=f22e1608]
+          - listitem [ref=f22e1610]:
+            - link "林家小子显示器增高架台式电脑增高架笔记本支撑架办公桌面置物架收纳架子 深胡桃色+黑架80*20*12cm" [ref=f22e1612] [cursor=pointer]:
+              - /url: https://item.jd.com/10175895004873.html?pcdk=65nbKXRLgTuvpdxQFnErsuWAd964d482UjvizO0eLoCgV4VtpabNRk4nxbGdzD_9.dqA7.aWhW
+              - generic [ref=f22e1615]:
+                - paragraph [ref=f22e1616]: 林家小子显示器增高架台式电脑增高架笔记本支撑架办公桌面置物架收纳架子 深胡桃色+黑架80*20*12cm
+                - generic [ref=f22e1618]:
+                  - generic [ref=f22e1619]:
+                    - generic [ref=f22e1620]: ¥
+                    - generic [ref=f22e1621]: "38.90"
+                  - generic "38.90" [ref=f22e1624]: 销量1000+
+              - generic "不喜欢" [ref=f22e1625]
+          - listitem [ref=f22e1627]:
+            - link "希捷（SEAGATE）企业级6T氦气银河10T 12T 14T 16T台式电脑NAS存储机械硬盘 希捷 企业级 3TB 质保三年" [ref=f22e1630] [cursor=pointer]:
+              - /url: https://item.jd.com/10221213743434.html?pcdk=65nbKXRLgTuvpdxQFnErslfdGrUa94sBFZi-ixqOetYJXxe8OgiNoTqiLyOS8ZMV.dqA7.aWhW
+              - generic [ref=f22e1633]:
+                - paragraph [ref=f22e1634]: 希捷（SEAGATE）企业级6T氦气银河10T 12T 14T 16T台式电脑NAS存储机械硬盘 希捷 企业级 3TB 质保三年
+                - generic [ref=f22e1637]:
+                  - generic [ref=f22e1638]: ¥
+                  - generic [ref=f22e1639]: "554.00"
+              - generic "不喜欢" [ref=f22e1641]
+          - listitem [ref=f22e1643]:
+            - link "木叶吉他自动挡吉他和弦辅助神器练习器一键和弦神器吉他初学者自动挡 吉他多和弦神器黑色" [ref=f22e1645] [cursor=pointer]:
+              - /url: https://item.jd.com/10159482208492.html?pcdk=65nbKXRLgTuvpdxQFnErshVJPHuuIkARigD9aEfhS4vx0pIWi9jnFOxURhnSMCxt.dqA7.aWhW
+              - generic [ref=f22e1648]:
+                - paragraph [ref=f22e1649]: 木叶吉他自动挡吉他和弦辅助神器练习器一键和弦神器吉他初学者自动挡 吉他多和弦神器黑色
+                - generic [ref=f22e1650]: 口袋吉他榜第4名
+                - generic [ref=f22e1658]:
+                  - generic [ref=f22e1659]:
+                    - generic [ref=f22e1660]: ¥
+                    - generic [ref=f22e1661]: "96.00"
+                  - generic "96.00" [ref=f22e1664]: 销量800+
+              - generic "不喜欢" [ref=f22e1665]
+        - generic [ref=f22e1667]:
+          - emphasis [ref=f22e1668]
+          - emphasis [ref=f22e1669]
+          - emphasis [ref=f22e1670]
+  - generic [ref=f22e1672]:
+    - list [ref=f22e1675]:
+      - listitem [ref=f22e1676]:
+        - generic [ref=f22e1677]:
+          - heading "多" [level=5] [ref=f22e1678]
+          - paragraph [ref=f22e1679]: 品类齐全，轻松购物
+      - listitem [ref=f22e1680]:
+        - generic [ref=f22e1681]:
+          - heading "快" [level=5] [ref=f22e1682]
+          - paragraph [ref=f22e1683]: 多仓直发，极速配送
+      - listitem [ref=f22e1684]:
+        - generic [ref=f22e1685]:
+          - heading "好" [level=5] [ref=f22e1686]
+          - paragraph [ref=f22e1687]: 正品行货，精致服务
+      - listitem [ref=f22e1688]:
+        - generic [ref=f22e1689]:
+          - heading "省" [level=5] [ref=f22e1690]
+          - paragraph [ref=f22e1691]: 天天低价，畅选无忧
+    - generic [ref=f22e1694]:
+      - generic [ref=f22e1695]:
+        - heading "购物指南" [level=5] [ref=f22e1696]
+        - list [ref=f22e1697]:
+          - listitem [ref=f22e1698]:
+            - link "购物流程" [ref=f22e1699] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-29.html
+          - listitem [ref=f22e1700]:
+            - link "会员介绍" [ref=f22e1701] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-151.html
+          - listitem [ref=f22e1702]:
+            - link "生活旅行" [ref=f22e1703] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-297.html
+          - listitem [ref=f22e1704]:
+            - link "常见问题" [ref=f22e1705] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue.html
+          - listitem [ref=f22e1706]:
+            - link "大家电" [ref=f22e1707] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-136.html
+          - listitem [ref=f22e1708]:
+            - link "联系客服" [ref=f22e1709] [cursor=pointer]:
+              - /url: //help.jd.com/user/custom.html
+      - generic [ref=f22e1710]:
+        - heading "配送方式" [level=5] [ref=f22e1711]
+        - list [ref=f22e1712]:
+          - listitem [ref=f22e1713]:
+            - link "上门自提" [ref=f22e1714] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81-100.html
+          - listitem [ref=f22e1715]:
+            - link "211限时达" [ref=f22e1716] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81.html
+          - listitem [ref=f22e1717]:
+            - link "配送服务查询" [ref=f22e1718] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-82.html
+          - listitem [ref=f22e1719]:
+            - link "配送费收取标准" [ref=f22e1720] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/109-188.html
+      - generic [ref=f22e1721]:
+        - heading "支付方式" [level=5] [ref=f22e1722]
+        - list [ref=f22e1723]:
+          - listitem [ref=f22e1724]:
+            - link "货到付款" [ref=f22e1725] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-172.html
+          - listitem [ref=f22e1726]:
+            - link "在线支付" [ref=f22e1727] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-173.html
+          - listitem [ref=f22e1728]:
+            - link "分期付款" [ref=f22e1729] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-176.html
+          - listitem [ref=f22e1730]:
+            - link "公司转账" [ref=f22e1731] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-175.html
+      - generic [ref=f22e1732]:
+        - heading "售后服务" [level=5] [ref=f22e1733]
+        - list [ref=f22e1734]:
+          - listitem [ref=f22e1735]:
+            - link "售后政策" [ref=f22e1736] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-112.html
+          - listitem [ref=f22e1737]:
+            - link "价格保护" [ref=f22e1738] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-132.html
+          - listitem [ref=f22e1739]:
+            - link "退款说明" [ref=f22e1740] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/130-978.html
+          - listitem [ref=f22e1741]:
+            - link "返修/退换货" [ref=f22e1742] [cursor=pointer]:
+              - /url: //myjd.jd.com/repair/repairs.action
+          - listitem [ref=f22e1743]:
+            - link "取消订单" [ref=f22e1744] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-50.html
+      - generic [ref=f22e1745]:
+        - heading "特色服务" [level=5] [ref=f22e1746]
+        - list [ref=f22e1747]:
+          - listitem [ref=f22e1748]:
+            - link "夺宝岛" [ref=f22e1749] [cursor=pointer]:
+              - /url: //paipai.jd.com/auction-list/
+          - listitem [ref=f22e1750]:
+            - link "DIY装机" [ref=f22e1751] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-134.html
+          - listitem [ref=f22e1752]:
+            - link "延保服务" [ref=f22e1753] [cursor=pointer]:
+              - /url: //fuwu.jd.com/
+          - listitem [ref=f22e1754]:
+            - link "京东E卡" [ref=f22e1755] [cursor=pointer]:
+              - /url: //o.jd.com/market/index.action
+          - listitem [ref=f22e1756]:
+            - link "京东通信" [ref=f22e1757] [cursor=pointer]:
+              - /url: //mobile.jd.com/
+          - listitem [ref=f22e1758]:
+            - link "京鱼座智能" [ref=f22e1759] [cursor=pointer]:
+              - /url: //smart.jd.com/
+    - generic [ref=f22e1761]:
+      - paragraph [ref=f22e1762]:
+        - link "关于我们" [ref=f22e1763] [cursor=pointer]:
+          - /url: //about.jd.com
+        - text: "|"
+        - link "联系我们" [ref=f22e1764] [cursor=pointer]:
+          - /url: //about.jd.com/contact
+        - text: "|"
+        - link "联系客服" [ref=f22e1765] [cursor=pointer]:
+          - /url: //help.jd.com/user/custom.html
+        - text: "|"
+        - link "合作招商" [ref=f22e1766] [cursor=pointer]:
+          - /url: //lai.jd.com
+        - text: "|"
+        - link "商家帮助" [ref=f22e1767] [cursor=pointer]:
+          - /url: //helpcenter.jd.com/venderportal/index.html
+        - text: "|"
+        - link "营销中心" [ref=f22e1768] [cursor=pointer]:
+          - /url: //jzt.jd.com
+        - text: "|"
+        - link "手机京东" [ref=f22e1769] [cursor=pointer]:
+          - /url: //app.jd.com/
+        - text: "|"
+        - link "友情链接" [ref=f22e1770] [cursor=pointer]:
+          - /url: //club.jd.com/links.aspx
+        - text: "|"
+        - link "销售联盟" [ref=f22e1771] [cursor=pointer]:
+          - /url: //union.jd.com/index
+        - text: "|"
+        - link "京东社区" [ref=f22e1772] [cursor=pointer]:
+          - /url: //pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html
+        - text: "|"
+        - link "风险监测" [ref=f22e1773] [cursor=pointer]:
+          - /url: //pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html
+        - text: "|"
+        - link "质量公告" [ref=f22e1774] [cursor=pointer]:
+          - /url: //pro.jd.com/mall/active/2udA8Qxf3A54dVVseY5CdUMSgQPs/index.html
+        - text: "|"
+        - link "隐私政策" [ref=f22e1775] [cursor=pointer]:
+          - /url: //about.jd.com/privacy/
+        - text: "|"
+        - link "京东公益" [ref=f22e1776] [cursor=pointer]:
+          - /url: //gongyi.jd.com
+        - text: "|"
+        - link "Media & IR" [ref=f22e1777] [cursor=pointer]:
+          - /url: //corporate.jd.com
+      - generic [ref=f22e1778]:
+        - generic [ref=f22e1779]:
+          - paragraph [ref=f22e1780]:
+            - link "京公网安备 11000002000088号" [ref=f22e1781] [cursor=pointer]:
+              - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088
+            - text: "|"
+            - link "京ICP备11041704号" [ref=f22e1782] [cursor=pointer]:
+              - /url: http://beian.miit.gov.cn
+            - text: "|"
+            - link "ICP" [ref=f22e1783] [cursor=pointer]:
+              - /url: //h5.m.jd.com/pc/dev/3T3No18XR8k8rpLGLGhgbJ1StAFq/index.html
+            - text: "|"
+            - link "药品医疗器械网络信息服务备案" [ref=f22e1784] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2zRnBcZVhdAcWBMvBnoRcUdi3HBt/index.html
+            - text: "|"
+            - link "自营医疗器械经营资质" [ref=f22e1785] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/MZXpsnbHS3omkFAk4R4jYwXTb4c/index.html
+            - text: "|"
+            - link "药品网络交易第三方平台备案凭证" [ref=f22e1786] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2pwvdCM94gBdWruSu82PkqzKyi3U/index.html
+            - text: "| 新出发京零 字第大120007号"
+          - paragraph [ref=f22e1787]:
+            - text: 互联网出版许可证编号新出网证(京)字150号 |
+            - link "出版物经营许可证" [ref=f22e1788] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html
+            - text: "| 违法和不良信息举报电话：4006561155"
+          - paragraph [ref=f22e1789]:
+            - text: Copyright © 2004 - 2026 京东JINGDONG 版权所有 | 消费者维权热线：4006067733 |
+            - link "经营证照" [ref=f22e1790] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/38PitHBfR7ZopNHRSHnuuWR5AMDL/index.html
+            - text: "|"
+            - link "医疗器械第三方平台备案凭证（京）网械平台备字（2023）第00013号" [ref=f22e1791] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/36mqawDTyFwQpodmiJGf6bvPA8hs/index.html
+            - text: "|"
+            - link "营业执照" [ref=f22e1792] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/5oanqbW74QJ5NLaKPx5QaWpFonw/index.html
+            - text: "|"
+            - link "增值电信业务经营许可证" [ref=f22e1793] [cursor=pointer]:
+              - /url: https://pro.jd.com/mall/active/3pNwSArkXgfvVYvejSxj44cRgPvQ/index.html
+        - paragraph [ref=f22e1795]:
+          - text: 京东旗下网站：
+          - link "京东钱包" [ref=f22e1796] [cursor=pointer]:
+            - /url: https://www.jdpay.com/
+          - text: "|"
+          - link "京东云" [ref=f22e1797] [cursor=pointer]:
+            - /url: http://www.jdcloud.com
+          - text: "| 网络内容从业人员违法违规行为举报电话：4006561155-3"
+      - paragraph [ref=f22e1798]:
+        - link "可信网站信用评估" [ref=f22e1799] [cursor=pointer]:
+          - /url: https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ampct=df&amppa=294005
+        - link "网络警察提醒你" [ref=f22e1800] [cursor=pointer]:
+          - /url: http://cyberpolice.mps.gov.cn/
+        - link "诚信网站" [ref=f22e1801] [cursor=pointer]:
+          - /url: https://search.szfw.org/cert/l/CX20120111001803001836
+        - link "中国互联网举报中心" [ref=f22e1802] [cursor=pointer]:
+          - /url: http://www.12377.cn/
+        - link "网络举报APP下载" [ref=f22e1803] [cursor=pointer]:
+          - /url: http://www.12377.cn/node_548446.htm
+        - link "扫黄打非网举报专区" [ref=f22e1804] [cursor=pointer]:
+          - /url: https://www.shdf.gov.cn/
+        - link "适老化无障碍服务" [ref=f22e1805] [cursor=pointer]:
+          - /url: javascript:;
+        - link "国家知识产权公共服务网" [ref=f22e1806] [cursor=pointer]:
+          - /url: https://ggfw.cnipa.gov.cn/home
+  - generic [ref=f22e1807]:
+    - generic [ref=f22e1808]: 全部频道
+    - generic [ref=f22e1811]:
+      - generic [ref=f22e1812] [cursor=pointer]: 优惠权益
+      - generic [ref=f22e1814] [cursor=pointer]: 互动游戏
+      - generic [ref=f22e1815] [cursor=pointer]: 发现好物
+      - generic [ref=f22e1816] [cursor=pointer]: 生活服务
+    - generic [ref=f22e1817]:
+      - generic [ref=f22e1818]:
+        - generic [ref=f22e1819]: 优惠权益
+        - generic [ref=f22e1821]:
+          - generic [ref=f22e1822] [cursor=pointer]: 国家补贴
+          - generic [ref=f22e1825] [cursor=pointer]: 司法拍卖
+          - generic [ref=f22e1828] [cursor=pointer]: 领券中心
+          - generic [ref=f22e1831] [cursor=pointer]: 企业购
+          - generic [ref=f22e1834] [cursor=pointer]: 黑色星期五
+          - generic [ref=f22e1837] [cursor=pointer]: 夺宝岛
+          - generic [ref=f22e1840] [cursor=pointer]: 京东拍卖
+          - generic [ref=f22e1843] [cursor=pointer]: 企业计划购
+          - generic [ref=f22e1846] [cursor=pointer]: 公共采购
+          - generic [ref=f22e1849] [cursor=pointer]: 政府消费券
+          - generic [ref=f22e1852] [cursor=pointer]: 大牌奥莱
+          - generic [ref=f22e1855] [cursor=pointer]: 家电国补
+          - generic [ref=f22e1858] [cursor=pointer]: 超级18
+          - generic [ref=f22e1861] [cursor=pointer]: 跟买指南
+      - generic [ref=f22e1864]:
+        - generic [ref=f22e1865]: 互动游戏
+        - generic [ref=f22e1867]:
+          - generic [ref=f22e1868] [cursor=pointer]: 天天领好礼
+          - generic [ref=f22e1871] [cursor=pointer]: 游戏
+      - generic [ref=f22e1874]:
+        - generic [ref=f22e1875]: 发现好物
+        - generic [ref=f22e1876]:
+          - generic [ref=f22e1877]: 发现
+          - generic [ref=f22e1878]:
+            - generic [ref=f22e1879] [cursor=pointer]: 京东秒杀
+            - generic [ref=f22e1882] [cursor=pointer]: 京东特价
+            - generic [ref=f22e1885] [cursor=pointer]: 京东新品
+            - generic [ref=f22e1888] [cursor=pointer]: 排行榜
+            - generic [ref=f22e1891] [cursor=pointer]: 礼品卡
+            - generic [ref=f22e1894] [cursor=pointer]: 全球购
+            - generic [ref=f22e1897] [cursor=pointer]: 京喜自营
+            - generic [ref=f22e1900] [cursor=pointer]: 京东京造
+            - generic [ref=f22e1903] [cursor=pointer]: 新店特惠
+        - generic [ref=f22e1906]:
+          - generic [ref=f22e1907]: 3C数码
+          - generic [ref=f22e1908]:
+            - generic [ref=f22e1909] [cursor=pointer]: 手机数码
+            - generic [ref=f22e1912] [cursor=pointer]: 装机大师
+            - generic [ref=f22e1915] [cursor=pointer]: 配件馆
+            - generic [ref=f22e1918] [cursor=pointer]: 手机馆
+            - generic [ref=f22e1921] [cursor=pointer]: 电子教育
+            - generic [ref=f22e1924] [cursor=pointer]: 京东图书
+            - generic [ref=f22e1927] [cursor=pointer]: 电脑馆
+            - generic [ref=f22e1930] [cursor=pointer]: 游戏电竞
+        - generic [ref=f22e1933]:
+          - generic [ref=f22e1934]: 家电家居
+          - generic [ref=f22e1935]:
+            - generic [ref=f22e1936] [cursor=pointer]: 家装馆
+            - generic [ref=f22e1939] [cursor=pointer]: 家电家居
+            - generic [ref=f22e1942] [cursor=pointer]: 京东家居馆
+            - generic [ref=f22e1945] [cursor=pointer]: 家具馆
+            - generic [ref=f22e1948] [cursor=pointer]: 家电馆
+        - generic [ref=f22e1951]:
+          - generic [ref=f22e1952]: 超市
+          - generic [ref=f22e1953]:
+            - generic [ref=f22e1954] [cursor=pointer]: 清洁馆
+            - generic [ref=f22e1957] [cursor=pointer]: 京东超市
+            - generic [ref=f22e1960] [cursor=pointer]: 宠物馆
+            - generic [ref=f22e1963] [cursor=pointer]: 京东生鲜
+        - generic [ref=f22e1966]:
+          - generic [ref=f22e1967]: 二手
+          - generic [ref=f22e1968]:
+            - generic [ref=f22e1969] [cursor=pointer]: 拍拍二手
+            - generic [ref=f22e1972] [cursor=pointer]: 二手手机
+        - generic [ref=f22e1975]:
+          - generic [ref=f22e1976]: 服饰美妆
+          - generic [ref=f22e1977]:
+            - generic [ref=f22e1978] [cursor=pointer]: 美妆馆
+            - generic [ref=f22e1981] [cursor=pointer]: 潮流穿搭
+            - generic [ref=f22e1984] [cursor=pointer]: 京东奢品
+            - generic [ref=f22e1987] [cursor=pointer]: 服饰美妆
+            - generic [ref=f22e1990] [cursor=pointer]: 服饰鞋帽
+            - generic [ref=f22e1993] [cursor=pointer]: 珠宝馆
+            - generic [ref=f22e1996] [cursor=pointer]: 运动馆
+        - generic [ref=f22e1999]:
+          - generic [ref=f22e2000]: 工业五金
+          - generic [ref=f22e2001]:
+            - generic [ref=f22e2002] [cursor=pointer]: 五金城
+            - generic [ref=f22e2005] [cursor=pointer]: 元器件
+        - generic [ref=f22e2008]:
+          - generic [ref=f22e2009]: 医疗保健
+          - generic [ref=f22e2010]:
+            - generic [ref=f22e2011] [cursor=pointer]: 医疗器械馆
+            - generic [ref=f22e2014] [cursor=pointer]: 看病买药
+            - generic [ref=f22e2017] [cursor=pointer]: 家庭常备药
+      - generic [ref=f22e2020]:
+        - generic [ref=f22e2021]: 生活服务
+        - generic [ref=f22e2023]:
+          - generic [ref=f22e2024] [cursor=pointer]: 京东联名卡
+          - generic [ref=f22e2027] [cursor=pointer]: 加油卡
+          - generic [ref=f22e2030] [cursor=pointer]: 护士到家
+          - generic [ref=f22e2033] [cursor=pointer]: 京东快递
+          - generic [ref=f22e2036] [cursor=pointer]: 京东互医
+          - generic [ref=f22e2039] [cursor=pointer]: 云建站
+          - generic [ref=f22e2042] [cursor=pointer]: 爱回收
+          - generic [ref=f22e2045] [cursor=pointer]: 充值中心
+  - list [ref=f22e2049]:
+    - listitem [ref=f22e2050]:
+      - link "7 购物车" [ref=f22e2051] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=f22e2052]: "7"
+        - generic [ref=f22e2055]: 购物车
+    - listitem [ref=f22e2056]:
+      - link "我的" [ref=f22e2057] [cursor=pointer]:
+        - /url: //home.jd.com/
+    - listitem [ref=f22e2062]:
+      - link "客服" [ref=f22e2063] [cursor=pointer]:
+        - /url: //jdcs.jd.com/chat/index.action?venderId=1&entry=jd_web_jimi_jdhome
+    - listitem [ref=f22e2068]:
+      - link "桌面版" [ref=f22e2070] [cursor=pointer]:
+        - /url: javascript:void(0)
+    - listitem [ref=f22e2074]:
+      - link "插件版" [ref=f22e2076] [cursor=pointer]:
+        - /url: "#"
+    - listitem [ref=f22e2080]:
+      - link "反馈" [ref=f22e2081] [cursor=pointer]:
+        - /url: //wj-dongjian.jd.com/q/61961a0a457e4000a3085f78
+    - listitem [ref=f22e2086]:
+      - link "调研" [ref=f22e2087] [cursor=pointer]:
+        - /url: https://answer.jd.com/jump/?shortCode=ZJfFnsYEXJYV&surveyId=2194356

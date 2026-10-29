@@ -1,0 +1,1205 @@
+- generic [active] [ref=f34e1]:
+  - navigation "顶部导航" [ref=f34e1796]:
+    - list [ref=f34e1797]:
+      - listitem [ref=f34e1798]:
+        - generic "京东首页" [ref=f34e1802] [cursor=pointer]
+      - listitem [ref=f34e1803]
+      - listitem [ref=f34e1804]:
+        - generic [ref=f34e1805]:
+          - link "jd_o84d14k2a..." [ref=f34e1807] [cursor=pointer]:
+            - /url: //home.jd.com/
+          - generic [ref=f34e1808]: 
+      - listitem [ref=f34e1809]
+      - listitem [ref=f34e1810]:
+        - link "切换企业版" [ref=f34e1812] [cursor=pointer]:
+          - /url: //b.jd.com/?entry=newuser&bjdSourceChannel=cjdqiehuanbjd
+      - generic [ref=f34e1813]:
+        - listitem [ref=f34e1814]
+        - listitem [ref=f34e1815]:
+          - generic [ref=f34e1816]: 同款搜低价
+      - generic [ref=f34e1818]:
+        - listitem [ref=f34e1819]
+        - listitem [ref=f34e1820]:
+          - generic [ref=f34e1821]: 桌面版
+    - list [ref=f34e1823]:
+      - listitem [ref=f34e1824]:
+        - link "购物车 7" [ref=f34e1828] [cursor=pointer]:
+          - /url: //cart.jd.com/cart.action
+      - listitem [ref=f34e1829]
+      - listitem [ref=f34e1830]:
+        - link "我的订单" [ref=f34e1832] [cursor=pointer]:
+          - /url: //order.jd.com/center/list.action
+      - listitem [ref=f34e1833]
+      - listitem [ref=f34e1834]:
+        - generic [ref=f34e1835]:
+          - link "我的京东" [ref=f34e1836] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - generic [ref=f34e1837]: 
+      - listitem [ref=f34e1838]
+      - listitem [ref=f34e1839]:
+        - generic [ref=f34e1840]:
+          - link "企业采购" [ref=f34e1841] [cursor=pointer]:
+            - /url: //b.jd.com/?bjdSourceChannel=cjdqiehuanqiyeban
+          - generic [ref=f34e1842]: 
+      - listitem [ref=f34e1843]
+      - listitem [ref=f34e1844]:
+        - button "网站导航" [ref=f34e1845]:
+          - text: 网站导航
+          - generic [ref=f34e1846]: 
+      - listitem [ref=f34e1847]
+      - listitem [ref=f34e1848]
+  - generic [ref=f34e94]:
+    - generic [ref=f34e97]:
+      - link [ref=f34e99] [cursor=pointer]:
+        - /url: https://www.jd.com/
+      - generic [ref=f34e100]:
+        - generic [ref=f34e101]:
+          - textbox "搜索" [ref=f34e113]: 20TB 企业级硬盘 SATA
+          - generic [ref=f34e114]:
+            - generic [ref=f34e115]: 搜索
+            - switch [ref=f34e116] [cursor=pointer]
+          - generic [ref=f34e121] [cursor=pointer]
+          - button "搜索" [ref=f34e123] [cursor=pointer]
+        - generic [ref=f34e124]:
+          - generic [ref=f34e1849] [cursor=pointer]: 长江存储
+          - generic [ref=f34e1850] [cursor=pointer]: 硬盘移动
+          - generic [ref=f34e1851] [cursor=pointer]: 硬盘固态m.2
+          - generic [ref=f34e1852] [cursor=pointer]: 固态硬盘1t
+          - generic [ref=f34e1853] [cursor=pointer]: 电脑固态硬盘
+          - generic [ref=f34e1854] [cursor=pointer]: 固态硬盘sata
+          - generic [ref=f34e1855] [cursor=pointer]: 三星硬盘
+          - generic [ref=f34e1856] [cursor=pointer]: 台式电脑硬盘
+          - generic [ref=f34e1857] [cursor=pointer]: 联想硬盘
+          - generic [ref=f34e1858] [cursor=pointer]: 硬盘西数
+    - generic [ref=f34e138]:
+      - generic [ref=f34e1861]:
+        - img "ai-icon" [ref=f34e1862]
+        - generic [ref=f34e1863]: 购物灵感
+        - generic [ref=f34e1865]: 分析关键词
+        - generic [ref=f34e1868]: 检索热销商品
+        - generic [ref=f34e1871]: 总结消费趋势
+      - generic [ref=f34e139]:
+        - generic [ref=f34e140]:
+          - generic [ref=f34e142] [cursor=pointer]:
+            - generic [ref=f34e143]: 全部商品
+            - generic [ref=f34e145]: 新品
+            - generic [ref=f34e146]: 店铺
+            - generic "企业购精选商品，企业热销、超低折扣、对公支付、开票无忧" [ref=f34e147]: 企业采购
+            - generic [ref=f34e148]: 工业品
+          - generic [ref=f34e149]:
+            - generic [ref=f34e150] [cursor=pointer]:
+              - generic [ref=f34e151]: 配送至
+              - generic [ref=f34e1872]: 江苏南京市江宁区秣陵街道
+            - generic [ref=f34e152]:
+              - generic [ref=f34e153] [cursor=pointer]: 传统模式
+              - generic [ref=f34e154] [cursor=pointer]: 简洁模式
+        - generic [ref=f34e157]:
+          - generic [ref=f34e159]:
+            - generic [ref=f34e160]:
+              - generic [ref=f34e161]: 品牌
+              - generic [ref=f34e164]:
+                - generic [ref=f34e165] [cursor=pointer]: 希捷（SEAGATE）
+                - generic [ref=f34e167] [cursor=pointer]: 西部数据（WD）
+                - generic [ref=f34e169] [cursor=pointer]: 联想（Lenovo）
+                - generic [ref=f34e171] [cursor=pointer]: 海康威视（HIKVISION）
+                - generic [ref=f34e173] [cursor=pointer]: 东芝（TOSHIBA）
+                - generic [ref=f34e175] [cursor=pointer]: WD BLUE
+                - generic [ref=f34e177] [cursor=pointer]: 朗科（Netac）
+            - generic [ref=f34e303] [cursor=pointer]: 更多
+          - generic [ref=f34e307]: 展开筛选
+        - generic [ref=f34e316]:
+          - generic [ref=f34e317]:
+            - generic [ref=f34e318]:
+              - generic [ref=f34e319]:
+                - generic [ref=f34e320]: 综合
+                - generic [ref=f34e326] [cursor=pointer]: 销量
+                - generic [ref=f34e330] [cursor=pointer]: 价格
+              - generic [ref=f34e334]: 价格区间
+            - generic [ref=f34e344]:
+              - generic [ref=f34e345]: 京东物流
+              - generic [ref=f34e349] [cursor=pointer]
+              - generic [ref=f34e352]: 自营/旗舰
+              - generic [ref=f34e360]: 品牌
+              - generic [ref=f34e368]: 京东国际
+              - generic [ref=f34e372] [cursor=pointer]
+              - generic [ref=f34e375]: 货到付款
+              - generic [ref=f34e378]: 仅显示有货
+              - generic [ref=f34e381]: 211限时达
+              - generic [ref=f34e384]: 可配送全球
+          - generic [ref=f34e387]:
+            - generic [ref=f34e388]:
+              - generic [ref=f34e389] [cursor=pointer]
+              - generic [ref=f34e391]: "1"
+              - generic [ref=f34e392]: /
+              - generic [ref=f34e393]: "17"
+              - generic [ref=f34e394] [cursor=pointer]
+            - generic [ref=f34e1879] [cursor=pointer]: 更多
+      - generic [ref=f34e396]:
+        - generic [ref=f34e398]:
+          - generic [ref=f34e400] [cursor=pointer]:
+            - generic "希捷（SEAGATE）24TB 电脑大容量氦气硬盘 台式机7200转 512MB 机械硬盘 SATA 希捷酷鱼系列 3.5英寸 ST24000DM001" [ref=f34e404]: 广告
+            - generic [ref=f34e415]:
+              - generic [ref=f34e416]:
+                - img "自营" [ref=f34e419]
+                - generic "希捷（SEAGATE）24TB 电脑大容量氦气硬盘 台式机7200转 512MB 机械硬盘 SATA 希捷酷鱼系列 3.5英寸 ST24000DM001" [ref=f34e420]
+              - generic [ref=f34e422]:
+                - generic [ref=f34e423]: 2万+人加购
+                - generic [ref=f34e424]: "|近7日人气商品"
+                - generic [ref=f34e425]: "|近30日人气商品"
+              - generic [ref=f34e426]:
+                - generic [ref=f34e427]:
+                  - generic [ref=f34e428]: ¥
+                  - generic [ref=f34e429]: "5571"
+                  - generic [ref=f34e430]: .
+                  - generic [ref=f34e431]: "01"
+                - generic [ref=f34e432]: PLUS到手价
+                - generic [ref=f34e434]: ¥5599
+                - button [ref=f34e435]
+              - generic [ref=f34e438]:
+                - generic [ref=f34e439]: PLUS立减27.99元
+                - generic [ref=f34e441]: 正品行货带票
+              - generic "已售300万+" [ref=f34e445]
+              - generic [ref=f34e446]:
+                - generic [ref=f34e447]: 希捷Seagate京东自营旗舰店
+                - link [ref=f34e1882]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100193199167&score=0&commentNum=200%25E4%25B8%2587%252B&seller=%25E5%25B8%258C%25E6%258D%25B7Seagate%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F551047%252F20%252F6723%252F165351%252F6ae1affbFb6985bd7%252F008332032013a86c.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%258924TB%2520%25E7%2594%25B5%25E8%2584%2591%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%25E6%25B0%25A6%25E6%25B0%2594%25E7%25A1%25AC%25E7%259B%2598%2520%25E5%258F%25B0%25E5%25BC%258F%25E6%259C%25BA7200%25E8%25BD%25AC%2520512MB%2520%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520SATA%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2585%25B7%25E9%25B1%25BC%25E7%25B3%25BB%25E5%2588%2597%25203.5%25E8%258B%25B1%25E5%25AF%25B8%2520ST24000DM001
+          - generic [ref=f34e450] [cursor=pointer]:
+            - generic "希捷（SEAGATE） ST20000NM002H 20t氦气银河企业级NAS机械硬盘20tb 20TB ST20000NM002H 质保五年" [ref=f34e454]
+            - generic [ref=f34e462]:
+              - generic [ref=f34e463]: 希捷（SEAGATE） ST20000NM002H 20t氦气银河企业级NAS机械硬盘20tb 20TB ST20000NM002H 质保五年
+              - generic [ref=f34e465]:
+                - generic [ref=f34e466]: 3.5英寸
+                - generic [ref=f34e467]: "|SATA3.0"
+              - generic [ref=f34e468]:
+                - generic [ref=f34e469]:
+                  - generic [ref=f34e470]: ¥
+                  - generic [ref=f34e471]: "4379"
+                - generic [ref=f34e472]: 到手价
+                - generic [ref=f34e474]: ¥4399
+                - button [ref=f34e475]
+              - generic [ref=f34e478]:
+                - generic [ref=f34e479]: 满500减20
+                - generic [ref=f34e481]: 包邮
+              - generic [ref=f34e484]:
+                - generic "7人看过" [ref=f34e485]
+                - generic "100%好评" [ref=f34e486]
+              - generic [ref=f34e487]:
+                - generic [ref=f34e488]: 硬盘商城²⁰
+                - link [ref=f34e1883]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10225415721044&score=5&evaluationRate=100&commentNum=0&seller=%25E7%25A1%25AC%25E7%259B%2598%25E5%2595%2586%25E5%259F%258E%25C2%25B2%25E2%2581%25B0&imgUrl=jfs%252Ft1%252F442248%252F38%252F18052%252F99460%252F6a28b639Fa1f75838%252F00833203201c08a6.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%2520ST20000NM002H%252020t%25E6%25B0%25A6%25E6%25B0%2594%25E9%2593%25B6%25E6%25B2%25B3%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7NAS%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%259820tb%252020TB%2520ST20000NM002H%2520%25E8%25B4%25A8%25E4%25BF%259D%25E4%25BA%2594%25E5%25B9%25B4
+          - generic [ref=f34e491] [cursor=pointer]:
+            - generic "希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 20TB 【ST20000NM007D】" [ref=f34e494]
+            - generic [ref=f34e505]:
+              - generic [ref=f34e506]:
+                - img "京东物流" [ref=f34e509]
+                - text: 希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 20TB 【ST20000NM007D】
+              - generic [ref=f34e511]:
+                - generic [ref=f34e512]: SATA接口
+                - generic [ref=f34e513]: "|稳定可靠高性能"
+                - generic [ref=f34e514]: "|CRM磁记录"
+                - generic [ref=f34e515]: "|256MB缓存"
+              - generic [ref=f34e516]:
+                - generic [ref=f34e517]:
+                  - generic [ref=f34e518]: ¥
+                  - generic [ref=f34e519]: "7599"
+                  - generic [ref=f34e520]: .
+                  - generic [ref=f34e521]: "05"
+                - generic [ref=f34e522]: 到手价
+                - generic [ref=f34e524]: ¥7999
+                - button [ref=f34e525]
+              - generic [ref=f34e528]:
+                - img "送货上门" [ref=f34e530]
+                - generic [ref=f34e531]: 券满6000享9.5折
+                - generic [ref=f34e533]: 包邮
+              - generic [ref=f34e536]:
+                - generic "已售4万+" [ref=f34e537]
+                - generic "30天加购飙升5倍" [ref=f34e538]
+              - generic [ref=f34e539]:
+                - generic [ref=f34e540]: Seagate希捷旗舰店
+                - link [ref=f34e1884]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10047163336671&score=5&evaluationRate=98&commentNum=1%25E4%25B8%2587%252B&seller=Seagate%25E5%25B8%258C%25E6%258D%25B7%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F561714%252F10%252F1578%252F95824%252F6ae22a5aFc97b2a14%252F008332032042d95c.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E5%259E%2582%25E7%259B%25B4%25E7%25A1%25AC%25E7%259B%2598%2520PMR%2520CMR%2520SATA%2520%25E9%2593%25B6%25E6%25B2%25B3%25E7%25B3%25BB%25E5%2588%25977200%25E8%25BD%25AC%25E4%25BC%2581%25E4%25B8%259A%25E7%25A1%25AC%25E7%259B%25983.5%25E8%258B%25B1%25E5%25AF%25B8%252020TB%2520%25E3%2580%2590ST20000NM007D%25E3%2580%2591
+          - generic [ref=f34e543] [cursor=pointer]:
+            - generic "东芝企业级硬盘 SATA接口20TB" [ref=f34e546]
+            - generic [ref=f34e556]:
+              - generic [ref=f34e557]:
+                - img "自营" [ref=f34e560]
+                - text: 东芝企业级硬盘 SATA接口20TB
+              - generic [ref=f34e563]:
+                - generic "7200rpm硬盘榜·第4名" [ref=f34e565]
+                - generic [ref=f34e568]:
+                  - generic [ref=f34e569]: 高缓存512MB
+                  - generic [ref=f34e570]: "|7200高转速"
+                  - generic [ref=f34e571]: "|企业级氦气盘"
+                  - generic [ref=f34e572]: "|超大存储"
+                - generic "7200rpm硬盘榜·第4名" [ref=f34e574]
+              - generic [ref=f34e577]:
+                - generic [ref=f34e578]:
+                  - generic [ref=f34e579]: ¥
+                  - generic [ref=f34e580]: "7461"
+                  - generic [ref=f34e581]: .
+                  - generic [ref=f34e582]: "51"
+                - generic [ref=f34e583]: PLUS到手价
+                - generic [ref=f34e585]: ¥7499
+                - button [ref=f34e586]
+              - generic [ref=f34e589]:
+                - generic [ref=f34e590]: PLUS立减37.49元
+                - generic [ref=f34e592]: 正品行货带票
+              - generic [ref=f34e595]:
+                - generic "已售5万+" [ref=f34e596]
+                - generic "2000+人种草" [ref=f34e597]
+              - generic [ref=f34e598]:
+                - generic [ref=f34e599]: 东芝存储京东自营旗舰店
+                - link [ref=f34e1885]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100077487247&score=5&evaluationRate=98&commentNum=2%25E4%25B8%2587%252B&seller=%25E4%25B8%259C%25E8%258A%259D%25E5%25AD%2598%25E5%2582%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F535010%252F2%252F13506%252F151835%252F6acc5d3dF8c32eced%252F00833203207a1848.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520SATA%25E6%258E%25A5%25E5%258F%25A320TB
+          - generic [ref=f34e602] [cursor=pointer]:
+            - generic "希捷（SEAGATE） ST20000NM007D 20T氦气银河企业级NAS机械硬盘20tb 20TB T20000NM007D 质保五年" [ref=f34e605]
+            - generic [ref=f34e613]:
+              - generic [ref=f34e614]: 希捷（SEAGATE） ST20000NM007D 20T氦气银河企业级NAS机械硬盘20tb 20TB T20000NM007D 质保五年
+              - generic [ref=f34e616]:
+                - generic [ref=f34e617]: 3.5英寸
+                - generic [ref=f34e618]: "|SATA3.0"
+              - generic [ref=f34e619]:
+                - generic [ref=f34e620]:
+                  - generic [ref=f34e621]: ¥
+                  - generic [ref=f34e622]: "4379"
+                - generic [ref=f34e623]: 到手价
+                - generic [ref=f34e625]: ¥4399
+                - button [ref=f34e626]
+              - generic [ref=f34e629]:
+                - generic [ref=f34e630]: 满500减20
+                - generic [ref=f34e632]: 包邮
+              - generic [ref=f34e635]:
+                - generic "1人看过" [ref=f34e636]
+                - generic "100%好评" [ref=f34e637]
+              - generic [ref=f34e638]:
+                - generic [ref=f34e639]: 硬盘商城²⁰
+                - link [ref=f34e1886]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10225415998290&score=5&evaluationRate=100&commentNum=0&seller=%25E7%25A1%25AC%25E7%259B%2598%25E5%2595%2586%25E5%259F%258E%25C2%25B2%25E2%2581%25B0&imgUrl=jfs%252Ft1%252F453216%252F27%252F5326%252F71079%252F6a28b671Fd947b1d6%252F008332032091324f.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%2520ST20000NM007D%252020T%25E6%25B0%25A6%25E6%25B0%2594%25E9%2593%25B6%25E6%25B2%25B3%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7NAS%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%259820tb%252020TB%2520T20000NM007D%2520%25E8%25B4%25A8%25E4%25BF%259D%25E4%25BA%2594%25E5%25B9%25B4
+          - generic [ref=f34e642] [cursor=pointer]:
+            - generic "希捷银河20T企业级机器硬盘ST20000NM0002C氦气盘台式机nas监控服务器存储SATA接口硬盘电脑安防 20TB 全新官换-原箱原码-包测试" [ref=f34e645]
+            - generic [ref=f34e655]:
+              - generic [ref=f34e656]: 希捷银河20T企业级机器硬盘ST20000NM0002C氦气盘台式机nas监控服务器存储SATA接口硬盘电脑安防 20TB 全新官换-原箱原码-包测试
+              - generic [ref=f34e658]:
+                - generic [ref=f34e659]: 氦气密封技术
+                - generic [ref=f34e660]: "|企业级耐用性"
+                - generic [ref=f34e661]: "|20TB大容量"
+              - generic [ref=f34e662]:
+                - generic [ref=f34e663]:
+                  - generic [ref=f34e664]: ¥
+                  - generic [ref=f34e665]: "4333"
+                - generic [ref=f34e666]: 到手价
+                - generic [ref=f34e668]: ¥4338
+                - button [ref=f34e669]
+              - generic [ref=f34e672]:
+                - generic [ref=f34e673]: 券满100减5
+                - generic [ref=f34e675]: 包邮
+              - generic [ref=f34e678]:
+                - generic "已售30+" [ref=f34e679]
+                - generic "100%好评" [ref=f34e680]
+              - generic [ref=f34e681]:
+                - generic [ref=f34e682]: 泾汇电子科技工作室
+                - link [ref=f34e1887]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10206515167737&score=5&evaluationRate=100&commentNum=12&seller=%25E6%25B3%25BE%25E6%25B1%2587%25E7%2594%25B5%25E5%25AD%2590%25E7%25A7%2591%25E6%258A%2580%25E5%25B7%25A5%25E4%25BD%259C%25E5%25AE%25A4&imgUrl=jfs%252Ft20271028%252F548074%252F39%252F8772%252F212368%252F6ae15272F441ee91d%252F09443203209e416f.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B320T%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%259C%25BA%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598ST20000NM0002C%25E6%25B0%25A6%25E6%25B0%2594%25E7%259B%2598%25E5%258F%25B0%25E5%25BC%258F%25E6%259C%25BAnas%25E7%259B%2591%25E6%258E%25A7%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E5%25AD%2598%25E5%2582%25A8SATA%25E6%258E%25A5%25E5%258F%25A3%25E7%25A1%25AC%25E7%259B%2598%25E7%2594%25B5%25E8%2584%2591%25E5%25AE%2589%25E9%2598%25B2%252020TB%2520%25E5%2585%25A8%25E6%2596%25B0%25E5%25AE%2598%25E6%258D%25A2-%25E5%258E%259F%25E7%25AE%25B1%25E5%258E%259F%25E7%25A0%2581-%25E5%258C%2585%25E6%25B5%258B%25E8%25AF%2595
+          - generic [ref=f34e685] [cursor=pointer]:
+            - generic "东芝（TOSHIBA）18T企业级硬盘CMR垂直SATA服务器7200转521MB大容量3.5英寸18TB机械硬盘网络存储 18TB 【MG09ACA18TE】" [ref=f34e688]: 广告
+            - generic [ref=f34e701]:
+              - generic [ref=f34e702]:
+                - img "京东物流" [ref=f34e705]
+                - generic "东芝（TOSHIBA）18T企业级硬盘CMR垂直SATA服务器7200转521MB大容量3.5英寸18TB机械硬盘网络存储 18TB 【MG09ACA18TE】" [ref=f34e706]
+              - generic [ref=f34e708]:
+                - generic [ref=f34e709]: 7200转
+                - generic [ref=f34e710]: "|超9万人关注店铺"
+                - generic [ref=f34e711]: "|CMR垂直"
+              - generic [ref=f34e712]:
+                - generic [ref=f34e713]:
+                  - generic [ref=f34e714]: ¥
+                  - generic [ref=f34e715]: "6899"
+                - button [ref=f34e716]
+              - img "送货上门" [ref=f34e721]
+              - generic "已售200+" [ref=f34e724]
+              - generic [ref=f34e725]:
+                - generic [ref=f34e726]: 品牌超级店
+                - generic [ref=f34e727]: 东芝硬盘旗舰店
+                - link [ref=f34e1888]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10072264262354&score=0&commentNum=100%252B&seller=%25E4%25B8%259C%25E8%258A%259D%25E7%25A1%25AC%25E7%259B%2598%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F548989%252F10%252F8321%252F150825%252F6ae03e73Febab0bad%252F0083320320619113.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%258918T%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598CMR%25E5%259E%2582%25E7%259B%25B4SATA%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A87200%25E8%25BD%25AC521MB%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F3.5%25E8%258B%25B1%25E5%25AF%25B818TB%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E7%25BD%2591%25E7%25BB%259C%25E5%25AD%2598%25E5%2582%25A8%252018TB%2520%25E3%2580%2590MG09ACA18TE%25E3%2580%2591
+          - generic [ref=f34e730] [cursor=pointer]:
+            - generic "希捷（SEAGATE）EXOS银河企业级3.5英寸 全新国行 SATA接口7200转 CMR垂直 HDD 台式/NAS/监控/服务器机械硬盘 20TB 【ST20000NM002H】512M缓存" [ref=f34e733]
+            - generic [ref=f34e745]:
+              - generic [ref=f34e746]: 希捷（SEAGATE）EXOS银河企业级3.5英寸 全新国行 SATA接口7200转 CMR垂直 HDD 台式/NAS/监控/服务器机械硬盘 20TB 【ST20000NM002H】512M缓存
+              - generic [ref=f34e748]:
+                - generic [ref=f34e749]: 512M大缓存
+                - generic [ref=f34e750]: "|企业级可靠性"
+                - generic [ref=f34e751]: "|7200转高速"
+                - generic [ref=f34e752]: "|企业级可靠"
+              - generic [ref=f34e753]:
+                - generic [ref=f34e754]:
+                  - generic [ref=f34e755]: ¥
+                  - generic [ref=f34e756]: "7599"
+                - generic [ref=f34e757]: 到手价
+                - generic [ref=f34e759]: ¥7699
+                - button [ref=f34e760]
+              - generic [ref=f34e763]:
+                - generic [ref=f34e764]: 每199减10
+                - generic [ref=f34e766]: 赠
+                - generic [ref=f34e768]: 只换不修
+                - generic [ref=f34e770]: 包邮
+              - generic [ref=f34e773]:
+                - generic "已售1000+" [ref=f34e774]
+                - generic "98%好评" [ref=f34e775]
+              - generic [ref=f34e776]:
+                - generic [ref=f34e777]: 希捷捷存专卖店
+                - link [ref=f34e1889]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10200221415296&score=5&evaluationRate=98&commentNum=500%252B&seller=%25E5%25B8%258C%25E6%258D%25B7%25E6%258D%25B7%25E5%25AD%2598%25E4%25B8%2593%25E5%258D%2596%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F105439%252F37%252F54868%252F95317%252F6729bfa9Fcac1adfc%252Fc6175bb84f15f6f9.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589EXOS%25E9%2593%25B6%25E6%25B2%25B3%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A73.5%25E8%258B%25B1%25E5%25AF%25B8%2520%25E5%2585%25A8%25E6%2596%25B0%25E5%259B%25BD%25E8%25A1%258C%2520SATA%25E6%258E%25A5%25E5%258F%25A37200%25E8%25BD%25AC%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520HDD%2520%25E5%258F%25B0%25E5%25BC%258F%252FNAS%252F%25E7%259B%2591%25E6%258E%25A7%252F%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%252020TB%2520%25E3%2580%2590ST20000NM002H%25E3%2580%2591512M%25E7%25BC%2593%25E5%25AD%2598
+          - generic [ref=f34e780] [cursor=pointer]:
+            - generic "希捷（SEAGATE）酷鱼系列 20TB机械硬盘 SATA 3.5英寸 7200转 电脑台式机硬盘 ST20000DM001" [ref=f34e784]
+            - generic [ref=f34e796]:
+              - generic [ref=f34e797]:
+                - img "全球购自营" [ref=f34e800]
+                - text: 希捷（SEAGATE）酷鱼系列 20TB机械硬盘 SATA 3.5英寸 7200转 电脑台式机硬盘 ST20000DM001
+              - generic [ref=f34e802]:
+                - generic [ref=f34e803]: 全新正品
+                - generic [ref=f34e804]: "|20T超大容量"
+                - generic [ref=f34e805]: "|多级缓存技术"
+                - generic [ref=f34e806]: "|7200高转速"
+              - generic [ref=f34e807]:
+                - generic [ref=f34e808]:
+                  - generic [ref=f34e809]: ¥
+                  - generic [ref=f34e810]: "4116"
+                  - generic [ref=f34e811]: .
+                  - generic [ref=f34e812]: "11"
+                - generic [ref=f34e813]: PLUS到手价
+                - generic [ref=f34e815]: ¥4599
+                - button [ref=f34e816]
+              - generic [ref=f34e819]:
+                - generic [ref=f34e820]: 包税
+                - generic [ref=f34e822]: 券满1享9折
+              - generic [ref=f34e825]:
+                - generic "已售2000+" [ref=f34e826]
+                - generic "4600+人种草" [ref=f34e827]
+              - generic [ref=f34e828]:
+                - generic [ref=f34e829]: 京东电脑数码海外自营旗舰店
+                - link [ref=f34e1890]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100255242251&score=5&evaluationRate=99&commentNum=2000%252B&seller=%25E4%25BA%25AC%25E4%25B8%259C%25E7%2594%25B5%25E8%2584%2591%25E6%2595%25B0%25E7%25A0%2581%25E6%25B5%25B7%25E5%25A4%2596%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft20271027%252F562673%252F28%252F168%252F185549%252F6ae02153F54d002ff%252F094432032029731e.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E9%2585%25B7%25E9%25B1%25BC%25E7%25B3%25BB%25E5%2588%2597%252020TB%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520SATA%25203.5%25E8%258B%25B1%25E5%25AF%25B8%25207200%25E8%25BD%25AC%2520%25E7%2594%25B5%25E8%2584%2591%25E5%258F%25B0%25E5%25BC%258F%25E6%259C%25BA%25E7%25A1%25AC%25E7%259B%2598%2520ST20000DM001
+          - generic [ref=f34e832] [cursor=pointer]:
+            - generic "希捷（SEAGATE）企业级硬盘 16TB 512MB 7200转 CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘 ST16000NM002H" [ref=f34e835]: 广告
+            - generic [ref=f34e846]:
+              - generic [ref=f34e847]:
+                - img "自营" [ref=f34e850]
+                - generic "希捷（SEAGATE）企业级硬盘 16TB 512MB 7200转 CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘 ST16000NM002H" [ref=f34e851]
+              - generic [ref=f34e853]:
+                - generic [ref=f34e854]: 500+人收藏
+                - generic [ref=f34e855]: "|1万+店铺粉丝浏览"
+                - generic [ref=f34e856]: "|1万+人加购"
+              - generic [ref=f34e857]:
+                - generic [ref=f34e858]:
+                  - generic [ref=f34e859]: ¥
+                  - generic [ref=f34e860]: "7954"
+                  - generic [ref=f34e861]: .
+                  - generic [ref=f34e862]: "01"
+                - generic [ref=f34e863]: PLUS到手价
+                - generic [ref=f34e865]: ¥7999
+                - button [ref=f34e866]
+              - generic [ref=f34e869]:
+                - img "明日达" [ref=f34e871]
+                - generic [ref=f34e872]: PLUS立减39.99元
+                - generic [ref=f34e874]: 正品行货带票
+              - generic "已售300万+" [ref=f34e878]
+              - generic [ref=f34e879]:
+                - generic [ref=f34e880]: 希捷Seagate京东自营旗舰店
+                - link [ref=f34e1891]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100201554267&score=0&commentNum=200%25E4%25B8%2587%252B&seller=%25E5%25B8%258C%25E6%258D%25B7Seagate%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F536294%252F2%252F12715%252F173451%252F6ae1affbFd39fa51f%252F00833203201eb9a7.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%252016TB%2520512MB%25207200%25E8%25BD%25AC%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520SATA%2520%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3Exos%2520X24%25E7%25B3%25BB%25E5%2588%2597%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598%2520ST16000NM002H
+          - generic [ref=f34e883] [cursor=pointer]:
+            - generic "西部数据（WD） 20TB企业级硬盘 8.89cm SATA 7200转 512MB缓存" [ref=f34e886]
+            - generic [ref=f34e894]:
+              - generic [ref=f34e895]:
+                - img "全球购" [ref=f34e898]
+                - text: 西部数据（WD） 20TB企业级硬盘 8.89cm SATA 7200转 512MB缓存
+              - generic [ref=f34e900]:
+                - generic [ref=f34e901]:
+                  - generic [ref=f34e902]: ¥
+                  - generic [ref=f34e903]: "5522"
+                  - generic [ref=f34e904]: .
+                  - generic [ref=f34e905]: "69"
+                - generic [ref=f34e906]: 到手价
+                - generic [ref=f34e908]: ¥5542.69
+                - button [ref=f34e909]
+              - generic [ref=f34e912]:
+                - generic [ref=f34e913]: 券满600减20
+                - generic [ref=f34e915]: 包邮
+              - generic [ref=f34e918]:
+                - generic "46人看过" [ref=f34e919]
+                - generic "100%好评" [ref=f34e920]
+              - generic [ref=f34e921]:
+                - generic [ref=f34e922]: 亚马逊海外官方旗舰店
+                - link [ref=f34e1892]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10136266102623&score=5&evaluationRate=100&commentNum=3&seller=%25E4%25BA%259A%25E9%25A9%25AC%25E9%2580%258A%25E6%25B5%25B7%25E5%25A4%2596%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F255228%252F19%252F15407%252F227885%252F6790f373Faad9f3ba%252Fca76a3cb8f8d1ad7.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E8%25A5%25BF%25E9%2583%25A8%25E6%2595%25B0%25E6%258D%25AE%25EF%25BC%2588WD%25EF%25BC%2589%252020TB%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%25208.89cm%2520SATA%25207200%25E8%25BD%25AC%2520512MB%25E7%25BC%2593%25E5%25AD%2598
+          - generic [ref=f34e925] [cursor=pointer]:
+            - generic "希捷（SEAGATE）EXOS银河企业级 3.5英寸SATA接口HDD机械硬盘 服务器硬盘台式NAS适用 2T 4T 8T 10T 16T 20T 24T 20TB 银河企业级20T" [ref=f34e928]
+            - generic [ref=f34e939]:
+              - generic [ref=f34e940]: 希捷（SEAGATE）EXOS银河企业级 3.5英寸SATA接口HDD机械硬盘 服务器硬盘台式NAS适用 2T 4T 8T 10T 16T 20T 24T 20TB 银河企业级20T
+              - generic [ref=f34e942]:
+                - generic [ref=f34e943]: 持久耐用
+                - generic [ref=f34e944]: "|高可靠硬盘"
+                - generic [ref=f34e945]: "|服务器适用型"
+                - generic [ref=f34e946]: "|512M大缓存"
+              - generic [ref=f34e947]:
+                - generic [ref=f34e948]:
+                  - generic [ref=f34e949]: ¥
+                  - generic [ref=f34e950]: "7599"
+                - generic [ref=f34e951]: 到手价
+                - generic [ref=f34e953]: ¥7699
+                - button [ref=f34e954]
+              - generic [ref=f34e957]:
+                - generic [ref=f34e958]: 每199减10
+                - generic [ref=f34e960]: 赠
+                - generic [ref=f34e962]: 只换不修
+                - generic [ref=f34e964]: 包邮
+              - generic [ref=f34e967]:
+                - generic "已售600+" [ref=f34e968]
+                - generic "100%好评" [ref=f34e969]
+              - generic [ref=f34e970]:
+                - generic [ref=f34e971]: 希捷捷存专卖店
+                - link [ref=f34e1893]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10200470266166&score=5&evaluationRate=100&commentNum=200%252B&seller=%25E5%25B8%258C%25E6%258D%25B7%25E6%258D%25B7%25E5%25AD%2598%25E4%25B8%2593%25E5%258D%2596%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F105439%252F37%252F54868%252F95317%252F6729bfa9Fcac1adfc%252Fc6175bb84f15f6f9.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589EXOS%25E9%2593%25B6%25E6%25B2%25B3%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25203.5%25E8%258B%25B1%25E5%25AF%25B8SATA%25E6%258E%25A5%25E5%258F%25A3HDD%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598%25E5%258F%25B0%25E5%25BC%258FNAS%25E9%2580%2582%25E7%2594%25A8%25202T%25204T%2520%25208T%252010T%252016T%2520%252020T%252024T%252020TB%2520%25E9%2593%25B6%25E6%25B2%25B3%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A720T
+          - generic [ref=f34e974] [cursor=pointer]:
+            - generic "西部数据（WD）20TB企业级氦气机械硬盘HC560 SATA 7200转512MB CMR垂直 服务器硬盘 3.5英寸WUH722020BLE6L4" [ref=f34e977]: 广告
+            - generic [ref=f34e988]:
+              - generic [ref=f34e989]:
+                - img "自营" [ref=f34e992]
+                - generic "西部数据（WD）20TB企业级氦气机械硬盘HC560 SATA 7200转512MB CMR垂直 服务器硬盘 3.5英寸WUH722020BLE6L4" [ref=f34e993]
+              - generic [ref=f34e995]:
+                - generic [ref=f34e996]: 台式机硬盘
+                - generic [ref=f34e997]: "|用料扎实"
+                - generic [ref=f34e998]: "|超2000万人关注店铺"
+              - generic [ref=f34e999]:
+                - generic [ref=f34e1000]:
+                  - generic [ref=f34e1001]: ¥
+                  - generic [ref=f34e1002]: "10242"
+                  - generic [ref=f34e1003]: .
+                  - generic [ref=f34e1004]: "51"
+                - generic [ref=f34e1005]: PLUS到手价
+                - generic [ref=f34e1007]: ¥10299
+                - button [ref=f34e1008]
+              - generic [ref=f34e1011]:
+                - generic [ref=f34e1012]: PLUS立减51.49元
+                - generic [ref=f34e1014]: 正品行货带票
+              - generic "已售100万+" [ref=f34e1018]
+              - generic [ref=f34e1019]:
+                - generic [ref=f34e1020]: 西部数据京东自营旗舰店
+                - link [ref=f34e1894]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100052327398&score=0&commentNum=50%25E4%25B8%2587%252B&seller=%25E8%25A5%25BF%25E9%2583%25A8%25E6%2595%25B0%25E6%258D%25AE%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F544963%252F21%252F2520%252F117185%252F6acb9dd6Fac9d4bff%252F0083320320c8d4fd.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E8%25A5%25BF%25E9%2583%25A8%25E6%2595%25B0%25E6%258D%25AE%25EF%25BC%2588WD%25EF%25BC%258920TB%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%25B0%25A6%25E6%25B0%2594%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598HC560%2520SATA%25207200%25E8%25BD%25AC512MB%2520CMR%25E5%259E%2582%25E7%259B%25B4%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%25A1%25AC%25E7%259B%2598%25203.5%25E8%258B%25B1%25E5%25AF%25B8WUH722020BLE6L4
+          - generic [ref=f34e1023] [cursor=pointer]:
+            - generic "希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 20TB 【ST20000NM002H】X24" [ref=f34e1026]
+            - generic [ref=f34e1037]:
+              - generic [ref=f34e1038]:
+                - img "京东物流" [ref=f34e1041]
+                - text: 希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 20TB 【ST20000NM002H】X24
+              - generic [ref=f34e1043]:
+                - generic [ref=f34e1044]: 3.5英寸盘
+                - generic [ref=f34e1045]: "|20TB大容量"
+                - generic [ref=f34e1046]: "|7200转高速"
+                - generic [ref=f34e1047]: "|EXOS系列"
+              - generic [ref=f34e1048]:
+                - generic [ref=f34e1049]:
+                  - generic [ref=f34e1050]: ¥
+                  - generic [ref=f34e1051]: "7999"
+                - button [ref=f34e1052]
+              - generic [ref=f34e1055]:
+                - img "送货上门" [ref=f34e1057]
+                - generic [ref=f34e1058]: 包邮
+              - generic [ref=f34e1061]:
+                - generic "已售4万+" [ref=f34e1062]
+                - generic "1600+人种草" [ref=f34e1063]
+              - generic [ref=f34e1064]:
+                - generic [ref=f34e1065]: Seagate希捷旗舰店
+                - link [ref=f34e1895]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10196549274570&score=5&evaluationRate=98&commentNum=1%25E4%25B8%2587%252B&seller=Seagate%25E5%25B8%258C%25E6%258D%25B7%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F554969%252F38%252F5162%252F100080%252F6ae22a16Fa9c4402c%252F0083320320f2a853.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%2520%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E5%259E%2582%25E7%259B%25B4%25E7%25A1%25AC%25E7%259B%2598%2520PMR%2520CMR%2520SATA%2520%25E9%2593%25B6%25E6%25B2%25B3%25E7%25B3%25BB%25E5%2588%25977200%25E8%25BD%25AC%25E4%25BC%2581%25E4%25B8%259A%25E7%25A1%25AC%25E7%259B%25983.5%25E8%258B%25B1%25E5%25AF%25B8%252020TB%2520%25E3%2580%2590ST20000NM002H%25E3%2580%2591X24
+          - generic [ref=f34e1068] [cursor=pointer]:
+            - generic "希捷（SEAGATE）ST20000NM003C 企业级氦气机械硬盘NAS服务器存储20TB ST20000NM003C 全新官换 含普票 20TB" [ref=f34e1071]
+            - generic [ref=f34e1080]:
+              - generic [ref=f34e1081]: 希捷（SEAGATE）ST20000NM003C 企业级氦气机械硬盘NAS服务器存储20TB ST20000NM003C 全新官换 含普票 20TB
+              - generic [ref=f34e1083]:
+                - generic [ref=f34e1084]: 3.5英寸
+                - generic [ref=f34e1085]: "|SATA3.0"
+                - generic [ref=f34e1086]: "|桌面存储"
+              - generic [ref=f34e1087]:
+                - generic [ref=f34e1088]:
+                  - generic [ref=f34e1089]: ¥
+                  - generic [ref=f34e1090]: "4396"
+                - generic [ref=f34e1091]: 到手价
+                - generic [ref=f34e1093]: ¥5156
+                - button [ref=f34e1094]
+              - generic [ref=f34e1097]:
+                - generic [ref=f34e1098]: 惊喜加补满5000减700
+                - generic [ref=f34e1100]: 只换不修
+                - generic [ref=f34e1102]: 包邮
+              - generic [ref=f34e1105]:
+                - generic "4人看过" [ref=f34e1106]
+                - generic "100%好评" [ref=f34e1107]
+              - generic [ref=f34e1108]:
+                - generic [ref=f34e1109]: 电脑办公组件店
+                - link [ref=f34e1896]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10234832753719&score=5&evaluationRate=100&commentNum=0&seller=%25E7%2594%25B5%25E8%2584%2591%25E5%258A%259E%25E5%2585%25AC%25E7%25BB%2584%25E4%25BB%25B6%25E5%25BA%2597&imgUrl=jfs%252Ft20271009%252F535149%252F23%252F12333%252F192676%252F6ac851b4Fbd727b00%252F0944320320ecab21.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589ST20000NM003C%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%25B0%25A6%25E6%25B0%2594%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598NAS%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E5%25AD%2598%25E5%2582%25A820TB%2520ST20000NM003C%2520%25E5%2585%25A8%25E6%2596%25B0%25E5%25AE%2598%25E6%258D%25A2%2520%25E5%2590%25AB%25E6%2599%25AE%25E7%25A5%25A8%252020TB
+          - generic [ref=f34e1112] [cursor=pointer]:
+            - generic "东芝（TOSHIBA）20TB 7200转 512MB SATA接口 垂直式CMR NAS网络云存储 氦气机械硬盘 私有云文件存储 N300Pro系列" [ref=f34e1115]
+            - generic [ref=f34e1122]:
+              - generic [ref=f34e1123]:
+                - img "自营" [ref=f34e1126]
+                - text: 东芝（TOSHIBA）20TB 7200转 512MB SATA接口 垂直式CMR NAS网络云存储 氦气机械硬盘 私有云文件存储 N300Pro系列
+              - generic [ref=f34e1128]:
+                - generic [ref=f34e1129]: 缓存512MB
+                - generic [ref=f34e1130]: "|垂直式CMR"
+                - generic [ref=f34e1131]: "|7200转"
+                - generic [ref=f34e1132]: "|7200转高速"
+              - generic [ref=f34e1133]:
+                - generic [ref=f34e1134]:
+                  - generic [ref=f34e1135]: ¥
+                  - generic [ref=f34e1136]: "7660"
+                  - generic [ref=f34e1137]: .
+                  - generic [ref=f34e1138]: "51"
+                - generic [ref=f34e1139]: PLUS到手价
+                - generic [ref=f34e1141]: ¥7699
+                - button [ref=f34e1142]
+              - generic [ref=f34e1145]:
+                - generic [ref=f34e1146]: PLUS立减38.49元
+                - generic [ref=f34e1148]: 正品行货带票
+              - generic [ref=f34e1151]:
+                - generic "已售5万+" [ref=f34e1152]
+                - generic "98%好评" [ref=f34e1153]
+              - generic [ref=f34e1154]:
+                - generic [ref=f34e1155]: 东芝存储京东自营旗舰店
+                - link [ref=f34e1897]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100416541038&score=5&evaluationRate=98&commentNum=2%25E4%25B8%2587%252B&seller=%25E4%25B8%259C%25E8%258A%259D%25E5%25AD%2598%25E5%2582%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F539324%252F8%252F9800%252F142099%252F6acc6a95Fefd2d407%252F0083320320efa1ca.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%258920TB%25207200%25E8%25BD%25AC%2520512MB%2520SATA%25E6%258E%25A5%25E5%258F%25A3%2520%25E5%259E%2582%25E7%259B%25B4%25E5%25BC%258FCMR%2520NAS%25E7%25BD%2591%25E7%25BB%259C%25E4%25BA%2591%25E5%25AD%2598%25E5%2582%25A8%2520%25E6%25B0%25A6%25E6%25B0%2594%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E7%25A7%2581%25E6%259C%2589%25E4%25BA%2591%25E6%2596%2587%25E4%25BB%25B6%25E5%25AD%2598%25E5%2582%25A8%2520N300Pro%25E7%25B3%25BB%25E5%2588%2597
+          - generic [ref=f34e1158] [cursor=pointer]:
+            - generic "希捷（SEAGATE）银河企业级20TBSATA接口监控硬盘控录像储存监控NAS台式机械硬盘20TB银河官换新盘 20TB 希捷企业银河级ST20000NM000H" [ref=f34e1161]
+            - generic [ref=f34e1170]:
+              - generic [ref=f34e1171]: 希捷（SEAGATE）银河企业级20TBSATA接口监控硬盘控录像储存监控NAS台式机械硬盘20TB银河官换新盘 20TB 希捷企业银河级ST20000NM000H
+              - generic [ref=f34e1173]:
+                - generic [ref=f34e1174]: 7200rpm
+                - generic [ref=f34e1175]: "|512MB"
+                - generic [ref=f34e1176]: "|3.5英寸"
+              - generic [ref=f34e1177]:
+                - generic [ref=f34e1178]:
+                  - generic [ref=f34e1179]: ¥
+                  - generic [ref=f34e1180]: "4500"
+                - button [ref=f34e1181]
+              - generic [ref=f34e1184]: 包邮
+              - generic [ref=f34e1188]:
+                - generic "17人看过" [ref=f34e1189]
+                - generic "100%好评" [ref=f34e1190]
+              - generic [ref=f34e1191]:
+                - generic [ref=f34e1192]: 古德存储硬盘甄选店
+                - link [ref=f34e1898]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10238011789521&score=5&evaluationRate=100&commentNum=0&seller=%25E5%258F%25A4%25E5%25BE%25B7%25E5%25AD%2598%25E5%2582%25A8%25E7%25A1%25AC%25E7%259B%2598%25E7%2594%2584%25E9%2580%2589%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F536050%252F22%252F8919%252F215199%252F6adafff6F5b4fb610%252F00834e64e6137021.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E9%2593%25B6%25E6%25B2%25B3%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A720TBSATA%25E6%258E%25A5%25E5%258F%25A3%25E7%259B%2591%25E6%258E%25A7%25E7%25A1%25AC%25E7%259B%2598%25E6%258E%25A7%25E5%25BD%2595%25E5%2583%258F%25E5%2582%25A8%25E5%25AD%2598%25E7%259B%2591%25E6%258E%25A7NAS%25E5%258F%25B0%25E5%25BC%258F%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%259820TB%25E9%2593%25B6%25E6%25B2%25B3%25E5%25AE%2598%25E6%258D%25A2%25E6%2596%25B0%25E7%259B%2598%252020TB%2520%25E5%25B8%258C%25E6%258D%25B7%25E4%25BC%2581%25E4%25B8%259A%25E9%2593%25B6%25E6%25B2%25B3%25E7%25BA%25A7ST20000NM000H
+          - generic [ref=f34e1195] [cursor=pointer]:
+            - generic "希捷（SEAGATE）16TB 监控安防4TB企业级硬盘8TB录像机20TB服务器18TB机械硬盘 20TB 质保三年" [ref=f34e1198]
+            - generic [ref=f34e1208]:
+              - generic [ref=f34e1209]: 希捷（SEAGATE）16TB 监控安防4TB企业级硬盘8TB录像机20TB服务器18TB机械硬盘 20TB 质保三年
+              - generic [ref=f34e1211]:
+                - generic [ref=f34e1212]: 高可靠存储
+                - generic [ref=f34e1213]: "|7200高速"
+                - generic [ref=f34e1214]: "|多场景适用"
+                - generic [ref=f34e1215]: "|企业级耐用"
+              - generic [ref=f34e1216]:
+                - generic [ref=f34e1217]:
+                  - generic [ref=f34e1218]: ¥
+                  - generic [ref=f34e1219]: "4799"
+                - button [ref=f34e1220]
+              - generic [ref=f34e1223]: 包邮
+              - generic [ref=f34e1227]:
+                - generic "已售1000+" [ref=f34e1228]
+                - generic "300+人种草" [ref=f34e1229]
+              - generic [ref=f34e1230]:
+                - generic [ref=f34e1231]: 宏誉科技存储店
+                - link [ref=f34e1899]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10211335357928&score=5&evaluationRate=100&commentNum=500%252B&seller=%25E5%25AE%258F%25E8%25AA%2589%25E7%25A7%2591%25E6%258A%2580%25E5%25AD%2598%25E5%2582%25A8%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F521281%252F20%252F6616%252F206061%252F6aa6c538F7d439eb6%252F00834e64e66efb89.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%258916TB%2520%25E7%259B%2591%25E6%258E%25A7%25E5%25AE%2589%25E9%2598%25B24TB%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%25988TB%25E5%25BD%2595%25E5%2583%258F%25E6%259C%25BA20TB%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A818TB%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%252020TB%2520%25E8%25B4%25A8%25E4%25BF%259D%25E4%25B8%2589%25E5%25B9%25B4
+          - generic [ref=f34e1234] [cursor=pointer]:
+            - generic "东芝（TOSHIBA）20TB 7200转 1024MB SATA接口 垂直式CMR 机械硬盘 监控硬盘S300AI（MG11ACA20TE-V）" [ref=f34e1237]
+            - generic [ref=f34e1249]:
+              - generic [ref=f34e1250]:
+                - img "自营" [ref=f34e1253]
+                - text: 东芝（TOSHIBA）20TB 7200转 1024MB SATA接口 垂直式CMR 机械硬盘 监控硬盘S300AI（MG11ACA20TE-V）
+              - generic [ref=f34e1255]:
+                - generic [ref=f34e1256]: 20TB海量
+                - generic [ref=f34e1257]: "|监控级硬盘"
+                - generic [ref=f34e1258]: "|AI优化"
+                - generic [ref=f34e1259]: "|AI优化负载"
+              - generic [ref=f34e1260]:
+                - generic [ref=f34e1261]:
+                  - generic [ref=f34e1262]: ¥
+                  - generic [ref=f34e1263]: "6765"
+                  - generic [ref=f34e1264]: .
+                  - generic [ref=f34e1265]: "01"
+                - generic [ref=f34e1266]: PLUS到手价
+                - generic [ref=f34e1268]: ¥6799
+                - button [ref=f34e1269]
+              - generic [ref=f34e1272]:
+                - generic [ref=f34e1273]: PLUS立减33.99元
+                - generic [ref=f34e1275]: 赠
+                - generic [ref=f34e1277]: 正品行货带票
+              - generic [ref=f34e1280]:
+                - generic "已售5万+" [ref=f34e1281]
+                - generic "98%好评" [ref=f34e1282]
+              - generic [ref=f34e1283]:
+                - generic [ref=f34e1284]: 东芝存储京东自营旗舰店
+                - link [ref=f34e1900]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100314928205&score=5&evaluationRate=98&commentNum=2%25E4%25B8%2587%252B&seller=%25E4%25B8%259C%25E8%258A%259D%25E5%25AD%2598%25E5%2582%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F546016%252F36%252F960%252F158830%252F6acc5ba2Fe242611a%252F00833203201759ca.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25B8%259C%25E8%258A%259D%25EF%25BC%2588TOSHIBA%25EF%25BC%258920TB%25207200%25E8%25BD%25AC%25201024MB%2520SATA%25E6%258E%25A5%25E5%258F%25A3%2520%25E5%259E%2582%25E7%259B%25B4%25E5%25BC%258FCMR%2520%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%2520%25E7%259B%2591%25E6%258E%25A7%25E7%25A1%25AC%25E7%259B%2598S300AI%25EF%25BC%2588MG11ACA20TE-V%25EF%25BC%2589
+          - generic [ref=f34e1287] [cursor=pointer]:
+            - generic "希捷机械硬盘装机NAS硬盘氦气20T" [ref=f34e1290]
+            - generic [ref=f34e1300]:
+              - generic [ref=f34e1301]:
+                - img "京东物流" [ref=f34e1304]
+                - text: 希捷机械硬盘装机NAS硬盘氦气20T
+              - generic [ref=f34e1306]:
+                - generic [ref=f34e1307]: 存储空间
+                - generic [ref=f34e1308]: "|酷鱼系列"
+                - generic [ref=f34e1309]: "|7200转高速"
+                - generic [ref=f34e1310]: "|台式机内置"
+              - generic [ref=f34e1311]:
+                - generic [ref=f34e1312]:
+                  - generic [ref=f34e1313]: ¥
+                  - generic [ref=f34e1314]: "4999"
+                - button [ref=f34e1315]
+              - generic [ref=f34e1318]:
+                - img "送货上门" [ref=f34e1320]
+                - generic [ref=f34e1321]: 包邮
+              - generic [ref=f34e1324]:
+                - generic "已售5万+" [ref=f34e1325]
+                - generic "3400+人种草" [ref=f34e1326]
+              - generic [ref=f34e1327]:
+                - generic [ref=f34e1328]: Seagate希捷旗舰店
+                - link [ref=f34e1901]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10169615659291&score=5&evaluationRate=99&commentNum=2%25E4%25B8%2587%252B&seller=Seagate%25E5%25B8%258C%25E6%258D%25B7%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F562346%252F38%252F1746%252F111636%252F6ae229e5Fa67d029b%252F00833203205caefb.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E8%25A3%2585%25E6%259C%25BANAS%25E7%25A1%25AC%25E7%259B%2598%25E6%25B0%25A6%25E6%25B0%259420T
+          - generic [ref=f34e1331] [cursor=pointer]:
+            - generic "群晖（Synology）NAS硬盘20TB 512MB 7200转 3.5英寸SATA HDD HAT3320 NAS专用机械硬盘" [ref=f34e1334]
+            - generic [ref=f34e1344]:
+              - generic [ref=f34e1345]:
+                - img "自营" [ref=f34e1348]
+                - text: 群晖（Synology）NAS硬盘20TB 512MB 7200转 3.5英寸SATA HDD HAT3320 NAS专用机械硬盘
+              - generic [ref=f34e1351]:
+                - generic "企业级硬盘榜·第7名" [ref=f34e1353]
+                - generic [ref=f34e1356]:
+                  - generic [ref=f34e1357]: SATA接口
+                  - generic [ref=f34e1358]: "|支持快速排错"
+                  - generic [ref=f34e1359]: "|20TB大容量"
+                  - generic [ref=f34e1360]: "|7*24小时运行"
+                - generic "企业级硬盘榜·第7名" [ref=f34e1362]
+              - generic [ref=f34e1365]:
+                - generic [ref=f34e1366]:
+                  - generic [ref=f34e1367]: ¥
+                  - generic [ref=f34e1368]: "6466"
+                  - generic [ref=f34e1369]: .
+                  - generic [ref=f34e1370]: "51"
+                - generic [ref=f34e1371]: PLUS到手价
+                - generic [ref=f34e1373]: ¥6499
+                - button [ref=f34e1374]
+              - generic [ref=f34e1377]:
+                - generic [ref=f34e1378]: PLUS立减32.49元
+                - generic [ref=f34e1380]: 正品行货带票
+              - generic [ref=f34e1383]:
+                - generic "已售1万+" [ref=f34e1384]
+                - generic "1700+人种草" [ref=f34e1385]
+              - generic [ref=f34e1386]:
+                - generic [ref=f34e1387]: 群晖（Synology）京东自营旗舰店
+                - link [ref=f34e1902]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=100352259198&score=5&evaluationRate=97&commentNum=5000%252B&seller=%25E7%25BE%25A4%25E6%2599%2596%25EF%25BC%2588Synology%25EF%25BC%2589%25E4%25BA%25AC%25E4%25B8%259C%25E8%2587%25AA%25E8%2590%25A5%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F537302%252F20%252F14676%252F106288%252F6ad42d41F9bed7eaa%252F0083320320218567.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E7%25BE%25A4%25E6%2599%2596%25EF%25BC%2588Synology%25EF%25BC%2589NAS%25E7%25A1%25AC%25E7%259B%259820TB%2520512MB%25207200%25E8%25BD%25AC%25203.5%25E8%258B%25B1%25E5%25AF%25B8SATA%2520HDD%2520HAT3320%2520NAS%25E4%25B8%2593%25E7%2594%25A8%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598
+          - generic [ref=f34e1390] [cursor=pointer]:
+            - generic "企业级垂直硬盘适用于企业20TB" [ref=f34e1393]
+            - generic [ref=f34e1401]:
+              - generic [ref=f34e1402]: 企业级垂直硬盘适用于企业20TB
+              - generic [ref=f34e1404]:
+                - generic [ref=f34e1405]: 6TB大容量
+                - generic [ref=f34e1406]: "|256M缓存"
+                - generic [ref=f34e1407]: "|高清监控专用"
+                - generic [ref=f34e1408]: "|企业级硬盘"
+              - generic [ref=f34e1409]:
+                - generic [ref=f34e1410]:
+                  - generic [ref=f34e1411]: ¥
+                  - generic [ref=f34e1412]: "4968"
+                - button [ref=f34e1413]
+              - generic [ref=f34e1416]: 包邮
+              - generic [ref=f34e1420]:
+                - generic "已售2000+" [ref=f34e1421]
+                - generic "400+人种草" [ref=f34e1422]
+              - generic [ref=f34e1423]:
+                - generic [ref=f34e1424]: 创意硬盘小店
+                - link [ref=f34e1903]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10212816361218&score=5&evaluationRate=99&commentNum=2000%252B&seller=%25E5%2588%259B%25E6%2584%258F%25E7%25A1%25AC%25E7%259B%2598%25E5%25B0%258F%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F416204%252F32%252F18926%252F225721%252F69dddb65F467dcfeb%252F00835a05a0e2ead4.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E5%259E%2582%25E7%259B%25B4%25E7%25A1%25AC%25E7%259B%2598%25E9%2580%2582%25E7%2594%25A8%25E4%25BA%258E%25E4%25BC%2581%25E4%25B8%259A20TB
+          - generic [ref=f34e1427] [cursor=pointer]:
+            - generic "希捷（SEAGATE）ST20000NM004C企业级氦气机械硬盘NAS服务器存储20TB ST20000NM004C 全新官换 含普票 20TB" [ref=f34e1430]
+            - generic [ref=f34e1439]:
+              - generic [ref=f34e1440]: 希捷（SEAGATE）ST20000NM004C企业级氦气机械硬盘NAS服务器存储20TB ST20000NM004C 全新官换 含普票 20TB
+              - generic [ref=f34e1442]:
+                - generic [ref=f34e1443]: 3.5英寸
+                - generic [ref=f34e1444]: "|SATA3.0"
+                - generic [ref=f34e1445]: "|桌面存储"
+              - generic [ref=f34e1446]:
+                - generic [ref=f34e1447]:
+                  - generic [ref=f34e1448]: ¥
+                  - generic [ref=f34e1449]: "5096"
+                - generic [ref=f34e1450]: 到手价
+                - generic [ref=f34e1452]: ¥5156
+                - button [ref=f34e1453]
+              - generic [ref=f34e1456]:
+                - generic [ref=f34e1457]: 只换不修
+                - generic [ref=f34e1459]: 包邮
+              - generic [ref=f34e1462]:
+                - generic "2人看过" [ref=f34e1463]
+                - generic "100%好评" [ref=f34e1464]
+              - generic [ref=f34e1465]:
+                - generic [ref=f34e1466]: 电脑办公组件店
+                - link [ref=f34e1904]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10234832823088&score=5&evaluationRate=100&commentNum=0&seller=%25E7%2594%25B5%25E8%2584%2591%25E5%258A%259E%25E5%2585%25AC%25E7%25BB%2584%25E4%25BB%25B6%25E5%25BA%2597&imgUrl=jfs%252Ft20271009%252F536476%252F32%252F9417%252F189001%252F6ac851b1Feb261559%252F0944320320facfad.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589ST20000NM004C%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%25B0%25A6%25E6%25B0%2594%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598NAS%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E5%25AD%2598%25E5%2582%25A820TB%2520ST20000NM004C%2520%25E5%2585%25A8%25E6%2596%25B0%25E5%25AE%2598%25E6%258D%25A2%2520%25E5%2590%25AB%25E6%2599%25AE%25E7%25A5%25A8%252020TB
+          - generic [ref=f34e1469] [cursor=pointer]:
+            - generic "希捷机械硬盘 3.5英寸 SATA接口 酷鱼系列 台式机电脑硬盘 存储扩容 20TB 7200转 [ST20000DM001]" [ref=f34e1472]
+            - generic [ref=f34e1484]:
+              - generic [ref=f34e1485]: 希捷机械硬盘 3.5英寸 SATA接口 酷鱼系列 台式机电脑硬盘 存储扩容 20TB 7200转 [ST20000DM001]
+              - generic [ref=f34e1487]:
+                - generic [ref=f34e1488]: 7200高速旋转
+                - generic [ref=f34e1489]: "|512M大缓存"
+                - generic [ref=f34e1490]: "|高转速性能"
+                - generic [ref=f34e1491]: "|台式机扩容"
+              - generic [ref=f34e1492]:
+                - generic [ref=f34e1493]:
+                  - generic [ref=f34e1494]: ¥
+                  - generic [ref=f34e1495]: "4999"
+                - button [ref=f34e1496]
+              - generic [ref=f34e1499]: 包邮
+              - generic [ref=f34e1503]:
+                - generic "已售2万+" [ref=f34e1504]
+                - generic "1300+人种草" [ref=f34e1505]
+              - generic [ref=f34e1506]:
+                - generic [ref=f34e1507]: 希捷存储旗舰店
+                - link [ref=f34e1905]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10232248772193&score=5&evaluationRate=99&commentNum=1%25E4%25B8%2587%252B&seller=%25E5%25B8%258C%25E6%258D%25B7%25E5%25AD%2598%25E5%2582%25A8%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F538879%252F31%252F11309%252F135175%252F6ad04899F75627395%252F0083320320cf645c.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25203.5%25E8%258B%25B1%25E5%25AF%25B8%2520SATA%25E6%258E%25A5%25E5%258F%25A3%2520%25E9%2585%25B7%25E9%25B1%25BC%25E7%25B3%25BB%25E5%2588%2597%2520%25E5%258F%25B0%25E5%25BC%258F%25E6%259C%25BA%25E7%2594%25B5%25E8%2584%2591%25E7%25A1%25AC%25E7%259B%2598%2520%25E5%25AD%2598%25E5%2582%25A8%25E6%2589%25A9%25E5%25AE%25B9%252020TB%25207200%25E8%25BD%25AC%2520%255BST20000DM001%255D
+          - generic [ref=f34e1510] [cursor=pointer]:
+            - generic "西部数据（WD）西数 500G 1T 2T 3T 4T 6T 8T 10T 12T 14T 16T 18T 20T 24T机械硬盘企业级电脑服务器NAS监控安防95新二手 西数20T 企业级" [ref=f34e1513]
+            - generic [ref=f34e1522]:
+              - generic [ref=f34e1523]:
+                - img "拍拍二手" [ref=f34e1526]
+                - text: 西部数据（WD）西数 500G 1T 2T 3T 4T 6T 8T 10T 12T 14T 16T 18T 20T 24T机械硬盘企业级电脑服务器NAS监控安防95新二手 西数20T 企业级
+              - generic [ref=f34e1528]:
+                - generic [ref=f34e1529]: 数据中心级
+                - generic [ref=f34e1530]: "|企业级可靠"
+                - generic [ref=f34e1531]: "|海量存储"
+                - generic [ref=f34e1532]: "|稳定运行"
+              - generic [ref=f34e1533]:
+                - generic [ref=f34e1534]:
+                  - generic [ref=f34e1535]: ¥
+                  - generic [ref=f34e1536]: "4300"
+                - button [ref=f34e1537]
+              - generic [ref=f34e1540]: 包邮
+              - generic [ref=f34e1544]:
+                - generic "已售100+" [ref=f34e1545]
+                - generic "100%好评" [ref=f34e1546]
+              - generic [ref=f34e1547]:
+                - generic [ref=f34e1548]: 易创想二手硬盘专营店
+                - link [ref=f34e1906]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10233898893200&score=5&evaluationRate=100&commentNum=94&seller=%25E6%2598%2593%25E5%2588%259B%25E6%2583%25B3%25E4%25BA%258C%25E6%2589%258B%25E7%25A1%25AC%25E7%259B%2598%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F460865%252F35%252F3711%252F200311%252F6a367f05F0f68602f%252F0083800800bf953f.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E8%25A5%25BF%25E9%2583%25A8%25E6%2595%25B0%25E6%258D%25AE%25EF%25BC%2588WD%25EF%25BC%2589%25E8%25A5%25BF%25E6%2595%25B0%2520500G%25201T%25202T%25203T%25204T%25206T%25208T%252010T%252012T%252014T%252016T%252018T%252020T%252024T%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%2594%25B5%25E8%2584%2591%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8NAS%25E7%259B%2591%25E6%258E%25A7%25E5%25AE%2589%25E9%2598%25B295%25E6%2596%25B0%25E4%25BA%258C%25E6%2589%258B%2520%25E8%25A5%25BF%25E6%2595%25B020T%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7
+          - generic [ref=f34e1551] [cursor=pointer]:
+            - generic "希捷（SEAGATE）银河Exos 企业级硬盘 7200转3.5英寸 SATA 1TB ST1000NM000A 20TB ST20000NM007D" [ref=f34e1554]
+            - generic [ref=f34e1566]:
+              - generic [ref=f34e1567]:
+                - img "京东物流" [ref=f34e1570]
+                - text: 希捷（SEAGATE）银河Exos 企业级硬盘 7200转3.5英寸 SATA 1TB ST1000NM000A 20TB ST20000NM007D
+              - generic [ref=f34e1572]:
+                - generic [ref=f34e1573]: 7200转速
+                - generic [ref=f34e1574]: "|企业级耐用"
+                - generic [ref=f34e1575]: "|氮气封装技术"
+                - generic [ref=f34e1576]: "|SATA接口"
+              - generic [ref=f34e1577]:
+                - generic [ref=f34e1578]:
+                  - generic [ref=f34e1579]: ¥
+                  - generic [ref=f34e1580]: "5482"
+                  - generic [ref=f34e1581]: .
+                  - generic [ref=f34e1582]: "4"
+                - generic [ref=f34e1583]: 到手价
+                - generic [ref=f34e1585]: ¥6230
+                - button [ref=f34e1586]
+              - generic [ref=f34e1589]:
+                - img "送货上门" [ref=f34e1591]
+                - generic [ref=f34e1592]: 1件8.8折
+                - generic [ref=f34e1594]: 包邮
+              - generic [ref=f34e1597]:
+                - generic "已售200+" [ref=f34e1598]
+                - generic "100%好评" [ref=f34e1599]
+              - generic [ref=f34e1600]:
+                - generic [ref=f34e1601]: 青茵数码科技经营部
+                - link [ref=f34e1907]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10208275748558&score=5&evaluationRate=100&commentNum=89&seller=%25E9%259D%2592%25E8%258C%25B5%25E6%2595%25B0%25E7%25A0%2581%25E7%25A7%2591%25E6%258A%2580%25E7%25BB%258F%25E8%2590%25A5%25E9%2583%25A8&imgUrl=jfs%252Ft1%252F452276%252F5%252F7015%252F115298%252F6a282c90Fd26ccdbe%252F0083320320fecee6.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25EF%25BC%2588SEAGATE%25EF%25BC%2589%25E9%2593%25B6%25E6%25B2%25B3Exos%2520%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%2598%25207200%25E8%25BD%25AC3.5%25E8%258B%25B1%25E5%25AF%25B8%2520SATA%25201TB%2520%2520%2520%2520%2520%2520ST1000NM000A%252020TB%2520%2520%2520%2520%2520%2520%2520ST20000NM007D
+          - generic [ref=f34e1604] [cursor=pointer]:
+            - generic "希捷20T 18T 16T 14T 12T 10T企业级机械硬盘银河系列SATA接口服务器NAS监控录像机电脑存储二手95新 20T企业级银河系列 质保2年 顺丰包邮" [ref=f34e1607]
+            - generic [ref=f34e1617]:
+              - generic [ref=f34e1618]:
+                - img "拍拍二手" [ref=f34e1621]
+                - text: 希捷20T 18T 16T 14T 12T 10T企业级机械硬盘银河系列SATA接口服务器NAS监控录像机电脑存储二手95新 20T企业级银河系列 质保2年 顺丰包邮
+              - generic [ref=f34e1623]:
+                - generic [ref=f34e1624]: 银河系列
+                - generic [ref=f34e1625]: "|NAS应用"
+                - generic [ref=f34e1626]: "|企业级硬盘"
+                - generic [ref=f34e1627]: "|大容量存储"
+              - generic [ref=f34e1628]:
+                - generic [ref=f34e1629]:
+                  - generic [ref=f34e1630]: ¥
+                  - generic [ref=f34e1631]: "4400"
+                - button [ref=f34e1632]
+              - generic [ref=f34e1635]: 包邮
+              - generic [ref=f34e1639]:
+                - generic "已售50+" [ref=f34e1640]
+                - generic "100%好评" [ref=f34e1641]
+              - generic [ref=f34e1642]:
+                - generic [ref=f34e1643]: 易创想二手硬盘专营店
+                - link [ref=f34e1908]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10233893088769&score=5&evaluationRate=100&commentNum=26&seller=%25E6%2598%2593%25E5%2588%259B%25E6%2583%25B3%25E4%25BA%258C%25E6%2589%258B%25E7%25A1%25AC%25E7%259B%2598%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F504142%252F36%252F13106%252F55352%252F6a914108F4a8350a4%252F00834004000e165a.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B720T%252018T%252016T%252014T%252012T%252010T%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%25E9%2593%25B6%25E6%25B2%25B3%25E7%25B3%25BB%25E5%2588%2597SATA%25E6%258E%25A5%25E5%258F%25A3%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8NAS%25E7%259B%2591%25E6%258E%25A7%25E5%25BD%2595%25E5%2583%258F%25E6%259C%25BA%25E7%2594%25B5%25E8%2584%2591%25E5%25AD%2598%25E5%2582%25A8%25E4%25BA%258C%25E6%2589%258B95%25E6%2596%25B0%252020T%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E9%2593%25B6%25E6%25B2%25B3%25E7%25B3%25BB%25E5%2588%2597%2520%25E8%25B4%25A8%25E4%25BF%259D2%25E5%25B9%25B4%2520%25E9%25A1%25BA%25E4%25B8%25B0%25E5%258C%2585%25E9%2582%25AE
+          - generic [ref=f34e1646] [cursor=pointer]:
+            - generic "适用于台式机SATA接口机械硬盘" [ref=f34e1649]
+            - generic [ref=f34e1661]:
+              - generic [ref=f34e1662]: 适用于台式机SATA接口机械硬盘
+              - generic [ref=f34e1664]:
+                - generic [ref=f34e1665]: 酷鱼系列硬盘
+                - generic [ref=f34e1666]: "|国行正品"
+                - generic [ref=f34e1667]: "|SATA接口"
+                - generic [ref=f34e1668]: "|台式机内置"
+              - generic [ref=f34e1669]:
+                - generic [ref=f34e1670]:
+                  - generic [ref=f34e1671]: ¥
+                  - generic [ref=f34e1672]: "4899"
+                - generic [ref=f34e1673]: 到手价
+                - generic [ref=f34e1675]: ¥5198
+                - button [ref=f34e1676]
+              - generic [ref=f34e1679]:
+                - generic [ref=f34e1680]: 满1000减299
+                - generic [ref=f34e1682]: 只换不修
+                - generic [ref=f34e1684]: 包邮
+              - generic [ref=f34e1687]:
+                - generic "已售500+" [ref=f34e1688]
+                - generic "100+人好评" [ref=f34e1689]
+              - generic [ref=f34e1690]:
+                - generic [ref=f34e1691]: 伯利恒专营店
+                - link [ref=f34e1909]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10232485349304&score=5&evaluationRate=100&commentNum=500%252B&seller=%25E4%25BC%25AF%25E5%2588%25A9%25E6%2581%2592%25E4%25B8%2593%25E8%2590%25A5%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F507591%252F25%252F7083%252F137942%252F6a8eaf6dF2128f1ee%252F008332032080d4ff.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E9%2580%2582%25E7%2594%25A8%25E4%25BA%258E%25E5%258F%25B0%25E5%25BC%258F%25E6%259C%25BASATA%25E6%258E%25A5%25E5%258F%25A3%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598
+          - generic [ref=f34e1694] [cursor=pointer]:
+            - generic "希捷银河16TB 监控安防4TB企业级硬盘8TB录像机20TB服务器18TB机械硬盘 20TB 质保三年" [ref=f34e1697]
+            - generic [ref=f34e1707]:
+              - generic [ref=f34e1708]:
+                - img "京东物流" [ref=f34e1711]
+                - text: 希捷银河16TB 监控安防4TB企业级硬盘8TB录像机20TB服务器18TB机械硬盘 20TB 质保三年
+              - generic [ref=f34e1713]:
+                - generic [ref=f34e1714]: 3.5英寸
+                - generic [ref=f34e1715]: "|企业级硬盘"
+                - generic [ref=f34e1716]: "|SATA接口"
+              - generic [ref=f34e1717]:
+                - generic [ref=f34e1718]:
+                  - generic [ref=f34e1719]: ¥
+                  - generic [ref=f34e1720]: "4478"
+                  - generic [ref=f34e1721]: .
+                  - generic [ref=f34e1722]: "24"
+                - generic [ref=f34e1723]: 到手价
+                - generic [ref=f34e1725]: ¥4498.24
+                - button [ref=f34e1726]
+              - generic [ref=f34e1729]:
+                - img "送货上门" [ref=f34e1731]
+                - generic [ref=f34e1732]: 券满499减20
+                - generic [ref=f34e1734]: 包邮
+              - generic [ref=f34e1737]:
+                - generic "1人看过" [ref=f34e1738]
+                - generic "100%好评" [ref=f34e1739]
+              - generic [ref=f34e1740]:
+                - generic [ref=f34e1741]: 成程精选经营部
+                - link [ref=f34e1910]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10232346521203&score=5&evaluationRate=100&commentNum=1&seller=%25E6%2588%2590%25E7%25A8%258B%25E7%25B2%25BE%25E9%2580%2589%25E7%25BB%258F%25E8%2590%25A5%25E9%2583%25A8&imgUrl=jfs%252Ft1%252F496904%252F8%252F8701%252F80948%252F6a7d4040F38e603f0%252F008332032006401d.png&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B316TB%2520%25E7%259B%2591%25E6%258E%25A7%25E5%25AE%2589%25E9%2598%25B24TB%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E7%25A1%25AC%25E7%259B%25988TB%25E5%25BD%2595%25E5%2583%258F%25E6%259C%25BA20TB%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A818TB%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598%252020TB%2520%2520%25E8%25B4%25A8%25E4%25BF%259D%25E4%25B8%2589%25E5%25B9%25B4
+          - generic [ref=f34e1744] [cursor=pointer]:
+            - generic "希捷银河氦气20T企业级机械硬盘ST20000NM007D SATA 7200转台式机20tb监控安防存储服务器NAS垂直CMR 20TB 全新官换R盘-0通电-店保7天" [ref=f34e1747]
+            - generic [ref=f34e1758]:
+              - generic [ref=f34e1759]: 希捷银河氦气20T企业级机械硬盘ST20000NM007D SATA 7200转台式机20tb监控安防存储服务器NAS垂直CMR 20TB 全新官换R盘-0通电-店保7天
+              - generic [ref=f34e1761]:
+                - generic [ref=f34e1762]: 7200转高速
+                - generic [ref=f34e1763]: "|SATA接口"
+                - generic [ref=f34e1764]: "|企业级耐用"
+                - generic [ref=f34e1765]: "|7x24小时运行"
+              - generic [ref=f34e1766]:
+                - generic [ref=f34e1767]:
+                  - generic [ref=f34e1768]: ¥
+                  - generic [ref=f34e1769]: "4328"
+                - button [ref=f34e1770]
+              - generic [ref=f34e1773]:
+                - generic [ref=f34e1774]: 只换不修
+                - generic [ref=f34e1776]: 包邮
+              - generic [ref=f34e1779]:
+                - generic "21人看过" [ref=f34e1780]
+                - generic "100%好评" [ref=f34e1781]
+              - generic [ref=f34e1782]:
+                - generic [ref=f34e1783]: 泾汇电子科技店
+                - link [ref=f34e1911]:
+                  - /url: //chat.jd.com/index.action?entry=jd_search&pid=10235810152789&score=5&evaluationRate=100&commentNum=2&seller=%25E6%25B3%25BE%25E6%25B1%2587%25E7%2594%25B5%25E5%25AD%2590%25E7%25A7%2591%25E6%258A%2580%25E5%25BA%2597&imgUrl=jfs%252Ft1%252F523563%252F7%252F8814%252F92654%252F6aae2360F24b945c5%252F00833203207947f8.jpg&stock=%25E6%259C%2589%25E8%25B4%25A7&wname=%25E5%25B8%258C%25E6%258D%25B7%25E9%2593%25B6%25E6%25B2%25B3%25E6%25B0%25A6%25E6%25B0%259420T%25E4%25BC%2581%25E4%25B8%259A%25E7%25BA%25A7%25E6%259C%25BA%25E6%25A2%25B0%25E7%25A1%25AC%25E7%259B%2598ST20000NM007D%2520SATA%25207200%25E8%25BD%25AC%25E5%258F%25B0%25E5%25BC%258F%25E6%259C%25BA20tb%25E7%259B%2591%25E6%258E%25A7%25E5%25AE%2589%25E9%2598%25B2%25E5%25AD%2598%25E5%2582%25A8%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8NAS%25E5%259E%2582%25E7%259B%25B4CMR%252020TB%2520%25E5%2585%25A8%25E6%2596%25B0%25E5%25AE%2598%25E6%258D%25A2R%25E7%259B%2598-0%25E9%2580%259A%25E7%2594%25B5-%25E5%25BA%2597%25E4%25BF%259D7%25E5%25A4%25A9
+        - generic [ref=f34e1786]:
+          - generic [ref=f34e1787]: 上一页
+          - generic [ref=f34e1788] [cursor=pointer]: "1"
+          - generic [ref=f34e1912] [cursor=pointer]: "2"
+          - generic [ref=f34e1913] [cursor=pointer]: "3"
+          - generic [ref=f34e1914] [cursor=pointer]: "4"
+          - generic [ref=f34e1915] [cursor=pointer]: "5"
+          - generic [ref=f34e1916] [cursor=pointer]: "6"
+          - generic [ref=f34e1917] [cursor=pointer]: "7"
+          - generic [ref=f34e1918]: ...
+          - generic [ref=f34e1789] [cursor=pointer]: 下一页
+          - generic [ref=f34e1790]: 共17页
+          - generic [ref=f34e1791]:
+            - generic [ref=f34e1792]: 到第
+            - textbox [ref=f34e1793]
+            - generic [ref=f34e1794]: 页
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - link:
+            - /url: "#"
+  - generic [ref=f34e1921]:
+    - list [ref=f34e1924]:
+      - listitem [ref=f34e1925]:
+        - generic [ref=f34e1926]:
+          - heading "多" [level=5] [ref=f34e1927]
+          - paragraph [ref=f34e1928]: 品类齐全，轻松购物
+      - listitem [ref=f34e1929]:
+        - generic [ref=f34e1930]:
+          - heading "快" [level=5] [ref=f34e1931]
+          - paragraph [ref=f34e1932]: 多仓直发，极速配送
+      - listitem [ref=f34e1933]:
+        - generic [ref=f34e1934]:
+          - heading "好" [level=5] [ref=f34e1935]
+          - paragraph [ref=f34e1936]: 正品行货，精致服务
+      - listitem [ref=f34e1937]:
+        - generic [ref=f34e1938]:
+          - heading "省" [level=5] [ref=f34e1939]
+          - paragraph [ref=f34e1940]: 天天低价，畅选无忧
+    - generic [ref=f34e1943]:
+      - generic [ref=f34e1944]:
+        - heading "购物指南" [level=5] [ref=f34e1945]
+        - list [ref=f34e1946]:
+          - listitem [ref=f34e1947]:
+            - link "购物流程" [ref=f34e1948] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-29.html
+          - listitem [ref=f34e1949]:
+            - link "会员介绍" [ref=f34e1950] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-151.html
+          - listitem [ref=f34e1951]:
+            - link "生活旅行" [ref=f34e1952] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-297.html
+          - listitem [ref=f34e1953]:
+            - link "常见问题" [ref=f34e1954] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue.html
+          - listitem [ref=f34e1955]:
+            - link "大家电" [ref=f34e1956] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-136.html
+          - listitem [ref=f34e1957]:
+            - link "联系客服" [ref=f34e1958] [cursor=pointer]:
+              - /url: //help.jd.com/user/custom.html
+      - generic [ref=f34e1959]:
+        - heading "配送方式" [level=5] [ref=f34e1960]
+        - list [ref=f34e1961]:
+          - listitem [ref=f34e1962]:
+            - link "上门自提" [ref=f34e1963] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81-100.html
+          - listitem [ref=f34e1964]:
+            - link "211限时达" [ref=f34e1965] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81.html
+          - listitem [ref=f34e1966]:
+            - link "配送服务查询" [ref=f34e1967] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-82.html
+          - listitem [ref=f34e1968]:
+            - link "配送费收取标准" [ref=f34e1969] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/109-188.html
+      - generic [ref=f34e1970]:
+        - heading "支付方式" [level=5] [ref=f34e1971]
+        - list [ref=f34e1972]:
+          - listitem [ref=f34e1973]:
+            - link "货到付款" [ref=f34e1974] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-172.html
+          - listitem [ref=f34e1975]:
+            - link "在线支付" [ref=f34e1976] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-173.html
+          - listitem [ref=f34e1977]:
+            - link "分期付款" [ref=f34e1978] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-176.html
+          - listitem [ref=f34e1979]:
+            - link "公司转账" [ref=f34e1980] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-175.html
+      - generic [ref=f34e1981]:
+        - heading "售后服务" [level=5] [ref=f34e1982]
+        - list [ref=f34e1983]:
+          - listitem [ref=f34e1984]:
+            - link "售后政策" [ref=f34e1985] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-112.html
+          - listitem [ref=f34e1986]:
+            - link "价格保护" [ref=f34e1987] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-132.html
+          - listitem [ref=f34e1988]:
+            - link "退款说明" [ref=f34e1989] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/130-978.html
+          - listitem [ref=f34e1990]:
+            - link "返修/退换货" [ref=f34e1991] [cursor=pointer]:
+              - /url: //myjd.jd.com/repair/repairs.action
+          - listitem [ref=f34e1992]:
+            - link "取消订单" [ref=f34e1993] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-50.html
+      - generic [ref=f34e1994]:
+        - heading "特色服务" [level=5] [ref=f34e1995]
+        - list [ref=f34e1996]:
+          - listitem [ref=f34e1997]:
+            - link "夺宝岛" [ref=f34e1998] [cursor=pointer]:
+              - /url: //paipai.jd.com/auction-list/
+          - listitem [ref=f34e1999]:
+            - link "DIY装机" [ref=f34e2000] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-134.html
+          - listitem [ref=f34e2001]:
+            - link "延保服务" [ref=f34e2002] [cursor=pointer]:
+              - /url: //fuwu.jd.com/
+          - listitem [ref=f34e2003]:
+            - link "京东E卡" [ref=f34e2004] [cursor=pointer]:
+              - /url: //o.jd.com/market/index.action
+          - listitem [ref=f34e2005]:
+            - link "京东通信" [ref=f34e2006] [cursor=pointer]:
+              - /url: //mobile.jd.com/
+          - listitem [ref=f34e2007]:
+            - link "京鱼座智能" [ref=f34e2008] [cursor=pointer]:
+              - /url: //smart.jd.com/
+    - generic [ref=f34e2009]:
+      - generic [ref=f34e2010]:
+        - paragraph [ref=f34e2011]:
+          - link "关于我们" [ref=f34e2012] [cursor=pointer]:
+            - /url: //about.jd.com
+          - generic [ref=f34e2013]: "|"
+          - link "联系我们" [ref=f34e2014] [cursor=pointer]:
+            - /url: //about.jd.com/contact
+          - generic [ref=f34e2015]: "|"
+          - link "联系客服" [ref=f34e2016] [cursor=pointer]:
+            - /url: //help.jd.com/user/custom.html
+          - generic [ref=f34e2017]: "|"
+          - link "合作招商" [ref=f34e2018] [cursor=pointer]:
+            - /url: //lai.jd.com
+          - generic [ref=f34e2019]: "|"
+          - link "商家帮助" [ref=f34e2020] [cursor=pointer]:
+            - /url: //helpcenter.jd.com/venderportal/index.html
+          - generic [ref=f34e2021]: "|"
+          - link "营销中心" [ref=f34e2022] [cursor=pointer]:
+            - /url: //jzt.jd.com
+          - generic [ref=f34e2023]: "|"
+          - link "手机京东" [ref=f34e2024] [cursor=pointer]:
+            - /url: //app.jd.com/
+          - generic [ref=f34e2025]: "|"
+          - link "友情链接" [ref=f34e2026] [cursor=pointer]:
+            - /url: //club.jd.com/links.aspx
+          - generic [ref=f34e2027]: "|"
+          - link "销售联盟" [ref=f34e2028] [cursor=pointer]:
+            - /url: //union.jd.com/index
+          - generic [ref=f34e2029]: "|"
+          - link "京东社区" [ref=f34e2030] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html
+          - generic [ref=f34e2031]: "|"
+          - link "风险监测" [ref=f34e2032] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html
+          - generic [ref=f34e2033]: "|"
+          - link "质量公告" [ref=f34e2034] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/2udA8Qxf3A54dVVseY5CdUMSgQPs/index.html
+          - generic [ref=f34e2035]: "|"
+          - link "隐私政策" [ref=f34e2036] [cursor=pointer]:
+            - /url: //about.jd.com/privacy/
+          - generic [ref=f34e2037]: "|"
+          - link "京东公益" [ref=f34e2038] [cursor=pointer]:
+            - /url: //gongyi.jd.com
+          - generic [ref=f34e2039]: "|"
+          - link "Media&IR" [ref=f34e2040] [cursor=pointer]:
+            - /url: //corporate.jd.com
+        - generic [ref=f34e2041]:
+          - generic [ref=f34e2042]:
+            - paragraph [ref=f34e2043]:
+              - link "京公网安备 11000002000088号" [ref=f34e2044] [cursor=pointer]:
+                - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088
+              - generic [ref=f34e2045]: "|"
+              - link "京ICP备11041704号" [ref=f34e2046] [cursor=pointer]:
+                - /url: http://beian.miit.gov.cn
+              - generic [ref=f34e2047]: "|"
+              - link "ICP" [ref=f34e2048] [cursor=pointer]:
+                - /url: //h5.m.jd.com/pc/dev/3T3No18XR8k8rpLGLGhgbJ1StAFq/index.html
+              - generic [ref=f34e2049]: "|"
+              - link "药品医疗器械网络信息服务备案" [ref=f34e2050] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/2zRnBcZVhdAcWBMvBnoRcUdi3HBt/index.html
+              - generic [ref=f34e2051]: "|"
+              - link "自营医疗器械经营资质" [ref=f34e2052] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/MZXpsnbHS3omkFAk4R4jYwXTb4c/index.html
+              - generic [ref=f34e2053]: "|"
+              - link "药品网络交易第三方平台备案凭证" [ref=f34e2054] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/2pwvdCM94gBdWruSu82PkqzKyi3U/index.html
+              - generic [ref=f34e2055]: "|"
+              - text: 新出发京零 字第大120007号
+            - paragraph [ref=f34e2056]:
+              - text: 互联网出版许可证编号新出网证(京)字150号
+              - generic [ref=f34e2057]: "|"
+              - link "出版物经营许可证" [ref=f34e2058] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html
+              - generic [ref=f34e2059]: "|"
+              - text: 违法和不良信息举报电话：4006561155
+              - generic [ref=f34e2060]: "|"
+              - text: Copyright © 2004 - 2026 京东JINGDONG 版权所有
+            - paragraph [ref=f34e2061]:
+              - link "经营证照" [ref=f34e2062] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/38PitHBfR7ZopNHRSHnuuWR5AMDL/index.html
+              - generic [ref=f34e2063]: "|"
+              - link "医疗器械第三方平台备案凭证（京）网械平台备字（2023）第00013号" [ref=f34e2064] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/36mqawDTyFwQpodmiJGf6bvPA8hs/index.html
+              - generic [ref=f34e2065]: "|"
+              - link "营业执照" [ref=f34e2066] [cursor=pointer]:
+                - /url: //h5.m.jd.com/babelDiy/Zeus/ARcYnJ8coUdUecn6UQAN6TDaVmH/index.html
+              - generic [ref=f34e2067]: "|"
+              - link "增值电信业务经营许可证" [ref=f34e2068] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/3pNwSArkXgfvVYvejSxj44cRgPvQ/index.html
+          - paragraph [ref=f34e2070]:
+            - text: 京东旗下网站：
+            - link "京东钱包" [ref=f34e2071] [cursor=pointer]:
+              - /url: https://www.jdpay.com/
+            - generic [ref=f34e2072]: "|"
+            - link "京东云" [ref=f34e2073] [cursor=pointer]:
+              - /url: http://www.jdcloud.com
+            - generic [ref=f34e2074]: "|"
+            - text: 网络内容从业人员违法违规行为举报电话：4006561155-3
+      - paragraph [ref=f34e2075]:
+        - link "可信网站信用评估" [ref=f34e2076] [cursor=pointer]:
+          - /url: https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ampct=df&amppa=294005
+        - link "网络警察提醒你" [ref=f34e2077] [cursor=pointer]:
+          - /url: http://cyberpolice.mps.gov.cn/
+        - link "诚信网站" [ref=f34e2078] [cursor=pointer]:
+          - /url: https://search.szfw.org/cert/l/CX20120111001803001836
+        - link "中国互联网举报中心" [ref=f34e2079] [cursor=pointer]:
+          - /url: http://www.12377.cn/
+        - link "网络举报APP下载" [ref=f34e2080] [cursor=pointer]:
+          - /url: http://www.12377.cn/node_548446.htm
+        - link "扫黄打非网举报专区" [ref=f34e2081] [cursor=pointer]:
+          - /url: https://www.shdf.gov.cn/
+        - link "适老化无障碍服务" [ref=f34e2082] [cursor=pointer]:
+          - /url: "#none"
+        - link "国家知识产权公共服务网" [ref=f34e2083] [cursor=pointer]:
+          - /url: https://ggfw.cnipa.gov.cn/home
+  - generic [ref=f34e2084]:
+    - list [ref=f34e2085]:
+      - listitem [ref=f34e2086]:
+        - link "7 购物车" [ref=f34e2087] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=f34e2088]: "7"
+          - generic [ref=f34e2091]: 购物车
+      - listitem [ref=f34e2092]:
+        - link "我的" [ref=f34e2093] [cursor=pointer]:
+          - /url: //home.jd.com/
+      - listitem [ref=f34e2098]:
+        - link "客服" [ref=f34e2099] [cursor=pointer]:
+          - /url: //jdcs.jd.com/chat/index.action?venderId=1&entry=jd_web_jimi_jdhome
+      - listitem [ref=f34e2104]:
+        - link "桌面版" [ref=f34e2106] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f34e2110]:
+        - link "反馈" [ref=f34e2111] [cursor=pointer]:
+          - /url: https://wj-dongjian.jd.com/q/61961e975d82bb00a9002fc1
+      - listitem [ref=f34e2116]:
+        - link "插件版" [ref=f34e2118] [cursor=pointer]:
+          - /url: javascript:void(0)
+    - link "收起" [ref=f34e2123] [cursor=pointer]:
+      - /url: "#"

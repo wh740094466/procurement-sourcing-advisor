@@ -1,0 +1,91 @@
+- generic [ref=f40e4]:
+  - generic [ref=f40e8] [cursor=pointer]
+  - generic [ref=f40e11]:
+    - generic [ref=f40e13]:
+      - link "电脑、办公" [ref=f40e15] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+      - generic [ref=f40e16]: ">"
+      - link "电脑组件" [ref=f40e18] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677&sourcePage=itemBreadCrumb
+      - generic [ref=f40e19]: ">"
+      - link "硬盘" [ref=f40e21] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&sourcePage=itemBreadCrumb
+      - generic [ref=f40e22]: ">"
+      - link "希捷（SEAGATE）" [ref=f40e24] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&ev=exbrand_17941&sourcePage=itemBreadCrumb
+    - generic [ref=f40e25]:
+      - generic [ref=f40e27] [cursor=pointer]:
+        - generic [ref=f40e30]:
+          - generic "Seagate希捷旗舰店" [ref=f40e32]
+          - generic [ref=f40e35]:
+            - generic [ref=f40e36]: 进店逛逛，享更多优惠
+            - generic [ref=f40e37]: 精选镇店好物，快来逛逛
+            - generic [ref=f40e38]: 进店逛逛，享更多优惠
+            - generic [ref=f40e39]: 精选镇店好物，快来逛逛
+        - generic [ref=f40e40]:
+          - generic [ref=f40e41]: 关注店铺
+          - generic [ref=f40e43]: 联系客服
+      - generic [ref=f40e49]:
+        - generic [ref=f40e50]:
+          - generic [ref=f40e51]:
+            - generic [ref=f40e52]: 希捷20t硬盘
+            - generic [ref=f40e53]: 20tb企业级硬盘
+            - generic [ref=f40e54]: 机械硬盘
+            - generic [ref=f40e55]: 希捷机械硬盘
+            - generic [ref=f40e56]: 固态硬盘p41
+            - generic [ref=f40e57]: 硬盘20tb
+            - generic [ref=f40e58]: 希捷企业级硬盘
+            - generic [ref=f40e59]: 机械磁盘
+            - generic [ref=f40e60]: 16tb硬盘
+            - generic [ref=f40e61]: 小米27寸显示器
+          - textbox "搜索" [ref=f40e62]
+          - generic [ref=f40e63] [cursor=pointer]:
+            - button "搜本店" [ref=f40e64]
+            - button "搜全站" [ref=f40e65]
+        - generic [ref=f40e66]:
+          - generic [ref=f40e67] [cursor=pointer]: 小米显示器27寸
+          - generic [ref=f40e68] [cursor=pointer]: 27寸2k显示器
+          - generic [ref=f40e69] [cursor=pointer]: 希捷20t硬盘
+          - generic [ref=f40e70] [cursor=pointer]: 红米a27q
+          - generic [ref=f40e71] [cursor=pointer]: 机械硬盘
+    - generic [ref=f40e74]:
+      - generic [ref=f40e76]:
+        - generic [ref=f40e77]:
+          - generic [ref=f40e78]:
+            - generic [ref=f40e80]:
+              - generic [ref=f40e81] [cursor=pointer]
+              - generic [ref=f40e84] [cursor=pointer]
+              - generic [ref=f40e86] [cursor=pointer]
+              - generic [ref=f40e88] [cursor=pointer]
+              - generic [ref=f40e90] [cursor=pointer]
+              - generic [ref=f40e92] [cursor=pointer]
+              - generic [ref=f40e94] [cursor=pointer]
+              - generic [ref=f40e96] [cursor=pointer]: 规格参数
+            - generic [ref=f40e100] [cursor=pointer]
+          - generic [ref=f40e101]:
+            - img [ref=f40e107] [cursor=pointer]
+            - generic [ref=f40e110]:
+              - generic [ref=f40e113] [cursor=pointer]
+              - generic [ref=f40e115]:
+                - generic [ref=f40e116]:
+                  - generic [ref=f40e118]:
+                    - generic [ref=f40e120] [cursor=pointer]
+                    - slider [ref=f40e122] [cursor=pointer]: "0.5"
+                  - generic [ref=f40e123]: 0:00 / 0:00
+                  - generic [ref=f40e128] [cursor=pointer]
+                - slider [ref=f40e130] [cursor=pointer]: "0"
+        - generic [ref=f40e133]:
+          - generic [ref=f40e137]:
+            - generic [ref=f40e138] [cursor=pointer]: 大家评
+            - generic [ref=f40e140] [cursor=pointer]: 店铺
+            - generic [ref=f40e142] [cursor=pointer]: 商品详情
+            - generic [ref=f40e144] [cursor=pointer]: 售后保障
+            - generic [ref=f40e146] [cursor=pointer]: 推荐
+          - generic [ref=f40e149]:
+            - generic [ref=f40e225]:
+              - generic [ref=f40e226]: 进店逛逛
+              - generic [ref=f40e228]:
+                - generic [ref=f40e229] [cursor=pointer]
+                - generic [ref=f40e232]: 进店逛逛
+            - generic [ref=f40e236]: 商品详情
+      - generic [ref=f40e270]: 送至

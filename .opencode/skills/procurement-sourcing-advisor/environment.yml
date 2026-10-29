@@ -1,0 +1,9 @@
+name: procurement-advisor
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - pytest>=8
+      - jsonschema>=4.23

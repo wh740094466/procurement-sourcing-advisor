@@ -1,0 +1,379 @@
+{
+  "candidates": [
+    {
+      "platform": "jd",
+      "product_id": "100275929320",
+      "title": "小米(MI)REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q 2026款",
+      "model": "P27QDA-RA",
+      "price": 629.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "小米京东自营旗舰店",
+      "sales": "UNKNOWN",
+      "url": "https://item.jd.com/100275929320.html",
+      "detail": {
+        "specs": "品牌: 小米(MI); 商品编号: 100275929320; 能效网规格型号: P27QDA-RA; 屏幕尺寸: 27英寸; 颜色: 黑色; 认证型号: P27QDA-RA; 支架底座: 普通; 对比度: 1300:1; 响应时间: 6ms; 类型: 直面屏; 能效等级: 二级能效; 型号: P27QDA-RA; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 120Hz; 曲率: 平面; 接口: HDMI DP",
+        "warranty": "UNKNOWN",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN"
+      },
+      "attributes": {
+        "screen_inch": 27.0,
+        "screen": "27英寸",
+        "brand": "小米(MI)",
+        "商品编号": "100275929320",
+        "能效网规格型号": "P27QDA-RA",
+        "color": "黑色",
+        "certified_model": "P27QDA-RA",
+        "stand": "普通",
+        "contrast_ratio": "1300:1",
+        "response_time": "6ms",
+        "类型": "直面屏",
+        "能效等级": "二级能效",
+        "model": "P27QDA-RA",
+        "panel": "IPS技术",
+        "resolution": "2560*1440",
+        "refresh_rate": "120Hz",
+        "曲率": "平面",
+        "ports": "HDMI DP"
+      },
+      "fetched_at": "2026-10-29T12:47:42+00:00",
+      "detail_fetched_at": "2026-10-29T12:47:42+00:00",
+      "confidence": 0.85,
+      "price_note": "检索价/详情价；未含账号券、运费、税费，最终到手价以结算页为准",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": 629.0,
+          "source": "search",
+          "source_url": "https://item.jd.com/100275929320.html",
+          "snippet": "629.0",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.8,
+          "note": ""
+        },
+        {
+          "field": "title",
+          "value": "小米(MI)REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q 2026款",
+          "source": "search",
+          "source_url": "https://item.jd.com/100275929320.html",
+          "snippet": "小米(MI)REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q 2026款",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.85,
+          "note": ""
+        },
+        {
+          "field": "price",
+          "value": 629.0,
+          "source": "detail",
+          "source_url": "https://item.jd.com/100275929320.html",
+          "snippet": "629.00",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.9,
+          "note": ""
+        },
+        {
+          "field": "shop_name",
+          "value": "小米京东自营旗舰店",
+          "source": "detail",
+          "source_url": "https://item.jd.com/100275929320.html",
+          "snippet": "",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.9,
+          "note": ""
+        },
+        {
+          "field": "detail.specs",
+          "value": "品牌: 小米(MI); 商品编号: 100275929320; 能效网规格型号: P27QDA-RA; 屏幕尺寸: 27英寸; 颜色: 黑色; 认证型号: P27QDA-RA; 支架底座: 普通; 对比度: 1300:1; 响应时间: 6ms; 类型: 直面屏; 能效等级: 二级能效; 型号: P27QDA-RA; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 120Hz; 曲率: 平面; 接口: HDMI DP",
+          "source": "detail",
+          "source_url": "https://item.jd.com/100275929320.html",
+          "snippet": "",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.85,
+          "note": ""
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "search",
+          "keyword": "27英寸 2K 显示器 办公",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        },
+        {
+          "type": "search_duplicate",
+          "keyword": "27英寸 2K IPS 办公显示器",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        },
+        {
+          "type": "detail",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "missing_fields": [
+        "warranty",
+        "invoice",
+        "stock",
+        "sales"
+      ]
+    },
+    {
+      "platform": "jd",
+      "product_id": "100207738135",
+      "title": "小米(MI)REDMI 27英寸2K显示器 120Hz IPS技术 广色域电脑办公显示器 A27Q多功能支架2026款",
+      "model": "P27QDB-RA",
+      "price": 749.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "小米京东自营旗舰店",
+      "sales": "UNKNOWN",
+      "url": "https://item.jd.com/100207738135.html",
+      "detail": {
+        "specs": "品牌: 小米(MI); 商品编号: 100207738135; 认证型号: P27QDB-RA; 能效网规格型号: P27QDB-RA; 支架底座: 旋转升降; 能效等级: 二级能效; 类型: 直面屏; 型号: P27QDB-RA; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 120Hz; 曲率: 平面; 接口: HDMI DP 其他",
+        "warranty": "UNKNOWN",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN"
+      },
+      "attributes": {
+        "screen_inch": 27.0,
+        "screen": "27英寸",
+        "brand": "小米(MI)",
+        "商品编号": "100207738135",
+        "certified_model": "P27QDB-RA",
+        "能效网规格型号": "P27QDB-RA",
+        "stand": "旋转升降",
+        "能效等级": "二级能效",
+        "类型": "直面屏",
+        "model": "P27QDB-RA",
+        "panel": "IPS技术",
+        "resolution": "2560*1440",
+        "refresh_rate": "120Hz",
+        "曲率": "平面",
+        "ports": "HDMI DP 其他"
+      },
+      "fetched_at": "2026-10-29T12:47:42+00:00",
+      "detail_fetched_at": "2026-10-29T12:47:42+00:00",
+      "confidence": 0.85,
+      "price_note": "检索价/详情价；未含账号券、运费、税费，最终到手价以结算页为准",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": 749.0,
+          "source": "search",
+          "source_url": "https://item.jd.com/100207738135.html",
+          "snippet": "749.0",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.8,
+          "note": ""
+        },
+        {
+          "field": "title",
+          "value": "小米(MI)REDMI 27英寸2K显示器 120Hz IPS技术 广色域电脑办公显示器 A27Q多功能支架2026款",
+          "source": "search",
+          "source_url": "https://item.jd.com/100207738135.html",
+          "snippet": "小米(MI)REDMI 27英寸2K显示器 120Hz IPS技术 广色域电脑办公显示器 A27Q多功能支架2026款",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.85,
+          "note": ""
+        },
+        {
+          "field": "price",
+          "value": 749.0,
+          "source": "detail",
+          "source_url": "https://item.jd.com/100207738135.html",
+          "snippet": "749.00",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.9,
+          "note": ""
+        },
+        {
+          "field": "shop_name",
+          "value": "小米京东自营旗舰店",
+          "source": "detail",
+          "source_url": "https://item.jd.com/100207738135.html",
+          "snippet": "",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.9,
+          "note": ""
+        },
+        {
+          "field": "detail.specs",
+          "value": "品牌: 小米(MI); 商品编号: 100207738135; 认证型号: P27QDB-RA; 能效网规格型号: P27QDB-RA; 支架底座: 旋转升降; 能效等级: 二级能效; 类型: 直面屏; 型号: P27QDB-RA; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 120Hz; 曲率: 平面; 接口: HDMI DP 其他",
+          "source": "detail",
+          "source_url": "https://item.jd.com/100207738135.html",
+          "snippet": "",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.85,
+          "note": ""
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "search",
+          "keyword": "27英寸 2K 显示器 办公",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        },
+        {
+          "type": "search_duplicate",
+          "keyword": "27英寸 2K IPS 办公显示器",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        },
+        {
+          "type": "detail",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "missing_fields": [
+        "warranty",
+        "invoice",
+        "stock",
+        "sales"
+      ]
+    },
+    {
+      "platform": "jd",
+      "product_id": "100021739768",
+      "title": "AOC显示器2K 27英寸 IPS电脑显示屏幕 升降旋转 办公学习护眼低蓝光 台式拓展笔记本外接扩展屏Q27P10",
+      "model": "Q27P10",
+      "price": 999.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "AOC商用京东自营旗舰店",
+      "sales": "UNKNOWN",
+      "url": "https://item.jd.com/100021739768.html",
+      "detail": {
+        "specs": "品牌: AOC; 商品编号: 100021739768; 能效网规格型号: Q27P10; 屏幕尺寸: 27英寸; 颜色: 黑色; 认证型号: Q27P10; 亮度: 300cd/m2; 是否内置音箱: 无内置音箱; 支架底座: 旋转升降; 电源类型: 外接电源适配器; 壁挂规格: 100x100mm; 对比度: 1300:1; 响应时间: 2ms-4ms; 屏幕比例: 16:9; 类型: 直面屏; 特性: 节能认证 旋转升降底座; 能效等级: 二级能效; 型号: Q27P10; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 100Hz; 曲率: 平面; 接口: HDMI",
+        "warranty": "UNKNOWN",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN"
+      },
+      "attributes": {
+        "screen_inch": 27.0,
+        "screen": "27英寸",
+        "brand": "AOC",
+        "商品编号": "100021739768",
+        "能效网规格型号": "Q27P10",
+        "color": "黑色",
+        "certified_model": "Q27P10",
+        "brightness": "300cd/m2",
+        "builtin_speaker": "无内置音箱",
+        "stand": "旋转升降",
+        "电源类型": "外接电源适配器",
+        "vesa": "100x100mm",
+        "contrast_ratio": "1300:1",
+        "response_time": "2ms-4ms",
+        "aspect_ratio": "16:9",
+        "类型": "直面屏",
+        "特性": "节能认证 旋转升降底座",
+        "能效等级": "二级能效",
+        "model": "Q27P10",
+        "panel": "IPS技术",
+        "resolution": "2560*1440",
+        "refresh_rate": "100Hz",
+        "曲率": "平面",
+        "ports": "HDMI"
+      },
+      "fetched_at": "2026-10-29T12:47:42+00:00",
+      "detail_fetched_at": "2026-10-29T12:47:42+00:00",
+      "confidence": 0.85,
+      "price_note": "检索价/详情价；未含账号券、运费、税费，最终到手价以结算页为准",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": 999.0,
+          "source": "search",
+          "source_url": "https://item.jd.com/100021739768.html",
+          "snippet": "999.0",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.8,
+          "note": ""
+        },
+        {
+          "field": "title",
+          "value": "AOC显示器2K 27英寸 IPS电脑显示屏幕 升降旋转 办公学习护眼低蓝光 台式拓展笔记本外接扩展屏Q27P10",
+          "source": "search",
+          "source_url": "https://item.jd.com/100021739768.html",
+          "snippet": "AOC显示器2K 27英寸 IPS电脑显示屏幕 升降旋转 办公学习护眼低蓝光 台式拓展笔记本外接扩展屏Q27P10",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.85,
+          "note": ""
+        },
+        {
+          "field": "price",
+          "value": 999.0,
+          "source": "detail",
+          "source_url": "https://item.jd.com/100021739768.html",
+          "snippet": "999.00",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.9,
+          "note": ""
+        },
+        {
+          "field": "shop_name",
+          "value": "AOC商用京东自营旗舰店",
+          "source": "detail",
+          "source_url": "https://item.jd.com/100021739768.html",
+          "snippet": "",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.9,
+          "note": ""
+        },
+        {
+          "field": "detail.specs",
+          "value": "品牌: AOC; 商品编号: 100021739768; 能效网规格型号: Q27P10; 屏幕尺寸: 27英寸; 颜色: 黑色; 认证型号: Q27P10; 亮度: 300cd/m2; 是否内置音箱: 无内置音箱; 支架底座: 旋转升降; 电源类型: 外接电源适配器; 壁挂规格: 100x100mm; 对比度: 1300:1; 响应时间: 2ms-4ms; 屏幕比例: 16:9; 类型: 直面屏; 特性: 节能认证 旋转升降底座; 能效等级: 二级能效; 型号: Q27P10; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 100Hz; 曲率: 平面; 接口: HDMI",
+          "source": "detail",
+          "source_url": "https://item.jd.com/100021739768.html",
+          "snippet": "",
+          "fetched_at": "2026-10-29T12:47:42+00:00",
+          "confidence": 0.85,
+          "note": ""
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "search",
+          "keyword": "27英寸 2K 显示器 办公",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        },
+        {
+          "type": "search_duplicate",
+          "keyword": "27英寸 2K IPS 办公显示器",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        },
+        {
+          "type": "detail",
+          "fetched_at": "2026-10-29T12:47:42+00:00"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "missing_fields": [
+        "warranty",
+        "invoice",
+        "stock",
+        "sales"
+      ]
+    }
+  ]
+}

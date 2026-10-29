@@ -1,0 +1,30 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "timeout": {
+      "startup": 120000,
+      "catalog": 60000,
+      "execution": 600000
+    },
+    "servers": {
+      "playwright": {
+        "type": "local",
+        "command": [
+          "npx",
+          "-y",
+          "@playwright/mcp@latest",
+          "--browser",
+          "chrome",
+          "--user-data-dir",
+          "C:\\Users\\hwang\\.procurement-browser",
+          "--viewport-size",
+          "1440x900"
+        ],
+        "timeout": {
+          "startup": 120000,
+          "execution": 600000
+        }
+      }
+    }
+  }
+}

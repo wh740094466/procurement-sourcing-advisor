@@ -1,0 +1,171 @@
+{
+  "brief_id": "hdd-20t-server-2026-10",
+  "category": "企业级机械硬盘",
+  "item_description": "20TB SATA 企业级机械硬盘（公司自建服务器 7×24 运行）",
+  "quantity": 1,
+  "must_have": [
+    "20TB 容量",
+    "SATA 接口",
+    "CMR 记录技术（非 SMR）",
+    "全新（非官换/拆机/二手）",
+    "可开发票",
+    "至少 3 年保修"
+  ],
+  "nice_to_have": [
+    "7200rpm",
+    "512MB 缓存",
+    "5 年质保",
+    "氦气封装",
+    "低功耗"
+  ],
+  "exclusions": [
+    "二手",
+    "拆机",
+    "翻新",
+    "官换",
+    "SMR 叠瓦"
+  ],
+  "allow_split": false,
+  "allow_alternative_models": true,
+  "invoice_required": true,
+  "min_warranty_months": 36,
+  "usage_context": "公司自建服务器，7×24 小时运行，存放业务数据与备份；优先稳定性和售后，其次才是价格",
+  "variant_sensitive": [
+    "容量",
+    "成色（全新/官换/拆机）",
+    "保修年限",
+    "版本（国行/港行/OEM）"
+  ],
+  "usage_profile": {
+    "workload": "7x24 持续运行",
+    "lifetime_years": 5,
+    "noise": "低",
+    "data_criticality": "高"
+  },
+  "requirements": [
+    {
+      "id": "capacity",
+      "type": "must",
+      "label": "20TB 容量",
+      "field": "attributes.capacity",
+      "op": "contains_any",
+      "value": [
+        "20TB",
+        "20T"
+      ],
+      "missing": "review"
+    },
+    {
+      "id": "ports",
+      "type": "must",
+      "label": "SATA 接口",
+      "field": "attributes.ports",
+      "op": "contains_any",
+      "value": [
+        "SATA"
+      ],
+      "missing": "review"
+    },
+    {
+      "id": "recording",
+      "type": "must",
+      "label": "CMR 已确认",
+      "field": "attributes.recording",
+      "op": "contains_any",
+      "value": [
+        "CMR",
+        "垂直"
+      ],
+      "missing": "review"
+    },
+    {
+      "id": "condition",
+      "type": "must",
+      "label": "全新",
+      "field": "attributes.condition",
+      "op": "contains_any",
+      "value": [
+        "全新"
+      ],
+      "missing": "review"
+    },
+    {
+      "id": "invoice",
+      "type": "must",
+      "label": "可开发票",
+      "field": "detail.invoice",
+      "op": "contains_any",
+      "value": [
+        "发票"
+      ],
+      "missing": "review"
+    },
+    {
+      "id": "warranty3",
+      "type": "must",
+      "label": "至少 3 年保修",
+      "field": "detail.warranty",
+      "op": "contains_any",
+      "value": [
+        "3年",
+        "三年",
+        "5年",
+        "五年"
+      ],
+      "missing": "review"
+    },
+    {
+      "id": "warranty5",
+      "type": "should",
+      "label": "5 年保修",
+      "weight": 0.5,
+      "field": "detail.warranty",
+      "op": "contains_any",
+      "value": [
+        "5年",
+        "五年"
+      ],
+      "missing": "worst"
+    },
+    {
+      "id": "grade",
+      "type": "should",
+      "label": "企业级定位",
+      "weight": 0.3,
+      "field": "filter_text",
+      "op": "contains_any",
+      "value": [
+        "Exos",
+        "Ultrastar",
+        "MG10",
+        "企业级",
+        "N300"
+      ],
+      "missing": "worst"
+    },
+    {
+      "id": "rpm",
+      "type": "should",
+      "label": "7200rpm",
+      "weight": 0.2,
+      "field": "attributes.rpm",
+      "op": "contains_any",
+      "value": [
+        "7200"
+      ],
+      "missing": "worst"
+    }
+  ],
+  "assumptions": [
+    "数量按 1 块计算；若做 RAID 请改为实际块数",
+    "未给预算，暂不设预算硬过滤",
+    "企业采购默认需要发票（含税点另计）",
+    "全新定义为：标题/参数/客服明确说明全新原封，官换与拆机一律排除"
+  ],
+  "confirmed": {
+    "by_user": true,
+    "at": "2026-10-29T15:17:07+00:00",
+    "revision": 1,
+    "changes": []
+  }
+}

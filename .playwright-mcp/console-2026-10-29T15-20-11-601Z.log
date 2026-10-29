@@ -1,0 +1,11 @@
+[     636ms] [LOG] [@alife/new-search-suggest Message]:  {version: 2.11.1, name: @alife/new-search-suggest} @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[     890ms] [LOG] Thu Oct 29 2026 23:20:12 GMT+0800 (中国标准时间) @ https://g.alicdn.com/AWSC/et/1.84.16/et_f.js:2
+[    1036ms] [ERROR] MessageChannel没有初始化，请先调用initInstance @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    1046ms] [LOG] [doInitBaxia]:start {baxiaCommonInit: true} @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    1070ms] [LOG] [doInitBaxia]:end @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    1222ms] [LOG] [imageSearchJumpSupport Start]: {clientImgSearchId: undefined} @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0
+[    2527ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ :1
+[    4005ms] [INFO] [info][format] demuxer options {parsers: Array(1)} @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/184.js:0
+[    4373ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ https://o.alicdn.com/tbpc/customer-service/index.umd.es5.production.js:0
+[    4385ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ https://o.alicdn.com/tbpc/customer-service/index.umd.es5.production.js:0
+[    5059ms] [LOG] [LafiteAutoRecive NoticePop]: {iconTabData: } @ https://g.alicdn.com/main-search/pc-search-2024/1.8.61/js/main.js:0

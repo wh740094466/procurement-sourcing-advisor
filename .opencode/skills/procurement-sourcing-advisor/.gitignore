@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Procurement run artifacts
+procurement-runs/
+*/output/
+*/evidence/
+raw_capture.json
+browser-enrichment.json
+
+# Browser profiles and logs
+chrome-profile/
+*.log
+*.lock
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

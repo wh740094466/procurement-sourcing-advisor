@@ -1,0 +1,4899 @@
+{
+  "report_id": "procurement-企业级机械硬盘",
+  "generated_at": "2026-10-29T15:08:35+00:00",
+  "brief": {
+    "brief_id": "hdd-20t-2026-10",
+    "category": "企业级机械硬盘",
+    "item_description": "20TB SATA 企业级机械硬盘（工作站 7×24 运行）",
+    "quantity": 1,
+    "must_have": [
+      "20TB 容量",
+      "SATA 接口",
+      "CMR 记录技术（非 SMR）",
+      "全新（非拆机/二手）",
+      "可开发票",
+      "至少 3 年保修"
+    ],
+    "nice_to_have": [
+      "7200rpm",
+      "512MB 缓存",
+      "5 年质保",
+      "氦气封装",
+      "低功耗"
+    ],
+    "exclusions": [
+      "二手",
+      "拆机",
+      "翻新",
+      "SMR 叠瓦"
+    ],
+    "allow_split": false,
+    "allow_alternative_models": true,
+    "invoice_required": true,
+    "min_warranty_months": 36,
+    "usage_context": "企业工作站 7×24 小时运行，存放项目数据与备份；关注故障率、保修年限与售后响应",
+    "variant_sensitive": [
+      "容量",
+      "成色（全新/拆机）",
+      "保修年限",
+      "版本（国行/港行/OEM）"
+    ],
+    "usage_profile": {
+      "workload": "7x24 持续运行",
+      "lifetime_years": 5,
+      "noise": "低",
+      "data_criticality": "高"
+    },
+    "requirements": [
+      {
+        "id": "capacity",
+        "type": "must",
+        "label": "20TB 容量",
+        "field": "attributes.capacity",
+        "op": "contains_any",
+        "value": [
+          "20TB",
+          "20T"
+        ],
+        "missing": "review"
+      },
+      {
+        "id": "ports",
+        "type": "must",
+        "label": "SATA 接口",
+        "field": "attributes.ports",
+        "op": "contains_any",
+        "value": [
+          "SATA"
+        ],
+        "missing": "review"
+      },
+      {
+        "id": "recording",
+        "type": "must",
+        "label": "CMR 已确认",
+        "field": "attributes.recording",
+        "op": "contains_any",
+        "value": [
+          "CMR",
+          "垂直"
+        ],
+        "missing": "review"
+      },
+      {
+        "id": "warranty",
+        "type": "must",
+        "label": "至少 3 年保修",
+        "field": "detail.warranty",
+        "op": "contains_any",
+        "value": [
+          "3年",
+          "三年",
+          "5年",
+          "五年"
+        ],
+        "missing": "review"
+      },
+      {
+        "id": "invoice",
+        "type": "must",
+        "label": "可开发票",
+        "field": "detail.invoice",
+        "op": "contains_any",
+        "value": [
+          "发票"
+        ],
+        "missing": "review"
+      },
+      {
+        "id": "warranty5",
+        "type": "should",
+        "label": "5 年保修",
+        "weight": 0.5,
+        "field": "detail.warranty",
+        "op": "contains_any",
+        "value": [
+          "5年",
+          "五年"
+        ],
+        "missing": "worst"
+      },
+      {
+        "id": "grade",
+        "type": "should",
+        "label": "企业级定位",
+        "weight": 0.3,
+        "field": "filter_text",
+        "op": "contains_any",
+        "value": [
+          "Exos",
+          "Ultrastar",
+          "MG10",
+          "企业级",
+          "N300"
+        ],
+        "missing": "worst"
+      },
+      {
+        "id": "condition",
+        "type": "should",
+        "label": "全新原封",
+        "weight": 0.2,
+        "field": "attributes.condition",
+        "op": "contains_any",
+        "value": [
+          "全新"
+        ],
+        "missing": "worst"
+      }
+    ],
+    "confirmed": {
+      "by_user": true,
+      "at": "2026-10-29T22:30:00+08:00",
+      "revision": 2,
+      "changes": [
+        "补充 requirements：20TB/CMR/5年保修/企业级/全新",
+        "确认 7×24 场景下 5 年保修优先"
+      ]
+    },
+    "assumptions": [
+      "用户未给数量，暂按 1 块计算；若用于 RAID 请改为实际块数",
+      "用户未给预算，暂不设预算硬过滤",
+      "价格按页面标价记录，未含运费与发票税点"
+    ]
+  },
+  "scope": {
+    "platforms": [
+      "taobao",
+      "jd"
+    ],
+    "excluded_platforms": [
+      "pdd"
+    ],
+    "price_note": "价格来自淘宝/京东检索、详情或浏览器补证；未含账号券、运费、税费时不能视为最终到手价。拼多多不在覆盖范围。",
+    "browser_capture": "由 AI 通过 playwright-mcp 打开页面并按配置采集；遇到登录墙/验证码/内容未返回时停止。"
+  },
+  "summary": {
+    "quantity": 1,
+    "budget_cny": null,
+    "budget_per_unit_cny": null,
+    "price_scope": {
+      "total": 9,
+      "visible": 9,
+      "hidden_or_missing": 0,
+      "hidden_ids": []
+    },
+    "safe_option": null,
+    "recommendation": {
+      "platform": "jd",
+      "product_id": "100077487247",
+      "listing_id": "100416541038",
+      "variant_id": "100077487247",
+      "variant_label": "MG10ACA20TE 企业级 SATA 20TB",
+      "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+      "model": "MG10ACA20TE",
+      "price": 7461.51,
+      "price_status": "visible",
+      "landed_price": null,
+      "landed_floor": 7461.51,
+      "landed_status": "partial",
+      "tco_exact": null,
+      "tco_floor": 7461.51,
+      "tco_status": "partial",
+      "score": 97.5,
+      "score_confidence": 0.71,
+      "fit_score": 0.8,
+      "fit_tier": "pass",
+      "fit_unmet": [],
+      "performance": 5.0,
+      "value_score": 5.0,
+      "price_index": 1.0,
+      "on_frontier": true,
+      "dominated_by": [],
+      "rank": 1,
+      "url": "https://item.jd.com/100077487247.html",
+      "shop_name": "东芝存储京东自营旗舰店",
+      "reviews_status": "ok",
+      "rating": null,
+      "rating_count": 20000,
+      "review_sample_size": 3,
+      "negative_rate": 0.0,
+      "missing_fields": [
+        "stock",
+        "sales"
+      ],
+      "needs_review": true
+    },
+    "alternatives": [
+      {
+        "platform": "jd",
+        "product_id": "100219097359",
+        "listing_id": "100219097359",
+        "variant_id": "100219097359",
+        "variant_label": "20TB / 希捷银河-企业存储",
+        "title": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘",
+        "model": "ST20000NM002H",
+        "price": 8949.01,
+        "price_status": "visible",
+        "landed_price": null,
+        "landed_floor": 8949.01,
+        "landed_status": "partial",
+        "tco_exact": null,
+        "tco_floor": 8949.01,
+        "tco_status": "partial",
+        "score": 100.0,
+        "score_confidence": 0.68,
+        "fit_score": 0.8,
+        "fit_tier": "pass",
+        "fit_unmet": [],
+        "performance": 5.0,
+        "value_score": 5.0,
+        "price_index": 1.0,
+        "on_frontier": false,
+        "dominated_by": [
+          "100077487247"
+        ],
+        "rank": 2,
+        "url": "https://item.jd.com/100219097359.html",
+        "shop_name": "希捷Seagate京东自营旗舰店",
+        "reviews_status": "ok",
+        "rating": null,
+        "rating_count": 2000000,
+        "review_sample_size": 0,
+        "negative_rate": null,
+        "missing_fields": [
+          "stock",
+          "sales"
+        ],
+        "needs_review": true
+      },
+      {
+        "platform": "jd",
+        "product_id": "100416541038",
+        "listing_id": "100416541038",
+        "variant_id": "100416541038",
+        "variant_label": "N300 Pro NAS 20TB(HDWG62A)",
+        "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+        "model": "HDWG62A",
+        "price": 7660.51,
+        "price_status": "visible",
+        "landed_price": null,
+        "landed_floor": 7660.51,
+        "landed_status": "partial",
+        "tco_exact": null,
+        "tco_floor": 7660.51,
+        "tco_status": "partial",
+        "score": 90.5,
+        "score_confidence": 0.71,
+        "fit_score": 0.8,
+        "fit_tier": "pass",
+        "fit_unmet": [],
+        "performance": 4.3,
+        "value_score": 4.3,
+        "price_index": 1.0,
+        "on_frontier": false,
+        "dominated_by": [
+          "100077487247"
+        ],
+        "rank": 3,
+        "url": "https://item.jd.com/100416541038.html",
+        "shop_name": "东芝存储京东自营旗舰店",
+        "reviews_status": "ok",
+        "rating": null,
+        "rating_count": 20000,
+        "review_sample_size": 3,
+        "negative_rate": 0.0,
+        "missing_fields": [
+          "stock",
+          "sales"
+        ],
+        "needs_review": true
+      }
+    ],
+    "below_fit": [
+      {
+        "platform": "jd",
+        "product_id": "10227071695928",
+        "listing_id": "10227071695927",
+        "variant_id": "10227071695928",
+        "variant_label": "ST20000NM003C-全新官换-店保3年",
+        "title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+        "model": "ST20000NM003C",
+        "price": 4488.0,
+        "price_status": "visible",
+        "landed_price": null,
+        "landed_floor": 4488.0,
+        "landed_status": "partial",
+        "tco_exact": null,
+        "tco_floor": 4488.0,
+        "tco_status": "partial",
+        "score": 67.5,
+        "score_confidence": 0.68,
+        "fit_score": 0.3,
+        "fit_tier": "below_fit",
+        "fit_unmet": [
+          "5 年保修",
+          "全新原封"
+        ],
+        "performance": 5.0,
+        "value_score": 8.4236,
+        "price_index": 0.5936,
+        "on_frontier": false,
+        "dominated_by": [],
+        "rank": null,
+        "url": "https://item.jd.com/10227071695928.html",
+        "shop_name": "摩世科技存储经营部",
+        "reviews_status": "ok",
+        "rating": null,
+        "rating_count": 1,
+        "review_sample_size": 0,
+        "negative_rate": null,
+        "missing_fields": [
+          "invoice",
+          "stock",
+          "sales"
+        ],
+        "needs_review": true
+      }
+    ],
+    "fit": {
+      "fit_threshold": 0.8,
+      "passed": 4,
+      "below_fit": [
+        "10227071695928"
+      ],
+      "must_failed": [
+        "10227071695925",
+        "10227071695926",
+        "10227071695927",
+        "100201554283"
+      ]
+    },
+    "value": {
+      "value_dimensions": [
+        "cache",
+        "grade"
+      ],
+      "pool_size": 4,
+      "fallback_anchor": 7561.01,
+      "frontier": [
+        {
+          "variant_id": "100077487247",
+          "platform": "jd",
+          "price": 7461.51,
+          "performance": 5.0,
+          "value_score": 5.0,
+          "fit_score": 0.8
+        }
+      ],
+      "dominated": [
+        {
+          "variant_id": "100219097359",
+          "price": 8949.01,
+          "performance": 5.0,
+          "dominated_by": [
+            "100077487247"
+          ]
+        },
+        {
+          "variant_id": "100416541038",
+          "price": 7660.51,
+          "performance": 4.3,
+          "dominated_by": [
+            "100077487247"
+          ]
+        }
+      ],
+      "excluded_from_frontier": [
+        {
+          "variant_id": "10225415721044",
+          "price": 4379.0,
+          "reason": "价格低于官方/自营锚点且成色/发票未证实，价格指数按 1.00 计，并扣减 15%"
+        }
+      ]
+    },
+    "decision_confidence": 0.71,
+    "key_risks": [
+      "推荐候选证据完整度偏低",
+      "推荐候选的库存未确认",
+      "推荐候选存在需人工复核的筛选或评分项",
+      "采购简报未允许拆单，未生成拆单方案",
+      "候选未提供库存/可采购数量，组合方案按可满足需求假设，需下单前确认"
+    ],
+    "needs_user_action": [
+      "1 条候选价格显著低于官方/自营锚点，已限制价格得分；下单前需证实成色、发票与保修主体"
+    ],
+    "eligible_count": 4,
+    "eliminated_count": 0
+  },
+  "scorecard": {
+    "id": "hdd-enterprise-20t-2026",
+    "name": "企业级 20TB 机械硬盘评分卡",
+    "category": "企业级机械硬盘",
+    "version": "2.0",
+    "rationale": "先满足 20TB/SATA/CMR/全新/≥3年保修/可开票，再看同价位性能（企业级定位与缓存），渠道与评价只作风险提示。7×24 场景下保修年限进入需求匹配，不再用价格补偿。",
+    "stages": {
+      "fit_threshold": 0.8
+    },
+    "price_anchor": {
+      "min_ratio": 0.7
+    },
+    "enrichment_targets": [
+      "price",
+      "detail.warranty",
+      "detail.invoice",
+      "attributes.recording",
+      "attributes.condition",
+      "reviews"
+    ],
+    "hard_filters": [
+      {
+        "id": "smr",
+        "label": "排除 SMR 叠瓦",
+        "field": "title",
+        "op": "not_contains_any",
+        "value": [
+          "SMR",
+          "叠瓦"
+        ],
+        "missing": "pass",
+        "reason": "7×24 写入场景不接受 SMR"
+      },
+      {
+        "id": "used",
+        "label": "排除二手/拆机/翻新",
+        "field": "filter_text",
+        "op": "not_contains_any",
+        "value": [
+          "二手",
+          "拆机",
+          "翻新",
+          "通电时间"
+        ],
+        "missing": "pass",
+        "reason": "必须全新或明确标注的官换盘"
+      },
+      {
+        "id": "invoice",
+        "label": "可开发票",
+        "field": "detail.invoice",
+        "op": "contains_any",
+        "value": [
+          "发票"
+        ],
+        "missing": "review",
+        "reason": "企业采购需要发票"
+      }
+    ],
+    "dimensions": [
+      {
+        "id": "grade",
+        "label": "产品定位",
+        "group": "value",
+        "weight": 0.7,
+        "method": "keyword",
+        "field": "filter_text",
+        "rules": [
+          {
+            "any": [
+              "Exos",
+              "Ultrastar",
+              "MG10",
+              "企业级"
+            ],
+            "score": 5,
+            "label": "企业级"
+          },
+          {
+            "any": [
+              "N300",
+              "IronWolf",
+              "红盘",
+              "NAS"
+            ],
+            "score": 4,
+            "label": "NAS 级"
+          },
+          {
+            "any": [
+              "Barracuda",
+              "酷鱼",
+              "桌面级"
+            ],
+            "score": 2,
+            "label": "桌面级"
+          }
+        ],
+        "default": 3,
+        "missing": "worst"
+      },
+      {
+        "id": "cache",
+        "label": "缓存",
+        "group": "value",
+        "weight": 0.3,
+        "method": "keyword",
+        "field": "attributes.cache",
+        "rules": [
+          {
+            "any": [
+              "512MB",
+              "512M"
+            ],
+            "score": 5,
+            "label": "512MB"
+          },
+          {
+            "any": [
+              "256MB",
+              "256M"
+            ],
+            "score": 3,
+            "label": "256MB"
+          }
+        ],
+        "default": 2,
+        "missing": "worst"
+      },
+      {
+        "id": "seller",
+        "label": "渠道",
+        "group": "risk",
+        "weight": 0.5,
+        "method": "keyword",
+        "field": "shop_name",
+        "rules": [
+          {
+            "any": [
+              "自营"
+            ],
+            "score": 5,
+            "label": "自营"
+          },
+          {
+            "any": [
+              "官方旗舰店",
+              "官方直营"
+            ],
+            "score": 4,
+            "label": "官方店"
+          },
+          {
+            "any": [
+              "旗舰店"
+            ],
+            "score": 3,
+            "label": "旗舰店"
+          },
+          {
+            "any": [
+              "专营",
+              "专卖"
+            ],
+            "score": 2,
+            "label": "专营/专卖"
+          }
+        ],
+        "default": 1,
+        "missing": "worst"
+      },
+      {
+        "id": "reviews",
+        "label": "评价",
+        "group": "risk",
+        "weight": 0.5,
+        "method": "reviews",
+        "field": "reviews.rating",
+        "negative_rate_penalty": 2.5,
+        "missing": "worst"
+      }
+    ],
+    "confidence": {
+      "weight_coverage_min": 0.7,
+      "penalize_missing": true
+    },
+    "confirmed": {
+      "by_user": true,
+      "at": "2026-10-29T22:30:00+08:00",
+      "revision": 2,
+      "changes": [
+        "改为需求优先模型：fit/value/risk 分组",
+        "7×24 场景把 5 年保修设为 should 维度"
+      ]
+    }
+  },
+  "candidates": [
+    {
+      "platform": "jd",
+      "listing_id": "100219097359",
+      "listing_title": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘",
+      "product_id": "100219097359",
+      "variant_id": "100219097359",
+      "variant_label": "20TB / 希捷银河-企业存储",
+      "option_path": [
+        "20TB",
+        "希捷银河-企业存储"
+      ],
+      "title": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘",
+      "model": "ST20000NM002H",
+      "price": 8949.01,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": 8999.0,
+      "shop_name": "希捷Seagate京东自营旗舰店",
+      "sales": null,
+      "url": "https://item.jd.com/100219097359.html",
+      "detail": {
+        "specs": "容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 硬盘类型: 企业级硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000NM002H; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "5年",
+        "invoice": "可开发票(正品行货带票)",
+        "stock_status": "UNKNOWN",
+        "after_sales": "正品行货带票 · 供应商售后 · 五年质保 · 京东发货 · 免费上门退换",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "drive_type": "企业级硬盘",
+        "model": "ST20000NM002H",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 99.0,
+        "rating_count": 2000000,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [
+          {
+            "theme": "容量够用",
+            "count": 1953,
+            "snippets": []
+          },
+          {
+            "theme": "运行稳定",
+            "count": 1872,
+            "snippets": []
+          },
+          {
+            "theme": "噪音小",
+            "count": 1475,
+            "snippets": []
+          }
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(200万+) 超99%买家赞不绝口 运行稳定 1872 容量够用 1953 噪音小 1475",
+            "source_url": "https://item.jd.com/100219097359.html",
+            "captured_at": "2026-10-29T22:10:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {
+          "name": "希捷Seagate京东自营旗舰店",
+          "type": "自营"
+        }
+      },
+      "filter_text": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘 20TB / 希捷银河-企业存储 20TB 希捷银河-企业存储",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（20TB / 希捷银河-企业存储）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥8949.01 已选:20TB / 希捷银河-企业存储;服务:供应商售后 五年质保 · 京东发货",
+          "source_url": "https://item.jd.com/100219097359.html",
+          "captured_at": "2026-10-29T22:10:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/100219097359.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "price_anchor": {
+        "value": 8949.01,
+        "source": "official_median",
+        "shop": "希捷Seagate京东自营旗舰店",
+        "url": "https://item.jd.com/100219097359.html",
+        "sample_size": 1
+      },
+      "price_ratio": 1.0,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 8949.01,
+        "landed_price": null,
+        "floor": 8949.01,
+        "ceiling": null,
+        "range": {
+          "min": 8949.01,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 8949.01,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 8949.01,
+        "ceiling": null,
+        "range": {
+          "min": 8949.01,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 8949.01,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 100.0,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘 20TB / 希捷银河-企业存储 20TB 希捷银河-企业存储",
+          "normalized_score": 5.0,
+          "weighted_points": 35.0,
+          "known": true,
+          "evidence": "企业级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "希捷Seagate京东自营旗舰店",
+          "normalized_score": 5.0,
+          "weighted_points": 25.0,
+          "known": true,
+          "evidence": "自营",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": 99.0,
+          "normalized_score": 5.0,
+          "weighted_points": 25.0,
+          "known": true,
+          "evidence": "评分 None，好评率 99.0，评价数 2000000，样本 0，负评率 None",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.5,
+      "score_confidence": 0.68,
+      "low_confidence": true,
+      "missing_dimensions": [],
+      "missing_fields": [
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘 20TB / 希捷银河-企业存储 20TB 希捷银河-企业存储",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "pass",
+          "passed": true,
+          "actual": "可开发票(正品行货带票)",
+          "expected": [
+            "发票"
+          ],
+          "reason": "企业采购需要发票"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘 20TB / 希捷银河-企业存储 20TB 希捷银河-企业存储",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": 2,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "unknown",
+          "credit": null,
+          "actual": null,
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": "attributes.recording 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "5年",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "可开发票(正品行货带票)",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "5年",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": ""
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "希捷 银河 Exos X24 系列 ST20000NM002H 20TB 企业级服务器硬盘 20TB / 希捷银河-企业存储 20TB 希捷银河-企业存储",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": ""
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "unknown",
+          "credit": 0.0,
+          "actual": null,
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "attributes.condition 缺失，按 worst 处理"
+        }
+      ],
+      "fit_score": 0.8,
+      "fit_unmet": [],
+      "fit_unknown": [
+        "CMR 已确认",
+        "全新原封"
+      ],
+      "must_passed": true,
+      "must_unknown": true,
+      "fit_tier": "pass",
+      "performance": 5.0,
+      "price_index": 1.0,
+      "value_score": 5.0,
+      "dominated_by": [
+        "100077487247"
+      ],
+      "on_frontier": false
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10227071695927",
+      "listing_title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "product_id": "10227071695925",
+      "variant_id": "10227071695925",
+      "variant_label": "ST20000NM003C-全新官换-保30天",
+      "option_path": [
+        "20TB 原厂原标 银河企业级",
+        "ST20000NM003C-全新官换-保30天"
+      ],
+      "title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "model": "ST20000NM003C",
+      "price": 4338.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "摩世科技存储经营部",
+      "sales": null,
+      "url": "https://item.jd.com/10227071695925.html",
+      "detail": {
+        "specs": "硬盘类型: 服务器硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000NM003C; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "30天",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "服务器硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "ST20000NM003C",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)",
+        "condition": "官换"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 100.0,
+        "rating_count": 1,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(1) 好评率高达100%",
+            "source_url": "https://item.jd.com/10227071695927.html",
+            "captured_at": "2026-10-29T21:21:00+08:00",
+            "confidence": 0.7
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {}
+      },
+      "filter_text": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-保30天 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-保30天",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（ST20000NM003C-全新官换-保30天）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥4338 已选:20TB 原厂原标 银河企业级 / ST20000NM003C-全新官换-保30天",
+          "source_url": "https://item.jd.com/10227071695925.html",
+          "captured_at": "2026-10-29T21:20:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/10227071695927.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "listing_url": "https://item.jd.com/10227071695927.html",
+      "price_anchor": null,
+      "price_ratio": null,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 4338.0,
+        "landed_price": null,
+        "floor": 4338.0,
+        "ceiling": null,
+        "range": {
+          "min": 4338.0,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 4338.0,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 4338.0,
+        "ceiling": null,
+        "range": {
+          "min": 4338.0,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 4338.0,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 67.5,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-保30天 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-保30天",
+          "normalized_score": 5.0,
+          "weighted_points": 35.0,
+          "known": true,
+          "evidence": "企业级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "摩世科技存储经营部",
+          "normalized_score": 1.0,
+          "weighted_points": 5.0,
+          "known": true,
+          "evidence": "shop_name 未命中关键词 (default)",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": 100.0,
+          "normalized_score": 2.5,
+          "weighted_points": 12.5,
+          "known": true,
+          "evidence": "评分 None，好评率 100.0，评价数 1，样本 0，负评率 None",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.5,
+      "score_confidence": 0.68,
+      "low_confidence": true,
+      "missing_dimensions": [],
+      "missing_fields": [
+        "invoice",
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-保30天 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-保30天",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "review",
+          "passed": true,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-保30天 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-保30天",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": null,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "unknown",
+          "credit": null,
+          "actual": null,
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": "attributes.recording 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "30天",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": "实际值 30天 不满足 contains_any ['3年', '三年', '5年', '五年']"
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "unknown",
+          "credit": null,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "30天",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": "实际值 30天 不满足 contains_any ['5年', '五年']"
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-保30天 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-保30天",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": ""
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "官换",
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "实际值 官换 不满足 contains_any ['全新']"
+        }
+      ],
+      "fit_score": 0.3,
+      "fit_unmet": [
+        "至少 3 年保修",
+        "5 年保修",
+        "全新原封"
+      ],
+      "fit_unknown": [
+        "CMR 已确认",
+        "可开发票"
+      ],
+      "must_passed": false,
+      "must_unknown": true,
+      "fit_tier": "must_fail",
+      "performance": 5.0,
+      "price_index": 0.5737,
+      "value_score": 8.7149,
+      "dominated_by": [],
+      "on_frontier": false
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10227071695927",
+      "listing_title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "product_id": "10227071695926",
+      "variant_id": "10227071695926",
+      "variant_label": "ST20000NM003C-全新官换-店保1年",
+      "option_path": [
+        "20TB 原厂原标 银河企业级",
+        "ST20000NM003C-全新官换-店保1年"
+      ],
+      "title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "model": "ST20000NM003C",
+      "price": 4388.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "摩世科技存储经营部",
+      "sales": null,
+      "url": "https://item.jd.com/10227071695926.html",
+      "detail": {
+        "specs": "硬盘类型: 服务器硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000NM003C; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "1年",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "服务器硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "ST20000NM003C",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)",
+        "condition": "官换"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 100.0,
+        "rating_count": 1,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(1) 好评率高达100%",
+            "source_url": "https://item.jd.com/10227071695927.html",
+            "captured_at": "2026-10-29T21:21:00+08:00",
+            "confidence": 0.7
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {}
+      },
+      "filter_text": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保1年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保1年",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（ST20000NM003C-全新官换-店保1年）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥4388 已选:20TB 原厂原标 银河企业级 / ST20000NM003C-全新官换-店保1年;服务:一年质保",
+          "source_url": "https://item.jd.com/10227071695926.html",
+          "captured_at": "2026-10-29T21:21:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/10227071695927.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "listing_url": "https://item.jd.com/10227071695927.html",
+      "price_anchor": null,
+      "price_ratio": null,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 4388.0,
+        "landed_price": null,
+        "floor": 4388.0,
+        "ceiling": null,
+        "range": {
+          "min": 4388.0,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 4388.0,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 4388.0,
+        "ceiling": null,
+        "range": {
+          "min": 4388.0,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 4388.0,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 67.5,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保1年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保1年",
+          "normalized_score": 5.0,
+          "weighted_points": 35.0,
+          "known": true,
+          "evidence": "企业级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "摩世科技存储经营部",
+          "normalized_score": 1.0,
+          "weighted_points": 5.0,
+          "known": true,
+          "evidence": "shop_name 未命中关键词 (default)",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": 100.0,
+          "normalized_score": 2.5,
+          "weighted_points": 12.5,
+          "known": true,
+          "evidence": "评分 None，好评率 100.0，评价数 1，样本 0，负评率 None",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.5,
+      "score_confidence": 0.68,
+      "low_confidence": true,
+      "missing_dimensions": [],
+      "missing_fields": [
+        "invoice",
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保1年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保1年",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "review",
+          "passed": true,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保1年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保1年",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": null,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "unknown",
+          "credit": null,
+          "actual": null,
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": "attributes.recording 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "1年",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": "实际值 1年 不满足 contains_any ['3年', '三年', '5年', '五年']"
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "unknown",
+          "credit": null,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "1年",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": "实际值 1年 不满足 contains_any ['5年', '五年']"
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保1年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保1年",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": ""
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "官换",
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "实际值 官换 不满足 contains_any ['全新']"
+        }
+      ],
+      "fit_score": 0.3,
+      "fit_unmet": [
+        "至少 3 年保修",
+        "5 年保修",
+        "全新原封"
+      ],
+      "fit_unknown": [
+        "CMR 已确认",
+        "可开发票"
+      ],
+      "must_passed": false,
+      "must_unknown": true,
+      "fit_tier": "must_fail",
+      "performance": 5.0,
+      "price_index": 0.5803,
+      "value_score": 8.6156,
+      "dominated_by": [],
+      "on_frontier": false
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10227071695927",
+      "listing_title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "product_id": "10227071695927",
+      "variant_id": "10227071695927",
+      "variant_label": "ST20000NM003C-全新官换-店保2年",
+      "option_path": [
+        "20TB 原厂原标 银河企业级",
+        "ST20000NM003C-全新官换-店保2年"
+      ],
+      "title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "model": "ST20000NM003C",
+      "price": 4438.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "摩世科技存储经营部",
+      "sales": null,
+      "url": "https://item.jd.com/10227071695927.html",
+      "detail": {
+        "specs": "硬盘类型: 服务器硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000NM003C; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "2年",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "服务器硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "ST20000NM003C",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)",
+        "condition": "官换"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 100.0,
+        "rating_count": 1,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(1) 好评率高达100%",
+            "source_url": "https://item.jd.com/10227071695927.html",
+            "captured_at": "2026-10-29T21:21:00+08:00",
+            "confidence": 0.7
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {}
+      },
+      "filter_text": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保2年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保2年",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（ST20000NM003C-全新官换-店保2年）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥4438 已选:20TB 原厂原标 银河企业级 / ST20000NM003C-全新官换-店保2年",
+          "source_url": "https://item.jd.com/10227071695927.html",
+          "captured_at": "2026-10-29T21:20:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/10227071695927.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "price_anchor": null,
+      "price_ratio": null,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 4438.0,
+        "landed_price": null,
+        "floor": 4438.0,
+        "ceiling": null,
+        "range": {
+          "min": 4438.0,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 4438.0,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 4438.0,
+        "ceiling": null,
+        "range": {
+          "min": 4438.0,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 4438.0,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 67.5,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保2年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保2年",
+          "normalized_score": 5.0,
+          "weighted_points": 35.0,
+          "known": true,
+          "evidence": "企业级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "摩世科技存储经营部",
+          "normalized_score": 1.0,
+          "weighted_points": 5.0,
+          "known": true,
+          "evidence": "shop_name 未命中关键词 (default)",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": 100.0,
+          "normalized_score": 2.5,
+          "weighted_points": 12.5,
+          "known": true,
+          "evidence": "评分 None，好评率 100.0，评价数 1，样本 0，负评率 None",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.5,
+      "score_confidence": 0.68,
+      "low_confidence": true,
+      "missing_dimensions": [],
+      "missing_fields": [
+        "invoice",
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保2年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保2年",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "review",
+          "passed": true,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保2年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保2年",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": null,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "unknown",
+          "credit": null,
+          "actual": null,
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": "attributes.recording 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "2年",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": "实际值 2年 不满足 contains_any ['3年', '三年', '5年', '五年']"
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "unknown",
+          "credit": null,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "2年",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": "实际值 2年 不满足 contains_any ['5年', '五年']"
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保2年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保2年",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": ""
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "官换",
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "实际值 官换 不满足 contains_any ['全新']"
+        }
+      ],
+      "fit_score": 0.3,
+      "fit_unmet": [
+        "至少 3 年保修",
+        "5 年保修",
+        "全新原封"
+      ],
+      "fit_unknown": [
+        "CMR 已确认",
+        "可开发票"
+      ],
+      "must_passed": false,
+      "must_unknown": true,
+      "fit_tier": "must_fail",
+      "performance": 5.0,
+      "price_index": 0.587,
+      "value_score": 8.5185,
+      "dominated_by": [],
+      "on_frontier": false
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10227071695927",
+      "listing_title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "product_id": "10227071695928",
+      "variant_id": "10227071695928",
+      "variant_label": "ST20000NM003C-全新官换-店保3年",
+      "option_path": [
+        "20TB 原厂原标 银河企业级",
+        "ST20000NM003C-全新官换-店保3年"
+      ],
+      "title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "model": "ST20000NM003C",
+      "price": 4488.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "摩世科技存储经营部",
+      "sales": null,
+      "url": "https://item.jd.com/10227071695928.html",
+      "detail": {
+        "specs": "硬盘类型: 服务器硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000NM003C; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "3年",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "服务器硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "ST20000NM003C",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)",
+        "condition": "官换"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 100.0,
+        "rating_count": 1,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(1) 好评率高达100%",
+            "source_url": "https://item.jd.com/10227071695927.html",
+            "captured_at": "2026-10-29T21:21:00+08:00",
+            "confidence": 0.7
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {}
+      },
+      "filter_text": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保3年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保3年",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（ST20000NM003C-全新官换-店保3年）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥4488 已选:20TB 原厂原标 银河企业级 / ST20000NM003C-全新官换-店保3年",
+          "source_url": "https://item.jd.com/10227071695928.html",
+          "captured_at": "2026-10-29T21:21:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/10227071695927.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "listing_url": "https://item.jd.com/10227071695927.html",
+      "price_anchor": null,
+      "price_ratio": null,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 4488.0,
+        "landed_price": null,
+        "floor": 4488.0,
+        "ceiling": null,
+        "range": {
+          "min": 4488.0,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 4488.0,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 4488.0,
+        "ceiling": null,
+        "range": {
+          "min": 4488.0,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 4488.0,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 67.5,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保3年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保3年",
+          "normalized_score": 5.0,
+          "weighted_points": 35.0,
+          "known": true,
+          "evidence": "企业级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "摩世科技存储经营部",
+          "normalized_score": 1.0,
+          "weighted_points": 5.0,
+          "known": true,
+          "evidence": "shop_name 未命中关键词 (default)",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": 100.0,
+          "normalized_score": 2.5,
+          "weighted_points": 12.5,
+          "known": true,
+          "evidence": "评分 None，好评率 100.0，评价数 1，样本 0，负评率 None",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.5,
+      "score_confidence": 0.68,
+      "low_confidence": true,
+      "missing_dimensions": [],
+      "missing_fields": [
+        "invoice",
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保3年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保3年",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "review",
+          "passed": true,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保3年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保3年",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": null,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "unknown",
+          "credit": null,
+          "actual": null,
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": "attributes.recording 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "3年",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "unknown",
+          "credit": null,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "3年",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": "实际值 3年 不满足 contains_any ['5年', '五年']"
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘 ST20000NM003C-全新官换-店保3年 20TB 原厂原标 银河企业级 ST20000NM003C-全新官换-店保3年",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": ""
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "官换",
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "实际值 官换 不满足 contains_any ['全新']"
+        }
+      ],
+      "fit_score": 0.3,
+      "fit_unmet": [
+        "5 年保修",
+        "全新原封"
+      ],
+      "fit_unknown": [
+        "CMR 已确认",
+        "可开发票"
+      ],
+      "must_passed": true,
+      "must_unknown": true,
+      "fit_tier": "below_fit",
+      "performance": 5.0,
+      "price_index": 0.5936,
+      "value_score": 8.4236,
+      "dominated_by": [],
+      "on_frontier": false
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10225415721044",
+      "listing_title": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年",
+      "product_id": "10225415721044",
+      "variant_id": "10225415721044",
+      "variant_label": "ST20000NM002H 质保五年",
+      "option_path": [
+        "20TB",
+        "ST20000NM002H 质保五年"
+      ],
+      "title": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年",
+      "model": "ST20000NM002H",
+      "price": 4379.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "硬盘商城20",
+      "sales": null,
+      "url": "https://item.jd.com/10225415721044.html",
+      "detail": {
+        "specs": "品牌: 希捷(SEAGATE); 型号: ST20000NM002H; 容量: 20TB; 接口: SATA3.0; 尺寸: 3.5英寸; 转速: 7200rpm; 缓存: 512MB",
+        "warranty": "5年",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "店铺发货&售后服务 · 支持7天无理由退货 · 可选 2 年/4 年质保换新",
+        "usage_notes": "企业级氦气盘,适合 NAS/服务器 7×24 运行"
+      },
+      "attributes": {
+        "brand": "希捷(SEAGATE)",
+        "model": "ST20000NM002H",
+        "capacity": "20TB",
+        "ports": "SATA3.0",
+        "size": "3.5英寸",
+        "rpm": "7200rpm",
+        "cache": "512MB"
+      },
+      "reviews": {
+        "status": "missing",
+        "rating": null,
+        "positive_rate": null,
+        "rating_count": null,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": []
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {}
+      },
+      "filter_text": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年 ST20000NM002H 质保五年 20TB ST20000NM002H 质保五年",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（ST20000NM002H 质保五年）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥4379 已选:20TB / ST20000NM002H 质保五年",
+          "source_url": "https://item.jd.com/10225415721044.html",
+          "captured_at": "2026-10-29T21:23:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/10225415721044.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "price_anchor": {
+        "value": 8949.01,
+        "source": "official_median",
+        "shop": "希捷Seagate京东自营旗舰店",
+        "url": "https://item.jd.com/100219097359.html",
+        "sample_size": 1
+      },
+      "price_ratio": 0.489,
+      "price_anomaly": true,
+      "landed_price": {
+        "observable_price": 4379.0,
+        "landed_price": null,
+        "floor": 4379.0,
+        "ceiling": null,
+        "range": {
+          "min": 4379.0,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 4379.0,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 4379.0,
+        "ceiling": null,
+        "range": {
+          "min": 4379.0,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 4379.0,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 55.0,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年 ST20000NM002H 质保五年 20TB ST20000NM002H 质保五年",
+          "normalized_score": 5.0,
+          "weighted_points": 35.0,
+          "known": true,
+          "evidence": "企业级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "硬盘商城20",
+          "normalized_score": 1.0,
+          "weighted_points": 5.0,
+          "known": true,
+          "evidence": "shop_name 未命中关键词 (default)",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": null,
+          "normalized_score": 0.0,
+          "weighted_points": 0.0,
+          "known": false,
+          "evidence": "",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.38,
+      "score_confidence": 0.62,
+      "low_confidence": true,
+      "missing_dimensions": [
+        "reviews"
+      ],
+      "missing_fields": [
+        "invoice",
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年 ST20000NM002H 质保五年 20TB ST20000NM002H 质保五年",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "review",
+          "passed": true,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年 ST20000NM002H 质保五年 20TB ST20000NM002H 质保五年",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": 4,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA3.0",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "unknown",
+          "credit": null,
+          "actual": null,
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": "attributes.recording 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "5年",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "unknown",
+          "credit": null,
+          "actual": "UNKNOWN",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": "detail.invoice 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "5年",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": ""
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年 ST20000NM002H 质保五年 20TB ST20000NM002H 质保五年",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": ""
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "unknown",
+          "credit": 0.0,
+          "actual": null,
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "attributes.condition 缺失，按 worst 处理"
+        }
+      ],
+      "fit_score": 0.8,
+      "fit_unmet": [],
+      "fit_unknown": [
+        "CMR 已确认",
+        "可开发票",
+        "全新原封"
+      ],
+      "must_passed": true,
+      "must_unknown": true,
+      "fit_tier": "pass",
+      "performance": 5.0,
+      "price_index": 0.4893,
+      "value_note": "价格低于官方/自营锚点且成色/发票未证实，价格指数按 1.00 计，并扣减 15%",
+      "value_score": 4.25,
+      "dominated_by": [],
+      "on_frontier": false
+    },
+    {
+      "platform": "jd",
+      "listing_id": "100201554283",
+      "listing_title": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸",
+      "product_id": "100201554283",
+      "variant_id": "100201554283",
+      "variant_label": "ST20000DM001",
+      "option_path": [
+        "20TB",
+        "ST20000DM001"
+      ],
+      "title": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸",
+      "model": "ST20000DM001",
+      "price": 4675.51,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "希捷Seagate京东自营旗舰店",
+      "sales": null,
+      "url": "https://item.jd.com/100201554283.html",
+      "detail": {
+        "specs": "硬盘类型: 台式机硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000DM001; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "2年",
+        "invoice": "可开发票(正品行货带票)",
+        "stock_status": "UNKNOWN",
+        "after_sales": "供应商售后 · 两年质保 · 京东发货 · 上门换新",
+        "usage_notes": "台式机/桌面存储;页面未标注是否 SMR,需向客服确认"
+      },
+      "attributes": {
+        "drive_type": "台式机硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "ST20000DM001",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 99.0,
+        "rating_count": 2000000,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [
+          {
+            "theme": "传输速度快",
+            "count": 2013,
+            "snippets": []
+          },
+          {
+            "theme": "运行稳定",
+            "count": 1872,
+            "snippets": []
+          },
+          {
+            "theme": "噪音小",
+            "count": 1475,
+            "snippets": []
+          }
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(200万+) 超99%买家赞不绝口 运行稳定 1872 传输速度快 2013 噪音小 1475",
+            "source_url": "https://item.jd.com/100201554283.html",
+            "captured_at": "2026-10-29T21:25:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {}
+      },
+      "filter_text": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸 ST20000DM001 20TB ST20000DM001",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（ST20000DM001）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥4675.51 已选:20TB / ST20000DM001;服务:供应商售后 · 两年质保",
+          "source_url": "https://item.jd.com/100201554283.html",
+          "captured_at": "2026-10-29T21:25:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/100201554283.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "price_anchor": {
+        "value": 4675.51,
+        "source": "official_median",
+        "shop": "希捷Seagate京东自营旗舰店",
+        "url": "https://item.jd.com/100201554283.html",
+        "sample_size": 1
+      },
+      "price_ratio": 1.0,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 4675.51,
+        "landed_price": null,
+        "floor": 4675.51,
+        "ceiling": null,
+        "range": {
+          "min": 4675.51,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 4675.51,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 4675.51,
+        "ceiling": null,
+        "range": {
+          "min": 4675.51,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 4675.51,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 79.0,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸 ST20000DM001 20TB ST20000DM001",
+          "normalized_score": 2.0,
+          "weighted_points": 14.0,
+          "known": true,
+          "evidence": "桌面级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "希捷Seagate京东自营旗舰店",
+          "normalized_score": 5.0,
+          "weighted_points": 25.0,
+          "known": true,
+          "evidence": "自营",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": 99.0,
+          "normalized_score": 5.0,
+          "weighted_points": 25.0,
+          "known": true,
+          "evidence": "评分 None，好评率 99.0，评价数 2000000，样本 0，负评率 None",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.5,
+      "score_confidence": 0.68,
+      "low_confidence": true,
+      "missing_dimensions": [],
+      "missing_fields": [
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸 ST20000DM001 20TB ST20000DM001",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "pass",
+          "passed": true,
+          "actual": "可开发票(正品行货带票)",
+          "expected": [
+            "发票"
+          ],
+          "reason": "企业采购需要发票"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸 ST20000DM001 20TB ST20000DM001",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": null,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "unknown",
+          "credit": null,
+          "actual": null,
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": "attributes.recording 缺失，按 review 处理"
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "2年",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": "实际值 2年 不满足 contains_any ['3年', '三年', '5年', '五年']"
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "可开发票(正品行货带票)",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "2年",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": "实际值 2年 不满足 contains_any ['5年', '五年']"
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "fail",
+          "credit": 0.0,
+          "actual": "希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸 ST20000DM001 20TB ST20000DM001",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": "实际值 希捷 酷鱼 ST20000DM001 20TB 台式机 7200转 512MB SATA 3.5英寸 ST20000DM 不满足 contains_any ['Exos', 'Ultrastar', 'MG10', '企业级', 'N300']"
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "unknown",
+          "credit": 0.0,
+          "actual": null,
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "attributes.condition 缺失，按 worst 处理"
+        }
+      ],
+      "fit_score": 0.0,
+      "fit_unmet": [
+        "至少 3 年保修",
+        "5 年保修",
+        "企业级定位"
+      ],
+      "fit_unknown": [
+        "CMR 已确认",
+        "全新原封"
+      ],
+      "must_passed": false,
+      "must_unknown": true,
+      "fit_tier": "must_fail",
+      "performance": 2.9,
+      "price_index": 1.0,
+      "value_score": 2.9,
+      "dominated_by": [],
+      "on_frontier": false
+    },
+    {
+      "platform": "jd",
+      "listing_id": "100416541038",
+      "listing_title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+      "product_id": "100416541038",
+      "variant_id": "100416541038",
+      "variant_label": "N300 Pro NAS 20TB(HDWG62A)",
+      "option_path": [
+        "20TB",
+        "Nas系统硬盘|私有云存储"
+      ],
+      "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+      "model": "HDWG62A",
+      "price": 7660.51,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "东芝存储京东自营旗舰店",
+      "sales": null,
+      "url": "https://item.jd.com/100416541038.html",
+      "detail": {
+        "specs": "容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 硬盘类型: NAS硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: HDWG62A; 尺寸: 3.5英寸; 品牌: 东芝(TOSHIBA)",
+        "warranty": "5年",
+        "invoice": "可开发票(正品行货带票)",
+        "stock_status": "UNKNOWN",
+        "after_sales": "正品行货带票 · 五年质保 · 京东发货&售后服务 · 180天只换不修",
+        "usage_notes": "NAS/私有云 7×24 场景;企业级 SATA 版本为 MG10ACA20TE"
+      },
+      "attributes": {
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "drive_type": "NAS硬盘",
+        "model": "HDWG62A",
+        "size": "3.5英寸",
+        "brand": "东芝(TOSHIBA)",
+        "recording": "CMR"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 98.0,
+        "rating_count": 20000,
+        "sample_size": 3,
+        "negative_rate": 0.0,
+        "negative_themes": [],
+        "positive_themes": [
+          {
+            "theme": "噪音小",
+            "count": 123,
+            "snippets": [
+              "拷贝的声音比硬盘自检的声音小,待机时听不到什么声音"
+            ]
+          },
+          {
+            "theme": "运行稳定",
+            "count": 73,
+            "snippets": []
+          },
+          {
+            "theme": "容量超大",
+            "count": 64,
+            "snippets": []
+          }
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(2万+) 超98%买家赞不绝口；样本：不错，拷贝的声音比硬盘自检的声音小；第一次用东芝家的硬盘…声音也很小",
+            "source_url": "https://item.jd.com/100416541038.html",
+            "captured_at": "2026-10-29T21:29:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [
+          "同系列 16TB",
+          "搭配 NAS 硬盘盒"
+        ],
+        "shop": {
+          "name": "东芝存储京东自营旗舰店",
+          "type": "自营"
+        }
+      },
+      "filter_text": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 N300 Pro NAS 20TB(HDWG62A) 20TB Nas系统硬盘|私有云存储",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.95,
+      "price_note": "价格为当前选中配置的页面报价（N300 Pro NAS 20TB(HDWG62A)）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥7660.51 已选:20TB / Nas系统硬盘|私有云存储;服务:五年质保",
+          "source_url": "https://item.jd.com/100416541038.html",
+          "captured_at": "2026-10-29T21:28:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/100416541038.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "price_anchor": {
+        "value": 7660.51,
+        "source": "official_median",
+        "shop": "东芝存储京东自营旗舰店",
+        "url": "https://item.jd.com/100416541038.html",
+        "sample_size": 1
+      },
+      "price_ratio": 1.0,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 7660.51,
+        "landed_price": null,
+        "floor": 7660.51,
+        "ceiling": null,
+        "range": {
+          "min": 7660.51,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 7660.51,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 7660.51,
+        "ceiling": null,
+        "range": {
+          "min": 7660.51,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 7660.51,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 90.5,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 N300 Pro NAS 20TB(HDWG62A) 20TB Nas系统硬盘|私有云存储",
+          "normalized_score": 4.0,
+          "weighted_points": 28.0,
+          "known": true,
+          "evidence": "NAS 级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "东芝存储京东自营旗舰店",
+          "normalized_score": 5.0,
+          "weighted_points": 25.0,
+          "known": true,
+          "evidence": "自营",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": 98.0,
+          "normalized_score": 4.5,
+          "weighted_points": 22.5,
+          "known": true,
+          "evidence": "评分 None，好评率 98.0，评价数 20000，样本 3，负评率 0.0",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.5,
+      "score_confidence": 0.71,
+      "low_confidence": true,
+      "missing_dimensions": [],
+      "missing_fields": [
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 N300 Pro NAS 20TB(HDWG62A) 20TB Nas系统硬盘|私有云存储",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "pass",
+          "passed": true,
+          "actual": "可开发票(正品行货带票)",
+          "expected": [
+            "发票"
+          ],
+          "reason": "企业采购需要发票"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 N300 Pro NAS 20TB(HDWG62A) 20TB Nas系统硬盘|私有云存储",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": 3,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "CMR",
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "5年",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "可开发票(正品行货带票)",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "5年",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": ""
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 N300 Pro NAS 20TB(HDWG62A) 20TB Nas系统硬盘|私有云存储",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": ""
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "unknown",
+          "credit": 0.0,
+          "actual": null,
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "attributes.condition 缺失，按 worst 处理"
+        }
+      ],
+      "fit_score": 0.8,
+      "fit_unmet": [],
+      "fit_unknown": [
+        "全新原封"
+      ],
+      "must_passed": true,
+      "must_unknown": false,
+      "fit_tier": "pass",
+      "performance": 4.3,
+      "price_index": 1.0,
+      "value_score": 4.3,
+      "dominated_by": [
+        "100077487247"
+      ],
+      "on_frontier": false
+    },
+    {
+      "platform": "jd",
+      "listing_id": "100416541038",
+      "listing_title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+      "product_id": "100077487247",
+      "variant_id": "100077487247",
+      "variant_label": "MG10ACA20TE 企业级 SATA 20TB",
+      "option_path": [
+        "20TB",
+        "企业级硬盘SATA|数据存储中心"
+      ],
+      "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+      "model": "MG10ACA20TE",
+      "price": 7461.51,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "东芝存储京东自营旗舰店",
+      "sales": null,
+      "url": "https://item.jd.com/100077487247.html",
+      "detail": {
+        "specs": "容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 硬盘类型: 企业级硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: MG10ACA20TE; 尺寸: 3.5英寸; 品牌: 东芝(TOSHIBA)",
+        "warranty": "5年",
+        "invoice": "可开发票(正品行货带票)",
+        "stock_status": "UNKNOWN",
+        "after_sales": "正品行货带票 · 五年质保 · 京东发货&售后服务 · 180天只换不修",
+        "usage_notes": "NAS/私有云 7×24 场景;企业级 SATA 版本为 MG10ACA20TE"
+      },
+      "attributes": {
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "drive_type": "企业级硬盘",
+        "model": "MG10ACA20TE",
+        "size": "3.5英寸",
+        "brand": "东芝(TOSHIBA)",
+        "recording": "CMR"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 98.0,
+        "rating_count": 20000,
+        "sample_size": 3,
+        "negative_rate": 0.0,
+        "negative_themes": [],
+        "positive_themes": [
+          {
+            "theme": "噪音小",
+            "count": 123,
+            "snippets": [
+              "拷贝的声音比硬盘自检的声音小,待机时听不到什么声音"
+            ]
+          },
+          {
+            "theme": "运行稳定",
+            "count": 73,
+            "snippets": []
+          },
+          {
+            "theme": "容量超大",
+            "count": 64,
+            "snippets": []
+          }
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(2万+) 超98%买家赞不绝口；样本：不错，拷贝的声音比硬盘自检的声音小；第一次用东芝家的硬盘…声音也很小",
+            "source_url": "https://item.jd.com/100416541038.html",
+            "captured_at": "2026-10-29T21:29:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [
+          "同系列 16TB",
+          "搭配 NAS 硬盘盒"
+        ],
+        "shop": {
+          "name": "东芝存储京东自营旗舰店",
+          "type": "自营"
+        }
+      },
+      "filter_text": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 MG10ACA20TE 企业级 SATA 20TB 20TB 企业级硬盘SATA|数据存储中心",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:08:35+00:00",
+      "detail_fetched_at": "2026-10-29T15:08:35+00:00",
+      "confidence": 0.95,
+      "price_note": "价格为当前选中配置的页面报价（MG10ACA20TE 企业级 SATA 20TB）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥7461.51 已选:20TB / 企业级硬盘SATA|数据存储中心;型号 MG10ACA20TE",
+          "source_url": "https://item.jd.com/100077487247.html",
+          "captured_at": "2026-10-29T21:29:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:08:35+00:00",
+          "url": "https://item.jd.com/100416541038.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": true,
+      "listing_url": "https://item.jd.com/100416541038.html",
+      "price_anchor": {
+        "value": 7461.51,
+        "source": "official_median",
+        "shop": "东芝存储京东自营旗舰店",
+        "url": "https://item.jd.com/100077487247.html",
+        "sample_size": 1
+      },
+      "price_ratio": 1.0,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 7461.51,
+        "landed_price": null,
+        "floor": 7461.51,
+        "ceiling": null,
+        "range": {
+          "min": 7461.51,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 7461.51,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      },
+      "tco": {
+        "years": 3.0,
+        "exact_total": null,
+        "floor": 7461.51,
+        "ceiling": null,
+        "range": {
+          "min": 7461.51,
+          "max": null
+        },
+        "status": "partial",
+        "components": {
+          "purchase": 7461.51,
+          "purchase_status": "floor",
+          "consumables": null,
+          "energy": null,
+          "maintenance": null,
+          "accessories": null,
+          "downtime": null,
+          "resale": null
+        },
+        "missing_components": [
+          "purchase_exact",
+          "consumables",
+          "energy",
+          "maintenance"
+        ],
+        "optional_excluded": [
+          "accessories",
+          "resale",
+          "downtime"
+        ],
+        "note": "TCO 为已知下限；缺少：purchase_exact、consumables、energy、maintenance",
+        "inputs": {}
+      },
+      "score": 97.5,
+      "score_breakdown": [
+        {
+          "dimension_id": "grade",
+          "label": "产品定位",
+          "weight": 0.35,
+          "raw_value": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 MG10ACA20TE 企业级 SATA 20TB 20TB 企业级硬盘SATA|数据存储中心",
+          "normalized_score": 5.0,
+          "weighted_points": 35.0,
+          "known": true,
+          "evidence": "企业级",
+          "source": "filter_text"
+        },
+        {
+          "dimension_id": "cache",
+          "label": "缓存",
+          "weight": 0.15,
+          "raw_value": "512MB",
+          "normalized_score": 5.0,
+          "weighted_points": 15.0,
+          "known": true,
+          "evidence": "512MB",
+          "source": "attributes.cache"
+        },
+        {
+          "dimension_id": "seller",
+          "label": "渠道",
+          "weight": 0.25,
+          "raw_value": "东芝存储京东自营旗舰店",
+          "normalized_score": 5.0,
+          "weighted_points": 25.0,
+          "known": true,
+          "evidence": "自营",
+          "source": "shop_name"
+        },
+        {
+          "dimension_id": "reviews",
+          "label": "评价",
+          "weight": 0.25,
+          "raw_value": 98.0,
+          "normalized_score": 4.5,
+          "weighted_points": 22.5,
+          "known": true,
+          "evidence": "评分 None，好评率 98.0，评价数 20000，样本 3，负评率 0.0",
+          "source": "reviews.rating"
+        }
+      ],
+      "evidence_ratio": 0.5,
+      "score_confidence": 0.71,
+      "low_confidence": true,
+      "missing_dimensions": [],
+      "missing_fields": [
+        "stock",
+        "sales"
+      ],
+      "eligible": true,
+      "hard_filter_results": [
+        {
+          "filter_id": "smr",
+          "label": "排除 SMR 叠瓦",
+          "status": "pass",
+          "passed": true,
+          "actual": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+          "expected": [
+            "SMR",
+            "叠瓦"
+          ],
+          "reason": "7×24 写入场景不接受 SMR"
+        },
+        {
+          "filter_id": "used",
+          "label": "排除二手/拆机/翻新",
+          "status": "pass",
+          "passed": true,
+          "actual": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 MG10ACA20TE 企业级 SATA 20TB 20TB 企业级硬盘SATA|数据存储中心",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "通电时间"
+          ],
+          "reason": "必须全新或明确标注的官换盘"
+        },
+        {
+          "filter_id": "invoice",
+          "label": "可开发票",
+          "status": "pass",
+          "passed": true,
+          "actual": "可开发票(正品行货带票)",
+          "expected": [
+            "发票"
+          ],
+          "reason": "企业采购需要发票"
+        },
+        {
+          "filter_id": "brief_exclusions",
+          "label": "需求排除项",
+          "status": "pass",
+          "passed": true,
+          "actual": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 MG10ACA20TE 企业级 SATA 20TB 20TB 企业级硬盘SATA|数据存储中心",
+          "expected": [
+            "二手",
+            "拆机",
+            "翻新",
+            "SMR 叠瓦"
+          ],
+          "reason": "命中采购简报的排除项"
+        }
+      ],
+      "elimination_reasons": [],
+      "scorecard_id": "hdd-enterprise-20t-2026",
+      "scorecard_version": "2.0",
+      "rank": 1,
+      "fit_details": [
+        {
+          "id": "capacity",
+          "label": "20TB 容量",
+          "type": "must",
+          "field": "attributes.capacity",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "20TB",
+          "expected": [
+            "20TB",
+            "20T"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "ports",
+          "label": "SATA 接口",
+          "type": "must",
+          "field": "attributes.ports",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "SATA",
+          "expected": [
+            "SATA"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "recording",
+          "label": "CMR 已确认",
+          "type": "must",
+          "field": "attributes.recording",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "CMR",
+          "expected": [
+            "CMR",
+            "垂直"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "warranty",
+          "label": "至少 3 年保修",
+          "type": "must",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "5年",
+          "expected": [
+            "3年",
+            "三年",
+            "5年",
+            "五年"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "invoice",
+          "label": "可开发票",
+          "type": "must",
+          "field": "detail.invoice",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "可开发票(正品行货带票)",
+          "expected": [
+            "发票"
+          ],
+          "weight": null,
+          "reason": ""
+        },
+        {
+          "id": "warranty5",
+          "label": "5 年保修",
+          "type": "should",
+          "field": "detail.warranty",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "5年",
+          "expected": [
+            "5年",
+            "五年"
+          ],
+          "weight": 0.5,
+          "reason": ""
+        },
+        {
+          "id": "grade",
+          "label": "企业级定位",
+          "type": "should",
+          "field": "filter_text",
+          "status": "pass",
+          "credit": 1.0,
+          "actual": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 MG10ACA20TE 企业级 SATA 20TB 20TB 企业级硬盘SATA|数据存储中心",
+          "expected": [
+            "Exos",
+            "Ultrastar",
+            "MG10",
+            "企业级",
+            "N300"
+          ],
+          "weight": 0.3,
+          "reason": ""
+        },
+        {
+          "id": "condition",
+          "label": "全新原封",
+          "type": "should",
+          "field": "attributes.condition",
+          "status": "unknown",
+          "credit": 0.0,
+          "actual": null,
+          "expected": [
+            "全新"
+          ],
+          "weight": 0.2,
+          "reason": "attributes.condition 缺失，按 worst 处理"
+        }
+      ],
+      "fit_score": 0.8,
+      "fit_unmet": [],
+      "fit_unknown": [
+        "全新原封"
+      ],
+      "must_passed": true,
+      "must_unknown": false,
+      "fit_tier": "pass",
+      "performance": 5.0,
+      "price_index": 1.0,
+      "value_score": 5.0,
+      "dominated_by": [],
+      "on_frontier": true
+    }
+  ],
+  "variant_matrix": [
+    {
+      "platform": "jd",
+      "listing_id": "10227071695927",
+      "title": "希捷 银河系 ST20000NM003C 企业级氦气 20TB 机械硬盘",
+      "url": "https://item.jd.com/10227071695925.html",
+      "variant_count": 4,
+      "differing_attributes": [
+        "warranty"
+      ],
+      "variants": [
+        {
+          "variant_id": "10227071695925",
+          "variant_label": "ST20000NM003C-全新官换-保30天",
+          "price": 4338.0,
+          "price_status": "visible",
+          "stock_status": "UNKNOWN",
+          "eligible": true,
+          "fit_score": 0.3,
+          "value_score": 8.7149,
+          "status": "合格",
+          "differences": {
+            "warranty": "30天"
+          }
+        },
+        {
+          "variant_id": "10227071695926",
+          "variant_label": "ST20000NM003C-全新官换-店保1年",
+          "price": 4388.0,
+          "price_status": "visible",
+          "stock_status": "UNKNOWN",
+          "eligible": true,
+          "fit_score": 0.3,
+          "value_score": 8.6156,
+          "status": "合格",
+          "differences": {
+            "warranty": "1年"
+          }
+        },
+        {
+          "variant_id": "10227071695927",
+          "variant_label": "ST20000NM003C-全新官换-店保2年",
+          "price": 4438.0,
+          "price_status": "visible",
+          "stock_status": "UNKNOWN",
+          "eligible": true,
+          "fit_score": 0.3,
+          "value_score": 8.5185,
+          "status": "合格",
+          "differences": {
+            "warranty": "2年"
+          }
+        },
+        {
+          "variant_id": "10227071695928",
+          "variant_label": "ST20000NM003C-全新官换-店保3年",
+          "price": 4488.0,
+          "price_status": "visible",
+          "stock_status": "UNKNOWN",
+          "eligible": true,
+          "fit_score": 0.3,
+          "value_score": 8.4236,
+          "status": "需求未满足",
+          "differences": {
+            "warranty": "3年"
+          }
+        }
+      ]
+    },
+    {
+      "platform": "jd",
+      "listing_id": "100416541038",
+      "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+      "url": "https://item.jd.com/100416541038.html",
+      "variant_count": 2,
+      "differing_attributes": [
+        "model"
+      ],
+      "variants": [
+        {
+          "variant_id": "100077487247",
+          "variant_label": "MG10ACA20TE 企业级 SATA 20TB",
+          "price": 7461.51,
+          "price_status": "visible",
+          "stock_status": "UNKNOWN",
+          "eligible": true,
+          "fit_score": 0.8,
+          "value_score": 5.0,
+          "status": "合格",
+          "differences": {
+            "model": "MG10ACA20TE"
+          }
+        },
+        {
+          "variant_id": "100416541038",
+          "variant_label": "N300 Pro NAS 20TB(HDWG62A)",
+          "price": 7660.51,
+          "price_status": "visible",
+          "stock_status": "UNKNOWN",
+          "eligible": true,
+          "fit_score": 0.8,
+          "value_score": 4.3,
+          "status": "合格",
+          "differences": {
+            "model": "HDWG62A"
+          }
+        }
+      ]
+    }
+  ],
+  "review_summary": {
+    "jd:100077487247": {
+      "status": "ok",
+      "rating": null,
+      "positive_rate": 98.0,
+      "rating_count": 20000,
+      "sample_size": 3,
+      "negative_rate": 0.0,
+      "headline": "好评率 98.0%（20000 条），样本 3 条；样本中未出现集中负评；负评率 0.0%（样本口径）",
+      "top_negative": []
+    },
+    "jd:100219097359": {
+      "status": "ok",
+      "rating": null,
+      "positive_rate": 99.0,
+      "rating_count": 2000000,
+      "sample_size": 0,
+      "negative_rate": null,
+      "headline": "好评率 99.0%（2000000 条），样本 0 条；样本中未出现集中负评",
+      "top_negative": []
+    },
+    "jd:100416541038": {
+      "status": "ok",
+      "rating": null,
+      "positive_rate": 98.0,
+      "rating_count": 20000,
+      "sample_size": 3,
+      "negative_rate": 0.0,
+      "headline": "好评率 98.0%（20000 条），样本 3 条；样本中未出现集中负评；负评率 0.0%（样本口径）",
+      "top_negative": []
+    },
+    "jd:10225415721044": {
+      "status": "missing",
+      "rating": null,
+      "positive_rate": null,
+      "rating_count": null,
+      "sample_size": 0,
+      "negative_rate": null,
+      "headline": "UNKNOWN（未采集到评价证据）",
+      "top_negative": []
+    }
+  },
+  "price_anchors": {
+    "min_ratio": 0.7,
+    "anchors": [
+      {
+        "group": "model:st20000nm002h",
+        "anchor_price": 8949.01,
+        "sample_size": 1,
+        "source_shop": "希捷Seagate京东自营旗舰店",
+        "source_url": "https://item.jd.com/100219097359.html",
+        "models": [
+          "ST20000NM002H"
+        ]
+      }
+    ],
+    "anomalies": [
+      {
+        "platform": "jd",
+        "variant_id": "10225415721044",
+        "model": "ST20000NM002H",
+        "price": 4379.0,
+        "anchor": 8949.01,
+        "ratio": 0.489,
+        "shop": "硬盘商城20"
+      }
+    ]
+  },
+  "fit_summary": {
+    "fit_threshold": 0.8,
+    "passed": 4,
+    "below_fit": [
+      "10227071695928"
+    ],
+    "must_failed": [
+      "10227071695925",
+      "10227071695926",
+      "10227071695927",
+      "100201554283"
+    ]
+  },
+  "value_summary": {
+    "value_dimensions": [
+      "cache",
+      "grade"
+    ],
+    "pool_size": 4,
+    "fallback_anchor": 7561.01,
+    "frontier": [
+      {
+        "variant_id": "100077487247",
+        "platform": "jd",
+        "price": 7461.51,
+        "performance": 5.0,
+        "value_score": 5.0,
+        "fit_score": 0.8
+      }
+    ],
+    "dominated": [
+      {
+        "variant_id": "100219097359",
+        "price": 8949.01,
+        "performance": 5.0,
+        "dominated_by": [
+          "100077487247"
+        ]
+      },
+      {
+        "variant_id": "100416541038",
+        "price": 7660.51,
+        "performance": 4.3,
+        "dominated_by": [
+          "100077487247"
+        ]
+      }
+    ],
+    "excluded_from_frontier": [
+      {
+        "variant_id": "10225415721044",
+        "price": 4379.0,
+        "reason": "价格低于官方/自营锚点且成色/发票未证实，价格指数按 1.00 计，并扣减 15%"
+      }
+    ]
+  },
+  "eliminated": [],
+  "bundle": {
+    "quantity": 1,
+    "allow_split": false,
+    "single_order": {
+      "orders": [
+        {
+          "platform": "jd",
+          "product_id": "100077487247",
+          "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+          "rank": 1,
+          "score": 97.5,
+          "quantity": 1,
+          "unit_price": 7461.51,
+          "unit_price_status": "floor",
+          "subtotal": 7461.51,
+          "shipping": null,
+          "coupon": null,
+          "total": null,
+          "status": "partial",
+          "missing_components": [
+            "unit_price_exact",
+            "shipping",
+            "coupon"
+          ],
+          "stock_assumed": true,
+          "url": "https://item.jd.com/100077487247.html"
+        }
+      ],
+      "order_count": 1,
+      "total": 7461.51,
+      "status": "partial",
+      "unit_count": 1,
+      "strategy": "top_ranked_single_supplier"
+    },
+    "split_order": null,
+    "recommended_option": "single",
+    "recommended_order": {
+      "orders": [
+        {
+          "platform": "jd",
+          "product_id": "100077487247",
+          "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘",
+          "rank": 1,
+          "score": 97.5,
+          "quantity": 1,
+          "unit_price": 7461.51,
+          "unit_price_status": "floor",
+          "subtotal": 7461.51,
+          "shipping": null,
+          "coupon": null,
+          "total": null,
+          "status": "partial",
+          "missing_components": [
+            "unit_price_exact",
+            "shipping",
+            "coupon"
+          ],
+          "stock_assumed": true,
+          "url": "https://item.jd.com/100077487247.html"
+        }
+      ],
+      "order_count": 1,
+      "total": 7461.51,
+      "status": "partial",
+      "unit_count": 1,
+      "strategy": "top_ranked_single_supplier"
+    },
+    "savings": null,
+    "savings_status": "unknown",
+    "warnings": [
+      "采购简报未允许拆单，未生成拆单方案",
+      "候选未提供库存/可采购数量，组合方案按可满足需求假设，需下单前确认"
+    ],
+    "assumptions": [
+      "商品价格来自检索/详情/浏览器补证，未含账号券、运费、税费时以 landed_price 状态为准",
+      "库存与可采购数量未由 MCP 保证"
+    ]
+  },
+  "evidence_gaps": [
+    {
+      "platform": "jd",
+      "product_id": "100077487247",
+      "field": "stock",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "确认现货/发货时间，避免按页面默认假设"
+    },
+    {
+      "platform": "jd",
+      "product_id": "100077487247",
+      "field": "sales",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "销量缺失不作为质量证据"
+    },
+    {
+      "platform": "jd",
+      "product_id": "100219097359",
+      "field": "stock",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "确认现货/发货时间，避免按页面默认假设"
+    },
+    {
+      "platform": "jd",
+      "product_id": "100219097359",
+      "field": "sales",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "销量缺失不作为质量证据"
+    },
+    {
+      "platform": "jd",
+      "product_id": "100416541038",
+      "field": "stock",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "确认现货/发货时间，避免按页面默认假设"
+    },
+    {
+      "platform": "jd",
+      "product_id": "100416541038",
+      "field": "sales",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "销量缺失不作为质量证据"
+    },
+    {
+      "platform": "jd",
+      "product_id": "10225415721044",
+      "field": "invoice",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "确认是否可开票、票种与税率"
+    },
+    {
+      "platform": "jd",
+      "product_id": "10225415721044",
+      "field": "stock",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "确认现货/发货时间，避免按页面默认假设"
+    },
+    {
+      "platform": "jd",
+      "product_id": "10225415721044",
+      "field": "sales",
+      "impact": "降低置信度；影响价格/售后/库存判断",
+      "next_action": "销量缺失不作为质量证据"
+    },
+    {
+      "platform": "jd",
+      "product_id": "10225415721044",
+      "field": "score_dimension:reviews",
+      "impact": "该评分维度按缺失策略计分",
+      "next_action": "补充商品页/客服证据，或调整评分卡缺失策略"
+    },
+    {
+      "platform": "jd",
+      "product_id": "10225415721044",
+      "field": "reviews",
+      "impact": "无法评估口碑与集中质量风险",
+      "next_action": "在商品页评价区采集评分、评价数与首屏负评样本（保留原话 snippet）"
+    }
+  ],
+  "methodology": {
+    "stages": [
+      "需求形式化（含配置敏感项）",
+      "playwright-mcp 搜索召回 listing",
+      "逐 listing 展开配置（每个 SKU 单独读价）",
+      "商品页评价采集（评分/评价数/负评主题）",
+      "归一化与价格状态标记",
+      "到手价/TCO",
+      "硬过滤与加权评分",
+      "拆单/凑单评估",
+      "报告与自检"
+    ],
+    "inputs": {
+      "raw_capture": "raw_capture.json",
+      "scorecard": "scorecard.json",
+      "costs": null,
+      "tco_model": null
+    },
+    "missing_policy": "缺失字段保留 UNKNOWN；评分按评分卡缺失策略处理；置信度独立展示。",
+    "scorecard_note": "评分项由 AI 根据实际物品生成，经 JSON 校验后由脚本确定性计算。"
+  },
+  "warnings": [
+    "1 条候选价格低于官方/自营锚点的 70%，已限制其价格得分并要求先证实成色/发票/保修主体",
+    "jd:100219097359 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10227071695925 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10227071695926 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10227071695927 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10227071695928 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10225415721044 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100201554283 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100416541038 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100077487247 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100219097359 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10227071695925 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10227071695926 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10227071695927 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10227071695928 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:10225415721044 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:100201554283 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:100416541038 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "jd:100077487247 TCO 为下限/区间，缺少：purchase_exact, consumables, energy, maintenance",
+    "采购简报未允许拆单，未生成拆单方案",
+    "候选未提供库存/可采购数量，组合方案按可满足需求假设，需下单前确认",
+    "本次未采集到淘宝数据（未检索/登录墙/访问异常），结论仅基于已采集平台"
+  ],
+  "errors": []
+}

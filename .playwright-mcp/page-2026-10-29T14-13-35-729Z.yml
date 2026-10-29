@@ -1,0 +1,273 @@
+- generic [ref=f29e4]:
+  - generic [ref=f29e8] [cursor=pointer]
+  - generic [ref=f29e11]:
+    - generic [ref=f29e13]:
+      - link "电脑、办公" [ref=f29e15] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+      - generic [ref=f29e16]: ">"
+      - link "电脑组件" [ref=f29e18] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677&sourcePage=itemBreadCrumb
+      - generic [ref=f29e19]: ">"
+      - link "硬盘" [ref=f29e21] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&sourcePage=itemBreadCrumb
+      - generic [ref=f29e22]: ">"
+      - link "希捷（SEAGATE）" [ref=f29e24] [cursor=pointer]:
+        - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&ev=exbrand_17941&sourcePage=itemBreadCrumb
+    - generic [ref=f29e25]:
+      - generic [ref=f29e27] [cursor=pointer]:
+        - generic [ref=f29e30]:
+          - generic "希捷Seagate京东自营旗舰店" [ref=f29e34]
+          - generic [ref=f29e36]:
+            - generic [ref=f29e37]: 进店逛逛，享更多优惠
+            - generic [ref=f29e38]: 精选镇店好物，快来逛逛
+            - generic [ref=f29e39]: 进店逛逛，享更多优惠
+            - generic [ref=f29e40]: 精选镇店好物，快来逛逛
+        - generic [ref=f29e41]:
+          - generic [ref=f29e42]: 关注店铺
+          - generic [ref=f29e44]: 联系客服
+      - generic [ref=f29e50]:
+        - generic [ref=f29e51]:
+          - generic [ref=f29e52]:
+            - generic [ref=f29e53]: 希捷20t硬盘
+            - generic [ref=f29e54]: 20tb企业级硬盘
+            - generic [ref=f29e55]: 希捷机械硬盘
+            - generic [ref=f29e56]: 希捷企业级硬盘
+            - generic [ref=f29e57]: 硬盘20tb
+            - generic [ref=f29e58]: 机械硬盘
+            - generic [ref=f29e59]: 固态硬盘p41
+            - generic [ref=f29e60]: 机械磁盘
+            - generic [ref=f29e61]: 三角洲联名八宝粥
+            - generic [ref=f29e62]: 希捷酷鱼
+          - textbox "搜索" [ref=f29e63]
+          - generic [ref=f29e64] [cursor=pointer]:
+            - button "搜本店" [ref=f29e65]
+            - button "搜全站" [ref=f29e66]
+        - generic [ref=f29e67]:
+          - generic [ref=f29e68] [cursor=pointer]: 小米显示器27寸
+          - generic [ref=f29e69] [cursor=pointer]: 27寸2k显示器
+          - generic [ref=f29e70] [cursor=pointer]: 希捷20t硬盘
+          - generic [ref=f29e71] [cursor=pointer]: 红米a27q
+          - generic [ref=f29e72] [cursor=pointer]: 机械硬盘
+    - generic [ref=f29e75]:
+      - generic [ref=f29e77]:
+        - generic [ref=f29e78]:
+          - generic [ref=f29e79]:
+            - generic [ref=f29e81]:
+              - generic [ref=f29e82] [cursor=pointer]
+              - generic [ref=f29e84] [cursor=pointer]
+              - generic [ref=f29e86] [cursor=pointer]
+              - generic [ref=f29e88] [cursor=pointer]
+              - generic [ref=f29e90] [cursor=pointer]
+              - generic [ref=f29e92] [cursor=pointer]
+              - generic [ref=f29e94] [cursor=pointer]
+              - generic [ref=f29e96] [cursor=pointer]
+              - generic [ref=f29e98] [cursor=pointer]: 规格参数
+            - generic [ref=f29e102] [cursor=pointer]
+          - generic [ref=f29e103]:
+            - generic [ref=f29e104]: 
+            - generic [ref=f29e110] [cursor=pointer]:
+              - generic [ref=f29e111]: 商品对比
+              - generic [ref=f29e112]: 
+        - generic [ref=f29e115]:
+          - generic [ref=f29e119]:
+            - generic [ref=f29e120] [cursor=pointer]: 大家评
+            - generic [ref=f29e122] [cursor=pointer]: 店铺
+            - generic [ref=f29e124] [cursor=pointer]: 商品详情
+            - generic [ref=f29e126] [cursor=pointer]: 使用说明
+            - generic [ref=f29e128] [cursor=pointer]: 售后保障
+            - generic [ref=f29e130] [cursor=pointer]: 推荐
+          - generic [ref=f29e133]:
+            - generic [ref=f29e209]:
+              - generic [ref=f29e210]: 进店逛逛
+              - generic [ref=f29e212]:
+                - generic [ref=f29e213] [cursor=pointer]
+                - generic [ref=f29e216]:
+                  - generic [ref=f29e217] [cursor=pointer]: 联系客服
+                  - generic [ref=f29e220] [cursor=pointer]: 进店逛逛
+            - generic [ref=f29e223]: 商品详情
+      - generic [ref=f29e261]:
+        - generic [ref=f29e265]:
+          - generic [ref=f29e268]:
+            - generic [ref=f29e269]:
+              - img "4" [ref=f29e271]
+              - text: 希捷（SEAGATE）企业级硬盘 20TB 512MB 7200RPM CMR垂直 SATA 希捷银河Exos X24系列 服务器硬盘ST20000NM002H
+            - generic [ref=f29e272] [cursor=pointer]: 收藏
+          - generic [ref=f29e274]:
+            - generic [ref=f29e276]:
+              - generic [ref=f29e277] [cursor=pointer]: ¥8949.01
+              - generic [ref=f29e279]: ¥8999
+              - generic [ref=f29e281]: 累计评价 0
+              - generic [ref=f29e284] [cursor=pointer]:
+                - generic [ref=f29e285]: 
+                - text: 降价通知
+            - generic [ref=f29e289]:
+              - generic [ref=f29e290]:
+                - generic [ref=f29e291]: 已享受：
+                - generic [ref=f29e292]:
+                  - generic [ref=f29e293] [cursor=pointer]: PLUS专享立减44.99元
+                  - img [ref=f29e295] [cursor=pointer]
+              - generic [ref=f29e296]:
+                - generic [ref=f29e297]: 可再享：
+                - generic [ref=f29e298]:
+                  - generic [ref=f29e299] [cursor=pointer]: 最高返447京豆
+                  - img [ref=f29e301] [cursor=pointer]
+          - link "硬盘热卖榜·第1名" [ref=f29e306] [cursor=pointer]:
+            - /url: https://pro.jd.com/mall/active/4JRfHorUDXgL77E9YdNxSCNMKwkJ/index.html?pageNum=1&bbtf=1&queryType=1&rankId=3155511&rankType=10&fromName=ProductdetailPC&preSrc=null&currSku=100219097359&currSpu=4220257&transparent=1
+          - generic [ref=f29e311]:
+            - generic [ref=f29e312]: 送至
+            - generic [ref=f29e314]:
+              - generic [ref=f29e315]: 23:10前付款，预计明天(10月30日)送达
+              - generic [ref=f29e318]:
+                - generic [ref=f29e319]: 京东物流
+                - generic [ref=f29e321] [cursor=pointer]:
+                  - link "明日达·" [ref=f29e322]:
+                    - /url: //help.jd.com/user/issue/103-983.html
+                  - link "预约送货" [ref=f29e323]:
+                    - /url: //help.jd.com/user/issue/103-983.html
+          - generic [ref=f29e325]:
+            - generic [ref=f29e326]:
+              - generic [ref=f29e327]: 容量
+              - generic [ref=f29e328]:
+                - generic [ref=f29e329] [cursor=pointer]:
+                  - img "1TB" [ref=f29e330]
+                  - generic [ref=f29e331]: 1TB
+                - generic [ref=f29e332] [cursor=pointer]:
+                  - img "1TB 新" [ref=f29e333]
+                  - generic [ref=f29e334]: 1TB 新
+                - generic [ref=f29e335] [cursor=pointer]:
+                  - img "2TB" [ref=f29e336]
+                  - generic [ref=f29e337]: 2TB
+                - generic [ref=f29e338] [cursor=pointer]:
+                  - img "2TB 高速" [ref=f29e339]
+                  - generic [ref=f29e340]: 2TB 高速
+                - generic [ref=f29e341] [cursor=pointer]:
+                  - img "4TB" [ref=f29e342]
+                  - generic [ref=f29e343]: 4TB
+                - generic [ref=f29e344] [cursor=pointer]:
+                  - img "6TB" [ref=f29e345]
+                  - generic [ref=f29e346]: 6TB
+                - generic [ref=f29e347] [cursor=pointer]:
+                  - img "8TB" [ref=f29e348]
+                  - generic [ref=f29e349]: 8TB
+                - generic [ref=f29e350] [cursor=pointer]:
+                  - img "10TB" [ref=f29e351]
+                  - generic [ref=f29e352]: 10TB
+                - generic [ref=f29e353] [cursor=pointer]:
+                  - img "12TB" [ref=f29e354]
+                  - generic [ref=f29e355]: 12TB
+                - generic [ref=f29e356] [cursor=pointer]:
+                  - img "16TB" [ref=f29e357]
+                  - generic [ref=f29e358]: 16TB
+                - generic [ref=f29e359] [cursor=pointer]:
+                  - img "20TB" [ref=f29e360]
+                  - generic [ref=f29e361]: 20TB
+                - generic [ref=f29e362] [cursor=pointer]:
+                  - img "22TB" [ref=f29e363]
+                  - generic [ref=f29e364]: 22TB
+                - generic [ref=f29e365] [cursor=pointer]:
+                  - img "24TB" [ref=f29e366]
+                  - generic [ref=f29e367]: 24TB
+                - generic [ref=f29e368] [cursor=pointer]:
+                  - img "30TB" [ref=f29e369]
+                  - generic [ref=f29e370]: 30TB
+            - generic [ref=f29e371]:
+              - generic [ref=f29e372]: 版本
+              - generic [ref=f29e373]:
+                - generic [ref=f29e374] [cursor=pointer]: 希捷酷鱼-办公家用
+                - generic [ref=f29e376] [cursor=pointer]: 希捷酷狼-NAS存储
+                - generic [ref=f29e378] [cursor=pointer]: 希捷酷狼PRO-NAS
+                - generic [ref=f29e380] [cursor=pointer]: 希捷酷鹰-视频监控
+                - generic [ref=f29e382] [cursor=pointer]: 希捷银河-企业存储
+                - generic [ref=f29e384] [cursor=pointer]: 希捷银河-企业SAS
+          - generic [ref=f29e387]:
+            - generic [ref=f29e388]: 服务
+            - generic [ref=f29e391]:
+              - generic [ref=f29e392]:
+                - link "59元免基础运费" [ref=f29e393] [cursor=pointer]:
+                  - /url: //help.jd.com/user/issue/103-983.html
+                - generic [ref=f29e394]: ·
+              - generic [ref=f29e395]:
+                - generic "支持港澳台及海外收货地址下单，由于各地区政策不同，具体请以结算页详情为准" [ref=f29e396]: 可配送全球
+                - generic [ref=f29e397]: ·
+              - generic [ref=f29e398]:
+                - generic "售后时效内申请退换货，选择上门取件优先安排京东物流服务，无需支付退换货运费；选择自寄，售后完成后补首重运费。" [ref=f29e399]: 免费上门退换
+                - generic [ref=f29e400]: ·
+              - generic [ref=f29e401]:
+                - link "正品行货带票" [ref=f29e402] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/46uzPEQuV9Z3ub9xSYJ6eTSPCQGz/index.html
+                - generic [ref=f29e403]: ·
+              - generic [ref=f29e404]:
+                - link "7天价保" [ref=f29e405] [cursor=pointer]:
+                  - /url: https://help.jd.com/user/issue/291-4537.html
+                - generic [ref=f29e406]: ·
+              - generic [ref=f29e407]:
+                - link "检测只换不修" [ref=f29e408] [cursor=pointer]:
+                  - /url: https://help.jd.com/user/issue/942-3934.html
+                - generic [ref=f29e409]: ·
+              - generic [ref=f29e410]:
+                - generic "由京东指定供应商提供售后服务" [ref=f29e411]: 供应商售后
+                - generic [ref=f29e412]: ·
+              - generic [ref=f29e413]:
+                - link "五年质保" [ref=f29e414] [cursor=pointer]:
+                  - /url: //help.jd.com/user/issue/942-3846.html
+                - generic [ref=f29e415]: ·
+              - generic [ref=f29e416]:
+                - generic "京东发货" [ref=f29e417]
+                - generic [ref=f29e418]: ·
+              - generic [ref=f29e419]:
+                - link "高价回收" [ref=f29e420] [cursor=pointer]:
+                  - /url: //huishou.jd.com/huanxin?s=1&skuId=100219097359
+                - generic [ref=f29e421]: ·
+              - generic "支持7天无理由退货" [ref=f29e423]
+          - generic [ref=f29e427]:
+            - generic [ref=f29e428]: 优选服务
+            - generic [ref=f29e429]:
+              - generic [ref=f29e430]:
+                - generic [ref=f29e431]: 全保换新
+                - generic [ref=f29e433]:
+                  - generic [ref=f29e434] [cursor=pointer]:
+                    - generic [ref=f29e435]: 4年全保换新
+                    - generic [ref=f29e436]: "619.00"
+                  - generic [ref=f29e437] [cursor=pointer]:
+                    - generic [ref=f29e438]: 3年全保换新
+                    - generic [ref=f29e439]: "569.00"
+              - generic [ref=f29e440]:
+                - generic [ref=f29e441]: 数据恢复
+                - generic [ref=f29e443]:
+                  - generic [ref=f29e444] [cursor=pointer]:
+                    - generic [ref=f29e445]: 1年数据恢复服务
+                    - generic [ref=f29e446]: "79.00"
+                  - generic [ref=f29e447] [cursor=pointer]:
+                    - generic [ref=f29e448]: 2年数据恢复服务
+                    - generic [ref=f29e449]: "119.00"
+                  - generic [ref=f29e450] [cursor=pointer]:
+                    - generic [ref=f29e451]: 3年数据恢复服务
+                    - generic [ref=f29e452]: "169.00"
+              - generic [ref=f29e453]:
+                - generic [ref=f29e454]: 质保只换不修
+                - generic [ref=f29e456]:
+                  - generic [ref=f29e457] [cursor=pointer]:
+                    - generic [ref=f29e458]: 5年质保换新
+                    - generic [ref=f29e459]: "593.00"
+                  - generic [ref=f29e460] [cursor=pointer]:
+                    - generic [ref=f29e461]: 2年质保换新
+                    - generic [ref=f29e462]: "309.00"
+                  - generic [ref=f29e463] [cursor=pointer]:
+                    - generic [ref=f29e464]: 3年质保换新
+                    - generic [ref=f29e465]: "389.00"
+              - generic [ref=f29e466] [cursor=pointer]: 展开全部
+          - generic [ref=f29e471]:
+            - generic [ref=f29e472]: 白条分期
+            - generic [ref=f29e474]:
+              - generic [ref=f29e475]:
+                - generic [ref=f29e476] [cursor=pointer]:
+                  - generic [ref=f29e477]: 不分期
+                  - generic [ref=f29e478]: 0服务费
+                - generic [ref=f29e479] [cursor=pointer]:
+                  - generic [ref=f29e480]: ￥2983.81 x 3期
+                  - generic [ref=f29e481]: 含服务费：￥0.8/期
+              - generic [ref=f29e482]: 展开全部
+        - generic [ref=f29e491]:
+          - button "减少" [ref=f29e492]: "-"
+          - textbox [ref=f29e493]: "1"
+          - button "增加" [ref=f29e494] [cursor=pointer]: +

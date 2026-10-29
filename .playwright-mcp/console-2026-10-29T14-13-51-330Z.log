@@ -1,0 +1,4 @@
+[     543ms] [LOG] load js success! @ https://storage.360buyimg.com/webcontainer/js_security_v3_0.1.8.js:2
+[    1223ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:54345/js/dayTimezone.js:0
+[    1339ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:24000/ws/t13' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ https://storage.360buyimg.com/webcontainer/main/js-security-v3-rac-beta.js?v=20261029:4
+[    1468ms] [LOG] SettlementLite: 检查依赖脚本 @ https://storage.360buyimg.com/retail-mall/pc_settlement_lite/pro/0.0.7/createSettlementLite.js:0

@@ -1,0 +1,33 @@
+{
+  "confirmed": true,
+  "confirmed_at": "2026-10-29T23:30:00+08:00",
+  "platform": "jd",
+  "recommendation_variant_id": "100077487247",
+  "listing_id": "100416541038",
+  "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 企业级 MG10ACA20TE",
+  "shop": "东芝存储京东自营旗舰店",
+  "quantity": 1,
+  "unit_price_cny": 7461.51,
+  "url": "https://item.jd.com/100077487247.html",
+  "fit_score": 1.0,
+  "value_score": 5.0,
+  "open_items": [
+    "发票票种（专票/普票）与税率",
+    "库存与预计发货时间",
+    "运费（页面未明确是否包邮）"
+  ],
+  "alternatives": [
+    {
+      "variant_id": "100219097359",
+      "title": "希捷 银河 Exos X24 ST20000NM002H 20TB",
+      "price_cny": 8949.01,
+      "reason": "同为自营、5 年保修、fit 1.0；贵 ¥1,487.50"
+    }
+  ],
+  "rejected_low_price": {
+    "variant_id": "10225415721044",
+    "price_cny": 4379,
+    "reason": "第三方店，价格仅为自营锚点 49%，成色/发票未证实"
+  },
+  "notes": "用户确认推荐与数量 1；下单前仍需向客服确认发票与库存。"
+}

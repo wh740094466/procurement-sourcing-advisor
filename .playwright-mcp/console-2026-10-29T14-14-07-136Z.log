@@ -1,0 +1,5 @@
+[     564ms] [LOG] load js success! @ https://storage.360buyimg.com/webcontainer/js_security_v3_0.1.8.js:2
+[    1198ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:54345/js/dayTimezone.js:0
+[    1265ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:24000/ws/t13' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ https://storage.360buyimg.com/webcontainer/main/js-security-v3-rac-beta.js?v=20261029:4
+[    1548ms] [LOG] SettlementLite: 检查依赖脚本 @ https://storage.360buyimg.com/retail-mall/pc_settlement_lite/pro/0.0.7/createSettlementLite.js:0
+[ 3007490ms] [LOG] 工业入参 {appId: item-v3, mainSkuId: 100219097359, abParam: tsabtest|base64|fFJ8UGNUZXN0TmV3X2RldGFpbDE0fHx8MH…SG1xMEM5ZCtVVEFBPXwxNzkzMjgzMjQ4OTM2fHYy|tsabtest, userClassification: C, templateId: 370379} @ https://storage.360buyimg.com/retail-mall/pc_item_components_3/prod/5.0.7/index-legacy-pLHv6PG8.js:44

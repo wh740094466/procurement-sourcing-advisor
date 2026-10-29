@@ -1,0 +1,6 @@
+[     821ms] [WARNING] The PerformanceObserver does not support buffered flag with the entryTypes argument. @ https://g.alicdn.com/tb/tracker/index.js:0
+[    1302ms] [WARNING] history.push and history.replace is not recommended to use outside of react component. The usage will be deprecated in the next minor version. @ https://g.alicdn.com/message-social-front/mytaobao_pc/0.1.1/js/main.js:0
+[    2625ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ :1
+[    3893ms] [LOG] {"cfg":{},"tid":"_pS4soJwtQ8Tmqy19-McPFg9I3cL-i0oYmIbA-hsSXg="} @ https://o.alicdn.com/baxia/baxia-entry-gray/index.js:0
+[    4051ms] [LOG] Thu Oct 29 2026 21:15:03 GMT+0800 (中国标准时间) @ https://g.alicdn.com/AWSC/et/1.84.16/et_f.js:2
+[    4816ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:60328/:0

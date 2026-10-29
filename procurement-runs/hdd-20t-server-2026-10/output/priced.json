@@ -1,0 +1,957 @@
+{
+  "candidates": [
+    {
+      "platform": "jd",
+      "listing_id": "10047163336671",
+      "listing_title": "希捷 银河系列 ST20000NM007D 20TB 企业级硬盘 CMR 7200转 3.5英寸",
+      "product_id": "10047163336671",
+      "variant_id": "10047163336671",
+      "variant_label": "20TB X18【ST20000NM007D】",
+      "option_path": [
+        "20TB 【ST20000NM007D】"
+      ],
+      "title": "希捷 银河系列 ST20000NM007D 20TB 企业级硬盘 CMR 7200转 3.5英寸",
+      "model": "ST20000NM007D",
+      "price": 7599.05,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": 7999.0,
+      "shop_name": "Seagate希捷旗舰店",
+      "sales": null,
+      "url": "https://item.jd.com/10047163336671.html",
+      "detail": {
+        "specs": "硬盘类型: 企业级硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 256MB; 接口: SATA; 型号: ST20000NM007D; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "UNKNOWN",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "店铺发货&售后服务 · 180天只换不修 · 付费延保(5年质保换新 ¥593)",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "企业级硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "256MB",
+        "ports": "SATA",
+        "model": "ST20000NM007D",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)",
+        "recording": "CMR"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 98.0,
+        "rating_count": 10000,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [
+          {
+            "theme": "运行稳定",
+            "count": 86,
+            "snippets": []
+          }
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(1万+) 超98%买家赞不绝口 运行稳定 86 噪音小 73",
+            "source_url": "https://item.jd.com/10047163336671.html",
+            "captured_at": "2026-10-29T23:05:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {
+          "name": "Seagate希捷旗舰店",
+          "type": "旗舰店"
+        }
+      },
+      "filter_text": "希捷 银河系列 ST20000NM007D 20TB 企业级硬盘 CMR 7200转 3.5英寸 20TB X18【ST20000NM007D】 20TB 【ST20000NM007D】",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:20:41+00:00",
+      "detail_fetched_at": "2026-10-29T15:20:41+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（20TB X18【ST20000NM007D】）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥7599.05 已选:20TB 【ST20000NM007D】",
+          "source_url": "https://item.jd.com/10047163336671.html",
+          "captured_at": "2026-10-29T23:05:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:20:41+00:00",
+          "url": "https://item.jd.com/10047163336671.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "price_anchor": null,
+      "price_ratio": null,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 7599.05,
+        "landed_price": null,
+        "floor": 7599.05,
+        "ceiling": null,
+        "range": {
+          "min": 7599.05,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 7599.05,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10196549274570",
+      "listing_title": "希捷 银河 Exos X24 ST20000NM002H 20TB 企业级硬盘 CMR 7200转 512MB",
+      "product_id": "10196549274570",
+      "variant_id": "10196549274570",
+      "variant_label": "20TB X24【ST20000NM002H】",
+      "option_path": [
+        "20TB 【ST20000NM002H】X24"
+      ],
+      "title": "希捷 银河 Exos X24 ST20000NM002H 20TB 企业级硬盘 CMR 7200转 512MB",
+      "model": "ST20000NM002H",
+      "price": 7999.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "Seagate希捷旗舰店",
+      "sales": null,
+      "url": "https://item.jd.com/10196549274570.html",
+      "detail": {
+        "specs": "硬盘类型: 企业级硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000NM002H; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "UNKNOWN",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "店铺发货&售后服务 · 180天只换不修 · 付费延保(5年质保换新 ¥593)",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "企业级硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "ST20000NM002H",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)",
+        "recording": "CMR"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 98.0,
+        "rating_count": 10000,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(1万+) 超98%买家赞不绝口",
+            "source_url": "https://item.jd.com/10196549274570.html",
+            "captured_at": "2026-10-29T23:06:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {
+          "name": "Seagate希捷旗舰店",
+          "type": "旗舰店"
+        }
+      },
+      "filter_text": "希捷 银河 Exos X24 ST20000NM002H 20TB 企业级硬盘 CMR 7200转 512MB 20TB X24【ST20000NM002H】 20TB 【ST20000NM002H】X24",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:20:41+00:00",
+      "detail_fetched_at": "2026-10-29T15:20:41+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（20TB X24【ST20000NM002H】）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥7999 已选:20TB 【ST20000NM002H】X24",
+          "source_url": "https://item.jd.com/10196549274570.html",
+          "captured_at": "2026-10-29T23:06:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:20:41+00:00",
+          "url": "https://item.jd.com/10196549274570.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "price_anchor": {
+        "value": 8949.01,
+        "source": "official_median",
+        "shop": "希捷Seagate京东自营旗舰店",
+        "url": "https://item.jd.com/100219097359.html",
+        "sample_size": 1
+      },
+      "price_ratio": 0.894,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 7999.0,
+        "landed_price": null,
+        "floor": 7999.0,
+        "ceiling": null,
+        "range": {
+          "min": 7999.0,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 7999.0,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "100077487247",
+      "listing_title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 企业级 MG10ACA20TE",
+      "product_id": "100077487247",
+      "variant_id": "100077487247",
+      "variant_label": "MG10ACA20TE 企业级 SATA 20TB",
+      "option_path": [
+        "20TB",
+        "企业级硬盘SATA|数据存储中心"
+      ],
+      "title": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 企业级 MG10ACA20TE",
+      "model": "MG10ACA20TE",
+      "price": 7461.51,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "东芝存储京东自营旗舰店",
+      "sales": null,
+      "url": "https://item.jd.com/100077487247.html",
+      "detail": {
+        "specs": "硬盘类型: 企业级硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: MG10ACA20TE; 尺寸: 3.5英寸; 品牌: 东芝(TOSHIBA)",
+        "warranty": "5年",
+        "invoice": "可开发票(正品行货带票)",
+        "stock_status": "UNKNOWN",
+        "after_sales": "正品行货带票 · 五年质保 · 京东发货&售后服务 · 180天只换不修",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "企业级硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "MG10ACA20TE",
+        "size": "3.5英寸",
+        "brand": "东芝(TOSHIBA)",
+        "recording": "CMR"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 98.0,
+        "rating_count": 20000,
+        "sample_size": 3,
+        "negative_rate": 0.0,
+        "negative_themes": [],
+        "positive_themes": [
+          {
+            "theme": "噪音小",
+            "count": 123,
+            "snippets": [
+              "待机时听不到什么声音"
+            ]
+          }
+        ],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(2万+) 超98%买家赞不绝口；样本：拷贝声音比自检声音小，待机时听不到什么声音",
+            "source_url": "https://item.jd.com/100077487247.html",
+            "captured_at": "2026-10-29T23:07:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {
+          "name": "东芝存储京东自营旗舰店",
+          "type": "自营"
+        }
+      },
+      "filter_text": "东芝 20TB 7200转 512MB SATA 垂直式CMR 氦气机械硬盘 企业级 MG10ACA20TE MG10ACA20TE 企业级 SATA 20TB 20TB 企业级硬盘SATA|数据存储中心",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:20:41+00:00",
+      "detail_fetched_at": "2026-10-29T15:20:41+00:00",
+      "confidence": 0.95,
+      "price_note": "价格为当前选中配置的页面报价（MG10ACA20TE 企业级 SATA 20TB）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥7461.51 已选:20TB / 企业级硬盘SATA|数据存储中心;服务:五年质保",
+          "source_url": "https://item.jd.com/100077487247.html",
+          "captured_at": "2026-10-29T23:07:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:20:41+00:00",
+          "url": "https://item.jd.com/100077487247.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "price_anchor": {
+        "value": 7461.51,
+        "source": "official_median",
+        "shop": "东芝存储京东自营旗舰店",
+        "url": "https://item.jd.com/100077487247.html",
+        "sample_size": 1
+      },
+      "price_ratio": 1.0,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 7461.51,
+        "landed_price": null,
+        "floor": 7461.51,
+        "ceiling": null,
+        "range": {
+          "min": 7461.51,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 7461.51,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10136266102623",
+      "listing_title": "西部数据 WD 20TB 企业级硬盘 SATA 7200转 512MB缓存",
+      "product_id": "10136266102623",
+      "variant_id": "10136266102623",
+      "variant_label": "20TB 企业级 海外版",
+      "option_path": [
+        "20TB 企业级"
+      ],
+      "title": "西部数据 WD 20TB 企业级硬盘 SATA 7200转 512MB缓存",
+      "model": "UNKNOWN",
+      "price": 5522.69,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "亚马逊海外官方旗舰店",
+      "sales": null,
+      "url": "https://npcitem.jd.hk/10136266102623.html",
+      "detail": {
+        "specs": "硬盘类型: 企业级硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 品牌: 西部数据(WD)",
+        "warranty": "UNKNOWN",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "店铺发货&售后服务 · 不支持7天无理由退货",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "企业级硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "brand": "西部数据(WD)"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 100.0,
+        "rating_count": 3,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(3) 好评率高达100%",
+            "source_url": "https://npcitem.jd.hk/10136266102623.html",
+            "captured_at": "2026-10-29T23:08:00+08:00",
+            "confidence": 0.7
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {
+          "name": "亚马逊海外官方旗舰店",
+          "type": "海外店"
+        }
+      },
+      "filter_text": "西部数据 WD 20TB 企业级硬盘 SATA 7200转 512MB缓存 20TB 企业级 海外版 20TB 企业级",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:20:41+00:00",
+      "detail_fetched_at": "2026-10-29T15:20:41+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（20TB 企业级 海外版）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥5522.69 西部数据 20TB企业级硬盘 7200转 512MB缓存",
+          "source_url": "https://npcitem.jd.hk/10136266102623.html",
+          "captured_at": "2026-10-29T23:08:00+08:00",
+          "confidence": 0.85,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:20:41+00:00",
+          "url": "https://npcitem.jd.hk/10136266102623.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "price_anchor": {
+        "value": 5522.69,
+        "source": "official_median",
+        "shop": "亚马逊海外官方旗舰店",
+        "url": "https://npcitem.jd.hk/10136266102623.html",
+        "sample_size": 1
+      },
+      "price_ratio": 1.0,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 5522.69,
+        "landed_price": null,
+        "floor": 5522.69,
+        "ceiling": null,
+        "range": {
+          "min": 5522.69,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 5522.69,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10200221415296",
+      "listing_title": "希捷 EXOS银河企业级 ST20000NM002H 20TB 全新国行 SATA CMR 7200转 512MB",
+      "product_id": "10200221415296",
+      "variant_id": "10200221415296",
+      "variant_label": "20TB【ST20000NM002H】512M缓存",
+      "option_path": [
+        "20TB 【ST20000NM002H】512M缓存"
+      ],
+      "title": "希捷 EXOS银河企业级 ST20000NM002H 20TB 全新国行 SATA CMR 7200转 512MB",
+      "model": "ST20000NM002H",
+      "price": 7599.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "希捷捷存专卖店",
+      "sales": null,
+      "url": "https://item.jd.com/10200221415296.html",
+      "detail": {
+        "specs": "硬盘类型: 企业级硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000NM002H; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "UNKNOWN",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "店铺发货&售后服务 · 180天只换不修 · 付费延保(5年质保换新 ¥593)",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "企业级硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "ST20000NM002H",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)",
+        "condition": "全新",
+        "recording": "CMR"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 98.0,
+        "rating_count": 500,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(500+) 超98%买家赞不绝口",
+            "source_url": "https://item.jd.com/10200221415296.html",
+            "captured_at": "2026-10-29T23:09:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {
+          "name": "希捷捷存专卖店",
+          "type": "专卖店"
+        }
+      },
+      "filter_text": "希捷 EXOS银河企业级 ST20000NM002H 20TB 全新国行 SATA CMR 7200转 512MB 20TB【ST20000NM002H】512M缓存 20TB 【ST20000NM002H】512M缓存",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:20:41+00:00",
+      "detail_fetched_at": "2026-10-29T15:20:41+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（20TB【ST20000NM002H】512M缓存）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥7599 已选:20TB 【ST20000NM002H】512M缓存",
+          "source_url": "https://item.jd.com/10200221415296.html",
+          "captured_at": "2026-10-29T23:09:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:20:41+00:00",
+          "url": "https://item.jd.com/10200221415296.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "price_anchor": {
+        "value": 8949.01,
+        "source": "official_median",
+        "shop": "希捷Seagate京东自营旗舰店",
+        "url": "https://item.jd.com/100219097359.html",
+        "sample_size": 1
+      },
+      "price_ratio": 0.849,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 7599.0,
+        "landed_price": null,
+        "floor": 7599.0,
+        "ceiling": null,
+        "range": {
+          "min": 7599.0,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 7599.0,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "100219097359",
+      "listing_title": "希捷 银河 Exos X24 ST20000NM002H 20TB 企业级服务器硬盘 CMR",
+      "product_id": "100219097359",
+      "variant_id": "100219097359",
+      "variant_label": "20TB / 希捷银河-企业存储",
+      "option_path": [
+        "20TB",
+        "希捷银河-企业存储"
+      ],
+      "title": "希捷 银河 Exos X24 ST20000NM002H 20TB 企业级服务器硬盘 CMR",
+      "model": "ST20000NM002H",
+      "price": 8949.01,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": 8999.0,
+      "shop_name": "希捷Seagate京东自营旗舰店",
+      "sales": null,
+      "url": "https://item.jd.com/100219097359.html",
+      "detail": {
+        "specs": "硬盘类型: 企业级硬盘; 容量: 20TB; 转速: 7200rpm; 缓存: 512MB; 接口: SATA; 型号: ST20000NM002H; 尺寸: 3.5英寸; 品牌: 希捷(SEAGATE)",
+        "warranty": "5年",
+        "invoice": "可开发票(正品行货带票)",
+        "stock_status": "UNKNOWN",
+        "after_sales": "正品行货带票 · 供应商售后 · 五年质保 · 京东发货 · 免费上门退换",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "drive_type": "企业级硬盘",
+        "capacity": "20TB",
+        "rpm": "7200rpm",
+        "cache": "512MB",
+        "ports": "SATA",
+        "model": "ST20000NM002H",
+        "size": "3.5英寸",
+        "brand": "希捷(SEAGATE)",
+        "recording": "CMR"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 99.0,
+        "rating_count": 2000000,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(200万+) 超99%买家赞不绝口",
+            "source_url": "https://item.jd.com/100219097359.html",
+            "captured_at": "2026-10-29T23:10:00+08:00",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {
+          "name": "希捷Seagate京东自营旗舰店",
+          "type": "自营"
+        }
+      },
+      "filter_text": "希捷 银河 Exos X24 ST20000NM002H 20TB 企业级服务器硬盘 CMR 20TB / 希捷银河-企业存储 20TB 希捷银河-企业存储",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:20:41+00:00",
+      "detail_fetched_at": "2026-10-29T15:20:41+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（20TB / 希捷银河-企业存储）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥8949.01 已选:20TB / 希捷银河-企业存储;服务:供应商售后 五年质保",
+          "source_url": "https://item.jd.com/100219097359.html",
+          "captured_at": "2026-10-29T23:10:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:20:41+00:00",
+          "url": "https://item.jd.com/100219097359.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "price_anchor": {
+        "value": 8949.01,
+        "source": "official_median",
+        "shop": "希捷Seagate京东自营旗舰店",
+        "url": "https://item.jd.com/100219097359.html",
+        "sample_size": 1
+      },
+      "price_ratio": 1.0,
+      "price_anomaly": false,
+      "landed_price": {
+        "observable_price": 8949.01,
+        "landed_price": null,
+        "floor": 8949.01,
+        "ceiling": null,
+        "range": {
+          "min": 8949.01,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 8949.01,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      }
+    },
+    {
+      "platform": "jd",
+      "listing_id": "10225415721044",
+      "listing_title": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年",
+      "product_id": "10225415721044",
+      "variant_id": "10225415721044",
+      "variant_label": "ST20000NM002H 质保五年",
+      "option_path": [
+        "20TB",
+        "ST20000NM002H 质保五年"
+      ],
+      "title": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年",
+      "model": "ST20000NM002H",
+      "price": 4379.0,
+      "price_status": "visible",
+      "currency": "CNY",
+      "orig_price": null,
+      "shop_name": "硬盘商城20",
+      "sales": null,
+      "url": "https://item.jd.com/10225415721044.html",
+      "detail": {
+        "specs": "品牌: 希捷(SEAGATE); 型号: ST20000NM002H; 容量: 20TB; 接口: SATA3.0; 尺寸: 3.5英寸",
+        "warranty": "5年",
+        "invoice": "UNKNOWN",
+        "stock_status": "UNKNOWN",
+        "after_sales": "店铺发货&售后服务 · 支持7天无理由退货 · 5年换新为付费增值(¥525)",
+        "usage_notes": ""
+      },
+      "attributes": {
+        "brand": "希捷(SEAGATE)",
+        "model": "ST20000NM002H",
+        "capacity": "20TB",
+        "ports": "SATA3.0",
+        "size": "3.5英寸"
+      },
+      "reviews": {
+        "status": "ok",
+        "rating": null,
+        "positive_rate": 100.0,
+        "rating_count": 1,
+        "sample_size": 0,
+        "negative_rate": null,
+        "negative_themes": [],
+        "positive_themes": [],
+        "evidence": [
+          {
+            "field": "reviews",
+            "snippet": "评价(1) 好评率高达100%",
+            "source_url": "https://item.jd.com/10225415721044.html",
+            "captured_at": "2026-10-29T23:11:00+08:00",
+            "confidence": 0.7
+          }
+        ]
+      },
+      "sections": {
+        "qa": [],
+        "notes": [],
+        "recommendations": [],
+        "shop": {
+          "name": "硬盘商城²⁰",
+          "type": "专营店"
+        }
+      },
+      "filter_text": "希捷 ST20000NM002H 20TB 氦气银河企业级NAS机械硬盘 质保五年 ST20000NM002H 质保五年 20TB ST20000NM002H 质保五年",
+      "excluded_early": false,
+      "exclusion_reason": "",
+      "fetched_at": "2026-10-29T15:20:41+00:00",
+      "detail_fetched_at": "2026-10-29T15:20:41+00:00",
+      "confidence": 0.9,
+      "price_note": "价格为当前选中配置的页面报价（ST20000NM002H 质保五年）",
+      "flags": {
+        "ad": false
+      },
+      "evidence": [
+        {
+          "field": "price",
+          "value": null,
+          "snippet": "¥4379 已选:20TB / ST20000NM002H 质保五年",
+          "source_url": "https://item.jd.com/10225415721044.html",
+          "captured_at": "2026-10-29T23:11:00+08:00",
+          "confidence": 0.9,
+          "source": "playwright"
+        }
+      ],
+      "browser_evidence": [],
+      "price_observations": [],
+      "sources": [
+        {
+          "type": "playwright",
+          "captured_at": "2026-10-29T15:20:41+00:00",
+          "url": "https://item.jd.com/10225415721044.html"
+        }
+      ],
+      "manual_scores": {},
+      "needs_review": false,
+      "price_anchor": {
+        "value": 8949.01,
+        "source": "official_median",
+        "shop": "希捷Seagate京东自营旗舰店",
+        "url": "https://item.jd.com/100219097359.html",
+        "sample_size": 1
+      },
+      "price_ratio": 0.489,
+      "price_anomaly": true,
+      "landed_price": {
+        "observable_price": 4379.0,
+        "landed_price": null,
+        "floor": 4379.0,
+        "ceiling": null,
+        "range": {
+          "min": 4379.0,
+          "max": null
+        },
+        "status": "partial",
+        "known_components": {
+          "base_price": 4379.0,
+          "shipping": null,
+          "tax": null,
+          "coupon": null,
+          "other_fees": null
+        },
+        "missing_components": [
+          "shipping",
+          "tax",
+          "coupon",
+          "other_fees"
+        ],
+        "completeness": 0.2,
+        "note": "仅有检索价/详情价；未含或未确认：shipping、tax、coupon、other_fees"
+      }
+    }
+  ],
+  "warnings": [
+    "jd:10047163336671 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10196549274570 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100077487247 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10136266102623 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10200221415296 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:100219097359 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees",
+    "jd:10225415721044 到手价为下限/区间，缺少：shipping, tax, coupon, other_fees"
+  ],
+  "errors": []
+}

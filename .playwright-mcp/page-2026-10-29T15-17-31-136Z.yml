@@ -1,0 +1,455 @@
+- generic [active] [ref=f35e1]:
+  - generic [ref=f35e4]:
+    - generic [ref=f35e6]:
+      - navigation "顶部导航" [ref=f35e519]:
+        - list [ref=f35e520]:
+          - listitem [ref=f35e521]:
+            - generic [ref=f35e522]:
+              - generic [ref=f35e523] [cursor=pointer]
+              - generic "京东首页" [ref=f35e526] [cursor=pointer]
+          - listitem [ref=f35e527]
+          - listitem [ref=f35e528]:
+            - generic [ref=f35e529]:
+              - link "jd_o84d14k2a..." [ref=f35e531] [cursor=pointer]:
+                - /url: //home.jd.com/
+              - generic [ref=f35e532]: 
+          - generic [ref=f35e533]:
+            - listitem [ref=f35e534]
+            - listitem [ref=f35e535]:
+              - generic [ref=f35e536]: 同款搜低价
+          - generic [ref=f35e538]:
+            - listitem [ref=f35e539]
+            - listitem [ref=f35e540]:
+              - generic [ref=f35e541]: 桌面版
+        - list [ref=f35e543]:
+          - listitem [ref=f35e544]:
+            - link "购物车 7" [ref=f35e548] [cursor=pointer]:
+              - /url: //cart.jd.com/cart.action
+          - listitem [ref=f35e549]
+          - listitem [ref=f35e550]:
+            - generic [ref=f35e551]:
+              - link "我在APP看过" [ref=f35e552] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - generic [ref=f35e553]: 
+          - listitem [ref=f35e554]
+          - listitem [ref=f35e555]:
+            - link "我的订单" [ref=f35e557] [cursor=pointer]:
+              - /url: //order.jd.com/center/list.action
+          - listitem [ref=f35e558]
+          - listitem [ref=f35e559]:
+            - generic [ref=f35e560]:
+              - link "我的京东" [ref=f35e561] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - generic [ref=f35e562]: 
+          - listitem [ref=f35e563]
+          - listitem [ref=f35e564]:
+            - generic [ref=f35e565]:
+              - link "企业采购" [ref=f35e566] [cursor=pointer]:
+                - /url: //b.jd.com/?bjdSourceChannel=cjdqiehuanqiyeban
+              - generic [ref=f35e567]: 
+          - listitem [ref=f35e568]
+          - listitem [ref=f35e569]:
+            - button "网站导航" [ref=f35e570]:
+              - text: 网站导航
+              - generic [ref=f35e571]: 
+          - listitem [ref=f35e572]
+          - listitem [ref=f35e573]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link:
+                - /url: "#"
+    - generic [ref=f35e8] [cursor=pointer]
+    - generic [ref=f35e11]:
+      - generic [ref=f35e13]:
+        - link "电脑、办公" [ref=f35e15] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+        - generic [ref=f35e16]: ">"
+        - link "电脑组件" [ref=f35e18] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677&sourcePage=itemBreadCrumb
+        - generic [ref=f35e19]: ">"
+        - link "硬盘" [ref=f35e21] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&sourcePage=itemBreadCrumb
+        - generic [ref=f35e22]: ">"
+        - link "希捷（SEAGATE）" [ref=f35e24] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677%2C683&ev=exbrand_17941&sourcePage=itemBreadCrumb
+      - generic [ref=f35e25]:
+        - generic [ref=f35e27] [cursor=pointer]:
+          - generic [ref=f35e30]:
+            - generic "Seagate希捷旗舰店" [ref=f35e32]
+            - generic [ref=f35e35]:
+              - generic [ref=f35e36]: 进店逛逛，享更多优惠
+              - generic [ref=f35e37]: 精选镇店好物，快来逛逛
+              - generic [ref=f35e38]: 进店逛逛，享更多优惠
+              - generic [ref=f35e39]: 精选镇店好物，快来逛逛
+          - generic [ref=f35e40]:
+            - generic [ref=f35e41]: 关注店铺
+            - generic [ref=f35e43]: 联系客服
+        - generic [ref=f35e49]:
+          - generic [ref=f35e50]:
+            - textbox "搜索" [ref=f35e62]: 希捷硬盘12t
+            - generic [ref=f35e63] [cursor=pointer]:
+              - button "搜本店" [ref=f35e64]
+              - button "搜全站" [ref=f35e65]
+          - generic [ref=f35e66]:
+            - generic [ref=f35e574] [cursor=pointer]: 希捷监控硬盘8t
+            - generic [ref=f35e575] [cursor=pointer]: 希捷硬盘企业级
+            - generic [ref=f35e576] [cursor=pointer]: 希捷硬盘nas
+            - generic [ref=f35e577] [cursor=pointer]: 希捷监控硬盘4t
+            - generic [ref=f35e578] [cursor=pointer]: 希捷酷狼
+      - generic [ref=f35e74]:
+        - generic [ref=f35e76]:
+          - generic [ref=f35e77]:
+            - generic [ref=f35e78]:
+              - generic [ref=f35e80]:
+                - generic [ref=f35e81] [cursor=pointer]
+                - generic [ref=f35e84] [cursor=pointer]
+                - generic [ref=f35e86] [cursor=pointer]
+                - generic [ref=f35e88] [cursor=pointer]
+                - generic [ref=f35e90] [cursor=pointer]
+                - generic [ref=f35e92] [cursor=pointer]
+                - generic [ref=f35e94] [cursor=pointer]
+                - generic [ref=f35e96] [cursor=pointer]: 规格参数
+              - generic [ref=f35e100] [cursor=pointer]
+            - generic [ref=f35e101]:
+              - generic [ref=f35e102]: 
+              - img [ref=f35e107] [cursor=pointer]
+              - generic [ref=f35e110]:
+                - generic [ref=f35e113] [cursor=pointer]
+                - generic [ref=f35e115]:
+                  - generic [ref=f35e116]:
+                    - generic [ref=f35e118]:
+                      - generic [ref=f35e120] [cursor=pointer]
+                      - slider [ref=f35e122] [cursor=pointer]: "0"
+                    - generic [ref=f35e123]: 0:03 / 0:47
+                    - generic [ref=f35e128] [cursor=pointer]
+                  - slider [ref=f35e130] [cursor=pointer]: "7"
+              - generic [ref=f35e133] [cursor=pointer]:
+                - generic [ref=f35e134]: 商品对比
+                - generic [ref=f35e135]: 
+          - generic [ref=f35e138]:
+            - generic [ref=f35e142]:
+              - generic [ref=f35e143] [cursor=pointer]: 大家评
+              - generic [ref=f35e145] [cursor=pointer]: 店铺
+              - generic [ref=f35e147] [cursor=pointer]: 商品详情
+              - generic [ref=f35e149] [cursor=pointer]: 售后保障
+              - generic [ref=f35e151] [cursor=pointer]: 推荐
+            - generic [ref=f35e154]:
+              - generic [ref=f35e156]:
+                - generic [ref=f35e579]:
+                  - generic [ref=f35e580]:
+                    - generic [ref=f35e581]: 买家评价(1万+)
+                    - generic [ref=f35e582]: 超98%买家赞不绝口
+                  - generic [ref=f35e585]:
+                    - generic [ref=f35e586]:
+                      - generic [ref=f35e587]:
+                        - generic [ref=f35e588]: 运行稳定
+                        - generic [ref=f35e589]: "86"
+                      - generic [ref=f35e590]:
+                        - generic [ref=f35e591]: 容量足够
+                        - generic [ref=f35e592]: "75"
+                      - generic [ref=f35e593]:
+                        - generic [ref=f35e594]: 运行速度快
+                        - generic [ref=f35e595]: "33"
+                      - generic [ref=f35e596]:
+                        - generic [ref=f35e597]: 噪音小
+                        - generic [ref=f35e598]: "73"
+                      - generic [ref=f35e599]:
+                        - generic [ref=f35e600]: 使用方便
+                        - generic [ref=f35e601]: "25"
+                      - generic [ref=f35e602]:
+                        - generic [ref=f35e603]: 兼容性超好
+                        - generic [ref=f35e604]: "33"
+                      - generic [ref=f35e605]:
+                        - generic [ref=f35e606]: 耐用性强
+                        - generic [ref=f35e607]: "12"
+                      - generic [ref=f35e608]:
+                        - generic [ref=f35e609]: 使用很舒适
+                        - generic [ref=f35e610]: "10"
+                      - generic [ref=f35e611]:
+                        - generic [ref=f35e612]: 做工精致
+                        - generic [ref=f35e613]: "7"
+                      - generic [ref=f35e614]:
+                        - generic [ref=f35e615]: 企业级硬盘
+                        - generic [ref=f35e616]: "12"
+                      - generic [ref=f35e617]:
+                        - generic [ref=f35e618]: 解决内存不足
+                        - generic [ref=f35e619]: "1"
+                      - generic [ref=f35e620]:
+                        - generic [ref=f35e621]: 传输速度够用
+                        - generic [ref=f35e622]: "4"
+                    - list [ref=f35e623]:
+                      - listitem [ref=f35e624]:
+                        - generic [ref=f35e625]: A***y
+                        - generic [ref=f35e627]: 整体评价 非常好 使用体验 除了开机会有几声炒豆声，在我拷文件的过程中，没有出现评论区说得会很吵，声音完全被机箱风扇掩盖。 产品质量 崭新正品。
+                        - generic [ref=f35e628]:
+                          - generic [ref=f35e629] [cursor=pointer]
+                          - generic [ref=f35e630] [cursor=pointer]
+                          - generic [ref=f35e631] [cursor=pointer]
+                      - listitem [ref=f35e632]:
+                        - generic [ref=f35e633]: 小***辣
+                        - generic [ref=f35e635]: 希捷的硬盘整体还是不错的，实验室服务器数据硬盘有点少，专门买来扩容用的，之前的代替方案不行，还是买企业硬盘好些呀，用起来很顺手，价格也不错，很实在！
+                        - generic [ref=f35e636]:
+                          - generic [ref=f35e637] [cursor=pointer]
+                          - generic [ref=f35e638] [cursor=pointer]
+                      - listitem [ref=f35e639]:
+                        - generic [ref=f35e640]: 韩***人
+                        - generic [ref=f35e642]: 包装很好，传输速度很快，体积小小的，质量不错。之前买的2t的移动硬盘快10年了还很好用，大品牌值得信赖，一次性买了两块，后续有需要再来补货。
+                        - generic [ref=f35e643]:
+                          - generic [ref=f35e644] [cursor=pointer]
+                          - generic [ref=f35e645] [cursor=pointer]
+                    - generic [ref=f35e646] [cursor=pointer]:
+                      - generic [ref=f35e647]: 全部评价
+                      - generic [ref=f35e648]: 
+                - generic [ref=f35e649]:
+                  - generic [ref=f35e650]: 问大家
+                  - generic [ref=f35e652]:
+                    - generic [ref=f35e653]:
+                      - generic "4000a和4000b有什么区别啊？？？" [ref=f35e655]
+                      - generic [ref=f35e656]:
+                        - generic "a是7e8系列，b是7e10系列" [ref=f35e659]
+                        - generic [ref=f35e660] [cursor=pointer]:
+                          - generic [ref=f35e661]: 查看更多3个回答
+                          - generic [ref=f35e662]: 
+                    - generic [ref=f35e663]:
+                      - generic "00J和01G这两个型号有什么区别？" [ref=f35e665]
+                      - generic [ref=f35e666]:
+                        - generic "一个x18,一个x16" [ref=f35e669]
+                        - generic [ref=f35e670] [cursor=pointer]:
+                          - generic [ref=f35e671]: 查看更多2个回答
+                          - generic [ref=f35e672]: 
+                  - generic [ref=f35e673] [cursor=pointer]:
+                    - generic [ref=f35e674]: 全部问答
+                    - generic [ref=f35e675]: 
+              - generic [ref=f35e230]:
+                - generic [ref=f35e231]: 进店逛逛
+                - generic [ref=f35e233]:
+                  - generic [ref=f35e234] [cursor=pointer]
+                  - generic [ref=f35e237]:
+                    - generic [ref=f35e238] [cursor=pointer]: 联系客服
+                    - generic [ref=f35e241] [cursor=pointer]: 进店逛逛
+              - generic [ref=f35e244]: 商品详情
+        - generic [ref=f35e279]:
+          - generic [ref=f35e280]:
+            - generic [ref=f35e281]: 又好又便宜
+            - generic [ref=f35e288]:
+              - generic [ref=f35e291]:
+                - generic [ref=f35e292]: 希捷（SEAGATE）企业级硬盘 服务器机械硬盘 垂直硬盘 PMR CMR SATA 银河系列7200转企业硬盘3.5英寸 20TB 【ST20000NM007D】
+                - generic [ref=f35e293] [cursor=pointer]: 收藏
+              - generic [ref=f35e295]:
+                - generic [ref=f35e297]:
+                  - generic [ref=f35e298] [cursor=pointer]: ¥7599.05
+                  - generic [ref=f35e299]: 到手价
+                  - generic [ref=f35e300]: ¥7999
+                  - generic [ref=f35e302]: 累计评价 1万+
+                  - generic [ref=f35e305] [cursor=pointer]:
+                    - generic [ref=f35e306]: 
+                    - text: 降价通知
+                - generic [ref=f35e310]:
+                  - generic [ref=f35e311]:
+                    - generic [ref=f35e312]: 已享受：
+                    - generic [ref=f35e313]:
+                      - generic [ref=f35e314] [cursor=pointer]: 满6000享9.5折
+                      - img [ref=f35e316] [cursor=pointer]
+                  - generic [ref=f35e317]:
+                    - generic [ref=f35e318]: 可再享：
+                    - generic [ref=f35e319]:
+                      - generic [ref=f35e320] [cursor=pointer]: 最高返379京豆
+                      - img [ref=f35e322] [cursor=pointer]
+              - list [ref=f35e680]:
+                - listitem [ref=f35e681]:
+                  - link "企业会员6000元补贴，办公设备/易耗品一站式采购！" [ref=f35e684] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/wPxBWVuiHctmS4MX9ywq5n57kiF/index.html?babelChannel=ttt21&hdid=bUTiORFpTb4&returnurl=https%3A%2F%2Fitem.jd.com%2F10047163336671.html
+              - link "企业级硬盘热卖榜·第8名" [ref=f35e327] [cursor=pointer]:
+                - /url: https://pro.jd.com/mall/active/4JRfHorUDXgL77E9YdNxSCNMKwkJ/index.html?pageNum=1&bbtf=1&queryType=1&rankId=3580187&rankType=10&fromName=ProductdetailPC&preSrc=null&currSku=10047163336671&currSpu=10021690519195&transparent=1
+              - generic [ref=f35e332]:
+                - generic [ref=f35e333]: 送至
+                - generic [ref=f35e335]:
+                  - generic [ref=f35e336]: 明天18:00前付款，预计11月01日(周日)送达
+                  - generic [ref=f35e337]:
+                    - generic [ref=f35e685] [cursor=pointer]: 江苏南京市江宁区秣陵街道
+                    - link "包邮" [ref=f35e338] [cursor=pointer]:
+                      - /url: //help.jd.com/user/issue/109-4012.html
+                  - generic [ref=f35e343]:
+                    - generic [ref=f35e344]: 京东物流
+                    - generic [ref=f35e346] [cursor=pointer]:
+                      - link "送货上门·" [ref=f35e347]:
+                        - /url: https://help.jd.com/user/issue/254-4130.html
+                      - link "预约送货" [ref=f35e348]:
+                        - /url: https://help.jd.com/user/issue/103-983.html
+              - generic [ref=f35e349]:
+                - generic [ref=f35e690]:
+                  - generic [ref=f35e691]: 系列品
+                  - generic [ref=f35e692]:
+                    - generic [ref=f35e693] [cursor=pointer]: SATA接口|3.5英寸
+                    - generic [ref=f35e695] [cursor=pointer]: SAS接口|3.5英寸
+                    - generic [ref=f35e697] [cursor=pointer]: SAS接口|2.5英寸
+                - generic [ref=f35e360]:
+                  - generic [ref=f35e361]: 容量
+                  - generic [ref=f35e362]:
+                    - generic [ref=f35e363] [cursor=pointer]:
+                      - img "2TB 【ST2000NM000B】" [ref=f35e364]
+                      - generic [ref=f35e365]: 2TB 【ST2000NM000B】
+                    - generic [ref=f35e366] [cursor=pointer]:
+                      - img "4TB 【ST4000NM000B】" [ref=f35e367]
+                      - generic [ref=f35e368]: 4TB 【ST4000NM000B】
+                    - generic [ref=f35e369] [cursor=pointer]:
+                      - img "6TB 【ST6000NM019B】" [ref=f35e370]
+                      - generic [ref=f35e371]: 6TB 【ST6000NM019B】
+                    - generic [ref=f35e372] [cursor=pointer]:
+                      - img "8TB 【ST8000NM017B】" [ref=f35e373]
+                      - generic [ref=f35e374]: 8TB 【ST8000NM017B】
+                    - generic [ref=f35e375] [cursor=pointer]:
+                      - img "10TB 【ST10000NM017B】" [ref=f35e376]
+                      - generic [ref=f35e377]: 10TB 【ST10000NM017B】
+                    - generic "「12TB 【ST12000NM000J】」 无货" [ref=f35e699] [cursor=pointer]:
+                      - img "12TB 【ST12000NM000J】" [ref=f35e379]
+                      - generic [ref=f35e380]: 12TB 【ST12000NM000J】
+                      - generic [ref=f35e700]: 无货
+                    - generic "「16TB 【ST16000NM000J】」 无货" [ref=f35e701] [cursor=pointer]:
+                      - img "16TB 【ST16000NM000J】" [ref=f35e382]
+                      - generic [ref=f35e383]: 16TB 【ST16000NM000J】
+                      - generic [ref=f35e702]: 无货
+                    - generic [ref=f35e384] [cursor=pointer]:
+                      - img "18TB 【ST18000NM000J】" [ref=f35e385]
+                      - generic [ref=f35e386]: 18TB 【ST18000NM000J】
+                    - generic [ref=f35e387] [cursor=pointer]:
+                      - img "20TB 【ST20000NM007D】" [ref=f35e388]
+                      - generic [ref=f35e389]: 20TB 【ST20000NM007D】
+                    - generic [ref=f35e390] [cursor=pointer]:
+                      - img "12TB 【ST12000NM002H 】X24" [ref=f35e391]
+                      - generic [ref=f35e392]: 12TB 【ST12000NM002H 】X24
+                    - generic [ref=f35e393] [cursor=pointer]:
+                      - img "16TB 【ST16000NM002H 】X24" [ref=f35e394]
+                      - generic [ref=f35e395]: 16TB 【ST16000NM002H 】X24
+                    - generic [ref=f35e396] [cursor=pointer]:
+                      - img "20TB 【ST20000NM002H】X24" [ref=f35e397]
+                      - generic [ref=f35e398]: 20TB 【ST20000NM002H】X24
+                    - generic [ref=f35e399] [cursor=pointer]:
+                      - img "24TB 【ST24000NM002H】X24" [ref=f35e400]
+                      - generic [ref=f35e401]: 24TB 【ST24000NM002H】X24
+                    - generic "「28TB 【ST28000NM003K】Mozaic」 无货" [ref=f35e703] [cursor=pointer]:
+                      - img "28TB 【ST28000NM003K】Mozaic" [ref=f35e403]
+                      - generic [ref=f35e404]: 28TB 【ST28000NM003K】Mozaic
+                      - generic [ref=f35e704]: 无货
+                    - generic "「30TB 【ST30000NM004K】Mozaic」 无货" [ref=f35e705] [cursor=pointer]:
+                      - img "30TB 【ST30000NM004K】Mozaic" [ref=f35e406]
+                      - generic [ref=f35e407]: 30TB 【ST30000NM004K】Mozaic
+                      - generic [ref=f35e706]: 无货
+                    - generic [ref=f35e408] [cursor=pointer]:
+                      - img "32TB 【ST32000NM004K】Mozaic" [ref=f35e409]
+                      - generic [ref=f35e410]: 32TB 【ST32000NM004K】Mozaic
+              - generic [ref=f35e412]:
+                - generic [ref=f35e413]: 服务
+                - generic [ref=f35e415]:
+                  - generic [ref=f35e416]:
+                    - generic [ref=f35e417]:
+                      - generic "支持港澳台及海外收货地址下单，由于各地区政策不同，具体请以结算页详情为准" [ref=f35e418]: 可配送全球
+                      - generic [ref=f35e419]: ·
+                    - generic [ref=f35e420]:
+                      - generic "售后时效内申请退换货，选择上门取件优先安排京东物流服务，无需支付退换货运费；选择自寄，售后完成后补首重运费。" [ref=f35e421]: 免费上门退换
+                      - generic [ref=f35e422]: ·
+                    - generic [ref=f35e423]:
+                      - link "7天价保" [ref=f35e424] [cursor=pointer]:
+                        - /url: https://help.jd.com/user/issue/291-4537.html
+                      - generic [ref=f35e425]: ·
+                    - link "极速审核" [ref=f35e427] [cursor=pointer]:
+                      - /url: //help.jd.com/user/issue/list-114-470.html
+                    - generic [ref=f35e429]:
+                      - generic "京东发货&店铺售后" [ref=f35e430]
+                      - generic [ref=f35e431]: ·
+                    - generic [ref=f35e432]:
+                      - link "高价回收" [ref=f35e433] [cursor=pointer]:
+                        - /url: //huishou.jd.com/huanxin?s=1&skuId=10047163336671
+                      - generic [ref=f35e434]: ·
+                    - generic "支持7天无理由退货" [ref=f35e436]
+                  - generic [ref=f35e708] [cursor=pointer]
+              - generic [ref=f35e440]:
+                - generic [ref=f35e441]: 优选服务
+                - generic [ref=f35e442]:
+                  - generic [ref=f35e443]:
+                    - generic [ref=f35e444]: 全保换新
+                    - generic [ref=f35e446]:
+                      - generic [ref=f35e447] [cursor=pointer]:
+                        - generic [ref=f35e448]: 4年全保换新
+                        - generic [ref=f35e449]: "619.00"
+                      - generic [ref=f35e450] [cursor=pointer]:
+                        - generic [ref=f35e451]: 3年全保换新
+                        - generic [ref=f35e452]: "569.00"
+                  - generic [ref=f35e453]:
+                    - generic [ref=f35e454]: 数据恢复
+                    - generic [ref=f35e456]:
+                      - generic [ref=f35e457] [cursor=pointer]:
+                        - generic [ref=f35e458]: 1年数据恢复服务
+                        - generic [ref=f35e459]: "79.00"
+                      - generic [ref=f35e460] [cursor=pointer]:
+                        - generic [ref=f35e461]: 2年数据恢复服务
+                        - generic [ref=f35e462]: "119.00"
+                      - generic [ref=f35e463] [cursor=pointer]:
+                        - generic [ref=f35e464]: 3年数据恢复服务
+                        - generic [ref=f35e465]: "169.00"
+                  - generic [ref=f35e466]:
+                    - generic [ref=f35e467]: 质保只换不修
+                    - generic [ref=f35e469]:
+                      - generic [ref=f35e470] [cursor=pointer]:
+                        - generic [ref=f35e471]: 5年质保换新
+                        - generic [ref=f35e472]: "593.00"
+                      - generic [ref=f35e473] [cursor=pointer]:
+                        - generic [ref=f35e474]: 2年质保换新
+                        - generic [ref=f35e475]: "309.00"
+                      - generic [ref=f35e476] [cursor=pointer]:
+                        - generic [ref=f35e477]: 3年质保换新
+                        - generic [ref=f35e478]: "389.00"
+                  - generic [ref=f35e479] [cursor=pointer]: 展开全部
+              - generic [ref=f35e484]:
+                - generic [ref=f35e485]: 白条分期
+                - generic [ref=f35e487]:
+                  - generic [ref=f35e488]:
+                    - generic [ref=f35e489] [cursor=pointer]:
+                      - generic [ref=f35e490]: 不分期
+                      - generic [ref=f35e491]: 0服务费
+                    - generic [ref=f35e492] [cursor=pointer]:
+                      - generic [ref=f35e493]: ￥2533.71 x 3期
+                      - generic [ref=f35e494]: 含服务费：￥0.68/期
+                  - generic [ref=f35e495]: 展开全部
+          - generic [ref=f35e499]:
+            - generic [ref=f35e501]:
+              - generic [ref=f35e502]: 仅剩3件
+              - generic [ref=f35e505]:
+                - button "减少" [ref=f35e506]: "-"
+                - textbox [ref=f35e507]: "1"
+                - button "增加" [ref=f35e508] [cursor=pointer]: +
+            - generic [ref=f35e510]:
+              - generic [ref=f35e709] [cursor=pointer]: 加入购物车
+              - generic [ref=f35e712] [cursor=pointer]: 立即购买
+  - generic [ref=f35e715]:
+    - list [ref=f35e716]:
+      - listitem [ref=f35e717]:
+        - link "首页" [ref=f35e718] [cursor=pointer]:
+          - /url: //www.jd.com
+      - listitem [ref=f35e722]:
+        - link "7 购物车" [ref=f35e723] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=f35e724]: "7"
+          - generic [ref=f35e727]: 购物车
+      - listitem [ref=f35e728]:
+        - link "我的" [ref=f35e729] [cursor=pointer]:
+          - /url: //home.jd.com
+      - listitem [ref=f35e734]:
+        - link "客服" [ref=f35e735] [cursor=pointer]:
+          - /url: https://chat.jd.com/index.action?_t=&pid=10047163336671
+      - listitem [ref=f35e740]:
+        - link "手机查看" [ref=f35e741] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f35e747]:
+        - link "桌面版" [ref=f35e749] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f35e753]:
+        - link "插件版" [ref=f35e755] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f35e759]:
+        - link "反馈" [ref=f35e760] [cursor=pointer]:
+          - /url: //wj-dongjian.jd.com/q/61961a0a457e4000a3085f78
+    - link "收起" [ref=f35e768] [cursor=pointer]:
+      - /url: "#"

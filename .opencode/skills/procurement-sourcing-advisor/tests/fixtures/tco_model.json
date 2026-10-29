@@ -1,0 +1,10 @@
+{
+  "years": 3,
+  "defaults": {
+    "consumables_per_year_cny": 0,
+    "energy_per_year_cny": 0,
+    "maintenance_per_year_cny": 0,
+    "accessories_cny": 0,
+    "resale_value_cny": 0
+  }
+}

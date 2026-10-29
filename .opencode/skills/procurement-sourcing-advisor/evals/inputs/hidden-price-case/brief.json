@@ -1,0 +1,27 @@
+{
+  "category": "办公椅",
+  "item_description": "办公室人体工学椅",
+  "quantity": 10,
+  "budget_cny": 8000,
+  "budget_per_unit_cny": 800,
+  "must_have": [
+    "可开发票"
+  ],
+  "nice_to_have": [
+    "可调腰托",
+    "网布"
+  ],
+  "exclusions": [
+    "二手"
+  ],
+  "allow_split": true,
+  "allow_alternative_models": true,
+  "invoice_required": true,
+  "usage_context": "10 人办公室统一配置",
+  "confirmed": {
+    "by_user": true,
+    "at": "2026-10-29T08:00:00+08:00",
+    "revision": 1,
+    "changes": []
+  }
+}

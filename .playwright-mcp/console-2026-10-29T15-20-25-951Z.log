@@ -1,0 +1,7 @@
+[     960ms] [LOG] [mainPicImageEl onload]: 719.1999999880791 @ https://item.taobao.com/item.htm?id=956886528801:235
+[    1104ms] [LOG] [@ali/lib-mtop] The current page does not have the lib.windvane variable, automatically downgraded to H5 request @ https://g.alicdn.com/code/npm/@ali/tbpc-pc-detail-ssr-2025/0.0.95/js/p_home.js:0
+[    1127ms] [LOG] [markFCPForCSR]: 885.5 @ https://g.alicdn.com/code/npm/@ali/tbpc-pc-detail-ssr-2025/0.0.95/js/p_home.js:0
+[    1263ms] [LOG] Thu Oct 29 2026 23:20:27 GMT+0800 (中国标准时间) @ https://g.alicdn.com/AWSC/et/1.84.16/et_f.js:2
+[    2185ms] [LOG] [markSFSP]: 886.5 719.6000000238419 886.5 @ https://g.alicdn.com/code/npm/@ali/tbpc-pc-detail-ssr-2025/0.0.95/js/p_home.js:0
+[    3353ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ https://o.alicdn.com/tbpc/customer-service/index.umd.es5.production.js:0
+[    3362ms] [LOG] %c [APLUS] -- APLUS INIT SUCCESS background:#3B82FE; padding: 4px; padding-right: 8px; border-radius: 4px; color: #fff; @ https://o.alicdn.com/tbpc/customer-service/index.umd.es5.production.js:0

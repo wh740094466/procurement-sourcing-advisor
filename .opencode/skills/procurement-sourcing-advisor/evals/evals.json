@@ -1,0 +1,55 @@
+{
+  "skill_name": "procurement-sourcing-advisor",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "我们行政要买 4 台 27 英寸 2K 办公显示器，单台上限 1500，必须能开发票，二手翻新不要。这是我们从淘宝和京东导出的原始数据，帮我出个采购方案，Markdown 备忘录 + CSV 比价表 + JSON 报告都要。",
+      "expected_output": "推荐京东 200001（Redmi A27Q，¥899/台）；二手 800002、广告位 200003、超预算的 800001/200002 被淘汰并说明原因；空价与 0 价标记为 hidden/UNKNOWN 不参与比价；报告明确拼多多未覆盖；生成 report.md、candidates.csv、report.json 三份产物。",
+      "files": [
+        "evals/inputs/monitor-case/brief.json",
+        "evals/inputs/monitor-case/raw_capture.json",
+        "evals/inputs/monitor-case/scorecard.json"
+      ],
+      "expectations": [
+        "生成 report.md、candidates.csv、report.json 三份产物",
+        "推荐（或唯一合格候选）为京东 200001（Redmi A27Q）",
+        "二手候选 800002 未进入推荐/合格池",
+        "广告位 200003 被淘汰或明确排除",
+        "空价/零价未被当作 0 元参与比价",
+        "明确拼多多不在覆盖范围",
+        "800001(1899) 与 200002(2499) 因超 1500/台预算被淘汰"
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "办公室要换 10 把人体工学椅，总共 8000 预算，要能开发票。这是我们抓到的淘宝京东数据，你帮我看看哪家最便宜，直接给结论，Markdown + CSV + JSON 都要。",
+      "expected_output": "在价格可见的候选里推荐京东 300001（¥699/把），并把结论限定为“可见价格范围内”；空串/面议/0/null 一律 hidden/UNKNOWN；提示开票、运费、库存与结算页核实等下一步动作。",
+      "files": [
+        "evals/inputs/hidden-price-case/brief.json",
+        "evals/inputs/hidden-price-case/raw_capture.json"
+      ],
+      "expectations": [
+        "生成 report.md、candidates.csv、report.json 三份产物",
+        "空串/面议/0/null 价格未被写成 0 或猜测数字",
+        "结论限定在可见价格范围内，未宣称全网最低",
+        "提示开票/运费/库存需下单前确认",
+        "价格结论带'结算页/未含'等条件说明",
+        "给出补证下一步（浏览器/询价/登录）"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "下季度要给 15 人的团队换办公椅，单把预算 900，必须能开专票，最好 3 年质保。先别去抓数据，先把采购简报和评分卡给我，我要看权重和淘汰条件怎么定的。",
+      "expected_output": "输出 brief.json（quantity=15、单把预算 900）与 scorecard.json（权重和 1.0、每维度声明 missing 策略、≥4 维度与 ≥2 硬过滤），且不编造任何商品价格或购买推荐。",
+      "files": [],
+      "expectations": [
+        "brief.json 与 scorecard.json 存在且可解析",
+        "维度权重之和为 1.0",
+        "至少 4 个评分维度、2 条硬过滤",
+        "每个维度声明缺失值策略",
+        "简报数量=15、单把预算=900",
+        "未编造具体商品价格或购买推荐"
+      ]
+    }
+  ]
+}

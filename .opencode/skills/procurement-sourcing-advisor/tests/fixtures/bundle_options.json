@@ -1,0 +1,8 @@
+{
+  "max_orders": 2,
+  "max_quantity_per_candidate": 2,
+  "shipping_thresholds": [
+    {"min_subtotal_cny": 0, "shipping_cny": 0}
+  ],
+  "coupons": []
+}

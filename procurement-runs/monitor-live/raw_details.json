@@ -1,0 +1,96 @@
+{
+  "details": [
+    {
+      "platform": "jd",
+      "product_id": "100207738135",
+      "result": {
+        "sku": "100207738135",
+        "name": "小米（MI）REDMI 27英寸2K显示器 120Hz IPS技术 广色域电脑办公显示器 A27Q多功能支架2026款",
+        "price": "749.00",
+        "shop": "小米京东自营旗舰店",
+        "specs": "品牌: 小米（MI）; 商品编号: 100207738135; 认证型号: P27QDB-RA; 能效网规格型号: P27QDB-RA; 支架底座: 旋转升降; 能效等级: 二级能效; 类型: 直面屏; 型号: P27QDB-RA; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 120Hz; 曲率: 平面; 接口: HDMI DP 其他",
+        "url": "https://item.jd.com/100207738135.html"
+      }
+    },
+    {
+      "platform": "jd",
+      "product_id": "100275929320",
+      "result": {
+        "sku": "100275929320",
+        "name": "小米（MI）REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q 2026款",
+        "price": "629.00",
+        "shop": "小米京东自营旗舰店",
+        "specs": "品牌: 小米（MI）; 商品编号: 100275929320; 能效网规格型号: P27QDA-RA; 屏幕尺寸: 27英寸; 颜色: 黑色; 认证型号: P27QDA-RA; 支架底座: 普通; 对比度: 1300:1; 响应时间: 6ms; 类型: 直面屏; 能效等级: 二级能效; 型号: P27QDA-RA; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 120Hz; 曲率: 平面; 接口: HDMI DP",
+        "url": "https://item.jd.com/100275929320.html"
+      }
+    },
+    {
+      "platform": "jd",
+      "product_id": "100021739768",
+      "result": {
+        "sku": "100021739768",
+        "name": "AOC显示器2K 27英寸 IPS电脑显示屏幕 升降旋转 办公学习护眼低蓝光 台式拓展笔记本外接扩展屏Q27P10",
+        "price": "999.00",
+        "shop": "AOC商用京东自营旗舰店",
+        "specs": "品牌: AOC; 商品编号: 100021739768; 能效网规格型号: Q27P10; 屏幕尺寸: 27英寸; 颜色: 黑色; 认证型号: Q27P10; 亮度: 300cd/㎡; 是否内置音箱: 无内置音箱; 支架底座: 旋转升降; 电源类型: 外接电源适配器; 壁挂规格: 100x100mm; 对比度: 1300:1; 响应时间: 2ms-4ms; 屏幕比例: 16:9; 类型: 直面屏; 特性: 节能认证 旋转升降底座; 能效等级: 二级能效; 型号: Q27P10; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 100Hz; 曲率: 平面; 接口: HDMI",
+        "url": "https://item.jd.com/100021739768.html"
+      }
+    },
+    {
+      "platform": "jd",
+      "product_id": "100233693759",
+      "result": {
+        "sku": "100233693759",
+        "name": "戴尔（DELL）27英寸 2K 办公显示器 IPS 硬件级防蓝光 100Hz 内置音箱 旋转升降 商务办公 电脑显示屏 E2726DS",
+        "price": "1019.00",
+        "shop": "戴尔商用京东自营旗舰店",
+        "specs": "品牌: 戴尔（DELL）; 商品编号: 100233693759; 认证型号: E2726DS; 支架底座: 旋转升降; 类型: 直面屏; 能效等级: 二级能效; 型号: E2726DS; 面板: IPS技术; 分辨率: 2560*1440; 屏幕刷新率: 100Hz; 曲率: 平面; 接口: DP HDMI",
+        "url": "https://item.jd.com/100233693759.html"
+      }
+    },
+    {
+      "platform": "taobao",
+      "product_id": "980455908350",
+      "result": {
+        "id": "980455908350",
+        "title": "小米显示器Redmi A27Q 2026款 2K高清120Hz高刷 27英寸电脑显示屏",
+        "price": "764",
+        "shop": "Redmi官方直营店",
+        "url": "https://item.taobao.com/item.htm?id=980455908350"
+      }
+    },
+    {
+      "platform": "taobao",
+      "product_id": "729478433891",
+      "result": {
+        "id": "729478433891",
+        "title": "24寸竖屏显示器2K可升降旋转电脑27寸4K屏幕IPS屏165hz电竞副屏",
+        "price": "609",
+        "shop": "鹰械电竞显示器",
+        "url": "https://item.taobao.com/item.htm?id=729478433891"
+      }
+    }
+  ],
+  "errors": [
+    {
+      "platform": "taobao",
+      "product_id": "722956953579",
+      "error": {
+        "code": "PLATFORM_ERROR",
+        "message": "An unexpected error occurred",
+        "retryable": true,
+        "hint": "Check the server logs for details."
+      }
+    },
+    {
+      "platform": "taobao",
+      "product_id": "617760004231",
+      "error": {
+        "code": "PLATFORM_ERROR",
+        "message": "An unexpected error occurred",
+        "retryable": true,
+        "hint": "Check the server logs for details."
+      }
+    }
+  ]
+}

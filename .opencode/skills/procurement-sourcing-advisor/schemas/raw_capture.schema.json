@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.procurement/schemas/raw_capture.schema.json",
+  "title": "Raw Browser Capture (listing + variants + reviews)",
+  "description": "Output of the AI + playwright-mcp collection stage. A listing is only a container; every variant (SKU/configuration) is a separate candidate downstream. Every price and every review theme must carry a verbatim snippet.",
+  "type": "object",
+  "required": ["captures"],
+  "additionalProperties": true,
+  "properties": {
+    "captures": {
+      "type": "array",
+      "minItems": 0,
+      "items": {"$ref": "#/$defs/capture"}
+    },
+    "errors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["platform", "stage", "message"],
+        "properties": {
+          "platform": {"enum": ["taobao", "jd"]},
+          "listing_id": {"type": ["string", "null"]},
+          "stage": {"enum": ["search", "listing", "variants", "reviews", "navigation"]},
+          "message": {"type": "string"},
+          "url": {"type": "string"}
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "$defs": {
+    "capture": {
+      "type": "object",
+      "required": ["platform", "listing_id", "url", "title", "captured_at", "page_state", "variants"],
+      "additionalProperties": true,
+      "properties": {
+        "platform": {"enum": ["taobao", "jd"]},
+        "listing_id": {"type": "string", "minLength": 1},
+        "url": {"type": "string", "minLength": 1},
+        "title": {"type": "string", "minLength": 1},
+        "shop": {"type": "string"},
+        "shop_type": {"type": "string"},
+        "sales": {"type": ["string", "number", "null"]},
+        "ad": {"type": "boolean", "description": "True when the listing carried an ad badge; ad slots are excluded."},
+        "captured_at": {"type": "string", "minLength": 10},
+        "page_state": {"enum": ["ok", "login_required", "captcha", "blocked"]},
+        "variants": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/variant"}
+        },
+        "sections": {"$ref": "#/$defs/sections"},
+        "aborted": {"type": "boolean", "description": "True when collection stopped early because the listing hit a brief exclusion."},
+        "abort_reason": {"type": "string"},
+        "reviews": {"$ref": "#/$defs/reviews"},
+        "notes": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "variant": {
+      "type": "object",
+      "required": ["label", "option_path", "evidence"],
+      "additionalProperties": true,
+      "properties": {
+        "variant_id": {"type": "string"},
+        "label": {"type": "string", "minLength": 1},
+        "option_path": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"type": "string", "minLength": 1},
+          "description": "Human-readable option chain actually selected, e.g. ['27英寸','2K','多功能支架']."
+        },
+        "price": {"type": ["number", "string", "null"]},
+        "price_text": {"type": "string"},
+        "price_status": {"enum": ["visible", "hidden", "unknown"]},
+        "list_price": {"type": ["number", "string", "null"]},
+        "stock_status": {"type": "string"},
+        "promo_text": {"type": "string"},
+        "specs": {
+          "type": "object",
+          "additionalProperties": {"type": ["string", "number", "null"]}
+        },
+        "evidence": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/evidence"}
+        }
+      }
+    },
+    "sections": {
+      "type": "object",
+      "additionalProperties": true,
+      "description": "Extra page sections worth keeping: parameter table, after-sales terms, usage notes, shop info, Q&A, recommendations.",
+      "properties": {
+        "params": {"type": "object", "additionalProperties": {"type": ["string", "number", "null"]}},
+        "after_sales": {"type": "string"},
+        "usage": {"type": "string"},
+        "shop": {"type": "object", "additionalProperties": true},
+        "qa": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": true,
+            "properties": {
+              "question": {"type": "string"},
+              "answer": {"type": "string"}
+            }
+          }
+        },
+        "recommendations": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Related products shown on the page. Reference only; never becomes a candidate."
+        },
+        "notes": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "reviews": {
+      "type": "object",
+      "required": ["sample_size", "evidence"],
+      "additionalProperties": true,
+      "properties": {
+        "rating": {"type": ["number", "null"], "minimum": 0, "maximum": 5},
+        "rating_count": {"type": ["integer", "null"], "minimum": 0},
+        "sample_size": {"type": "integer", "minimum": 0},
+        "negative_themes": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/theme"}
+        },
+        "positive_themes": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/theme"}
+        },
+        "evidence": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/evidence"}
+        }
+      }
+    },
+    "theme": {
+      "type": "object",
+      "required": ["theme", "count"],
+      "additionalProperties": true,
+      "properties": {
+        "theme": {"type": "string", "minLength": 1},
+        "count": {"type": "integer", "minimum": 1},
+        "snippets": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "required": ["field", "snippet", "source_url"],
+      "additionalProperties": true,
+      "properties": {
+        "field": {"type": "string", "minLength": 1},
+        "value": {"type": ["string", "number", "null"]},
+        "snippet": {"type": "string", "minLength": 1},
+        "source_url": {"type": "string", "minLength": 1},
+        "captured_at": {"type": "string"},
+        "confidence": {"type": "number", "minimum": 0, "maximum": 1}
+      }
+    }
+  }
+}

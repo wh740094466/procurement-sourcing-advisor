@@ -1,0 +1,433 @@
+- generic [active] [ref=f33e1]:
+  - generic [ref=f33e4]:
+    - generic [ref=f33e6]:
+      - navigation "顶部导航" [ref=f33e281]:
+        - list [ref=f33e282]:
+          - listitem [ref=f33e283]:
+            - generic [ref=f33e284]:
+              - generic [ref=f33e285] [cursor=pointer]
+              - generic "京东首页" [ref=f33e288] [cursor=pointer]
+          - listitem [ref=f33e289]
+          - listitem [ref=f33e290]:
+            - generic [ref=f33e291]:
+              - link "jd_o84d14k2a..." [ref=f33e293] [cursor=pointer]:
+                - /url: //home.jd.com/
+              - generic [ref=f33e294]: 
+          - generic [ref=f33e295]:
+            - listitem [ref=f33e296]
+            - listitem [ref=f33e297]:
+              - generic [ref=f33e298]: 同款搜低价
+          - generic [ref=f33e300]:
+            - listitem [ref=f33e301]
+            - listitem [ref=f33e302]:
+              - generic [ref=f33e303]: 桌面版
+        - list [ref=f33e305]:
+          - listitem [ref=f33e306]:
+            - link "购物车 7" [ref=f33e310] [cursor=pointer]:
+              - /url: //cart.jd.com/cart.action
+          - listitem [ref=f33e311]
+          - listitem [ref=f33e312]:
+            - generic [ref=f33e313]:
+              - link "我在APP看过" [ref=f33e314] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - generic [ref=f33e315]: 
+          - listitem [ref=f33e316]
+          - listitem [ref=f33e317]:
+            - link "我的订单" [ref=f33e319] [cursor=pointer]:
+              - /url: //order.jd.com/center/list.action
+          - listitem [ref=f33e320]
+          - listitem [ref=f33e321]:
+            - generic [ref=f33e322]:
+              - link "我的京东" [ref=f33e323] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - generic [ref=f33e324]: 
+          - listitem [ref=f33e325]
+          - listitem [ref=f33e326]:
+            - generic [ref=f33e327]:
+              - link "企业采购" [ref=f33e328] [cursor=pointer]:
+                - /url: //b.jd.com/?bjdSourceChannel=cjdqiehuanqiyeban
+              - generic [ref=f33e329]: 
+          - listitem [ref=f33e330]
+          - listitem [ref=f33e331]:
+            - button "网站导航" [ref=f33e332]:
+              - text: 网站导航
+              - generic [ref=f33e333]: 
+          - listitem [ref=f33e334]
+          - listitem [ref=f33e335]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link:
+                - /url: "#"
+    - generic [ref=f33e8] [cursor=pointer]
+    - generic [ref=f33e11]:
+      - generic [ref=f33e13]:
+        - link "电脑、办公" [ref=f33e15] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670&sourcePage=itemBreadCrumb
+        - generic [ref=f33e16]: ">"
+        - link "电脑组件" [ref=f33e18] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677&sourcePage=itemBreadCrumb
+        - generic [ref=f33e19]: ">"
+        - link "显示器" [ref=f33e21] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677%2C688&sourcePage=itemBreadCrumb
+        - generic [ref=f33e22]: ">"
+        - link "小米（MI）" [ref=f33e24] [cursor=pointer]:
+          - /url: https://list.jd.com/list.html?cat=670%2C677%2C688&ev=exbrand_18374&sourcePage=itemBreadCrumb
+      - generic [ref=f33e25]:
+        - generic [ref=f33e27] [cursor=pointer]:
+          - generic [ref=f33e30]:
+            - generic "小米京东自营旗舰店" [ref=f33e34]
+            - generic [ref=f33e36]:
+              - generic [ref=f33e37]: 进店逛逛，享更多优惠
+              - generic [ref=f33e38]: 精选镇店好物，快来逛逛
+              - generic [ref=f33e39]: 进店逛逛，享更多优惠
+              - generic [ref=f33e40]: 精选镇店好物，快来逛逛
+          - generic [ref=f33e41]:
+            - generic [ref=f33e42]: 已关注
+            - generic [ref=f33e44]: 联系客服
+        - generic [ref=f33e50]:
+          - generic [ref=f33e51]:
+            - textbox "搜索" [ref=f33e63]: 小米显示器23.8寸
+            - generic [ref=f33e64] [cursor=pointer]:
+              - button "搜本店" [ref=f33e65]
+              - button "搜全站" [ref=f33e66]
+          - generic [ref=f33e67]:
+            - generic [ref=f33e725] [cursor=pointer]: 小米显示器a24
+            - generic [ref=f33e726] [cursor=pointer]: 小米显示器
+            - generic [ref=f33e727] [cursor=pointer]: 显示器23.8寸
+            - generic [ref=f33e728] [cursor=pointer]: 显示器
+            - generic [ref=f33e729] [cursor=pointer]: 小米显示器4k
+      - generic [ref=f33e75]:
+        - generic [ref=f33e77]:
+          - generic [ref=f33e78]:
+            - generic [ref=f33e79]:
+              - generic [ref=f33e81]:
+                - generic [ref=f33e82] [cursor=pointer]
+                - generic [ref=f33e84] [cursor=pointer]
+                - generic [ref=f33e86] [cursor=pointer]
+                - generic [ref=f33e88] [cursor=pointer]
+                - generic [ref=f33e90] [cursor=pointer]
+                - generic [ref=f33e92] [cursor=pointer]
+                - generic [ref=f33e94] [cursor=pointer]
+                - generic [ref=f33e96] [cursor=pointer]
+                - generic [ref=f33e98] [cursor=pointer]
+                - generic [ref=f33e100] [cursor=pointer]
+                - generic [ref=f33e102] [cursor=pointer]
+                - generic [ref=f33e742] [cursor=pointer]: 规格参数
+              - generic [ref=f33e106] [cursor=pointer]
+            - generic [ref=f33e107]:
+              - generic [ref=f33e108]: 
+              - generic [ref=f33e343] [cursor=pointer]:
+                - generic [ref=f33e344]: 商品对比
+                - generic [ref=f33e345]: 
+          - generic [ref=f33e114]:
+            - generic [ref=f33e118]:
+              - generic [ref=f33e119] [cursor=pointer]: 大家评
+              - generic [ref=f33e121] [cursor=pointer]: 店铺
+              - generic [ref=f33e123] [cursor=pointer]: 商品详情
+              - generic [ref=f33e125] [cursor=pointer]: 使用说明
+              - generic [ref=f33e127] [cursor=pointer]: 售后保障
+              - generic [ref=f33e129] [cursor=pointer]: 推荐
+            - generic [ref=f33e132]:
+              - generic [ref=f33e134]:
+                - generic [ref=f33e346]:
+                  - generic [ref=f33e347]:
+                    - generic [ref=f33e348]: 买家评价(50万+)
+                    - generic [ref=f33e349]: 超98%买家赞不绝口
+                  - generic [ref=f33e352]:
+                    - generic [ref=f33e353]:
+                      - generic [ref=f33e354]:
+                        - generic [ref=f33e355]: 显示特别清晰
+                        - generic [ref=f33e356]: "2228"
+                      - generic [ref=f33e357]:
+                        - generic [ref=f33e358]: 色彩超惊艳
+                        - generic [ref=f33e359]: "658"
+                      - generic [ref=f33e360]:
+                        - generic [ref=f33e361]: 画面超流畅
+                        - generic [ref=f33e362]: "415"
+                      - generic [ref=f33e363]:
+                        - generic [ref=f33e364]: 使用方便
+                        - generic [ref=f33e365]: "581"
+                      - generic [ref=f33e366]:
+                        - generic [ref=f33e367]: 屏幕超大
+                        - generic [ref=f33e368]: "853"
+                      - generic [ref=f33e369]:
+                        - generic [ref=f33e370]: 护眼不累眼
+                        - generic [ref=f33e371]: "695"
+                      - generic [ref=f33e372]:
+                        - generic [ref=f33e373]: 尺寸合适
+                        - generic [ref=f33e374]: "1524"
+                      - generic [ref=f33e375]:
+                        - generic [ref=f33e376]: 机身轻薄
+                        - generic [ref=f33e377]: "335"
+                      - generic [ref=f33e378]:
+                        - generic [ref=f33e379]: 使用很舒适
+                        - generic [ref=f33e380]: "520"
+                      - generic [ref=f33e381]:
+                        - generic [ref=f33e382]: 画质超细腻
+                        - generic [ref=f33e383]: "459"
+                      - generic [ref=f33e384]:
+                        - generic [ref=f33e385]: 接口齐全
+                        - generic [ref=f33e386]: "574"
+                      - generic [ref=f33e387]:
+                        - generic [ref=f33e388]: 办公娱乐神器
+                        - generic [ref=f33e389]: "589"
+                    - list [ref=f33e390]:
+                      - listitem [ref=f33e391]:
+                        - generic [ref=f33e392]: u***y
+                        - generic [ref=f33e394]: 很好，不闪屏，很大，很清晰，字体很清晰，大小合适，底座是铁的不发热，能旋转能升降看电影很好，充气很快，没有漏光，很匀称，
+                        - generic [ref=f33e395]:
+                          - generic [ref=f33e396] [cursor=pointer]
+                          - generic [ref=f33e397] [cursor=pointer]
+                          - generic [ref=f33e398] [cursor=pointer]
+                          - generic [ref=f33e399] [cursor=pointer]
+                          - generic [ref=f33e400] [cursor=pointer]
+                      - listitem [ref=f33e401]:
+                        - generic [ref=f33e402]: h***1
+                        - generic [ref=f33e404]: 小米生态的产品我认为不管是质量还是价格都挺好，虽然没有以前便宜了，但产品确实也在提升，这是做为米粉切身能感受到的，买了一个多星期了，刚开始是用配的hdmi线连的，只能到8bit，昨天换了条typec转dp线，升级了驱动后，今天终于用上了满血10bit了。 建议小米后面配件尽量不要省成本，最大化发挥产品性能。
+                        - generic [ref=f33e405]:
+                          - generic [ref=f33e406] [cursor=pointer]
+                          - generic [ref=f33e407] [cursor=pointer]
+                          - generic [ref=f33e408] [cursor=pointer]
+                      - listitem [ref=f33e746]:
+                        - generic [ref=f33e747]: 从***8
+                        - generic [ref=f33e749]: 我家里原来的21.5寸的平板电视坏了。不想买大电视。可是现在又没有小电视。只能买个显示器，接上歌华有线电视机顶盒。再外接个音箱。我问了豆包儿，说现在的显示器接歌华有线电视机顶盒当电视看，效果好不好？他说比以前的平板电视好很多。亮度也足够。色彩鲜艳，层次多。所以我买了这款红米平板显示器。效果令我非常满意。以前都不喜欢看电视了，现在又勾起了我想看电视的欲望。色彩亮度层次非常养眼。很不错的。
+                        - generic [ref=f33e750]:
+                          - generic [ref=f33e751] [cursor=pointer]
+                          - generic [ref=f33e752] [cursor=pointer]
+                          - generic [ref=f33e753] [cursor=pointer]
+                    - generic [ref=f33e417] [cursor=pointer]:
+                      - generic [ref=f33e418]: 全部评价
+                      - generic [ref=f33e419]: 
+                - generic [ref=f33e420]:
+                  - generic [ref=f33e421]: 问大家
+                  - generic [ref=f33e423]:
+                    - generic [ref=f33e424]:
+                      - generic "支架高度可调节吗" [ref=f33e426]
+                      - generic [ref=f33e427]:
+                        - generic "不可以" [ref=f33e430]
+                        - generic [ref=f33e431] [cursor=pointer]:
+                          - generic [ref=f33e432]: 查看更多9个回答
+                          - generic [ref=f33e433]: 
+                    - generic [ref=f33e434]:
+                      - generic "能链接联想笔记本电脑吗，只有hdim接口" [ref=f33e436]
+                      - generic [ref=f33e437]:
+                        - generic "可以" [ref=f33e440]
+                        - generic [ref=f33e441] [cursor=pointer]:
+                          - generic [ref=f33e442]: 查看更多4个回答
+                          - generic [ref=f33e443]: 
+                  - generic [ref=f33e444] [cursor=pointer]:
+                    - generic [ref=f33e445]: 全部问答
+                    - generic [ref=f33e446]: 
+              - generic [ref=f33e208]:
+                - generic [ref=f33e209]: 进店逛逛
+                - generic [ref=f33e211]:
+                  - generic [ref=f33e212] [cursor=pointer]
+                  - generic [ref=f33e215]:
+                    - generic [ref=f33e447] [cursor=pointer]: 联系客服
+                    - generic [ref=f33e216] [cursor=pointer]: 进店逛逛
+              - generic [ref=f33e219]: 商品详情
+        - generic [ref=f33e257]:
+          - generic [ref=f33e258]:
+            - generic [ref=f33e450]: 又好又便宜
+            - generic [ref=f33e261]:
+              - generic [ref=f33e458]:
+                - generic [ref=f33e459]:
+                  - img "4" [ref=f33e461]
+                  - text: 小米（MI）REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q 2026款
+                - generic [ref=f33e462] [cursor=pointer]: 收藏
+              - generic [ref=f33e262]:
+                - generic [ref=f33e264]:
+                  - generic [ref=f33e464] [cursor=pointer]: ¥629
+                  - generic [ref=f33e465]: 累计评价 50万+
+                  - generic [ref=f33e468] [cursor=pointer]:
+                    - generic [ref=f33e469]: 
+                    - text: 降价通知
+                - generic [ref=f33e474]:
+                  - generic [ref=f33e475]: 可再享：
+                  - generic [ref=f33e476]:
+                    - generic [ref=f33e754] [cursor=pointer]: 最高返31京豆
+                    - img [ref=f33e479] [cursor=pointer]
+              - list [ref=f33e483]:
+                - listitem [ref=f33e484]:
+                  - link "企业会员6000元补贴，办公设备/易耗品一站式采购！" [ref=f33e487] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/wPxBWVuiHctmS4MX9ywq5n57kiF/index.html?babelChannel=ttt21&hdid=bUTiORFpTb4&returnurl=https%3A%2F%2Fitem.jd.com%2F100275929320.html
+              - link "10月『显示器金榜』TOP20" [ref=f33e756] [cursor=pointer]:
+                - /url: https://pro.jd.com/mall/active/4JRfHorUDXgL77E9YdNxSCNMKwkJ/index.html?pageNum=1&bbtf=1&queryType=1&rankId=24269&rankType=13&fromName=ProductdetailPC&preSrc=null&currSku=100275929320&transparent=1
+              - generic [ref=f33e267]:
+                - generic [ref=f33e268]: 送至
+                - generic [ref=f33e496]:
+                  - generic [ref=f33e497]: 明天11:00前付款，预计明天(10月30日)送达
+                  - generic [ref=f33e498]: 江苏南京市江宁区秣陵街道
+                  - generic [ref=f33e505]:
+                    - generic [ref=f33e506]: 京东物流
+                    - generic [ref=f33e508] [cursor=pointer]:
+                      - link "明日达·" [ref=f33e509]:
+                        - /url: //help.jd.com/user/issue/103-983.html
+                      - link "京准达" [ref=f33e510]:
+                        - /url: //help.jd.com/user/issue/103-983.html
+              - generic [ref=f33e511]:
+                - generic [ref=f33e757]:
+                  - generic [ref=f33e758]: 系列品
+                  - generic [ref=f33e759]:
+                    - generic [ref=f33e760] [cursor=pointer]: 小米办公系列
+                    - generic [ref=f33e762] [cursor=pointer]: 小米电竞系列
+                - generic [ref=f33e520]:
+                  - generic [ref=f33e521]: 颜色/屏幕尺寸
+                  - generic [ref=f33e522]:
+                    - generic [ref=f33e523] [cursor=pointer]:
+                      - img "【新品上市】27英寸/4K/120Hz" [ref=f33e524]
+                      - generic [ref=f33e525]: 【新品上市】27英寸/4K/120Hz
+                    - generic [ref=f33e526] [cursor=pointer]:
+                      - img "【新品上市】27英寸/4K/Type-C" [ref=f33e527]
+                      - generic [ref=f33e528]: 【新品上市】27英寸/4K/Type-C
+                    - generic [ref=f33e529] [cursor=pointer]:
+                      - img "【新品上市】27英寸/4K/旋转升降" [ref=f33e530]
+                      - generic [ref=f33e531]: 【新品上市】27英寸/4K/旋转升降
+                    - generic [ref=f33e532] [cursor=pointer]:
+                      - img "27英寸/4K/HDR400/Type-C" [ref=f33e533]
+                      - generic [ref=f33e534]: 27英寸/4K/HDR400/Type-C
+                    - generic [ref=f33e535] [cursor=pointer]:
+                      - img "27英寸/4K/旋转升降支架" [ref=f33e536]
+                      - generic [ref=f33e537]: 27英寸/4K/旋转升降支架
+                    - generic [ref=f33e538] [cursor=pointer]:
+                      - img "27英寸/2K高清/Type-C" [ref=f33e539]
+                      - generic [ref=f33e540]: 27英寸/2K高清/Type-C
+                    - generic [ref=f33e541] [cursor=pointer]:
+                      - img "27英寸/2K/120Hz/旋转升降" [ref=f33e542]
+                      - generic [ref=f33e543]: 27英寸/2K/120Hz/旋转升降
+                    - generic [ref=f33e544] [cursor=pointer]:
+                      - img "27英寸/2K/120Hz刷新" [ref=f33e545]
+                      - generic [ref=f33e546]: 27英寸/2K/120Hz刷新
+                    - generic [ref=f33e547] [cursor=pointer]:
+                      - img "27英寸/IPS技术/144Hz高刷" [ref=f33e548]
+                      - generic [ref=f33e549]: 27英寸/IPS技术/144Hz高刷
+                    - generic [ref=f33e550] [cursor=pointer]:
+                      - img "27英寸/IPS技术/100Hz" [ref=f33e551]
+                      - generic [ref=f33e552]: 27英寸/IPS技术/100Hz
+                    - generic [ref=f33e553] [cursor=pointer]:
+                      - img "23.8英寸/144Hz高刷/多功能支架" [ref=f33e554]
+                      - generic [ref=f33e555]: 23.8英寸/144Hz高刷/多功能支架
+                    - generic [ref=f33e556] [cursor=pointer]:
+                      - img "23.8英寸/144Hz/IPS技术" [ref=f33e557]
+                      - generic [ref=f33e558]: 23.8英寸/144Hz/IPS技术
+                    - generic [ref=f33e559] [cursor=pointer]:
+                      - img "23.8英寸/IPS技术/100Hz" [ref=f33e560]
+                      - generic [ref=f33e561]: 23.8英寸/IPS技术/100Hz
+                    - generic [ref=f33e562] [cursor=pointer]:
+                      - img "21.45英寸/100Hz/8Bit色深" [ref=f33e563]
+                      - generic [ref=f33e564]: 21.45英寸/100Hz/8Bit色深
+              - generic [ref=f33e566]:
+                - generic [ref=f33e567]: 服务
+                - generic [ref=f33e569]:
+                  - generic [ref=f33e570]:
+                    - generic [ref=f33e571]:
+                      - link "59元免基础运费" [ref=f33e764] [cursor=pointer]:
+                        - /url: //help.jd.com/user/issue/103-983.html
+                      - generic [ref=f33e573]: ·
+                    - generic [ref=f33e574]:
+                      - generic "支持港澳台及海外收货地址下单，由于各地区政策不同，具体请以结算页详情为准" [ref=f33e765]: 可配送全球
+                      - generic [ref=f33e576]: ·
+                    - generic "售后时效内申请退换货，选择上门取件优先安排京东物流服务，无需支付退换货运费；选择自寄，售后完成后补首重运费。" [ref=f33e766]: 免费上门退换
+                    - generic [ref=f33e579]:
+                      - link "PLUS 180天只换不修" [ref=f33e767] [cursor=pointer]:
+                        - /url: https://plus.m.jd.com/rights/plusRightsDetailNew/detail36?utm_source=treasureChest
+                      - generic [ref=f33e581]: ·
+                    - generic [ref=f33e582]:
+                      - link "7天价保" [ref=f33e768] [cursor=pointer]:
+                        - /url: https://help.jd.com/user/issue/291-4537.html
+                      - generic [ref=f33e584]: ·
+                    - generic [ref=f33e585]:
+                      - generic "由京东指定供应商提供售后服务" [ref=f33e769]: 供应商售后
+                      - generic [ref=f33e587]: ·
+                    - link "三年质保" [ref=f33e770] [cursor=pointer]:
+                      - /url: //help.jd.com/user/issue/942-3932.html
+                    - generic [ref=f33e590]:
+                      - generic "京东发货" [ref=f33e771]
+                      - generic [ref=f33e592]: ·
+                    - generic [ref=f33e593]:
+                      - link "专业质检，极速到账" [ref=f33e772] [cursor=pointer]:
+                        - /url: //huishou.m.jd.com/index?s=1&skuId=100275929320
+                      - generic [ref=f33e595]: ·
+                    - generic "支持7天无理由退货" [ref=f33e773]
+                  - generic [ref=f33e599] [cursor=pointer]
+              - generic [ref=f33e603]:
+                - generic [ref=f33e604]: 优选服务
+                - generic [ref=f33e605]:
+                  - generic [ref=f33e606]:
+                    - generic [ref=f33e607]: 全保换新
+                    - generic [ref=f33e609]:
+                      - generic [ref=f33e610] [cursor=pointer]:
+                        - generic [ref=f33e611]: 4年全保换新
+                        - generic [ref=f33e612]: "59.00"
+                      - generic [ref=f33e613] [cursor=pointer]:
+                        - generic [ref=f33e614]: 3年全保换新
+                        - generic [ref=f33e615]: "55.00"
+                  - generic [ref=f33e616]:
+                    - generic [ref=f33e617]: 质保只换不修
+                    - generic [ref=f33e619]:
+                      - generic [ref=f33e620] [cursor=pointer]:
+                        - generic [ref=f33e621]: 5年质保换新
+                        - generic [ref=f33e622]: "53.00"
+                      - generic [ref=f33e623] [cursor=pointer]:
+                        - generic [ref=f33e624]: 3年质保换新
+                        - generic [ref=f33e625]: "49.00"
+                      - generic [ref=f33e626] [cursor=pointer]:
+                        - generic [ref=f33e627]: 2年质保换新
+                        - generic [ref=f33e628]: "39.00"
+                  - generic [ref=f33e629]:
+                    - generic [ref=f33e630]: 无忧试用
+                    - generic [ref=f33e633] [cursor=pointer]:
+                      - generic [ref=f33e634]: 60天无忧试用
+                      - generic [ref=f33e635]: "80.70"
+                  - generic [ref=f33e636] [cursor=pointer]: 展开全部
+              - generic [ref=f33e641]:
+                - generic [ref=f33e642]: 白条分期
+                - generic [ref=f33e644]:
+                  - generic [ref=f33e645]:
+                    - generic [ref=f33e646] [cursor=pointer]:
+                      - generic [ref=f33e647]: 不分期
+                      - generic [ref=f33e648]: 0服务费
+                    - generic [ref=f33e649] [cursor=pointer]:
+                      - generic [ref=f33e650]: ￥215.34 x 3期
+                      - generic [ref=f33e651]: 含服务费：￥5.66/期
+                  - generic [ref=f33e652]: 展开全部
+          - generic [ref=f33e270]:
+            - generic [ref=f33e775]:
+              - button "减少" [ref=f33e776]: "-"
+              - textbox [ref=f33e777]: "1"
+              - button "增加" [ref=f33e778] [cursor=pointer]: +
+            - generic [ref=f33e272]:
+              - generic [ref=f33e663] [cursor=pointer]: 加入购物车
+              - generic [ref=f33e666] [cursor=pointer]: 立即购买
+  - generic [ref=f33e669]:
+    - list [ref=f33e670]:
+      - listitem [ref=f33e671]:
+        - link "首页" [ref=f33e672] [cursor=pointer]:
+          - /url: //www.jd.com
+      - listitem [ref=f33e676]:
+        - link "7 购物车" [ref=f33e677] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=f33e678]: "7"
+          - generic [ref=f33e681]: 购物车
+      - listitem [ref=f33e682]:
+        - link "我的" [ref=f33e683] [cursor=pointer]:
+          - /url: //home.jd.com
+      - listitem [ref=f33e688]:
+        - link "客服" [ref=f33e689] [cursor=pointer]:
+          - /url: https://chat.jd.com/index.action?_t=&pid=100275929320
+      - listitem [ref=f33e694]:
+        - link "手机查看" [ref=f33e695] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f33e701]:
+        - link "桌面版" [ref=f33e703] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f33e707]:
+        - link "插件版" [ref=f33e709] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f33e713]:
+        - link "反馈" [ref=f33e714] [cursor=pointer]:
+          - /url: //wj-dongjian.jd.com/q/61961a0a457e4000a3085f78
+    - link "收起" [ref=f33e722] [cursor=pointer]:
+      - /url: "#"

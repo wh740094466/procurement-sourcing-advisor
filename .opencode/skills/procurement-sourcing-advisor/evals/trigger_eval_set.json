@@ -1,0 +1,22 @@
+[
+  {"query": "帮我买 3 台办公用的显示器，预算 4500，京东淘宝都看看", "should_trigger": true},
+  {"query": "公司要采购 20 把办公椅，单把不超过 800，必须能开专票，帮我比一比", "should_trigger": true},
+  {"query": "淘宝和京东哪个更便宜？我要买 5 台轻薄本，预算三万", "should_trigger": true},
+  {"query": "出一份采购方案：10 台 27 寸显示器，算上保修和耗材的总成本", "should_trigger": true},
+  {"query": "预算 6000 买两台笔记本，帮我选型并给个推荐", "should_trigger": true},
+  {"query": "我要批量采购 50 个无线鼠标，帮我算三年总成本并比价", "should_trigger": true},
+  {"query": "这两家店同一个型号差 200 块，帮我做个供应商对比", "should_trigger": true},
+  {"query": "帮我看看京东和淘宝的 ThinkPad T14 哪家划算，要能开发票", "should_trigger": true},
+  {"query": "采购打印机，除了机器钱还要算硒鼓成本，帮我比一下", "should_trigger": true},
+  {"query": "行政让我下周交个采购备忘录，买 4 台投影仪，预算 2 万", "should_trigger": true},
+  {"query": "拼多多上这把人体工学椅多少钱", "should_trigger": false},
+  {"query": "帮我写个爬淘宝商品价格的 Python 脚本", "should_trigger": false},
+  {"query": "ThinkPad T14 Gen 5 的 CPU 是什么型号？", "should_trigger": false},
+  {"query": "京东的退货政策是怎样的？", "should_trigger": false},
+  {"query": "解释一下什么是 TCO 总拥有成本", "should_trigger": false},
+  {"query": "帮我把这段 Markdown 转成 PDF", "should_trigger": false},
+  {"query": "淘宝的 TLS 指纹怎么绕过", "should_trigger": false},
+  {"query": "推荐几本采购管理方面的书", "should_trigger": false},
+  {"query": "我这个淘宝店铺怎么提升销量", "should_trigger": false},
+  {"query": "把这份 CSV 按价格列排序", "should_trigger": false}
+]
